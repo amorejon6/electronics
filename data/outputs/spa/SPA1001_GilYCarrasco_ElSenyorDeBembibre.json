@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El Señor de Bembibre : edición ELTeC",
+    "dcterms:creator": "Gil y Carrasco, Enrique (1815-1846)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada a comienzos del siglo XIV en el Bierzo que narra el amor imposible entre don Álvaro Yáñez, caballero templario, y doña Beatriz Ossorio, hija única del señor de Arganza. La ambición política y las intrigas (especialmente las del conde de Lemus y del infante don Juan) dividen a las familias, obligan matrimonios forzados y conducen a episodios de secuestro, batalla y juicio contra la Orden del Temple. Entre asedios, rescates imposibles y procesos eclesiásticos, la historia combina pasión romántica, honor caballeresco y conflicto religioso-político hasta un desenlace trágico: la muerte de Beatriz y la ruina moral y física de varios protagonistas. La obra explora cómo el deber, la reputación y la fe se enfrentan con el afecto y la desgracia personal.",
+    "dcat:keyword": [
+        "Templarios",
+        "Amor trágico",
+        "Honor",
+        "Bierzo",
+        "Siglo XIV"
+    ],
+    "dcat:theme": [
+        "Amor y desdicha",
+        "Caballería y órdenes militares",
+        "Conflicto político-religioso"
+    ],
+    "dct:spatial": [
+        "Bierzo (Galicia, España)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1300"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1320"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Álvaro Yáñez",
+            "profile": "Joven caballero templario, valiente y noble; héroe militar con alto sentido del honor. Protagonista romántico cuya pasión por doña Beatriz le lleva a tomar decisiones extremas (profesión templaria, acciones bélicas) y a sufrir la persecución, la prisión y el desengaño."
+        },
+        {
+            "name": "Doña Beatriz Ossorio",
+            "profile": "Hija única del señor de Arganza, de fuerte carácter, belleza y profunda religiosidad; encarna la pureza y el sacrificio. Su resistencia a un matrimonio impuesto y su devoción por Álvaro culminan en un sacrificio trágico que marca el corazón de la novela."
+        },
+        {
+            "name": "Don Alonso Ossorio",
+            "profile": "Señor de Arganza y padre de Beatriz; noble, orgulloso y ambicioso, pero también vulnerable al remordimiento. Sus decisiones políticas y familiares (forzar bodas, ceder a la ambición) desencadenan gran parte de la tragedia familiar y le conducen a un profundo arrepentimiento."
+        },
+        {
+            "name": "Don Gutierre de Saldaña",
+            "profile": "Comendador templario y alcaide de Cornatel; hombre enérgico, austero y de gran lealtad a la orden. Protector y mentor de don Álvaro, combina la piedad y el celo militar y actúa como mediador y defensor durante los episodios bélicos y el proceso contra los templarios."
+        }
+    ]
+}

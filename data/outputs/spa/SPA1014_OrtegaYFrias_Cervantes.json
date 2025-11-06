@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Cervantes: Novela original : edición ELTeC",
+    "dcterms:creator": "Ortega y Frías, Ramón (1825-1883)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica que narra la vida y las peripecias de Miguel de Cervantes desde la batalla de Lepanto y su pérdida de la mano hasta su cautiverio en Argel, los múltiples intentos de fuga y las traiciones que los frustran. Paralelamente sigue los hilos románticos y familiares —especialmente la relación con Zoraida y los sacrificios de su madre Doña Leonor— y las vicisitudes que acompañan la gestación y publicación del Quijote. El relato alterna episodios de heroísmo y abnegación, crueldad política y opresión, junto con escenas de pobreza, celos y redención religiosa. Concluye con los avatares finales de la carrera literaria de Cervantes, la persecución contra pasajes de su obra y la muerte del autor en 1616.",
+    "dcat:keyword": [
+        "cautiverio",
+        "Lepanto",
+        "amor y sacrificio",
+        "creación literaria",
+        "honor"
+    ],
+    "dcat:theme": [
+        "Novela histórica",
+        "Biografía novelada",
+        "Aventura y heroísmo",
+        "Creación literaria y crítica social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2589581",
+        "Mar Mediterráneo (Lepanto)",
+        "España (La Mancha: Argamasilla de Alba; Madrid; Alcalá de Henares; Sevilla; Granada; Valladolid)",
+        "Italia (Mesina, Nápoles)",
+        "https://www.geonames.org/9781325"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1571"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1616"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Miguel de Cervantes Saavedra",
+            "profile": "Protagonista: soldado retirado de Lepanto y escritor que sufre cautiverio, pobreza y persecuciones a lo largo de su vida. Lidera planes de fuga, actúa con ingenio y abnegación hacia sus compañeros y familiares, y en la reclusión concibe y escribe pasajes decisivos de su obra, manteniendo dignidad y compromiso moral."
+        },
+        {
+            "name": "Zoraida (la berberisca / la convertida)",
+            "profile": "Mujer de gran belleza y pasión, convertida y enamorada de Cervantes; su amor la lleva a arriesgarse y a ofrecer sacrificios decisivos. Representa el conflicto entre deseo personal, fe religiosa y las dificultades sociales, y su destino trágico impulsa actos de compasión y remordimiento en otros personajes."
+        },
+        {
+            "name": "Doña Leonor de Cortinas",
+            "profile": "Madre de Cervantes: mujer perseverante y virtuosa que realiza enormes esfuerzos para reunir rescates y defender el honor familiar. Su lucha ante autoridades y su papel como sostén moral y práctico subrayan el coste humano del cautiverio y la pobreza."
+        },
+        {
+            "name": "Azan",
+            "profile": "Renegado y tirano que ejerce poder en la sección norteafricana: cruel, codicioso y autoritario, comercia con cautivos y reprime conspiraciones. Actúa como antagonista político que encarna la opresión y provoca muchas de las pruebas y tragedias que afrontan Cervantes y los suyos."
+        }
+    ]
+}

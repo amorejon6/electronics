@@ -1,0 +1,65 @@
+{
+    "dcterms:title": "Dombey and Son : ELTeC edition",
+    "dcterms:creator": "Dickens, Charles (1812-1870)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A portrait of Mr. Dombey, a proud Victorian merchant whose life and ambitions centre on producing a male heir, and the domestic consequences of that obsession. After the death of his wife the household reorganises around the frail young Paul and the neglected daughter Florence, and the child's prolonged illness and death precipitate quiet grief and familial tension. Manager Carker's discreet manoeuvrings and Mr. Dombey's strategic remarriage to Edith exacerbate social ambition, manipulation and domestic fracture, leading to public humiliation and Florence's flight. The narrative follows rupture and eventual moral reckoning: Walter's return, the exposure of scandals and Carker's treachery, the ruin of the firm and Mr. Dombey's remorse culminate in modest domestic restoration centred on Florence and forgiveness.",
+    "dcat:keyword": [
+        "family",
+        "paternal pride",
+        "social ambition",
+        "childhood",
+        "redemption"
+    ],
+    "dcat:theme": [
+        "Family and parental pride",
+        "Social critique of commerce and class",
+        "Childhood and education",
+        "Redemption and forgiveness"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2654710",
+        "https://www.geonames.org/2635113",
+        "https://www.geonames.org/2648997",
+        "https://www.geonames.org/2644737",
+        "https://www.geonames.org/11894544",
+        "https://www.geonames.org/3021372",
+        "https://www.geonames.org/2988507",
+        "at sea / voyages to China"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1840"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1850"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Mr. Paul Dombey (senior)",
+            "profile": "A wealthy, self-important merchant who treats the firm Dombey and Son as the organising principle of his life; he is emotionally distant and obsessed with producing and grooming a male heir. His rigid pride and preoccupation with social standing estrange his daughter and govern domestic relations, driving the central conflicts. Over the course of the story he endures financial and personal ruin and ultimately faces remorse and a modest moral reconciliation."
+        },
+        {
+            "name": "Florence Dombey",
+            "profile": "Mr. Dombey's gentle, affectionate and dutiful daughter who becomes the emotional centre and moral conscience of the tale. Neglected by her father and subjected to social coldness, she endures humiliation, finds refuge among loyal friends, and fosters reconciliation through patience and forgiveness. Her constancy elicits protection and eventual domestic restoration."
+        },
+        {
+            "name": "Paul Dombey (the child)",
+            "profile": "The fragile young heir around whom his father's ambitions revolve; delicate, observant and precocious in feeling. His prolonged illness and death are pivotal, exposing the emotional costs of paternal pride and precipitating the household's grief and subsequent ruptures."
+        },
+        {
+            "name": "Mr. James Carker",
+            "profile": "The smooth, calculating manager at Dombey and Son who cultivates influence through oily courtesy and secretive manipulation. He reads situations and people astutely, advances his power by exploiting weaknesses, and functions as a pivotal antagonist whose schemes destabilise the family and firm."
+        }
+    ]
+}

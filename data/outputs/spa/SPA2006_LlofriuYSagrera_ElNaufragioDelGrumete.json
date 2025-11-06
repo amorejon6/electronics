@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "El naufragio del grumete : Edición ELTeC",
+    "dcterms:creator": "Llofriu y Sagrera, Eleuterio (1835-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "En una aldea costera de Vizcaya, un narrador describe la vida campesina y conoce la trágica historia de una familia arruinada por la ambición y la perfidia de Roberto. El anciano Pedro sufre calumnias y pierde a su hermano Fernando, mientras los huérfanos Juan y Ángela quedan bajo la tutela del villano que los maltrata y trampea para quedarse con su fortuna. Juan, convertido en grumete, sobrevive a un desastre naval provocado y regresa años después convertido en marinero exitoso; su vuelta permite descubrir crímenes y restaurar la justicia. La novela culmina con la redención parcial de algunas víctimas, el castigo de los culpables y el matrimonio de los jóvenes supervivientes.",
+    "dcat:keyword": [
+        "injusticia",
+        "venganza",
+        "amor",
+        "náutica",
+        "huérfanos"
+    ],
+    "dcat:theme": [
+        "Novela sentimental / melodrama",
+        "Crimen y justicia moral",
+        "Aventura marítima"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3128026",
+        "https://www.geonames.org/3128026",
+        "Mar Cantábrico (naufragio en alta mar)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1848"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Novela sentimental",
+    "mainCharacters": [
+        {
+            "name": "Ángela (Angelita)",
+            "profile": "Joven huérfana de gran bondad y resignación que sufre los abusos y la codicia de Roberto; símbolo de virtud y caridad, es objeto del deseo del villano y del amor protector de Luis. Su pureza y perseverancia contribuyen finalmente a la restauración de la justicia y a un matrimonio feliz."
+        },
+        {
+            "name": "Roberto",
+            "profile": "Antagonista de la obra: hombre ambicioso, manipulador y violentamente celoso que trama delitos (fraude, conspiraciones y posibles homicidios) para apoderarse de una fortuna. Su poder y su maldad dominan el valle hasta que la culpa y los juicios divinos sociales conducen a su caída y muerte."
+        },
+        {
+            "name": "Pedro",
+            "profile": "Labriego honrado y tío de Ángela, víctima de calumnias y persecución social promovida por Roberto; representa la inocencia sufriente y el apego a la familia. Su ternura hacia los niños y su martirio moral movilizan la solidaridad del cura y del narrador."
+        },
+        {
+            "name": "Juan (Juanillo)",
+            "profile": "Hermano de Ángela, niño huérfano que se convierte en grumete y luego en capitán tras sobrevivir a un naufragio provocado; su trayectoria marítima constituye la vertiente aventurera de la novela. Su regreso es decisivo para la denuncia de los crímenes y la restitución de las propiedades a los huérfanos."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Middlemarch: ELTeC edition",
+    "dcterms:creator": "Eliot, George [pseud.] (1819-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The novel traces intertwined lives in the fictional provincial town of Middlemarch, following courtships, marriages, debts, and local politics. It centres on Dorothea Brooke, whose idealism leads to an ill-fated marriage and later difficult choices of conscience and love, and on Tertius Lydgate, an ambitious physician whose professional aims are undermined by debt and domestic strain. Parallel threads include Will Ladislaw's political engagement and guarded affection, the menace of scandal around Nicholas Bulstrode, and disputes over inheritance and reputation. Through psychological realism and broad social observation the narrative examines marriage, social class, public honour, and the limits of reform in early nineteenth‑century provincial England.",
+    "dcat:keyword": [
+        "marriage",
+        "social class",
+        "reputation",
+        "inheritance",
+        "medical reform"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Novel of manners",
+        "Marriage, duty and moral choice",
+        "Social reputation and class in provincial society"
+    ],
+    "dct:spatial": [
+        "Middlemarch, England (fictional town in the English Midlands)",
+        "Lowick / Stone Court, England",
+        "https://www.geonames.org/7294452"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1829"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1832"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Dorothea Brooke (Mrs. Casaubon; later Mrs. Ladislaw)",
+            "profile": "A high‑minded, idealistic and morally earnest woman whose search for an 'epic' and useful life leads to an unhappy marriage and later courageous choices as a widow. Her generosity, conscience, and emotional restraint drive much of the moral action and expose tensions between aspiration and provincial constraints."
+        },
+        {
+            "name": "Tertius Lydgate",
+            "profile": "An ambitious, scientifically minded young physician committed to medical reform and professional integrity. His modern medical aims are compromised by mounting debts and domestic friction after marrying Rosamond, making him a focal point for conflicts between innovation and provincial conservatism."
+        },
+        {
+            "name": "Will Ladislaw",
+            "profile": "A charismatic, idealistic younger man and relation of Casaubon who returns engaged in politics and journalism; he is principled, proud, and emotionally restrained. His sympathetic affection for Dorothea and refusal of tainted patronage illuminate themes of gratitude, rank, and moral independence."
+        },
+        {
+            "name": "Nicholas Bulstrode",
+            "profile": "A prosperous, outwardly respectable banker and benefactor whose secretive past and compromised connections threaten his reputation. Torn between conscience and self‑justification, his concealed misdeeds (notably concerning Raffles) precipitate scandal and moral reckonings in the community."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "La rendición de Santiago : edición ELTeC",
+    "dcterms:creator": "Amorós y Vázquez de Figueroa, Juan Bautista [Silverio Lanza]  (1856-1912)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue la vida de Santiago Albo y Mas, hijo de taberneros, cuya familia queda destrozada por multas, cárcel y la manipulación policial; Santiago es víctima de una trampa y de la difamación en la prensa, marcha a la guerra de Cuba, vuelve enfermo y depende de la caridad interesada de una dama. A lo largo de la narración se muestran los mecanismos del caciquismo local, la corrupción policial, la hipocresía social y el papel ambivalente de la Prensa y de las instituciones (hospitales, justicia). El relato combina episodios biográficos de Santiago con largos discursos críticos y ensayos sobre la autoridad, la educación, la medicina y la vida pública en la España de la Restauración. La voz narradora (Silverio Lanza) articula la denuncia social y traza la degradación moral de las relaciones de poder entre clases.",
+    "dcat:keyword": [
+        "caciquismo",
+        "corrupción policial",
+        "pobreza",
+        "prensa",
+        "injusticia social"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Corrupción y abuso de poder",
+        "Pobreza y marginalidad",
+        "Relaciones de clase y patronazgo"
+    ],
+    "dct:spatial": [
+        "España (Madrid; provincias rurales — Valdezotes, Vilaldea —, referencias a Galicia)",
+        "Cuba (despliegue militar/repatriación)",
+        "Cádiz (embarque / reclutamiento)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1907"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Santiago Albo y Mas",
+            "profile": "Joven protagonista, hijo de taberneros, humilde y honrado; víctima de una trampa policial que lo marca públicamente y lo empuja a la miseria, la guerra y la dependencia. Atraviesa una transformación trágica entre la inocencia, la humillación y la instrumentalización por poderes locales."
+        },
+        {
+            "name": "Rosario",
+            "profile": "Madre de Santiago, tabernera viuda y trabajadora; representa la dignidad popular y el sacrificio familiar frente a las persecuciones administrativas y económicas. Su sufrimiento y fidelidad subrayan la injusticia social que padece la clase humilde."
+        },
+        {
+            "name": "Ricardo Muñoz",
+            "profile": "Policía/polizonte que asciende en la escala del poder por la protección de intereses; personifica la corrupción, el abuso de autoridad y el oportunismo. Su conducta determina destinos (multas, detenciones, favores) y contribuye al desastre de la familia de Santiago."
+        },
+        {
+            "name": "Doña María (María Salomé)",
+            "profile": "Ama de casa-palacio y benefactora ambivalente: brinda auxilio y puestos a los pobres como medio de paternalismo social y de control. Su relación con Santiago (protección que deriva en matrimonio interesado) ilustra la mezcla de caridad, poder y manipulación social."
+        }
+    ]
+}

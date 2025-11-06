@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Silas Marner: The Weaver of Raveloe : ELTeC edition",
+    "dcterms:creator": "Eliot, George [pseud.] (1819-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Silas Marner, a linen-weaver, is falsely accused and exiled, retreats into solitary work in the rural village of Raveloe and devotes himself to hoarding gold. After his hoard is stolen, his life is transformed when an abandoned child, Eppie, wanders into his cottage and gradually restores his capacity for love and social belonging. The narrative follows Silas's moral and emotional rehabilitation, the texture of village life and superstition, and the long-buried secrets of the Cass family, especially Godfrey Cass's concealed marriage and paternity. In the end Eppie chooses to remain with Silas, affirming themes of parenthood, redemption, and community ties.",
+    "dcat:keyword": [
+        "redemption",
+        "isolation",
+        "parenthood",
+        "rural community",
+        "miscarriage of justice"
+    ],
+    "dcat:theme": [
+        "Redemption and transformation",
+        "Parenthood and family",
+        "Rural society and social relations"
+    ],
+    "dct:spatial": [
+        "Raveloe, rural England (fictional village)",
+        "Lantern Yard / industrial town in northern England (Silas's origin)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1800"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1830"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Silas Marner",
+            "profile": "A former member of a narrow religious sect who, after being falsely accused, becomes a solitary linen-weaver in Raveloe. He hoards his earnings as a refuge from trust and community but is humanized and redeemed through caring for the foundling Eppie, whose presence restores his capacity for affection and social belonging."
+        },
+        {
+            "name": "Eppie (Hephzibah / Eppie Marner)",
+            "profile": "An abandoned child found on Silas's hearth who grows into a warm, spirited young woman under his care. Her loyalty to Silas and later decision to remain with him rather than accept a life of social advancement with her biological father crystallize the novel's moral choices about family and belonging."
+        },
+        {
+            "name": "Godfrey Cass",
+            "profile": "The weak, irresolute son of Squire Cass who secretly married Molly Farren and fathered Eppie; he concealed this fact for years out of fear and social expediency. His belated attempt to acknowledge and provide for Eppie forces moral reckonings about responsibility, reputation, and the limits of restitution."
+        },
+        {
+            "name": "Nancy Lammeter",
+            "profile": "Godfrey's wife: a principled, domestic, and morally steady young woman whose sincerity and quiet rigor shape her responses to the revelation about Eppie's parentage. Her compassionate but firm stance influences the novel's resolution and underscores tensions between social respectability and humane duty."
+        }
+    ]
+}

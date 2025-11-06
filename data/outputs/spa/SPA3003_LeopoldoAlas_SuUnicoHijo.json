@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Su único hijo : edición ELTeC",
+    "dcterms:creator": "Alas, Leopoldo [Clarín] (1852-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela retrata la vida de una familia provinciana y su decaimiento: Emma Valcárcel, heredera mimada y orgullosa, se casa con Bonifacio Reyes, escribiente romántico y flautista, cuyo contacto con el mundo de la ópera y sus pasiones desborda las finanzas familiares. Entre amores ilícitos, proyectos industriales mal concebidos y exhibiciones sociales, la casa Valcárcel se ve arruinada por el despilfarro y la hipocresía. El embarazo de Emma y el nacimiento del hijo desencadenan conflictos de honor, responsabilidades paternas y denuncias ocultas que exponen la fragilidad moral de la provincia. Clarín construye una fiera crítica social y psicológica sobre el orgullo, la vanidad y las consecuencias materiales de las pasiones humanas.",
+    "dcat:keyword": [
+        "sociedad provincial",
+        "honor y reputación",
+        "adulterio",
+        "música y ópera",
+        "herencia y deudas"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Matrimonio y familia",
+        "Ambición económica y ruina"
+    ],
+    "dct:spatial": [
+        "España (una capital de provincia y pueblos circundantes)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1890"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Emma Valcárcel",
+            "profile": "Heredera única de los Valcárcel: caprichosa, vanidosa y tiránica en la esfera doméstica. Busca distinguirse socialmente, gestiona el lujo y las apariencias y alimenta rencores y venganzas familiares; su orgullo y sus gastos contribuyen a la ruina del patrimonio. En la crisis vital del embarazo revela su mezcla de egoísmo, teatralidad y cálculo social."
+        },
+        {
+            "name": "Bonifacio Reyes",
+            "profile": "Escribiente devenido flautista: hombre sentimental, soñador y moralmente débil, fascinado por la música y por la vida artística. Se deja seducir por la tiple Serafina y contrae deudas que ponen en riesgo la casa; al ser padre asume, con remordimientos y dificultades, el propósito de reparar y proteger a su familia. Representa el conflicto entre pasión artística y deber familiar."
+        },
+        {
+            "name": "Serafina Gorgheggi",
+            "profile": "Tiple inglesa-italiana, artista de atractivo poderoso y ambigua moralidad; despierta en Bonifacio un amor casi religioso y, al tiempo, provoca escándalos y enredos. Su condición de artista y su dependencia de Mochi la sitúan entre la dignidad profesional y la vulnerabilidad económica; actúa como catalizadora de las pasiones y de las tensiones sociales."
+        },
+        {
+            "name": "D. Juan Nepomuceno",
+            "profile": "Tío-curador y mayordomo de Emma, práctico, calculador y administrador inflexible del patrimonio familiar. Representa la razón económica y la potestad sobre las cuentas: maniobra en los negocios y controla los recursos, a menudo con frialdad y maniobras que aumentan las tensiones familiares. Es la figura central del poder doméstico y de la disciplina financiera."
+        }
+    ]
+}

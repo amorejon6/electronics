@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Sangre y arena : edición ELTeC",
+    "dcterms:creator": "Blasco Ibáñez, Vicente (1867-1928)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue la vida de Juan Gallardo, un famoso matador andaluz cuya profesión lo arrastra entre el prestigio público, la violencia de las plazas y las tensiones familiares. Relata sus preparativos, corridas memorables y las relaciones íntimas —especialmente su pasión ambigua por Doña Sol— mientras lucha con supersticiones, celos y la exigencia del público. A lo largo de la obra se muestran los entresijos del mundo taurino: camaradería de cuadrilla, heridas, hospitales y la industria del espectáculo. La historia culmina en una cogida decisiva que expone la fragilidad del héroe y las contradicciones de la sociedad que lo idolatra.",
+    "dcat:keyword": [
+        "toreo",
+        "fama",
+        "amor",
+        "muerte",
+        "clase social"
+    ],
+    "dcat:theme": [
+        "Tauromaquia",
+        "Fama y celebridad",
+        "Relaciones amorosas y deseo",
+        "Desigualdad social y clientelismo"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2510911"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1908"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Juan Gallardo",
+            "profile": "Matador de toros sevillano, orgulloso y vanidoso, cuyo valor público contrasta con sus temores íntimos tras una grave cogida. Protagonista central: su carrera, heridas, ambiciones y amoríos (especialmente la relación con doña Sol) articulan la trama y revelan la tensión entre gloria y vulnerabilidad."
+        },
+        {
+            "name": "Carmen (la esposa de Gallardo)",
+            "profile": "Esposa devota y sencilla procedente de clases populares; representa la vida doméstica y la maternidad frustrada que contrasta con el mundo público del torero. Su preocupación, celos y dolor moral son motor de episodios clave y ponen de manifiesto el coste familiar de la fama."
+        },
+        {
+            "name": "Doña Sol (la 'Zol')",
+            "profile": "Mujer aristocrática, cosmopolita y voluble, fascinante y peligrosa para Gallardo; encarna el exotismo, la independencia y la inestabilidad afectiva. Su relación con el torero —entre seducción y frialdad— funciona como catalizador de su orgullo, inseguridades y decisiones públicas."
+        },
+        {
+            "name": "Sebastián 'el Nacional' (banderillero)",
+            "profile": "Banderillero fiel, modesto y honrado, amigo y protector de Gallardo; hombre de ideas políticas y convicciones, es el contrapunto moral y práctico del matador. Su lealtad y actos explícitos (rescates en la plaza, cuidados) revelan la camaradería de la cuadrilla y la dimensión sacrificial del oficio."
+        }
+    ]
+}

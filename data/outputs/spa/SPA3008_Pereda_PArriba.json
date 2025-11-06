@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Peñas arriba : Edición ELTeC",
+    "dcterms:creator": "Pereda, José María de (1833 - 1906)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Narrada en primera persona por Marcelo, la novela relata su retirada temporal de la vida urbana para hacerse cargo de la casona familiar en la agreste comarca cantábrica de Tablanca a petición de su anciano tío don Celso. El relato sigue la adaptación del narrador a la vida rural, los conflictos de la herencia y el poder de las tradiciones locales, la muerte del patriarca y la tensión entre modernidad y costumbre. A la par, se desarrolla una historia sentimental y de aprendizaje —la relación con Lita— que pone en juego la posibilidad de arraigo y la reforma de la casa y del valle. Todo ello aparece imbricado con descripciones detalladas del paisaje montañoso y de las costumbres campesinas.",
+    "dcat:keyword": [
+        "Montaña",
+        "Herencia",
+        "Vida rural",
+        "Naturaleza",
+        "Amor"
+    ],
+    "dcat:theme": [
+        "Costumbrismo rural",
+        "Relaciones familiares y herencia",
+        "Paisaje y naturaleza"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3109718",
+        "Valle del Nansa / Campóo (región montañesa, referencia a Tablanca y Picos de Europa)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1880"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1895"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Marcelo",
+            "profile": "Narrador y sobrino heredero, veinteañero acomodado llegado de Madrid; liberal, culto y algo desarraigado. Su conflicto central es el choque entre la vida urbana y la responsabilidad familiar: aprende a valorar la comunidad rural, se ocupa de la casona y acaba implicándose sentimentalmente y socialmente en el valle."
+        },
+        {
+            "name": "Don Celso (tío Celso)",
+            "profile": "Patriarca de la casa de Tablanca, hombre montañés, bondadoso y patriarcal, impulsor de obras comunales y protector de su vecindario. Su enfermedad y posterior muerte movilizan la comunidad y desencadenan la puesta en marcha del legado y los proyectos de su sobrino."
+        },
+        {
+            "name": "Chisco",
+            "profile": "Guía y criado montañés de la casa, fornido, paciente y de carácter práctico; conoce el territorio, las gentes y la caza. Actúa como protector y mediador entre Marcelo y el mundo rural: muestra lealtad, valor físico (caza del oso) y sentido práctico para la vida del valle."
+        },
+        {
+            "name": "Lita (Lituca)",
+            "profile": "Nieta de don Pedro Nolasco, joven del lugar, guapa, vivaz y discreta; representa la sencillez y la virtud rural, con sensibilidad y buen juicio. Es interés amoroso de Marcelo y símbolo posible de su arraigo: su carácter equilibrado y su conocimiento de la comunidad la convierten en interlocutora clave."
+        }
+    ]
+}

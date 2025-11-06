@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Clementina : ELTeC edition",
+    "dcterms:creator": "Mason, Alfred Edward Woodley (1865-1948)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in 1719 and early 18th-century Europe, the narrative follows Charles Wogan, an Irish officer, who undertakes a daring solitary enterprise to rescue Princess Clementina Sobieski from custody at Innspruck and escort her to safety in Italy. The plot interweaves high-stakes escapes, pitched fights, secret passages, and an international web of political intrigue around dynastic marriage for the Jacobite claimant, the Chevalier de St. George. Personal passions complicate the mission: Wogan's silent devotion to Clementina, the Chevalier's divided loyalties and Maria Vittoria de Caprara's involvement produce jealousies, betrayals, and difficult moral choices. The rescue succeeds and a proxy marriage is arranged, but love, duty and political necessity leave lasting sacrifice and exile for the principal actors.",
+    "dcat:keyword": [
+        "rescue",
+        "dynastic marriage",
+        "political intrigue",
+        "romance",
+        "18th century"
+    ],
+    "dcat:theme": [
+        "Adventure and escape",
+        "Political/dynastic intrigue",
+        "Romantic sacrifice"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3175395",
+        "https://www.geonames.org/2775220",
+        "https://www.geonames.org/3090205"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1719"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1720"
+            }
+        }
+    },
+    "dct:type": "Historic novel",
+    "mainCharacters": [
+        {
+            "name": "Charles Wogan",
+            "profile": "An Irish soldier and agent, brave, resourceful and audacious; he masterminds and executes the rescue of Princess Clementina, repeatedly risking life and liberty. Wogan is quietly devoted to Clementina, pragmatic in action, proud of his honour, and ultimately sacrifices personal happiness for duty."
+        },
+        {
+            "name": "Princess Clementina Sobieski",
+            "profile": "Daughter of Prince Sobieski, noble, proud and courageous; she endures imprisonment and humiliation with dignity and submits to the perilous escape organized on her behalf. Her character balances youthful frankness with regal composure, and the ordeal forces complex choices between love, duty and crown."
+        },
+        {
+            "name": "The Chevalier de St. George (James Stuart)",
+            "profile": "The Jacobite claimant and Wogan's sovereign: a commanding but often melancholic leader whose political obligations and private attachments (notably to Maria Vittoria) complicate the marriage alliance. He relies on loyal servants like Wogan while struggling with exile, duty, and intermittent hope for restoration."
+        },
+        {
+            "name": "Maria Vittoria de Caprara",
+            "profile": "An attractive, politically and emotionally persuasive Roman heiress whose relationship with the Chevalier affects the timetable and morale surrounding the dynastic marriage. She is passionate, proud and decisive: her presence and conduct introduce rivalry, jealousy and crucial moral pressure into the story."
+        }
+    ]
+}

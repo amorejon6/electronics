@@ -1,0 +1,70 @@
+{
+    "dcterms:title": "Los manuscritos de mi padre: edición ELTeC",
+    "dcterms:creator": "De Campoamor, Ramón (1817-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra la caída de una familia asturiana a principios del siglo XIX: un asesinato (Margarita), la locura y la muerte del padre, y la acusación y desventura que pesan sobre los suyos. Julio de Mora, heredero inquieto, vive pasiones amorosas (María, Emilia, Isabel) y conflictos de honor que se entrelazan con intrigas políticas del Trienio Liberal y la restauración absolutista. La obra explora engaños, seducciones y venganzas privadas mientras muestra tumultos públicos: conjuras, asaltos y represalias que obligan a huir a varios protagonistas. Es, ante todo, un retrato crítico de las costumbres, la hipocresía social y las turbulencias históricas de la España de la época.",
+    "dcat:keyword": [
+        "honor",
+        "amor",
+        "traición",
+        "política",
+        "venganza"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Política y conspiración",
+        "Amor y honra"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3114711",
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1813"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1813"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1820"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1823"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Julio de Mora",
+            "profile": "Joven heredero asturiano, protagonista central cuya honra y afectos se ven puestos a prueba tras la muerte de Margarita y la locura del padre. Es pasional y vacilante: amante idealista, patriota implicado en sociedades políticas y finalmente arrastrado por celos, remordimientos y compromisos que determinan su caída y fuga."
+        },
+        {
+            "name": "María (la nodriza)",
+            "profile": "Nodriza y protectora de Julio, figura maternal a la vez que primer objeto de su pasión; madre de la historia trágica que marca el pasado de la casa. Leal y sacrificada, su relación con Julio es causa de conflictos morales y de consecuencias sociales en la narración."
+        },
+        {
+            "name": "Emilia",
+            "profile": "Hermana de Julio, joven inocente y frágil que simboliza la honradez familiar. Su honra es amenazada por seducciones y escándalos; finalmente su destino pasa por la clausura y el sacrificio personal para salvar la reputación familiar."
+        },
+        {
+            "name": "Narciso de Salas",
+            "profile": "Militar seductor y figura ambigua que actúa como antagonista: impulsa intrigas amorosas y sociales que perjudican a Julio y a su familia. Vanidoso y manipulador, su comportamiento desencadena celos, difamaciones y parte de los conflictos que alimentan la tragedia."
+        }
+    ]
+}

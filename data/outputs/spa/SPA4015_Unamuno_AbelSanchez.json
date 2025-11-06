@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Abel Sánchez : edición ELTeC",
+    "dcterms:creator": "Unamuno, Miguel de (1864-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato psicológico y trágico sobre la pasión de un hombre consumido por la envidia. Joaquín Monegro, médico sensible y resentido, ve cómo su amigo de la infancia Abel Sánchez triunfa en la pintura y le arrebata el amor y la fortuna que él ansiaba. La rivalidad amorosa por Helena y la creciente obsesión de Joaquín degeneran en celos, ambición científica frustrada y planes de venganza que afectan a sus familias. La historia sigue el deterioro moral de Joaquín, su tentativa de redención a través de la fe y la familia, y termina con una muerte que marca la consumación del conflicto.",
+    "dcat:keyword": [
+        "envidia",
+        "celos",
+        "amistad",
+        "arte vs. ciencia",
+        "venganza"
+    ],
+    "dcat:theme": [
+        "Psicología de la pasión",
+        "Tragedia moral",
+        "Crítica social",
+        "Drama familiar"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "País Vasco (referencias geográficas en el prólogo)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1880"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1930"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Joaquín Monegro",
+            "profile": "Médico y narrador de la confesión; hombre introspectivo, resentido y víctima de una envidia profunda que condiciona toda su vida. Protagonista moral de la obra: su lucha interna entre la ambición, el odio y la búsqueda de redención articula la trama y define el tono trágico del relato."
+        },
+        {
+            "name": "Abel Sánchez",
+            "profile": "Pintor carismático y exitoso, amigo de infancia de Joaquín y objeto de su envidia. Representa el talento público y la gloria artística; su conducta, a veces despreocupada, contrasta con la amargura del protagonista y alimenta el conflicto central."
+        },
+        {
+            "name": "Helena",
+            "profile": "Prima de Joaquín y esposa de Abel; belleza fría y modelo idealizada que desencadena los celos iniciales. Su ambivalencia y coqueteo son motor de tensiones entre los hombres, mientras su figura simboliza la atracción y la humillación que padece Joaquín."
+        },
+        {
+            "name": "Antonia",
+            "profile": "Esposa piadosa y compasiva de Joaquín, madre de Joaquina; mujer entregada que intenta curar y sostener a su marido. Personifica la piedad, la paciencia y la posibilidad de redención familiar frente al odio destructivo de Joaquín."
+        }
+    ]
+}

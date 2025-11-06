@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Yeast: A Problem : ELTeC edition",
+    "dcterms:creator": "Kingsley, Charles (1819-1875)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A socially engaged novel set in a rural English county that follows Lancelot Smith, a cultivated but restless young man whose romance with Argemone Lavington prompts a moral and social awakening. The narrative interleaves scenes of country sport and drawing-room debate with sustained examination of rural poverty, housing, public health, and the responsibilities of landlords and clergy. Religious controversy (Oxford movement/Tractarianism, conversions to Rome, Evangelicalism) and arguments about political economy and reform drive tensions between characters. Tragedy and moral testing (deaths, a fatal inquest, Argemone’s illness and death) compel Lancelot and the keeper Tregarva toward active engagement with the poor and toward a search for practical remedies and spiritual direction.",
+    "dcat:keyword": [
+        "rural poverty",
+        "class conflict",
+        "religion and conversion",
+        "social reform",
+        "romance"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Novel of manners"
+    ],
+    "dct:spatial": [
+        "Whitford Priors (fictional village), South of England, England"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1840"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1859"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Lancelot Smith",
+            "profile": "A young, educated landowner’s heir (originally well-off) whose vanity and metaphysical restlessness are transformed by contact with rural suffering and by his love for Argemone. He debates religion, political economy, and art, undergoes moral crises after personal and social tragedies, and resolves to abandon comfortable indolence for practical work among the poor."
+        },
+        {
+            "name": "Argemone Lavington",
+            "profile": "A cultivated, intellectual heiress torn between High-Church inclinations, romantic idealism, and authentic compassion for the labouring poor. Her spiritual struggles, charitable impulses and eventual illness and death are a central moral catalyst for Lancelot and other characters."
+        },
+        {
+            "name": "Paul Tregarva",
+            "profile": "A tall, conscientious Cornish keeper and former miner who combines physical strength, practical knowledge, and deep religious seriousness. He interprets the suffering of the poor in moral and spiritual terms, acts as Lancelot’s guide to the labouring classes, and embodies committed, self-sacrificing social action."
+        },
+        {
+            "name": "Colonel Bracebridge",
+            "profile": "An urbane, genial soldier and friend of Lancelot who offers worldly cheer, practical kindness and pragmatic counsel; his steady good humour and sacrifice (including a dramatic attempt to rescue lives) mark him as moral ballast in the circle, and his tragic death affects Lancelot profoundly."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Mary Barton: A Tale of Manchester Life : ELTeC edition",
+    "dcterms:creator": "Gaskell, Elizabeth Cleghorn (1810-1865)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in and around industrial Manchester in the 1840s, the novel follows Mary Barton, the working-class daughter of a trade-unionist, as she navigates love, poverty and family tragedy. The story traces class tensions between mill-owners and workers, strikes and the desperate privations of factory families, and the radicalisation of her father John Barton after bereavement. A murder (the killing of a mill-owner's son) leads to a wrongful accusation against Jem Wilson, whose life Mary strives to save by proving an alibi. The book interleaves a social protest about industrial society with intimate portraits of grief, love and moral complexity.",
+    "dcat:keyword": [
+        "industrial working class",
+        "labor conflict",
+        "wrongful accusation",
+        "family grief",
+        "social reform"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Victorian realist or naturalist novel"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/5089178",
+        "https://www.geonames.org/2644210",
+        "Isle of Man, (briefly visited)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1839"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1848"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Mary Barton",
+            "profile": "A young working-class woman in Manchester, proud and beautiful, who aspires to a better life but is rooted in the mills' community. She is the novel's moral centre: loving, resourceful and determined, she undertakes the desperate task of saving Jem Wilson from a murder charge and mediates care for the poor around her."
+        },
+        {
+            "name": "John Barton",
+            "profile": "Mary's father, a skilled weaver and active trade-unionist whose grief and anger over personal losses and class injustice harden into radicalism. He becomes increasingly bitter, commits an act that precipitates the central tragedy, then experiences intense remorse and a moral crisis before his death."
+        },
+        {
+            "name": "Jem Wilson",
+            "profile": "A steady, affectionate young mechanic who loves Mary and repeatedly proves his courage and self-sacrifice (notably rescuing men from a mill fire). He is falsely suspected of murder, endures arrest and trial, and his character and loyalty are central to the novel's human drama."
+        },
+        {
+            "name": "Esther (Aunt Esther / 'the Butterfly')",
+            "profile": "Mary's aunt, once respectable but later fallen and living on the margins; she provides a crucial clue and acts out of remorse and protective love for Mary. Her tragic arc -- attempts to warn and to atone, and eventual death -- highlights the social pathologies and compassion threaded through the story."
+        }
+    ]
+}

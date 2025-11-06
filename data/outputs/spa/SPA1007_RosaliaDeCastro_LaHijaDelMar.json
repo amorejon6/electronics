@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La hija del mar : edición ELTeC",
+    "dcterms:creator": "Castro, Rosalía de (1837-1885)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela realista-romántica ambientada en la costa de Galicia que narra la vida de Teresa, una expósita que acoge a la misteriosa Esperanza, hallada entre las rocas. El relato sigue los amores adolescentes (Fausto y Esperanza), la violencia social y doméstica, la seducción y el rapto de la joven por el capitán Alberto, y las consecuencias trágicas que llevan a la muerte de Fausto y al posterior ajuste de cuentas. La obra plantea una fuerte crítica a la condición femenina, la superstición popular y las desigualdades sociales en comunidades pesqueras del siglo XIX. El desenlace mezcla venganza, castigo y dolor maternal, cerrando en una nota trágica y moralizadora.",
+    "dcat:keyword": [
+        "Mar",
+        "Galicia",
+        "Huérfana",
+        "Amor trágico",
+        "Venganza"
+    ],
+    "dcat:theme": [
+        "Romanticismo / sentimentalismo",
+        "Crítica social (condición de la mujer, pobreza y poder)",
+        "Tragedia y melodrama"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3113209",
+        "https://www.geonames.org/2097420",
+        "Mugía (Muxía) / costas de la ría"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Teresa",
+            "profile": "Expósita fuerte y apasionada que adopta a Esperanza; es madre simbólica, poeta nato y víctima de un matrimonio opresor. Su trayectoria va de la ternura protectora al sacrificio y la venganza, representando la lucha femenina contra la injusticia social y el marido tiránico."
+        },
+        {
+            "name": "Esperanza",
+            "profile": "La joven 'hija del mar', encontrada entre las rocas y criada por Teresa; encarna la inocencia costera y la belleza etérea que despierta pasiones. Su destino trágico (rapto, pérdida de libertad y muerte) sirve como motor dramático y crítica al tráfico y abuso sobre mujeres vulnerables."
+        },
+        {
+            "name": "Fausto",
+            "profile": "Joven pescador humilde, compañero de infancia y amante de Esperanza, dotado de corazón sencillo y celos profundos. Su devoción conduce a gestos extremos (confrontación, violencia) que culminan en su temprana muerte y subrayan la fragilidad de las clases populares frente a la violencia estructural."
+        },
+        {
+            "name": "Alberto (Ansot)",
+            "profile": "Capitán elegante y ambivalente, seductor y tirano; es antagonista principal: seduce o compra a mujeres, priva de libertad a Esperanza y ejerce poder despótico. Representa la corrupción moral y el abuso de poder social; su caída y castigo articulan la dimensión moral y retributiva del relato."
+        }
+    ]
+}

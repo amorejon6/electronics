@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "La guerra del Transvaal y los misterios de la Banca de Londres : edición ELTeC",
+    "dcterms:creator": "Maeztu, Ramiro de (1875-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada en el sur de África a fines del siglo XIX que entrelaza intrigas políticas, la fiebre de los diamantes y un drama sentimental. La trama sigue a Alejandro Liebeck, un joven tallista boer, en su búsqueda para recuperar a Olimpia, víctima de un secuestro, mientras se desenmarañan conspiraciones financieras y maniobras imperialistas que conducen al incidente del Jameson Raid y al estallido de la guerra. Hay chantajes, manipulación de la prensa, sociedades clandestinas y enfrentamientos entre los intereses británicos y la resistencia afrikaner. El conflicto culmina en la tragedia personal y en la guerra, donde amor, venganza y redención se entrecruzan en los campos de batalla del África austral.",
+    "dcat:keyword": [
+        "diamantes",
+        "imperialismo británico",
+        "guerra de los bóeres",
+        "secuestro",
+        "conspiración"
+    ],
+    "dcat:theme": [
+        "Imperialismo y colonialismo",
+        "Guerra y nacionalismo",
+        "Aventura y suspense",
+        "Romance trágico"
+    ],
+    "dct:spatial": [
+        "Sur de África — Kimberley, Johannesburgo, Transvaal, Estado Libre del Orange, Pretoria, Ciudad del Cabo",
+        "Basutolandia (actual Lesotho) — montes Maluti",
+        "Inglaterra — Londres, Birmingham"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1895"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1900"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Alejandro Liebeck",
+            "profile": "Joven tallista de diamantes de formación holandesa y origen boer, protagonista y a menudo narrador de la acción; decidido, leal y de temperamento heroico. Su obsesión por hallar y salvar a Olimpia le impulsa a implicarse en investigaciones y riesgos políticos; su participación en asaltos y combates lo convierte en figura clave que denuncia la conspiración y termina por asumir un papel militar en la contienda."
+        },
+        {
+            "name": "Olimpia Van Devinter",
+            "profile": "Hija de Abraham Van Devinter, joven de extraordinaria belleza que es víctima de un rapto y sufre una grave conmoción que la deja muda y casi insensible. Su desaparición y posible recuperación constituyen el motor sentimental de la trama y simbolizan la inocencia dañada en medio del conflicto histórico."
+        },
+        {
+            "name": "Lady Denver (María Berta / Miss Flora / mistress Goodman)",
+            "profile": "Dama aristocrática y mujer de alta sociedad vinculada con millonarios y políticos sudafricanos; influyente, ambivalente y capaz de manipulaciones sociales y políticas. Sus pasiones personales, en especial su afecto por Alejandro, y sus relaciones con figuras como Chamberlain o magnates la sitúan en el centro de intrigas donde ora ayuda, ora cede a componendas con el poder."
+        },
+        {
+            "name": "Cecil Rhodes",
+            "profile": "Magnate y político inglés, ambicioso artífice del expansionismo imperial y de las grandes compañías mineras; antagonista principal de la novela. Planea maniobras financieras y políticas para controlar tierras y minas del sur de África, está implicado en conspiraciones que precipitan la revuelta de Johannesburgo y sirve como motor del choque entre intereses británicos y la resistencia bóer."
+        }
+    ]
+}

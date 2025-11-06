@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Lady Audley's Secret : ELTeC edition",
+    "dcterms:creator": "Braddon, Mary Elizabeth (1835-1915).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "At Audley Court the handsome and beguiling Lucy Graham becomes Lady Audley by marrying the much older Sir Michael, but she hides a dark past. When George Talboys, a young widower and old acquaintance, disappears after confronting her, his cousin Robert Audley pursues the truth. Robert's investigation unearths deception, staged death and domestic crime, forcing a moral reckoning that leads to Lady Audley's removal to an asylum and to efforts to restore the injured. The novel interweaves sensation, investigation and a critique of marriage, class and reputation in mid‑Victorian England.",
+    "dcat:keyword": [
+        "deception",
+        "murder/bigamy",
+        "investigation",
+        "Victorian society",
+        "domestic scandal"
+    ],
+    "dcat:theme": [
+        "Domestic crime and deceit",
+        "Investigation and detection",
+        "Social class and marriage"
+    ],
+    "dct:spatial": [
+        "England (Essex - Audley Court)",
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2634985",
+        "https://www.geonames.org/2637487",
+        "Wildernsea (Yorkshire), England"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1852"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1861"
+            }
+        }
+    },
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Lucy Graham / Lady Audley",
+            "profile": "A beautiful, charming and manipulative woman whose concealed past (as Helen Talboys) and calculated social ambitions drive the central crime. She becomes the novel's antagonist: socially beguiling yet morally compromised, her secret precipitates investigation, scandal and ultimate disgrace."
+        },
+        {
+            "name": "Robert Audley",
+            "profile": "Sir Michael's nephew, a legally trained but temperamentally idle young man who becomes a steadfast investigator. Moral, patient and conscientious, he pieces together circumstantial evidence and carries the burden of exposing the domestic crime."
+        },
+        {
+            "name": "George Talboys",
+            "profile": "A former dragoon and gold-seeker, husband of the woman whose identity is central to the mystery; initially believed dead after a disappearance. His fate—victim of domestic treachery and later rediscovered—drives the plot and motivates the investigation."
+        },
+        {
+            "name": "Sir Michael Audley",
+            "profile": "An elderly, generous baronet and husband of Lady Audley, whose love and trust make him vulnerable to deception. His discovery of his wife's secret produces the book's moral and emotional crisis, and his misplaced trust underscores themes of honor and betrayal."
+        }
+    ]
+}

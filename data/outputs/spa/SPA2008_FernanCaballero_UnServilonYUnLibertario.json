@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Un servilón y un liberalito, ó Tres almas de Dios : Edición ELTeC",
+    "dcterms:creator": "Böhl de Faber y Ruiz de Larrea, Cecilia [Fernán Caballero] (1796-1877)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela costumbrista que se ubica en el castillo de Mnesteo (Puerto de Santa María) y en la vecina Cádiz, en torno al año 1823 y años posteriores. Contrapone a los humildes y piadosos moradores del castillo —el maestro Don José Mentor y sus dos hermanas— con el joven liberal Leopoldo Ardaz, prófugo político que busca refugio y genera conflictos por sus ideas y acciones. La obra narra episodios de convivencia, humor y tensión política (desafío, fuga, duelos), y culmina con el regreso transformado de Leopoldo como protector que restablece la fortuna y la dignidad de las ancianas. Temas centrales son el costumbrismo, la fe popular y la confrontación entre liberalismo y servilismo.",
+    "dcat:keyword": [
+        "liberalismo",
+        "servilismo",
+        "religiosidad popular",
+        "costumbrismo",
+        "honor"
+    ],
+    "dcat:theme": [
+        "Costumbrismo",
+        "Conflicto político (liberales vs serviles)",
+        "Providencia y fe religiosa"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2518207",
+        "https://www.geonames.org/2520600",
+        "La Habana, Cuba (referencias biográficas)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1823"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1841"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres (https://en.wikipedia.org/wiki/Novel_of_manners)",
+    "mainCharacters": [
+        {
+            "name": "Leopoldo Ardaz",
+            "profile": "Joven oficial liberal, carismático e impulsivo, llegado como prófugo político al castillo. Causa tensiones por sus ideas y travesuras (desafío con un francés, fuga), pero demuestra valor y lealtad; años después retorna transformado como General y benefactor."
+        },
+        {
+            "name": "Don José Mentor",
+            "profile": "Maestro de escuela honrado, piadoso y de carácter humilde; cabeza de familia que vive con su mujer y su hermana en el castillo. Su bondad y candor lo hacen ingenuo ante Leopoldo, y su muerte abre la crisis económica que motiva la intervención final de Leopoldo."
+        },
+        {
+            "name": "Doña Liberata",
+            "profile": "Hermana de Don José, trabajadora, devota y de naturaleza sencilla y afectuosa; cuida del hogar y se encomienda a San Cayetano. Tras la muerte de José sufre pobreza y pérdida de vista, pero conserva la fe y la resignación."
+        },
+        {
+            "name": "Margarita (la Perla)",
+            "profile": "Hija mimada de la Condesa de la Enramada, niña parlanchina que descubre a Leopoldo y provoca episodios decisivos (su fuga). Crece y se reconcilia con él: más tarde, como mujer, interviene positivamente en el destino de las ancianas y en la redención de Leopoldo."
+        }
+    ]
+}

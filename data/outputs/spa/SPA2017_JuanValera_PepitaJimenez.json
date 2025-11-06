@@ -1,0 +1,54 @@
+{
+    "dcterms:title": "Pepita Jiménez : edición ELTeC",
+    "dcterms:creator": "Valera y Alcalá-Galiano, Juan (1824-1905)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato epistolar y narrativo ambientado en un pueblo andaluz donde un joven seminarista, D. Luis de Vargas, vuelve a casa y se ve enredado en un apasionado conflicto amoroso con la viuda Pepita Jiménez. Las cartas muestran la lucha interior de Luis entre su vocación religiosa y su creciente pasión, y la segunda parte narra en detalle el encuentro nocturno, el beso, un duelo y la decisión final. El texto explora las tensiones entre devoción, orgullo, honor familiar y deseos humanos, y culmina con la boda y un epílogo que documenta la vida doméstica y religiosa de los cónyuges. Todo ello dibuja además un vívido cuadro costumbrista de la sociedad rural andaluza del siglo XIX.",
+    "dcat:keyword": [
+        "amor",
+        "vocación",
+        "religión",
+        "costumbrismo",
+        "Andalucía"
+    ],
+    "dcat:theme": [
+        "Amor y pasión",
+        "Conflicto moral y vocacional",
+        "Novela de costumbres / sociedad rural"
+    ],
+    "dct:spatial": "Andalucía, España",
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1875"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "D. Luis de Vargas",
+            "profile": "Joven seminarista de veintidós años, educado en el clero y ferviente en sus aspiraciones religiosas. Es serio, reflexivo y muy susceptible al idealismo; atraviesa un conflicto moral intenso entre su vocación sacerdotal y su amor por Pepita, que condiciona toda la acción narrativa."
+        },
+        {
+            "name": "Pepita Jiménez",
+            "profile": "Joven viuda de gran belleza y caridad, respetada y admirada en el pueblo; vive entre la piedad y una pasión íntima. Sincera y naturalmente afable, su amor por D. Luis despierta tensiones morales y sociales que la llevan a un desasosiego profundo antes de la resolución final."
+        },
+        {
+            "name": "D. Pedro de Vargas",
+            "profile": "Padre de D. Luis, cacique local y hombre de mundo, veterano y algo jovial; pretende casar con Pepita y es a la vez afectuoso con su hijo. Su intervención práctica y paternal —y su preferencia por la vida familiar— contribuyen decisivamente a la evolución del conflicto y a la resolución del relato."
+        },
+        {
+            "name": "Antoñona",
+            "profile": "Nodriza y ama de llaves de Pepita, concreta, sagaz y entregada a su señora; actúa como catalizadora de los encuentros amorosos y toma la iniciativa para buscar remedios. Pragmática y leal, su intervención instrumentaliza y encamina acontecimientos cruciales de la trama."
+        }
+    ]
+}

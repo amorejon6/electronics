@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "Clara Vaughan : ELTeC edition",
+    "dcterms:creator": "Blackmore, Richard Doddridge (1825-1900)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Clara Vaughan, who as a child witnessed her father's brutal murder, devotes her life to discovering the killer while coping with poverty and a contested inheritance under the guardianship of her uncle Edgar Vaughan. The narrative follows her investigations in the English countryside and London, her recovery from temporary blindness, and her friendships (notably with Isola) and growing attachment to Conrad. A parallel backstory centred on Edgar's past in the Mediterranean—including a Corsican vendetta and kidnapped children—gradually reveals family secrets and motives. The plot blends detective procedure, Gothic sensation, romance, violent confrontation with the villain Lepardo Della Croce, and a final restoration of heirs and reconciliations.",
+    "dcat:keyword": [
+        "revenge",
+        "murder",
+        "investigation",
+        "inheritance dispute",
+        "kidnapping"
+    ],
+    "dcat:theme": [
+        "Mystery and investigation",
+        "Revenge and justice",
+        "Family, inheritance and social class",
+        "Sensation/Gothic melodrama"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6296574",
+        "https://www.geonames.org/2649808",
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/3023519",
+        "https://www.geonames.org/2562770",
+        "https://www.geonames.org/2523227",
+        "https://www.geonames.org/3176219",
+        "https://www.geonames.org/3172394"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1812"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1851"
+            }
+        }
+    },
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Clara Vaughan (Clara Valence)",
+            "profile": "Narrator and protagonist: an intensely determined and observant young woman shaped by the childhood trauma of her father's murder. She combines practical skill (nursing, self-taught investigation) with moral resolve, tolerating poverty and hardship while pursuing justice and navigating romance and family revelations."
+        },
+        {
+            "name": "Edgar Vaughan",
+            "profile": "Clara's uncle and guardian: a cultured, reserved landowner whose control of the estate and recovered papers make him central to the inheritance dispute and family mystery. Worldly and reflective, his Corsican past and eventual revelations clarify motives and reshape Clara's prospects."
+        },
+        {
+            "name": "Conrad Ross",
+            "profile": "A serious and honourable young sculptor who becomes Clara's principal romantic interest and ally: brave, resourceful, and professionally talented. Torn by family pressures, he aids in investigations, rescues, and medical care, earning Clara's trust through courage and devotion."
+        },
+        {
+            "name": "Lepardo Della Croce",
+            "profile": "The principal antagonist: a cruel, cunning villain associated with vendetta, kidnapping and violent crimes (including reported vivisection). His calculated brutality propels the central pursuit and culminates in violent confrontation that leads to the restoration of family honour."
+        }
+    ]
+}

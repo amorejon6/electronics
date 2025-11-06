@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La espuma : edición ELTeC",
+    "dcterms:creator": "Palacio Valdés, Armando (1853-1938)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La narración sigue la vida de la alta sociedad madrileña entrelazada con negocios, pasiones y escándalos: Clementina Salabert, bella y altiva, se mueve entre amantes, apariencias y la lucha por una herencia. Al mismo tiempo, el duque de Requena (Antonio Salabert), un banquero ambicioso, impulsa especulaciones (la mina de Riosa) que terminan por precipitar su decadencia y la de su casa. En paralelo se desarrolla el sentimental y trágico vínculo entre Clementina y Raimundo Alcázar, joven entomólogo huérfano, que acaba engañado y arruinado por las tensiones sociales y económicas. La novela combina crítica social, intriga bursátil, costumbrismo de salón y episodios en la minería que exponen las desigualdades y los daños humanos del lucro y la especulación.",
+    "dcat:keyword": [
+        "alta sociedad",
+        "especulación bursátil",
+        "minería (Riosa)",
+        "adulterio",
+        "herencia y poder"
+    ],
+    "dcat:theme": [
+        "Novela social",
+        "Novela de costumbres",
+        "Realismo social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/6359961",
+        "https://www.geonames.org/3032797"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Clementina Salabert",
+            "profile": "Mujer muy bella, altiva y cosmopolita, hija del banquero duque de Requena; figura central de la vida de salón y motor de las intrigas familiares. Es coqueta y voluntariosa, maneja sus relaciones amorosas con cálculo y orgullo y se ve envuelta en el litigio por la herencia de su madrastra; su ambición y nerviosismo marcan el ritmo de la trama."
+        },
+        {
+            "name": "Raimundo Alcázar",
+            "profile": "Joven entomólogo huérfano, serio, sensible y de salud frágil, que encarna la ingenuidad y la honradez. Se enamora profundamente de Clementina y su pasión lo transforma y lo destruye: es la víctima sentimental del contraste entre afecto íntimo y los juegos de poder de la alta sociedad."
+        },
+        {
+            "name": "Antonio Salabert, duque de Requena",
+            "profile": "Magnate y banquero astuto, especulador de gran influencia que controla la mina de Riosa y otras operaciones financieras. Su ambición y prácticas (y la relación escandalosa con su querida) terminan en decadencia mental y escándalo público, convirtiéndose en figura de poder y de ruina moral."
+        },
+        {
+            "name": "Esperancita (Esperanza) Calderón",
+            "profile": "Hija de la familia de Calderón, tímida y modesta, objeto de varios pretendientes y promesa de matrimonio que articula rivalidades. Su relación con jóvenes de la sociedad (especialmente con Pepe Castro y Ramoncito) refleja las tensiones de la juventud y las maniobras sociales: representa la inocencia frente a la ambición ajena."
+        }
+    ]
+}

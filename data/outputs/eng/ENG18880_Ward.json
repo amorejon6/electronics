@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "Robert Elsmere : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Ward, Humphry, Mrs. (1851-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Robert Elsmere, an Oxford-educated clergyman, experiences a prolonged crisis of faith that leads him to resign his living and pursue social and intellectual work. His wavering beliefs strain his marriage to Catherine, whose devoutness and self-sacrifice anchor the household even as Rose Leyburn's artistic ambitions and romantic entanglements create secondary tensions. Elsmere founds a reforming Brotherhood and devotes himself to urban ministry and public debate about miracles, conscience, and religious reconstruction. The novel moves between rural parishes and cosmopolitan settings, tracing illness, death, social reform, and the personal costs of moral honesty in late-Victorian society.",
+    "dcat:keyword": [
+        "religious doubt",
+        "social reform",
+        "marriage",
+        "rural life",
+        "illness and death"
+    ],
+    "dcat:theme": [
+        "Religious doubt and reconstruction",
+        "Social reform and charity",
+        "Marriage and domestic conflict",
+        "Personal sacrifice and mortality"
+    ],
+    "dct:spatial": [
+        "England (Westmoreland/Cumbria — Long Whindale; Surrey — Murewell, Burwood; Oxford; London — Elgood Street, East End; Lake District/Ullswater)",
+        "https://www.geonames.org/6488052",
+        "Switzerland (Lake Geneva, Les Avants)",
+        "https://www.geonames.org/6529097",
+        "France (Normandy — Petites Dalles, Fécamp)",
+        "https://www.geonames.org/3144096",
+        "https://www.geonames.org/2507480"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Robert Elsmere",
+            "profile": "An Oxford-educated clergyman whose scholarly inquiry precipitates a deep crisis of faith; idealistic and reform-minded, he resigns his living and founds the New Brotherhood to minister to the urban poor. His intellectual honesty brings public controversy, intense private suffering, and ultimately physical decline and death."
+        },
+        {
+            "name": "Catherine Elsmere",
+            "profile": "Robert's wife, devout, compassionate, and morally steadfast; she is the emotional and spiritual centre of the household and devotes herself to nursing, parish work, and family duty. She endures acute anguish at her husband's loss of orthodox belief yet repeatedly seeks to preserve their marriage and sustain the Brotherhood's work through self-sacrifice."
+        },
+        {
+            "name": "Rose Leyburn",
+            "profile": "A young, beautiful, and musically gifted woman whose artistic ambitions and impulsive passions create romantic tensions and a coming-of-age arc. Vivacious and often impatient with provincial limits, she matures through disappointment, seeks musical training abroad, and her courtship and choices shape a secondary domestic strand."
+        },
+        {
+            "name": "Hugh Flaxman",
+            "profile": "A charming, practical, and sympathetic suitor to Rose who becomes a close friend and supporter of the Elsmere household. Urbane and kindly, he provides practical help during Robert's illness and offers steady companionship that influences Rose's eventual domestic resolution."
+        }
+    ]
+}

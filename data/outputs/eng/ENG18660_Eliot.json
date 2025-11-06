@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Felix Holt, the Radical : ELTeC edition",
+    "dcterms:creator": "Eliot, George [pseud.] (1819-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in the English midlands around the Reform Bill of 1832, the novel follows the intersecting lives of a newly returned heir, Harold Transome, a principled young radical artisan Felix Holt, and Esther Lyon, the minister's daughter. Political manoeuvring, a disputed inheritance and local electioneering produce social conflict, a riot, a trial and legal intrigue driven by the family lawyer Matthew Jermyn. Esther is revealed to have a legal claim to the Transome estate (as a Bycliffe heir), which complicates loyalties, courtship and the fates of several characters. The story examines class, conscience and the consequences of private and public actions in a provincial community.",
+    "dcat:keyword": [
+        "political reform",
+        "inheritance dispute",
+        "class conflict",
+        "rural England",
+        "legal intrigue"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Political and electoral reform",
+        "Class and inheritance"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2634343",
+        "Treby Magna / North Loamshire (fictional)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1832"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1832"
+            }
+        }
+    },
+    "dct:type": "Social novel (https://en.wikipedia.org/wiki/Social_novel)",
+    "mainCharacters": [
+        {
+            "name": "Esther Lyon",
+            "profile": "The minister's educated daughter; cultured, fastidious and morally sensitive. Caught between sympathy for the poor and the temptations of social elevation, she becomes the legal heir whose claim reshapes several lives and whose personal choices drive the emotional core of the novel."
+        },
+        {
+            "name": "Felix Holt",
+            "profile": "A watchmaker and ardent Radical with austere principles and a prophetic zeal for social justice. Plain-spoken, morally earnest and prone to impatient action, he champions the working poor, becomes involved in a fatal riot and stands trial, his fate testing public and private loyalties."
+        },
+        {
+            "name": "Harold Transome",
+            "profile": "The wealthy heir who returns from the East as a Radical, pragmatic and socially ambitious. He seeks to manage his estate responsibly while navigating local politics, a contested inheritance and a developing affection for Esther that complicates his public and private decisions."
+        },
+        {
+            "name": "Matthew Jermyn",
+            "profile": "A smooth, calculating local solicitor whose professional interventions drive much of the legal and moral friction. Ambitious and morally ambiguous, he controls key documents and knowledge about the Transome/Bycliffe claims and acts as the central antagonist in financial and inheritance disputes."
+        }
+    ]
+}

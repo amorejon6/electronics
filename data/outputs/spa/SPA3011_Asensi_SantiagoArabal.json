@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Santiago Arabal: historia de un pobre niño : Edición ELTeC",
+    "dcterms:creator": "Asensi, Julia de, (1859-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato en primera persona de Santiago Arabal, un muchacho huérfano de un pueblo pesquero que protege y se enamora de Rosalinda, una niña criada por una nodriza llamada la Roja. Ambos huyen para escapar de la separación y acaban trabajando en un circo, donde triunfan como acróbatas bajo la tutela de la familia Asthon. La convivencia circense, la pobreza y los celos culminan en una tragedia cuando Rosalinda sufre una caída grave durante una función y fallece tiempo después, mientras su familia biológica reaparece. La narración trata la infancia, el amor juvenil, la pobreza y la pérdida en un entorno realista y sentimental de fines del siglo XIX en España.",
+    "dcat:keyword": [
+        "infancia",
+        "orfandad",
+        "amor juvenil",
+        "circo",
+        "pobreza"
+    ],
+    "dcat:theme": [
+        "amor y pérdida",
+        "iniciación / bildungsroman",
+        "pobreza y marginalidad",
+        "vida circense"
+    ],
+    "dct:spatial": [
+        "España (pueblo costero y ciudades no especificadas)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1899"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela sentimental",
+    "mainCharacters": [
+        {
+            "name": "Santiago Arabal",
+            "profile": "Narrador y protagonista; huérfano criado por su padre pescador, protector y afectuoso con Rosalinda. Crece desde la infancia hasta la juventud, trabaja como gimnasta en el circo y vive obsesionado por el amor y la pérdida de su amiga."
+        },
+        {
+            "name": "Rosalinda (Rosa)",
+            "profile": "Niña de origen acomodado criada por la nodriza 'la Roja', dulce, frágil y de gran belleza moral y física. Se convierte en compañera y objeto del amor de Santiago, trabaja como acróbata y su caída en escena provoca la tragedia central."
+        },
+        {
+            "name": "La Roja",
+            "profile": "Nodriza y vecina pragmática que cuida a Rosalinda a cambio de una pensión; ambivalente entre cariño y cálculo. Su relación con Santiago y su decisión de colocar a Rosalinda en un asilo o devolverla a su familia generan conflicto y marcan el destino de los niños."
+        },
+        {
+            "name": "Roberto Asthon",
+            "profile": "Acróbata y jefe de la familia Asthon que acoge y enseña a Santiago y Rosalinda en el circo. Protector ambivalente: les brinda oficio y sustento, pero su alcoholismo y negligencias contribuyen indirectamente al accidente que hiere mortalmente a Rosalinda."
+        }
+    ]
+}

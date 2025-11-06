@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Alice's Adventures in Wonderland : ELTeC edition",
+    "dcterms:creator": "Carroll, Lewis [pseud.] (1832-1898).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young girl named Alice follows a White Rabbit down a hole into Wonderland, a dreamlike world governed by absurd logic and talking creatures. She undergoes repeated changes of size, encounters eccentric figures (a Caterpillar, Mad Hatter, March Hare, Cheshire Cat, Queen of Hearts), and witnesses surreal episodes such as a chaotic tea-party and a mock trial. The narrative mixes playful wordplay, parody of adult institutions, and episodic adventures that unsettle ordinary rules of sense. Ultimately Alice awakens, revealing the story as a curiously vivid dream framed by an afternoon on a riverbank.",
+    "dcat:keyword": [
+        "Fantasy",
+        "Nonsense",
+        "Childhood",
+        "Satire",
+        "Adventure"
+    ],
+    "dcat:theme": [
+        "Fantasy",
+        "Children's literature",
+        "Nonsense literature",
+        "Satirical parody of adult society"
+    ],
+    "dct:spatial": [
+        "Wonderland (fictional)",
+        "England (frame narrative: riverbank/household)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1837"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1901"
+                }
+            }
+        },
+        "Fictional, timeless Wonderland (no fixed historical date)"
+    ],
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Alice",
+            "profile": "A curious, imaginative young girl whose perspective frames the story; she is practical yet prone to puzzled introspection. Alice functions as both participant and observer, testing Wonderland's absurd rules and providing the moral/analytical reactions that anchor the narrative."
+        },
+        {
+            "name": "The White Rabbit",
+            "profile": "A nervous, hurried anthropomorphic rabbit who catalyses Alice's entry into Wonderland by literally leading her into it. He recurs as a comic, anxious official figure (herald, messenger) and embodies the topsy-turvy inversion of social roles."
+        },
+        {
+            "name": "The Queen of Hearts",
+            "profile": "A tyrannical, volatile sovereign whose favorite decree is 'Off with their heads!'; she presides over the croquet-ground and the courtroom. The Queen satirizes arbitrary authority and violent temper, driving several chaotic episodes and mock judicial proceedings."
+        },
+        {
+            "name": "The Mad Hatter",
+            "profile": "An eccentric, verbally playful figure central to the famous tea-party episode; he delights in riddles, wordplay, and illogical etiquette. The Hatter represents the book's comic challenge to sense and conventional social rituals."
+        }
+    ]
+}

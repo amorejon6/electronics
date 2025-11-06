@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "El resplandor de la hoguera : edición ELTeC",
+    "dcterms:creator": "Valle-Inclán, Ramón María del (1866-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada durante las guerras carlistas en los montes fronterizos del norte de España, que sigue a partidas de guerrilleros, contrabandistas y civiles atrapados entre bandos. Narra el viaje de un carro que lleva a monjas y refugiados, las escaramuzas y emboscadas entre liberales y carlistas, y los gestos de valentía y sacrificio de los protagonistas. La obra contrapone la religiosidad y la caridad de la Madre Isabel con la violencia y el fervor guerrero de Miquelo Egoscué y sus mutiles. A lo largo del relato emergen episodios de miseria, lealtades ambiguas y el coste humano de la guerra en el mundo rural.",
+    "dcat:keyword": [
+        "Guerra carlista",
+        "Guerrilla",
+        "Religión y caridad",
+        "Contrabandistas",
+        "Vida rural"
+    ],
+    "dcat:theme": [
+        "Guerra y conflicto",
+        "Religión y devoción",
+        "Costumbrismo rural",
+        "Heroísmo y sacrificio"
+    ],
+    "dct:spatial": [
+        "Navarra, España (lugares: Otaín, Astigar, Urdax, San Paul, Olaz)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1872"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1876"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Miquelo Egoscué",
+            "profile": "Capitán carlista, líder de una partida de mutiles valientes y popular entre los campesinos; es decidido, generoso y posee autoridad natural sobre sus hombres. Representa el ideal guerrero tradicional y actúa como motor de las acciones militares y la protección de civiles."
+        },
+        {
+            "name": "Cara de Plata (Don Miguelito)",
+            "profile": "Joven segundón atractivo y altivo, de linaje discutible, que busca la ocasión de distinguirse en la guerra; combina arrojo, orgullo y una inclinación por la acción temeraria. Su presencia sirve de contrapunto juvenil y ambicioso frente a la sabiduría de los veteranos."
+        },
+        {
+            "name": "Madre Isabel",
+            "profile": "Monja caritativa y serena que acompaña a los heridos y a las mujeres en fuga; encarna la fe, la compasión y el ideal cristiano en medio del desastre bélico. Su perspectiva moral y su devoción influyen en las decisiones de los demás y humanizan la violencia del conflicto."
+        },
+        {
+            "name": "Roquito (antiguo sacristán)",
+            "profile": "Hombre degradado por la miseria y la locura parcial, antiguo sacristán convertido en mendigo y prisionero, que vive episodios de delirio y actos extremos (incendio, resistencia). Su figura simboliza la tragedia personal y los estragos que la guerra provoca en la gente humilde."
+        }
+    ]
+}

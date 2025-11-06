@@ -1,0 +1,68 @@
+{
+    "dcterms:title": "Anatomía del corazón : edición ELTeC",
+    "dcterms:creator": "Guerrero, Teodoro (1824-1904)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela en dos momentos (ca. 1837–1840 y 1852) que sigue la vida de varios protagonistas en la alta sociedad de Madrid: el militar Carlos de Medina, el poeta Eduardo de Campo-Real y la marquesa del Fresno, cuyos juegos de orgullo y coquetería desencadenan celos, duelos, ruina y muerte. La primera parte narra amores, apuestas sociales y un triángulo peligroso que termina con tragedias (la muerte de Lucía y del conde); la segunda (doce años después) muestra la restitución, el arrepentimiento, la reconciliación y la reparación moral a través de personajes secundarios como la familia Trueba. Es un relato sobre el amor, el desengaño, la hipocresía social y la posibilidad de redención personal. El tono alterna el melodrama sentimental con la crítica social y el realismo moral.",
+    "dcat:keyword": [
+        "amor",
+        "desengaño",
+        "honor",
+        "sociedad cortesana",
+        "venganza"
+    ],
+    "dcat:theme": [
+        "Amor y desengaño",
+        "Crítica social / sociedad de salones",
+        "Honor y venganza"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1837"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1840"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1852"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1852"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Eduardo de Campo-Real",
+            "profile": "Poeta y hombre de mundo, vanidoso y sensible; gana fama con una comedia que refleja sus penas. Su carácter veleidoso y sus extravíos amorosos conducen a la ruina económica, al remordimiento y finalmente a una búsqueda de expiación y reparación."
+        },
+        {
+            "name": "Matilde Trueba",
+            "profile": "Mujer virtuosa, humilde y trabajadora; esposa de Eduardo y madre de Rodulfo. Representa la virtud serena y el sacrificio familiar: su paciencia y dignidad actúan como fuerza moral que conduce a la reconciliación y a la restauración del protagonista."
+        },
+        {
+            "name": "D. Carlos de Medina",
+            "profile": "Militar laureado, franco y orgulloso; primero reticente al amor, luego profundamente impresionado por la marquesa y más tarde protector de los humildes. Su conducta marca episodios clave (duelo, honor, intervención social) y finalmente actúa como agente de reparación."
+        },
+        {
+            "name": "Marquesa del Fresno (Celia)",
+            "profile": "Coqueta de la alta sociedad, carismática y ambivalente: domina los salones y provoca rivalidades; su coquetería desencadena conflictos trágicos. Tras años de retiro y arrepentimiento, encarna la caída y la posibilidad de expiación moral."
+        }
+    ]
+}

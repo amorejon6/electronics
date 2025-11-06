@@ -1,0 +1,62 @@
+{
+    "dcterms:title": "Jeromín, estudios históricos sobre el siglo XVI : edición ELTeC",
+    "dcterms:creator": "Coloma, Luis (1851-1915)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Crónica novelada y biográfica que narra la vida de Jeromín —luego Don Juan de Austria— desde su niñez humilde en Villanés hasta su ascenso como caudillo en el Mediterráneo y en Flandes. Relata su educación en casa de doña Magdalena de Ulloa, la influencia de Luis Quijada, sus campañas (Túnez, Lepanto) y los conflictos políticos y personales con la corte de Felipe II. El libro también explora intrigas, traiciones y escándalos (el caso Escobedo, Antonio Pérez, la princesa de Éboli) que rodean el poder en la España del siglo XVI. Es una reconstrucción histórica que mezcla hechos documentados con la recreación novelística de ambientes y caracteres.",
+    "dcat:keyword": [
+        "Don Juan de Austria",
+        "Lepanto",
+        "Intriga cortesana",
+        "Rebelión de los moriscos",
+        "Flandes"
+    ],
+    "dcat:theme": [
+        "Biografía novelada",
+        "Política y guerra",
+        "Religión y honra"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3175395",
+        "https://www.geonames.org/2795549",
+        "https://www.geonames.org/2464461",
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1550"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1578"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Juan (Jeromín) / Don Juan de Austria",
+            "profile": "Héroe central, hijo bastardo del emperador Carlos V, criado como Jeromín y formado por doña Magdalena y Luis Quijada. Es valiente, carismático y religioso; su genio militar se revela en campañas decisivas como Túnez y Lepanto, pero su carrera queda marcada por intrigas cortesanas y el choque con la política de Felipe II. Su figura articula las virtudes militares y los conflictos personales y morales del siglo XVI."
+        },
+        {
+            "name": "Doña Magdalena de Ulloa",
+            "profile": "Señora de Villagarcía que acoge y educa a Jeromín; ejerce sobre él una influencia moral y maternal decisiva. Mujer piadosa, caritativa y prudente, encarna la piedad práctica y el sentido del orden social; su celo por la formación religiosa y caballeresca de Don Juan es constante y le acompaña hasta su muerte."
+        },
+        {
+            "name": "Luis Méndez Quijada",
+            "profile": "Veterano capitán y mayordomo del emperador, protector temprano de Jeromín; símbolo de la lealtad militar y del honor. Su relación con Don Juan es paternal y decisiva para la formación castrense del protagonista; protagoniza episodios heroicos (rescate del crucifijo) y actúa como pieza clave en la transición de Jeromín a Don Juan."
+        },
+        {
+            "name": "Antonio Pérez",
+            "profile": "Secretario cortesano y antagonista central en la trama de intriga; ambicioso, astuto y sin escrúpulos, manipula información y sirve como artífice de calumnias y maquinaciones que socavan la posición de Don Juan. Su actuación culmina en la conspiración y el drama del asesinato de Escobedo, insertando la novela en claves políticas y judiciales reales."
+        }
+    ]
+}

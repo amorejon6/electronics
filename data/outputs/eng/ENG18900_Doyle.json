@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "The Sign of Four : ELTeC edition",
+    "dcterms:creator": "Doyle, Arthur Conan (1859-1930)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young governess, Mary Morstan, seeks Sherlock Holmes's help after receiving mysterious annual pearls and a summons promising justice. Holmes and Watson investigate the disappearance of her father and the rediscovery of the Agra treasure, tracing clues to the Sholto family, a secret map, and a vendetta stretching back to the Andaman convict camps. The enquiry leads to a nocturnal break-in, a poisoned murder, a daring river chase, and the capture of the fugitives, including Jonathan Small and his Andaman companion Tonga. The resolution recovers an iron chest but finds the jewels gone, and the narrative examines guilt, revenge, and the colonial backstory that produced the crime.",
+    "dcat:keyword": [
+        "detective",
+        "treasure",
+        "revenge",
+        "Andaman Islands",
+        "London"
+    ],
+    "dcat:theme": [
+        "Crime and investigation",
+        "Justice and revenge",
+        "Colonial backstory / Imperialism",
+        "Adventure"
+    ],
+    "dct:spatial": [
+        "England (London, Upper Norwood, Lambeth)",
+        "India (Andaman Islands, Agra)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1888"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1890"
+            }
+        }
+    },
+    "dct:type": "Mystery novel (https://en.wikipedia.org/wiki/Mystery_fiction)",
+    "mainCharacters": [
+        {
+            "name": "Sherlock Holmes",
+            "profile": "A brilliant, analytical consulting detective who applies observation and deduction to unravel complex cases. Detached and fastidious, he masterminds the investigation into the pearls, the Agra treasure, and the Norwood murder, orchestrating searches and the Thames pursuit."
+        },
+        {
+            "name": "Dr. John H. Watson",
+            "profile": "The narrator, a former army surgeon and Holmes's friend and chronicler, who combines practical courage with moral sensitivity. He assists Holmes in the field, escorts Miss Morstan, and provides the human perspective and emotional counterweight to Holmes's rationalism."
+        },
+        {
+            "name": "Mary Morstan",
+            "profile": "A modest, composed governess whose father disappeared years earlier and who becomes the client around whom the mystery revolves. Her receipt of anonymous pearls and the promise of justice trigger the investigation and her potential inheritance motivates several characters' actions."
+        },
+        {
+            "name": "Jonathan Small",
+            "profile": "An ex-convict who claims part-ownership of the Agra treasure and seeks restitution and revenge for past wrongs. Resourceful, implacable, and morally embittered by his convict experience, he leads the plot from the Andamans and is central to the crime, capture, and telling of the case's colonial backstory."
+        }
+    ]
+}

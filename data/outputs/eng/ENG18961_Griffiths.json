@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Rome Express : ELTeC edition",
+    "dcterms:creator": "Griffiths, Major Arthur George Frederick (1838-1908).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A violent murder is discovered aboard the Rome Express on its run toward Paris, plunging a handful of passengers into an immediate police inquiry. Chief Detective M. Floçon and the instructing judge investigate a web of lies, blackmail and escape involving a beautiful countess, her maid, an Italian detective, and a banker. Clues — a scrap of lace, a laudanum vial, a stolen pocket-book and a lost notebook — gradually reveal motives and identities. The true sequence of events leads to a dramatic identification, arrest and trial, and the novel closes with punishment for the guilty and an unexpected marriage for the countess.",
+    "dcat:keyword": [
+        "murder",
+        "train",
+        "detective investigation",
+        "blackmail",
+        "deception"
+    ],
+    "dcat:theme": [
+        "Crime",
+        "Detective fiction",
+        "Social intrigue",
+        "Romance"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3169070",
+        "https://www.geonames.org/2988507",
+        "Onboard the international Rome–Paris express train"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1907"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1907"
+            }
+        }
+    },
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Contessa di Castagneto (Sabine)",
+            "profile": "A beautiful, high-born Englishwoman married to an Italian count, outwardly graceful and composed. She is suspected because of circumstantial evidence and her connections to the murdered banker, but also becomes the object of Sir Charles's passionate defence and later his marriage."
+        },
+        {
+            "name": "General Sir Charles Collingham",
+            "profile": "A gallant, chivalrous English general who champions the Countess and resists French police harassment. His loyalty, social standing and intervention shape parts of the inquiry and ultimately lead to a romantic conclusion with the Countess."
+        },
+        {
+            "name": "Francis A. Quadling",
+            "profile": "A Roman banker implicated in fraud who travels with large sums and becomes the central victim-turned-perpetrator figure. Ambitious and desperate, he kills in a violent encounter, attempts disguise and deception, and is ultimately identified, tried and punished."
+        },
+        {
+            "name": "M. Floçon",
+            "profile": "The meticulous, determined Chief of the Detective Service in Paris who leads the forensic inquiry. Observant and methodical, he pieces together physical clues and witnesses' statements to unmask the sequence of crime and secure arrests."
+        }
+    ]
+}

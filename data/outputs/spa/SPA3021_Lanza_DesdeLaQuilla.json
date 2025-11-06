@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Desde la quilla hasta el tope : edición ELTeC",
+    "dcterms:creator": "Amorós y Vázquez de Figueroa, Juan Bautista [Silverio Lanza]  (1856-1912)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato autobiográfico en primera persona de Silverio Lanza que recoge su formación, la vida en academias y la carrera naval hasta llegar a jefe y ministro. Combina episodios costumbristas —internados, viajes a la dársena, guardias, naufragios, maniobras y servicios a bordo— con escenas familiares (matrimonio con Nieves, nacimiento de los hijos) y anécdotas humorísticas. Ofrece además una crítica social y militar sobre la disciplina, los castigos, la burocracia y las costumbres españolas del último tercio del siglo XIX. El tono alterna entre la ironía, la melancolía y la reflexión moral sobre la vida y la institución naval.",
+    "dcat:keyword": [
+        "vida naval",
+        "autobiografía",
+        "memorias",
+        "crítica social",
+        "costumbrismo"
+    ],
+    "dcat:theme": [
+        "Autobiografía",
+        "Memorias de la Marina",
+        "Crítica social",
+        "Costumbrismo"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3562981",
+        "https://www.geonames.org/2589581"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1845"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1891"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Silverio Lanza",
+            "profile": "Narrador y protagonista autobiográfico; de origen acomodado, describe su infancia, estudios, formación naval y carrera hasta convertirse en jefe y breve ministro. Su voz combina el humor, la ironía y la reflexión crítica sobre la marina, la política y las costumbres sociales."
+        },
+        {
+            "name": "María de las Nieves Santisteban (Nieves)",
+            "profile": "Esposa de Silverio, gaditana de carácter afectuoso y práctico; punto de apoyo sentimental y familiar del narrador. Representa la vida doméstica, la piedad cotidiana y la estabilidad frente a las turbulencias profesionales y políticas de su marido."
+        },
+        {
+            "name": "Gregorio Santisteban",
+            "profile": "Cuñado de Silverio y hombre de negocios e ingeniero; personaje práctico y resolutivo que asume responsabilidades familiares. Interviene en la administración de bienes y en decisiones económicas que afectan al narrador y su familia."
+        },
+        {
+            "name": "Pepe (José)",
+            "profile": "Hijo de Silverio y Nieves, figura de continuidad familiar; su educación y destino profesional (ingeniería en Argelia) generan en el narrador reflexiones sobre la ingratitud filial y la transmisión de valores. Es retratado como joven serio, aplicado y distante respecto a la carrera naval familiar."
+        }
+    ]
+}

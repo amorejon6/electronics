@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Conquista del Perú: novela histórica original : edición de ELTeC",
+    "dcterms:creator": "Alonso de la Avecilla, Pablo (1810-1860)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica en la que se narra la llegada y la conquista española del Nuevo Mundo, con especial atención al Perú del siglo XVI: el descubrimiento, la ambición de los conquistadores y el choque entre culturas. Relata las expediciones de Colón, Cortés y sobre todo Pizarro, la captura y ejecución de Atahulpa, la codicia por el oro, la esclavitud y la imposición religiosa encabezada por sacerdotes como Luque. A la vez desarrolla un hilo romántico y trágico entre el conquistador, sus rivales y las princesas peruanas (Coya y Ocollo), que termina confluyendo en una sublevación andina liderada por Almagro y Huascar. El texto critica el fanatismo y la violencia colonizadora y muestra la resistencia indígena y la compleja mezcla de evangelización, política y saqueo.",
+    "dcat:keyword": [
+        "Conquista",
+        "Colonización",
+        "Fanatismo religioso",
+        "Esclavitud",
+        "Resistencia indígena"
+    ],
+    "dcat:theme": [
+        "Novela histórica",
+        "Imperialismo y colonización",
+        "Religión y proselitismo",
+        "Romance trágico"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3932488",
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3996063"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1500"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1599"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Francisco Pizarro",
+            "profile": "Conquistador español ambicioso y despiadado, gobernador designado por la Corona en el Nuevo Mundo. Figura central de la campaña contra el imperio inca: busca oro y poder, ejerce un gobierno militar y religioso severo, y su pasión por Ocollo alimenta conflictos personales que afectan la conquista."
+        },
+        {
+            "name": "Diego de Almagro",
+            "profile": "Compañero militar de Pizarro, valeroso y temperado por la sensibilidad; se distingue por su humanidad y por un amor profundo hacia la princesa Coya. Termina aliándose con Huascar y liderando la resistencia andina, representando la tensión entre lealtad, honor y venganza."
+        },
+        {
+            "name": "Atahulpa",
+            "profile": "Emperador inca del Perú en el momento de la llegada española; figura soberana respetada por su pueblo y víctima de la estrategia conquistadora. Su captura, el rescate en oro y su ejecución tras negarse a convertirse son núcleos dramáticos que simbolizan la destrucción del orden indígena."
+        },
+        {
+            "name": "Coya",
+            "profile": "Princesa de la sangre incaica, heroína y figura romántica que se enamora de Almagro; encarna la lealtad a su pueblo y el conflicto entre amor personal y deber político. Su conversión pública y su papel militar y moral en los Andes la convierten en símbolo de la resistencia y de la fusión cultural."
+        }
+    ]
+}

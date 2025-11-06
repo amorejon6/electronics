@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "Los templarios. Tomo I : edición ELTeC",
+    "dcterms:creator": "Mora, Juan de Dios (1827-1884)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en la España medieval (finales del siglo XIII y comienzos del XIV) que mezcla ficción histórica, aventura caballeresca e incursiones del gótico y lo sobrenatural. La trama sigue a un grupo de jóvenes caballeros y trovadores —entre ellos Jimeno y Don Guillén— en viajes por Castilla, Italia y Tierra Santa, donde aparecen tesoros, magias y seducciones. En el centro del conflicto está la conspiración de los templarios y la siniestra figura de Matías Rafael Castiglione, cuyas maquinaciones provocan torturas, venganzas y asesinatos; al mismo tiempo se narra el célebre sitio de Tarifa y la prueba de honor de Guzmán el Bueno. La novela entrelaza intriga política, triángulos amorosos, crimen y dilemas morales en un marco histórico de tensiones entre reyes, órdenes militares y nobles.",
+    "dcat:keyword": [
+        "Templarios",
+        "Venganza",
+        "Honor",
+        "Traición",
+        "Aventura"
+    ],
+    "dcat:theme": [
+        "Ficción histórica",
+        "Gótico / horror",
+        "Intriga política y conspiración",
+        "Aventura caballeresca",
+        "Romance"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769/",
+        "https://www.geonames.org/2530335/",
+        "https://www.geonames.org/2264397/",
+        "https://www.geonames.org/3017382/",
+        "https://www.geonames.org/3175395/",
+        "https://www.geonames.org/6254930/"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1200"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1350"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Matías Rafael Castiglione",
+            "profile": "Caballero templario calabrés y antagonista principal, de aspecto feroz y marcado por una cicatriz memorable; es manipulador, ambicioso y cruel. Orquesta torturas, asesinatos y maquinaciones políticas para apropiarse de poder y riquezas dentro y fuera de la orden, siendo motor de la intriga y la persecución que afectan a los protagonistas."
+        },
+        {
+            "name": "Jimeno (el trovador / armiguero)",
+            "profile": "Joven armiguero y poeta idealista, a la vez trovador; huérfano acogido por la encomienda y protagonista emocional de gran parte de la narración. Su sensibilidad y talento lírico contrastan con la violencia circundante: participa en la búsqueda de tesoros, relaciones amorosas (incluida una historia con Amalia) y está ligado a secretos como el emparedado y el manuscrito codiciado."
+        },
+        {
+            "name": "Don Guillén Gómez de Lara",
+            "profile": "Joven señor feudal de Alconetar, valeroso, culto y líder del grupo de jóvenes caballeros; combina el arrojo caballeresco con pasiones románticas. Su amor por doña Elvira y los celos con amigos como Álvaro generan conflictos personales que se entrelazan con empresas militares, embajadas y rescates, mostrando tanto nobleza como furia en la trama."
+        },
+        {
+            "name": "Don Alonso Pérez de Guzmán (Guzmán el Bueno)",
+            "profile": "Alcaide de Tarifa y emblema del honor y el deber militar; enfrenta la dramática prueba de sacrificar lo más querido para cumplir con la defensa de la plaza. Su entrega y tragedia personal sitúan el tema del honor y el sacrificio en el núcleo histórico-político de la novela, vinculando la acción local con las intrigas dinásticas del reino."
+        }
+    ]
+}

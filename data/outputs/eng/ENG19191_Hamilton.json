@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "William — an Englishman: ELTeC edition",
+    "dcterms:creator": "Hamilton, Cicely (1872-1952)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "William Tully, a mild-mannered London clerk turned Social Reformer, marries the militant suffragist Griselda Watkins. Their honeymoon in the Belgian Ardennes is shattered by the outbreak of the First World War: they are captured, William witnesses atrocities and Griselda dies while fleeing. Traumatized and converted from his former pacifist/sectional politics, William attempts to enlist, serves as a soldier and later as a clerical orderly in France. The novel follows his moral and emotional transformation amid war, loss and the grind of military bureaucracy.",
+    "dcat:keyword": [
+        "World War I",
+        "political conversion",
+        "civilian suffering",
+        "suffrage movement",
+        "loss and bereavement"
+    ],
+    "dcat:theme": [
+        "War and its effects on ordinary lives",
+        "Political idealism versus reality",
+        "Grief, personal transformation and duty"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6619882",
+        "https://www.geonames.org/2803095",
+        "France (provincial towns, Paris)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1910"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1917"
+            }
+        }
+    },
+    "dct:type": "Historic novel",
+    "mainCharacters": [
+        {
+            "name": "William Tully",
+            "profile": "A timid, conscientious former insurance clerk who becomes a Social Reformer and public speaker after his mother's death. Traumatized by wartime atrocities witnessed in Belgium and by the death of his wife, he converts to active patriotism, attempts to enlist, serves in the Army (later as a clerk in France) and is ultimately killed in an air-raid-related incident."
+        },
+        {
+            "name": "Griselda Watkins",
+            "profile": "A fervent, ladylike militant suffragist who shares William's zeal for political causes and becomes his wife. Brave and self-assured in public protest, she is vulnerable in war-time violence during the Ardennes retreat; her suffering and death are the emotional pivot for William's transformation."
+        },
+        {
+            "name": "Faraday (\"Vindex\")",
+            "profile": "An authoritative, self-educated Socialist journalist and organizer who mentors William into political activism. Charismatic and intellectually driven, he leads the radical circles that shape William's early life; his own commitments and eventual wartime experience complicate his earlier pacifist rhetoric."
+        },
+        {
+            "name": "Edith Haynes",
+            "profile": "An Englishwoman living in France who rescues and aids William after Griselda's death, guiding him back to civilization and offering practical support. Kind, capable and sensible, she becomes his confidante and correspondent, helping him reorient toward enlistment and later keeping in touch during his military service."
+        }
+    ]
+}

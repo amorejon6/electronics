@@ -1,0 +1,53 @@
+{
+    "dcterms:title": "El alma enferma : edición ELTeC",
+    "dcterms:creator": "Sinués de Marco, María del Pilar (1835-1893)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela ambientada en la España de la mitad del siglo XIX que sigue la vida de Dolores Herrera, una joven que tras una seducción y una serie de desgracias familiares cae en la miseria y en una existencia de escándalo. La trama explora sus conflictos como madre —la difícil relación con sus dos hijas— y sus amores imposibles con hombres de distinta condición social (un conde y un pintor). A lo largo de la obra se entretejen críticas a las costumbres, la hipocresía social y la precariedad económica de las clases medias, mientras algunos personajes procuran la redención a través del sacrificio y la caridad. El relato culmina con decisiones dramáticas que conducen a reconciliaciones parciales, matrimonios y la muerte redentora de la protagonista.",
+    "dcat:keyword": [
+        "maternidad",
+        "caída moral",
+        "desigualdad social",
+        "amor y venganza",
+        "redención"
+    ],
+    "dcat:theme": [
+        "Maternidad y sacrificio",
+        "Caída moral y redención",
+        "Desigualdad social y pobreza",
+        "Amor, infidelidad y venganza"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2988507",
+        "Italia (Roma, Isla de Ischia)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1842"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Dolores Herrera (luego Condesa de Elven).",
+            "profile": "Protagonista apasionada y conflictiva: joven nacida en clase modesta que sufre una seducción, la pérdida de sus padres y un matrimonio infeliz. Madre entregada y contradicha por sus propias decisiones, alterna impulsos de orgullo y sacrificio hasta buscar la enmienda y la protección de quienes la aman."
+        },
+        {
+            "name": "Doña Amparo (madre de Dolores).",
+            "profile": "Mujer piadosa y recta cuya vida se consume entre el amor filial y las privaciones económicas; representa el ideal de maternidad cristiana y el sacrificio. Su ejemplo y su muerte marcan el destino moral de Dolores y actúan como catalizadores del arrepentimiento y la reflexión social."
+        },
+        {
+            "name": "Frantz Warner.",
+            "profile": "Joven pintor alemán, talentoso y de temperamento idealista; representa el artista sensible y trabajador. Se enamora de Lágrimas y, más tarde, participa en el drama familiar: su vocación y afectos aparecen contrapuestos a los conflictos sociales y morales que atraviesan la novela."
+        },
+        {
+            "name": "Conde Gonzalo de Elven.",
+            "profile": "Aristócrata sevillano, primero amado por Dolores y luego casado con otra mujer; figura ambivalente: seductor y culpable en su juventud, más tarde atormentado por el remordimiento. Su relación con Dolores y con la hija nacida de su enlace desencadena episodios de venganza, duelo y posteriores intentos de reparación."
+        }
+    ]
+}

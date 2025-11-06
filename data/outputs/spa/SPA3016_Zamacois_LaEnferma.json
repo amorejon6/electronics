@@ -1,0 +1,54 @@
+{
+    "dcterms:title": "La enferma : edición ELTeC",
+    "dcterms:creator": "Zamacois, Eduardo (1873-1971)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue a Consuelito Mendoza, una joven frágil aquejada de crisis nerviosas y pesadillas, cuya vida familiar en el Madrid finisecular se complica por la amistad de su esposo Alfonso Sandoval con el enigmático médico Gabriel Montánchez. Montánchez, estudioso y misántropo, aplica el hipnotismo y acaba ejerciendo una influencia peligrosa sobre Consuelo que desemboca en una agresión sexual y en su progresiva postración. La tensión entre los dos hombres —el esposo celoso y el médico ambicioso— escala hasta la violencia y un desenlace trágico. La obra explora la neurosis, la sugestión, los celos y la manipulación moral en un entorno urbano decimonónico.",
+    "dcat:keyword": [
+        "neurosis",
+        "hipnotismo",
+        "celos",
+        "violación",
+        "Madrid"
+    ],
+    "dcat:theme": [
+        "Psicología y neurosis",
+        "Celos y crimen",
+        "Hipnotismo y manipulación",
+        "Realismo urbano"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2509954"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1900"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela realista o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Consuelito Mendoza",
+            "profile": "Joven esposa nerviosa y sensible, protagonista central. Sufre ataques histéricos, pesadillas y una neurosis nerviosa que la hace especialmente sugestionable; su enfermedad y su vulnerabilidad la convierten en víctima de la manipulación hipnótica y de la agresión de Montánchez, hecho que precipita la tragedia."
+        },
+        {
+            "name": "Alfonso Sandoval",
+            "profile": "Marido de Consuelo, hombre apasionado, protector y celoso. Busca la curación de su esposa, alterna ternura y autoridad, y al descubrir la traición de su amigo se enfrentará a un conflicto violento que marca el cierre trágico de la historia."
+        },
+        {
+            "name": "Gabriel Montánchez",
+            "profile": "Médico culto, antiguo aventurero y estudioso del hipnotismo; reservado y carismático. Su interés científico y su soledad derivan en una obsesión por Consuelo: emplea la sugestión para controlarla, abusa de su poder con resultados criminales y su conducta desencadena la confrontación final."
+        }
+    ]
+}

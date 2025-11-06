@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Domitia : ELTeC edition",
+    "dcterms:creator": "Baring-Gould, Sabine (1834-1924)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in the turbulent Roman world of the 1st century AD, the novel follows Domitia Longina, daughter of the general Corbulo, through bereavement, abduction and reluctant elevation to imperial status. After Corbulo's enforced suicide Domitia is driven by grief and desire for vengeance, becomes entangled in palace intrigue and is carried off to be the wife of Domitian. The narrative traces private passions (love, hatred, filial devotion) against the public backdrop of the Year of the Four Emperors and the rise of the Flavian dynasty, with scenes in Cenchræa, Gabii, Albanum and Rome. Interwoven is the emergence of an alternative moral and spiritual refuge in early Christian belief, which finally offers Domitia consolation and a new horizon of hope.",
+    "dcat:keyword": [
+        "Imperial Rome",
+        "Revenge",
+        "Political intrigue",
+        "Marriage and betrayal",
+        "Early Christianity"
+    ],
+    "dcat:theme": [
+        "Revenge and personal vengeance",
+        "Power, tyranny and political intrigue in imperial Rome",
+        "Faith, conversion and spiritual consolation"
+    ],
+    "dct:spatial": [
+        "Italy (Rome, Gabii, Albanum/Alban Lake)",
+        "Greece (Cenchræa, Corinth, Isthmus of Corinth)",
+        "https://www.geonames.org/323779"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "0068"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "0070"
+                }
+            }
+        }
+    ],
+    "dct:type": "Historic novel",
+    "mainCharacters": [
+        {
+            "name": "Domitia Longina",
+            "profile": "A noble Roman woman, daughter of the general Corbulo; affectionate and idealistic before tragedy, she is transformed by grief and by the political violence around her. Central protagonist whose marriage, resistance and spiritual quest drive much of the plot."
+        },
+        {
+            "name": "Cnæus Domitius Corbulo",
+            "profile": "A celebrated Roman general, father of Domitia, admired for military virtue and integrity. His enforced suicide by imperial command is the catalyst for Domitia's sorrow and thirst for vengeance and shapes many subsequent events."
+        },
+        {
+            "name": "Lucius Ælius Lamia",
+            "profile": "Domitia's faithful husband and a principled, honorable young Roman (friend and adopted son of Lamia family), who loves Domitia deeply. He is threatened and ultimately sacrificed amid palace violence; his fate profoundly affects Domitia's choices."
+        },
+        {
+            "name": "Titus Flavius Domitianus (Domitian)",
+            "profile": "Ambitious, jealous and increasingly tyrannical member of the Flavian house who seizes Domitia as wife and becomes a source of humiliation and danger. His political cruelty and personal vindictiveness establish the novel's main antagonism."
+        }
+    ]
+}

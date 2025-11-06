@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Two Little Wooden Shoes: A Sketch : ELTeC edition",
+    "dcterms:creator": "Ouida, [pseud.] (1839-1908)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A foundling named Bébée is raised by an old gardener in the Brabant countryside and makes her living selling flowers in Brussels. She is befriended and tutored by a charismatic painter, Flamen (Victor), who awakens her curiosity and gives her books, but ultimately seduces and abandons her. Driven by love and loyalty she walks to Paris to tend him when news of his illness arrives, only to discover his betrayal; returning broken, she drowns herself. The novel traces innocence exploited by art and urban glamour and critiques social vulnerability in a late 19th-century Belgian setting.",
+    "dcat:keyword": [
+        "foundling",
+        "innocence",
+        "seduction and betrayal",
+        "artist and art",
+        "Brussels/Brabant"
+    ],
+    "dcat:theme": [
+        "Tragic romance",
+        "Social criticism",
+        "Coming-of-age"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2792482",
+        "https://www.geonames.org/2800866",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1874"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Bébée",
+            "profile": "A sweet, idealistic foundling raised by Antoine Mäes in a Brabant garden; she is innocent, hardworking, and devoted to flowers and simple pieties. Her curiosity and desire to learn make her vulnerable to the charm of a sophisticated artist; her unprotected love and loyalty drive the novel's tragic arc."
+        },
+        {
+            "name": "Flamen (Victor)",
+            "profile": "A celebrated, worldly painter—handsome, cynical, and artistically ambitious—who cultivates Bébée's intelligence and beauty for his art and pleasure. He alternates between genuine artistic admiration and exploitative amorality, ultimately abandoning her when it suits his career and appetites."
+        },
+        {
+            "name": "Jeannot",
+            "profile": "A loyal, robust local woodcutter who quietly loves Bébée and provides steady, practical support. His devotion contrasts with Flamen's decadence; he rescues Bébée in Paris and cares for her, though he cannot penetrate her despair."
+        },
+        {
+            "name": "Antoine Mäes",
+            "profile": "The kind, simple gardener and foster-father who rescues and raises Bébée, teaching her devotion to flowers and modest virtues. His death precipitates Bébée's independence and vulnerability, and his memory shapes her sense of duty and belonging."
+        }
+    ]
+}

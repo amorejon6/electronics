@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Living Alone : ELTeC edition",
+    "dcterms:creator": "Benson, Stella (1892-1933)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A whimsical, satirical novel set in wartime England in which a young social worker, Sarah Brown, is drawn into the orbit of a spirited witch (who calls herself Angela or Miss Watkins) and a circle of committee ladies, a mild wizard Richard Higgins, and other odd inhabitants of Mitten Island. The book juxtaposes everyday municipal life — committees, charity work, class anxieties — with recurring magical events: broomstick flights, spells, and a small household called the House of Living Alone. Wartime realities (air raids, soldiers, public duty) intrude and amplify moral and comic tensions, culminating in the burning and relocation of the House and the dispersal of its inhabitants. The tone mixes satire, tenderness, and fantasy while probing loneliness, charity, and the limits of social usefulness.",
+    "dcat:keyword": [
+        "magic",
+        "social satire",
+        "World War I",
+        "loneliness",
+        "charity"
+    ],
+    "dcat:theme": [
+        "Social satire",
+        "Fantasy",
+        "War-time domestic life"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "Mitten Island (fictional, England)",
+        "Higgins Farm / Parish of Faery (fictional, England)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1914"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1919"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Sarah Brown",
+            "profile": "A poor, earnest social-worker and the story's sympathetic focal figure; she is practical, habit-bound by charity office routine, physically frail and partly deaf, yet open-hearted and transformed by encounters with magic. Her decision to shelter and follow the witch leads her out of office life into the imaginative, communal world of Mitten Island and the Parish of Faery."
+        },
+        {
+            "name": "The Witch / Angela (Thelma Bennett Watkins)",
+            "profile": "A free-spirited, naive but powerful magic-worker who manages the House of Living Alone; she is irreverent, affectionate, and the catalyst for most supernatural episodes. She embodies anti‑conventional values, resists domestic conventions and legal authority, and ultimately chooses the solitary, itinerant life of a magic dweller."
+        },
+        {
+            "name": "Richard (Rrchud) Higgins",
+            "profile": "A mild, introspective young wizard and the son of Lady Arabel Higgins; he displays gentle occult power, owns Higgins Farm, and serves as a bridge between the magical and social worlds. He is romantic, absent-minded, and drawn to idealized love, offering Sarah a brief, tender companionship and practical help with magic when needed."
+        },
+        {
+            "name": "Peony",
+            "profile": "A warm, working-class woman and the witch's romantic interest (the 'True Love' figure linked to Richard's circle); she is earthy, humorous, devoted to an 'Elbert' figure, and represents the common people's capacity for loyalty and simple magic. Her storylines bring emotional grounding and rural, communal life into the novel's fantastical frame."
+        }
+    ]
+}

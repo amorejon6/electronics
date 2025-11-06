@@ -1,0 +1,55 @@
+{
+    "dcterms:title": "Los pazos de Ulloa : Edición ELTeC",
+    "dcterms:creator": "Pardo Bazán, Emilia (1851-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela que retrata la decadencia de una casa solariega gallega cuando el joven capellán Julián Álvarez llega para administrar y oficiar. En los Pazos de Ulloa se entrelazan la ruina económica, el caciquismo local y las pasiones privadas: el marqués don Pedro, Primitivo el mayordomo, la criada Sabel y la frágil Nucha protagonizan conflictos de poder, sexo y honor. La narración expone abusos, engaños y humillaciones en un ambiente rural opresivo que desemboca en violencia y tragedia familiar. Es un estudio crítico de las costumbres, la autoridad y la miseria moral en la Galicia de la segunda mitad del siglo XIX.",
+    "dcat:keyword": [
+        "decadencia aristocrática",
+        "caciquismo",
+        "Galicia rural",
+        "escándalo sexual",
+        "naturalismo"
+    ],
+    "dcat:theme": [
+        "Decadencia de la aristocracia rural",
+        "Corrupción social y caciquismo",
+        "Moralidad, sexo y escándalo"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3336902"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1886"
+            }
+        }
+    },
+    "dct:type": "Novela realista o naturalista (Victorian realist or naturalist novel)",
+    "mainCharacters": [
+        {
+            "name": "Julián Álvarez",
+            "profile": "Joven capellán, piadoso y tímido, destinado como administrador y curato en los Pazos. Es sensible, escrupuloso y caritativo; su idealismo y falta de malicia lo hacen víctima de las maquinaciones del entorno, pero también lo llevan a implicarse activamente en la protección de Nucha y su hija."
+        },
+        {
+            "name": "Don Pedro Moscoso (marqués de Ulloa)",
+            "profile": "Heredero caciquil de los Pazos, hombre rudo y orgulloso, habituado a la caza y al mando local. Suvanidad, brutalidad y pasiones privadas (celos y relaciones irregulares) marcan la vida del caserón y contribuyen a la descomposición moral y material de la casa familiar."
+        },
+        {
+            "name": "Marcelina 'Nucha' Pardo",
+            "profile": "Joven esposa de don Pedro, de carácter piadoso y sensible; madre dedicada cuya fragilidad física y nerviosa contrasta con una dignidad moral profunda. Su angustia y miedo ante las intrigas domésticas y la amenaza sobre su hija la convierten en figura trágica central."
+        },
+        {
+            "name": "Primitivo",
+            "profile": "Mayordomo y hombre de poder real en los Pazos: rudo, astuto y con influencia sobre los labriegos y dependientes. Su autoridad informal y su papel en la administración y en intrigas locales lo sitúan en el corazón de los abusos y conflictos que minan la casa."
+        }
+    ]
+}

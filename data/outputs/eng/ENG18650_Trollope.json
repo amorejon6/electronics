@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Can You Forgive Her? : ELTeC edition",
+    "dcterms:creator": "Trollope, Anthony (1815-1882)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The novel traces intersecting domestic and political dramas in mid‑Victorian England, centring on Alice Vavasor's moral struggle between duty, past passion and a pragmatic engagement. Parallel plots follow George Vavasor's ambitious and ruinous pursuit of parliamentary office, Lady Glencora Palliser's flirtation and its threat to her marriage, and the workings of aristocratic society and electioneering. Scenes move between drawing‑rooms, provincial estates and Continental resorts, exposing hypocrisy, financial scheming, and the costs of private passions. The narrative concludes in moral reckonings—ruin, repentance, reconciliation and domestic settlement—against the backdrop of public life and social reputation.",
+    "dcat:keyword": [
+        "marriage",
+        "politics",
+        "social class",
+        "ambition",
+        "financial ruin"
+    ],
+    "dcat:theme": [
+        "Marriage and social reputation",
+        "Political ambition and public life",
+        "Moral redemption and personal ruin"
+    ],
+    "dct:spatial": [
+        "England (London, Cambridgeshire/Nethercoats, Westmoreland/Lake District — Vavasor Hall, Norfolk/Yarmouth, Cheltenham, Chelsea, Matching/Matching Priory, Barsetshire)",
+        "Switzerland (Basel, Lucerne, Baden‑Baden)",
+        "https://www.geonames.org/2988507",
+        "Germany (Baden‑Baden)",
+        "Italy (travel mentioned)",
+        "United States (America — travel mentioned)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1870"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Alice Vavasor",
+            "profile": "A wealthy, thoughtful and morally conscientious heiress whose hesitation about marriage and past intimacy drive much of the plot. She struggles between duty, remorse and desire, at times funding George's ambitions and later repenting, ultimately reconciling with and marrying John Grey. Alice functions as the novel's moral centre, negotiating family pressure, social expectation and self‑forgiveness."
+        },
+        {
+            "name": "John Grey",
+            "profile": "A steady, honourable country gentleman who embodies Victorian propriety, constancy and patience. He loves Alice devotedly, tolerates her doubts, confronts social and violent threats (including George's pistol incident) and later enters public life as a Member of Parliament. John serves as the novel's moral anchor and exemplar of measured virtue."
+        },
+        {
+            "name": "George Vavasor",
+            "profile": "A charismatic, ambitious and morally unstable cousin whose parliamentary aspirations drive him to spending, deceit and ultimately financial ruin. After electoral failure and exposure he descends into despair, threatens violence, fires at John Grey and flees abroad, representing the destructive edge of pride and social ambition. George's trajectory illustrates the costs of personal ambition and social collapse."
+        },
+        {
+            "name": "Lady Glencora Palliser",
+            "profile": "A vivacious, impulsive duchess trapped in an emotionally distant marriage whose flirtation with Burgo Fitzgerald creates domestic and political crises. Her longing, confessions and social energy both provoke scandal and shape outcomes for friends and family, making her a powerful social influence and catalyst in the story. Glencora's dilemmas highlight tensions between private desire and public duty."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Coningsby: or, The New Generation : ELTeC edition",
+    "dcterms:creator": "Disraeli, Benjamin (1804-1881)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A political and social bildungsroman following Henry (Harry) Coningsby from boyhood at Eton through Cambridge and into public life amid the convulsions around the Reform Act. The novel tracks his upbringing under Lord Monmouth and the manager Rigby, his friendship with schoolfellows, his love for Edith Millbank, and his moral struggle over family loyalty, ambition and principle. Inheritance disputes, party manoeuvres (Tory/Whig), electioneering and parliamentary life drive the plot, while salons and country houses stage social satire and character study. Ultimately Coningsby rejects easy patronage, endures personal loss, marries Edith and seeks a career of public responsibility.",
+    "dcat:keyword": [
+        "political reform",
+        "aristocracy",
+        "social class",
+        "ambition",
+        "romance"
+    ],
+    "dcat:theme": [
+        "Political novel",
+        "Social novel",
+        "Novel of manners"
+    ],
+    "dct:spatial": [
+        "England (London, Eton, Cambridge, Lancashire/Darlford, Hellingsley)",
+        "https://www.geonames.org/2988507",
+        "Italy (Rome, Naples)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1831"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1841"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Harry Coningsby",
+            "profile": "Orphaned heir educated at Eton and Cambridge; idealistic, earnest and intellectually ambitious. He is the novel's protagonist whose moral and political development — torn between patronage, principle and private love — drives the narrative; he ultimately rejects facile patronage and seeks a public career on his own terms."
+        },
+        {
+            "name": "Edith Millbank",
+            "profile": "Daughter of a self-made Lancashire manufacturer, thoughtful, accomplished and morally steady. She is Coningsby's love and moral anchor: her lineage and her father's local power are pivotal to the plot (both socially problematic and ultimately decisive)."
+        },
+        {
+            "name": "Philip Augustus, Marquess of Monmouth (Lord Monmouth)",
+            "profile": "A great aristocratic patron: wealthy, worldly, capricious and politically influential. He provides Coningsby his early upbringing and social entry but embodies the old oligarchic order whose calculations, grudges and testamentary choices catalyse major conflicts in the story."
+        },
+        {
+            "name": "Nicholas Rigby",
+            "profile": "Cunning, voluble political manager and family retainer; a newspaper pamphleteer and fixer. Rigby controls access, manipulates opinion, and participates in electoral and private intrigues that influence inheritances and political outcomes; he is both patronage broker and moral foil."
+        }
+    ]
+}

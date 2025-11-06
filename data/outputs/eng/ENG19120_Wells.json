@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Marriage : ELTeC edition",
+    "dcterms:creator": "Wells, Herbert George (1866-1946)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A study of an English woman's relations and the strains of marriage in early twentieth-century society. Marjorie Pope moves between suitors, family pressures and social ambitions, eventually marrying Richard Trafford; both confront conflicts between domestic life and intellectual purpose. Trafford abandons laboratory research for business, later suffers a crisis of meaning and together they retreat to Labrador where hardship forces them to reassess priorities. The novel examines gender roles, class manners, the costs of material comfort and a search for a larger moral and intellectual life.",
+    "dcat:keyword": [
+        "marriage",
+        "social criticism",
+        "gender roles",
+        "intellectual crisis",
+        "Labrador retreat"
+    ],
+    "dcat:theme": [
+        "Marriage and family",
+        "Social novel / social criticism",
+        "Gender roles and modernity",
+        "Retreat/pilgrimage (search for meaning)"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6941040",
+        "https://www.geonames.org/5359957",
+        "https://www.geonames.org/6354959"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1915"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Marjorie Pope / Marjorie Trafford",
+            "profile": "A bright, impressionable and attractive young woman whose tastes and ambitions move between social ambition and deeper yearnings. She marries Trafford, becomes mother to several children, and ultimately follows him into an arduous Labrador retreat where she proves resourceful, loyal and reflective."
+        },
+        {
+            "name": "Richard A. G. Trafford",
+            "profile": "A scientific-minded, earnest man who rises from research into business and then suffers an existential crisis about the meaning of his work and life. His conflict between intellectual vocation and domestic obligations drives the central moral questions of the novel."
+        },
+        {
+            "name": "Will Magnet",
+            "profile": "A successful, established humorist and an early suitor to Marjorie whose courtship and later rejection exemplify the social pressures and matchmaking calculations of the milieu. He functions as a foil to Trafford's character and to Marjorie's evolving choices."
+        },
+        {
+            "name": "Mr. Pope",
+            "profile": "Marjorie's father, a retired coach-builder with strong conservative and moral opinions who embodies Victorian values, social pride and stubbornness. His authority and temperament create familial tensions that shape Marjorie's options and the family's dynamics."
+        }
+    ]
+}

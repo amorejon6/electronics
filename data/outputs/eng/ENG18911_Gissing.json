@@ -1,0 +1,64 @@
+{
+    "dcterms:title": "New Grub Street: A Novel : ELTeC edition",
+    "dcterms:creator": "Gissing, George (1857-1903).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The novel follows the intertwined lives of several writers and their families in late-19th-century England, contrasting the commercialised London literary market with provincial life. It traces the collapse of Edwin Reardon's literary career, the resulting separation from his wife Amy, and the social and economic consequences that ripple through two families. Parallel strands follow Marian Yule's dutiful struggle to support her scholarly father and Jasper Milvain's pragmatic rise in the periodical world. The narrative examines artistic integrity versus commerce, marriage and social mobility, and the human costs of poverty and ambition.",
+    "dcat:keyword": [
+        "literary life",
+        "poverty",
+        "ambition",
+        "marriage",
+        "social mobility"
+    ],
+    "dcat:theme": [
+        "Social novel / Social realism",
+        "The literary world: art versus commerce",
+        "Marriage, domestic strain and gender roles",
+        "Ambition and social mobility"
+    ],
+    "dct:spatial": [
+        "London, England (Islington, Westbourne Park, Camden Town, Putney Heath)",
+        "Wattleborough / Finden (fictional English provincial town)",
+        "https://www.geonames.org/2654710",
+        "https://www.geonames.org/2651817",
+        "Isle of Wight / Sussex coast, England",
+        "https://www.geonames.org/6696201"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1882"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1891"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Edwin Reardon",
+            "profile": "A sensitive, earnest novelist whose artistic integrity clashes with the commercial demands of the literary market; once respected, his talent is battered by poverty and loss of income. He refuses to compromise his principles, struggles to earn a living through menial work, and his declining health and eventual death form the emotional center of the story."
+        },
+        {
+            "name": "Amy Reardon",
+            "profile": "Edwin's intelligent and practical wife, devoted yet increasingly anxious about social position and material security; she is torn between affection and the humiliations of poverty. Her separation from Edwin, the complications of an unexpected inheritance, and her pragmatic choices drive much of the domestic and moral conflict in the novel."
+        },
+        {
+            "name": "Jasper Milvain",
+            "profile": "A clever, ambitious periodical writer who treats authorship as a profession and adapts readily to market tastes; charismatic, socially resourceful and success-minded. His career-oriented pragmatism and shifting loyalties—vacillating between idealism and practical calculation—contrast sharply with Reardon's artistic idealism and shape several romantic entanglements."
+        },
+        {
+            "name": "Marian Yule",
+            "profile": "A modest, well-read and dutiful woman who assists her scholarly, failing father; she is thoughtful and resilient in the face of family poverty and curtailed prospects. Marian becomes the emotional center of several relationships and embodying quiet self-sacrifice, she is driven from London to provincial employment as the family's misfortunes multiply."
+        }
+    ]
+}

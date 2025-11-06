@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "The Return of the Soldier : ELTec edition : ELTeC edition",
+    "dcterms:creator": "West, Rebecca [pseud. Cicily Isabel Fairfield] (1892-1983)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A shell-shocked English officer, Captain Christopher Baldry, returns from World War I with a memory loss that regresses him to the time of his first love. His amnesia splits the household: his wife Kitty feels humiliated and jealous, while his cousin-narrator Jenny observes and mediates. Margaret Allington, the working-class woman from his youth, becomes the focus of his renewed affection and faces the moral choice of restoring his memory or preserving his present happiness. The novel examines the personal and social consequences of war trauma within an English country-house setting.",
+    "dcat:keyword": [
+        "shell shock",
+        "amnesia",
+        "love triangle",
+        "World War I",
+        "class and domesticity"
+    ],
+    "dcat:theme": [
+        "War trauma and memory",
+        "Love, fidelity and sacrifice",
+        "Social class and domestic life"
+    ],
+    "dct:spatial": [
+        "England (Harrowweald, country estate)",
+        "England (Thames — Monkey Island)",
+        "https://www.geonames.org/3031137"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1916"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1916"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Captain Christopher (Chris) Baldry",
+            "profile": "A gentle, idealistic country gentleman and soldier who returns from the front suffering shell shock and retrograde amnesia. His mind reverts to the adolescent period when he loved Margaret Allington, creating the central conflict between past longing and present obligations. He is the emotional axis of the story, whose condition forces others to reveal their true feelings and social priorities."
+        },
+        {
+            "name": "Jenny Baldry",
+            "profile": "The novel's first-person narrator and Chris's cousin, perceptive and morally reflective. She balances compassion for Chris with acute jealousy and social awareness, acting as mediator between Kitty and Margaret. Through her voice the story explores interior reactions to trauma, love, and social expectation."
+        },
+        {
+            "name": "Kitty Baldry",
+            "profile": "Chris's wife: beautiful, socially polished, and possessive, she embodies the comforts and duties of upper-middle-class domestic life. Humiliated by Chris's indifference and his renewed attachment to Margaret, Kitty oscillates between brittle dignity and desperate attempts to retain her marriage and social standing. Her reactions highlight themes of pride, vulnerability, and the performance of femininity."
+        },
+        {
+            "name": "Margaret Allington",
+            "profile": "A plain, kindly working-class woman from Monkey Island who was Chris's first love and who now cares for him in his delusion. She is self-sacrificing and morally resolute, facing the agonizing choice whether to restore Chris's memory (and return him to his prior life) or to preserve the happiness of his present state. Her presence exposes class contrasts and the ethical dilemmas of compassion."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Sonata de estío : Edición ELTeC",
+    "dcterms:creator": "Valle-Inclán, Ramón María del (1866-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "El relato sigue las memorias en primera persona del Marqués de Bradomín, un aristócrata cínico y galante que viaja a México para olvidar amores desgraciados y se ve envuelto en una pasión tormentosa con la Niña Chole. La narración mezcla episodios de viaje y aventura marítima con escenas íntimas y eróticas, y se enmarca en un paisaje mexicano de playas, ruinas prehispánicas y llanuras áridas. Surgen conflictos violentos con bandoleros y con el poderoso general Diego Bermúdez, que marcarán el destino de los personajes. El tono es decadentista y melancólico, centrado en la exaltación del deseo, la culpa y la memoria del protagonista.",
+    "dcat:keyword": [
+        "amor",
+        "viaje",
+        "decadencia",
+        "violencia",
+        "México"
+    ],
+    "dcat:theme": [
+        "Amor y pasión",
+        "Aventura y viaje",
+        "Decadencia y erotismo"
+    ],
+    "dct:spatial": [
+        "México (Veracruz, Yucatán, Tierras calientes como Tuxtlán, Grijalba, Tixul)",
+        "Reino Unido (Londres, embarque)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Novela de aventuras",
+    "mainCharacters": [
+        {
+            "name": "Marqués de Bradomín",
+            "profile": "Narrador y protagonista: un aristócrata cínico, melancólico y galante que huye de un amor desgraciado emprendiendo viajes. Su voz combina orgullo noble, ironía y sensibilidad decadente; su papel es el de amante, testigo y articulador moral de los episodios."
+        },
+        {
+            "name": "Niña Chole (la Marquesa)",
+            "profile": "Joven mestiza de belleza exótica, sensual y enigmática que cautiva al Marqués; posee un pasado trágico y un pecado secreto que condiciona su conducta. Es el motor romántico y erótico de la trama, figura ambivalente entre víctima, seductora y objeto de disputa."
+        },
+        {
+            "name": "Juan de Guzmán",
+            "profile": "Capitán de los 'plateados', bandolero legendario de carácter caballeresco y valeroso; actúa como protector y figura heroica ligada al mundo violento de la frontera. Su presencia introduce el conflicto entre honor, violencia y lealtad, y su destino afecta directamente a la comunidad y al protagonista."
+        },
+        {
+            "name": "General Diego Bermúdez",
+            "profile": "Militar poderoso y temido, relacionado con la Niña Chole como figura paternal o señorial y responsable de actos de violencia y raptos. Representa la autoridad brutal del entorno mexicano y funciona como antagonista que determina el peligro sobre la pareja protagonista."
+        }
+    ]
+}

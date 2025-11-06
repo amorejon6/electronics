@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Jarrapellejos : Edición ELTeC",
+    "dcterms:creator": "Trigo, Felipe (1864 - 1916)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela rural que retrata la vida de provincias en un pueblo extremeño llamado La Joya, mostrando la convivencia de la miseria, el caciquismo y las hipocresías sociales. La trama gira en torno a un violento crimen en la ermita —la muerte de Cruz e Isabel— y el proceso que sigue, con la acusación y prisión de un profesor (`Cidoncha`) y las sospechas sobre personajes locales. Paralelamente la novela expone relaciones amorosas y pasiones (Ernesta, Octavio, don Pedro Luis), la explotación política del poder local y la emigración como salida de la pobreza. Es una crónica crítica de costumbres, honor y desigualdad social en la España de principios del siglo XX.",
+    "dcat:keyword": [
+        "caciquismo",
+        "violencia sexual",
+        "honor",
+        "miseria rural",
+        "emigración"
+    ],
+    "dcat:theme": [
+        "Crítica social y política local",
+        "Violencia de género y honor",
+        "Costumbres y vida rural"
+    ],
+    "dct:spatial": [
+        "España (Extremadura; pueblo ficticio «La Joya», menciones a Badajoz y Madrid)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1910"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1914"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Don Pedro Luis Jarrapellejos",
+            "profile": "Poderoso cacique local: rico, pragmático y protector de su territorio. Figura paternal y manipuladora que financia obras públicas y maneja favores y nombramientos; representa el clientelismo y la impunidad del poder regional."
+        },
+        {
+            "name": "Don Juan Cidoncha",
+            "profile": "Profesor de pueblo, idealista y progresista, dedicado a la enseñanza y a la organización cooperativa. Es acusado injustamente en el crimen de la ermita; su detención y sufrimiento constituyen el eje de la denuncia judicial y social."
+        },
+        {
+            "name": "Isabel \"la Fornarina\"",
+            "profile": "Joven trabajadora del pan y figura popular por su belleza y honradez; víctima central de la novela, su violación y muerte desatan la conmoción social. Su imagen deviene símbolo de inocencia y martirio frente al desorden moral del pueblo."
+        },
+        {
+            "name": "Ernesta (la forastera / futura condesa)",
+            "profile": "Mujer hermosa y cosmopolita, objeto de deseo de varios hombres del pueblo; pasa de forastera a condesa por matrimonio. Su ambivalente posición (víctima de miradas, vanidades y afectos) tensiona relaciones amorosas y sociales, y enlaza lo íntimo con la curiosidad pública."
+        }
+    ]
+}

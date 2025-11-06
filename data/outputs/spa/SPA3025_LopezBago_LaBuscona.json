@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La buscona : edición ELTeC",
+    "dcterms:creator": "López Bago, Eduardo (1853-1931)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en Madrid que narra la caída social y moral de Rosita Pérez, una mujer que ejerce la prostitución y lucha por sostener a su familia entre la miseria y los favores de hombres poderosos. Rosita se debate entre el joven escritor Miguel Loitia —quien la ama apasionadamente y con quien intenta una vida honesta— y el rico y libertino duque de Tres Estrellas, que la mantiene. La obra explora las causas sociales y médicas de la degradación (histeria, ninfomanía) y muestra la hipocresía y el desastre moral de la sociedad urbana. El conflicto familiar y la tragedia (la enfermedad y muerte del padre de Miguel) aceleran la caída de los protagonistas y subrayan la dimensión social del drama.",
+    "dcat:keyword": [
+        "prostitución",
+        "ninfomanía",
+        "celos",
+        "miseria urbana",
+        "amor y sacrificio"
+    ],
+    "dcat:theme": [
+        "Novela social",
+        "Crítica médico-social",
+        "Realismo urbano"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1868"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1890"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Rosita Pérez",
+            "profile": "Protagonista femenina, antigua «querida» que se convierte en buscona para sostener a su familia; es bella, astuta y contradictoria. Está dividida entre afecto sincero por Miguel y la dependencia material del duque, y su conducta es analizada desde un enfoque médico-social (histeria/ninfomanía)."
+        },
+        {
+            "name": "Miguel Loitia",
+            "profile": "Joven escritor e hijo del exgobernador Pedro Loitia, apasionado, idealista y celoso; se enamora profundamente de Rosita y aspira a vivir de la literatura. Su amor lo lleva al sacrificio y a la confrontación familiar, y sufre psicológicamente ante la doble relación de Rosita."
+        },
+        {
+            "name": "Duque de Tres Estrellas (Mariano)",
+            "profile": "Aristócrata rico, jugador y libertino que mantiene a Rosita con regalos y comodidades; representa la tentación del bienestar económico. Su relación con Rosita es ambivalente: generoso pero desapegado, y su presencia intensifica el conflicto entre amor y dinero."
+        },
+        {
+            "name": "D. Pedro Loitia",
+            "profile": "Padre de Miguel, exgobernador moderado, hombre de carácter severo en lo público pero cariñoso y débil en lo privado. Su angustia por la conducta del hijo y la situación familiar termina en una tragedia que marca el destino de los protagonistas."
+        }
+    ]
+}

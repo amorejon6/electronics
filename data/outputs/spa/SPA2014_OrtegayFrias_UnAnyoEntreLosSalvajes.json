@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Un año entre los salvajes: viajes y aventuras del doctor Smith : edición ELTeC",
+    "dcterms:creator": "Ortega y Frías, Ramón (1825-1883)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato de viajes y aventuras de un médico escocés, el doctor Smith, que tras sufrir desdichas personales emprende una expedición al África austral acompañado de su fiel criado Jorge. Tras un naufragio en la costa llegan al interior y enfrentan peligros naturales, fieras y encuentros violentos o amistosos con diversas tribus, mientras exploran valles, bosques, lagunas e islas. El texto combina episodios de caza, supervivencia y etnografía popular, con episodios de hospitalidad y conflicto con caciques como Maleke y Kuanuna. Finalmente regresan a la costa tras largos meses de travesía y peripecias, y el diario concluye con la intención de publicar otras memorias sobre el bosque de los Misterios.",
+    "dcat:keyword": [
+        "Aventura",
+        "Exploración",
+        "África",
+        "Náufragos",
+        "Encuentro cultural"
+    ],
+    "dcat:theme": [
+        "Aventura y exploración",
+        "Viajes y descubrimiento",
+        "Encuentros interculturales"
+    ],
+    "dct:spatial": [
+        "África meridional / interior del África austral",
+        "Costa del golfo de Guinea (Loanda, actual Angola)",
+        "Zonas ribereñas y del Zambezi; islas fluviales y costas del Océano Índico (referidas)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1880"
+            }
+        }
+    },
+    "dct:type": "Novela de aventuras",
+    "mainCharacters": [
+        {
+            "name": "Doctor Smith",
+            "profile": "Médico escocés, estudioso de las ciencias naturales y protagonista-narrador de la obra. Tras sufrir tragedias personales decide entregarse a la exploración; es sereno, reflexivo y valiente, combinando observación científica con espíritu aventurero."
+        },
+        {
+            "name": "Jorge",
+            "profile": "Fiel criado y compañero de viaje del doctor Smith, joven, astuto y valeroso. Acompaña a Smith en todas las peripecias, mostrando lealtad inquebrantable, impulsividad práctica y humor ocasional; actúa como salvavidas y brazo ejecutor en muchas circunstancias."
+        },
+        {
+            "name": "Maleke",
+            "profile": "Jefe local (macoloco) que hospeda y guía a Smith y Jorge en una etapa de la expedición. Generoso y hospitalario, facilita bueyes, hombres y conocimiento del territorio; representa un aliado clave en el diálogo intercultural y en la logística del viaje."
+        },
+        {
+            "name": "Kuanuna",
+            "profile": "Cacique de la isla elevada en el río, soberano ostentoso y curioso, rodeado de numerosas esposas. Aunque orgulloso y supersticioso, acoge a los viajeros con ceremonias y hospitalidad; su corte ofrece episodios significativos de contacto cultural y de asombro frente a las tecnologías y objetos europeos."
+        }
+    ]
+}

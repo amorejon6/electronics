@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "El honor castellano. Novela histórica original : edición ELTeC",
+    "dcterms:creator": "Amado Salazar, José María (-)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en 1366 durante las guerras entre Pedro I y Enrique de Trastámara, la novela narra el asedio al castillo de Cabezón y los dilemas del honor feudal. Un joven caballero, Don Fernando Alfonso de Zamora, rescata a doña Blanca pero su amor se ve enmarañado por lealtades dinásticas y por la pasión de Maria, una huérfana que lo cuida y finalmente se convierte en su verdadera amada. La trama combina duelos, rapto y venganza —con personajes que traicionan su juramento— hasta un clímax en que la fidelidad y el remordimiento llevan a sacrificios dolorosos y ejecuciones ejemplares. Tras episodios trágicos y reconciliaciones, la obra concluye con un enlace y el coste moral y humano pagado por varios protagonistas.",
+    "dcat:keyword": [
+        "honor",
+        "venganza",
+        "amor",
+        "Guerra civil (Pedro vs Enrique)",
+        "rapto"
+    ],
+    "dcat:theme": [
+        "Novela histórica",
+        "Romance caballeresco",
+        "Venganza y honor"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3111108",
+        "https://www.geonames.org/3106672",
+        "Valle de Altamira / Castillo de Cabezón"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1366"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1366"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Fernando Alfonso de Zamora",
+            "profile": "Joven caballero leal al rey Pedro, valiente y generoso; protagonista romántico cuya devoción y sentido del honor le llevan a rescatar y proteger a doña Blanca y a la huérfana María. Su fidelidad política y sus pasiones personales generan los conflictos centrales y su elección final impulsa la resolución sentimental de la novela."
+        },
+        {
+            "name": "Doña Blanca de Cabezón",
+            "profile": "Hija del señor de Cabezón, educada en un ambiente señorial y objeto de afectos rivales; su indecisión entre deber familiar, alianzas políticas y sentimiento personal provoca una tensión dramática. Representa la posición de la nobleza femenina en conflicto entre honor dinástico y afecto."
+        },
+        {
+            "name": "María (la huérfana)",
+            "profile": "Joven huérfana protegida por el padre Anselmo; cuidadora de Don Fernando cuando éste está moribundo y víctima de una pasión intensa y sacrificial. Su ternura, abnegación y el amor no correspondido que transforma en mutua culminan en un enlace que resuelve la línea romántica principal."
+        },
+        {
+            "name": "Don Rodrigo de Cabezón",
+            "profile": "Señor feudal severo y leal al bando de Enrique de Trastámara; anciano orgullo castellano que antepone juramentos y honor a su propia seguridad. Su trágico destino, el sacrificio y el remordimiento son el motor de la vertiente moral e histórica de la novela."
+        }
+    ]
+}

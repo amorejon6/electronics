@@ -1,0 +1,50 @@
+{
+    "dcterms:title": "El copo de nieve : edición ELTEC",
+    "dcterms:creator": "Grassi de la Cuenca, Ángela (1826-1883)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela de costumbres situada en el valle de Orduña que sigue el conflicto moral y doméstico de Clotilde, una joven de origen noble casada con el generoso industrial Guillermo. La obra narra su crisis interior causada por lecturas y una aventura epistolar con el artista Miguel, la calumnia pública y la catástrofe familiar que de ello se deriva. Tras huir, arrepentirse y expiar su falta en un internamiento religioso, Clotilde regresa, enfrenta la ruina y la reconciliación y restablece la paz del hogar. El libro combina crítica social, representaciones de la vida rural y reflexiones sobre el honor, la fe y el papel de la mujer en la familia.",
+    "dcat:keyword": [
+        "novela de costumbres",
+        "honor familiar",
+        "moral y religión",
+        "amistad y adulterio",
+        "reconciliación"
+    ],
+    "dcat:theme": [
+        "Novela de costumbres",
+        "Moral y religión",
+        "Novela social y familiar"
+    ],
+    "dct:spatial": [
+        "Orduña (Castilla la Vieja), España"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1880"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres (Novel of manners)",
+    "mainCharacters": [
+        {
+            "name": "Clotilde",
+            "profile": "Protagonista: joven de cuna noble, esposa de Guillermo, tierna y culta; su imaginación exaltada por la lectura la arrastra a una aventura epistolar que provoca escándalo y pérdida. Tras la huida y el arrepentimiento pasa por una intensa expiación espiritual y finalmente regresa para reconstruir el hogar y obtener la reconciliación."
+        },
+        {
+            "name": "Juana",
+            "profile": "Criada y hermana de adopción de la familia, ejemplo de abnegación y virtud: humilde, laboriosa y caritativa. Actúa como conciencia práctica del hogar, sostiene a la familia en las pruebas, perdona y confirma la estabilidad doméstica; su fidelidad moral es decisiva para la resolución de la trama."
+        },
+        {
+            "name": "Guillermo",
+            "profile": "Marido de Clotilde: industrial y hacendado generoso, de conducta noble y práctica. Afectado por los celos y las apariencias, sufre la intriga que pone en riesgo su fortuna y honra; pese a la prueba mantiene un carácter magnánimo y contribuye finalmente a la reconciliación y la restauración familiar."
+        },
+        {
+            "name": "Miguel",
+            "profile": "Joven artista escultor que seduce por su talento y encanto: provoca la crisis de Clotilde, parte a Madrid donde alcanza fama y se transforma. Tras la experiencia y la gloria, renuncia al equívoco, quema cartas comprometedoras y acaba recompensando la virtud (se casa con Juana), simbolizando el tránsito del extravío a la responsabilidad."
+        }
+    ]
+}

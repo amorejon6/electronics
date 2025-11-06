@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The New Antigone: A Romance : ELTeC edition",
+    "dcterms:creator": "Barry, William Francis (1849-1930)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An artist, Rupert Glanville, is invited to Trelingham Court to decorate the Great Hall and to restore a ruined Spanish altar-piece, becoming entangled in a delicate love triangle with Lady May Davenant and the free‑spirited Hippolyta Valence. A secret union between Rupert and Hippolyta collides with social conventions, jealousy and Hippolyta's radical humanitarian work in London's East End, and her subsequent disappearance propels Rupert into nihilist circles and a frantic search across provincial estates and the city. Political violence, conspiracies and revelations of hidden parentage lead to sacrifice and atonement: Ivor Mardol gives his life rescuing Lady May, and Hippolyta atones by entering a religious order and going abroad. Rupert recovers his memory and sense of duty, marries Lady May, and the novel closes on themes of art, repentance, social reform and domestic reconciliation in late‑Victorian England.",
+    "dcat:keyword": [
+        "art and restoration",
+        "secret marriage",
+        "social radicalism",
+        "religion and repentance",
+        "London slums"
+    ],
+    "dcat:theme": [
+        "Romance",
+        "Social and political critique (radicalism/nihilism)",
+        "Art and aestheticism",
+        "Redemption and religious penitence"
+    ],
+    "dct:spatial": [
+        "England (West Country coast: Trelingham Court, Yalden, Falside; London)",
+        "Spain (San Lucar, Seville, Sepúlveda)",
+        "https://www.geonames.org/498817"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1887"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Rupert Glanville",
+            "profile": "A talented, temperamental painter commissioned to decorate Trelingham Court and to restore the Madonna of San Lucar. Passionate and idealistic, his secret union with Hippolyta and his obsessive search for her after her disappearance drive much of the plot, leading him through fever, amnesia and moral crisis before recovery and domestic responsibility. His artistic temperament exposes the tensions between inspiration, social duty and personal honour."
+        },
+        {
+            "name": "Hippolyta Valence",
+            "profile": "Daughter of Colonel Valence, raised with radical, cosmopolitan ideas and practical self‑reliance; she is free‑spirited, sincere and morally zealous. Her humanitarian work in the East End, experiment with a non‑conformist marriage and subsequent disappearance precipitate the novel's moral and political crises; ultimately she atones by entering a religious order and leaves for missionary service abroad. Hippolyta embodies the collision of conscience, social reform and penitence."
+        },
+        {
+            "name": "Lady May Davenant (May Glanville)",
+            "profile": "The Earl's cultivated and restless daughter who presides at Trelingham and serves as patron and model for Rupert's work. Proud, emotionally strong and romantically inclined, she endures jealousy, an attempted suicide and reconciliation, and finally becomes Rupert's wife, closing the domestic arc of the novel through forgiveness and maternal responsibility. Her resemblance to an ancestral portrait and her role at the Court are central to family reconciliation themes."
+        },
+        {
+            "name": "Ivor Mardol",
+            "profile": "An erudite, reserved engraver and Rupert's oldest friend who assists with the technical and intellectual aspects of the restoration. Ambiguous in politics—linked to radical/nihilist circles yet humane in disposition—he is later revealed as Colonel Valence's son and performs a self‑sacrificing act by rescuing Lady May, reconciling political faith with Christian charity. He functions as foil to Rupert's impulsiveness and as moral and philosophical anchor in the narrative."
+        }
+    ]
+}

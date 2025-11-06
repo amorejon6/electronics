@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "A todo honor : edición ELTeC",
+    "dcterms:creator": "Trigo, Felipe (1864-1916)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Un joven teniente madrileño, Luis, aburrido en un pueblo de La Mancha, se enamora escuchando las noches la voz de una cantante que vive en un palacete. El marido de la mujer, don Julián Monteleón, interpreta mal la insistente presencia del forastero y lo reta a duelo, en el que Luis resulta gravemente herido y es llevado a la finca Las Mimbreras. Inés-María, la esposa, enviada para acompañar a la madre del herido, cuida a Luis y surge entre ambos una pasión prohibida que confronta honor, deber y deseo. La obra explora la hipocresía social y la religión del honor en un contexto provincial, culminando en una reparación pública, reconciliaciones y la partida con aparente dignidad social.",
+    "dcat:keyword": [
+        "duelo",
+        "honor",
+        "amor",
+        "música",
+        "sociedad provincial"
+    ],
+    "dcat:theme": [
+        "Honor y duelo",
+        "Pasión romántica",
+        "Crítica social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510409",
+        "Las Mimbreras (finca), España"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1910"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Luis",
+            "profile": "Joven teniente de Ingenieros procedente de Madrid, aficionado a la música y romántico. Es idealista y noble, víctima de un malentendido que le cuesta la vida casi por honor; su convalecencia en Las Mimbreras lo acerca a Inés y desemboca en una pasión conflictuada por la lealtad y el deber."
+        },
+        {
+            "name": "Inés-María",
+            "profile": "Esposa de don Julián, cantante de voz poderosa y mujer educada, piadosa y de conducta honrada. Se muestra compasiva y sacrificada al cuidar al herido; su atracción por Luis la coloca en un dilema moral entre el cariño, el deber conyugal y sus sentimientos íntimos."
+        },
+        {
+            "name": "Don Julián Monteleón",
+            "profile": "Hidalgo acomodado y hombre de honor, marido de Inés y propietario de Las Mimbreras. Tras interpretar mal las rondas nocturnas de Luis, provoca el duelo; luego, ante la equivocación y la desgracia, actúa con magnanimidad y busca reparar el daño manteniendo las apariencias de honor social."
+        },
+        {
+            "name": "Doña Fernanda",
+            "profile": "Madre de Luis, mujer enlutada por la posibilidad de perder a su hijo y de educación refinada. Figura vulnerable y agradecida por la ayuda recibida, su presencia moviliza la caridad de Inés y sirve de vínculo afectivo y social entre los protagonistas."
+        }
+    ]
+}

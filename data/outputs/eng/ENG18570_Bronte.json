@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Professor: A Tale : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Brontë, Charlotte (1816-1855).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An Englishman, William Crimsworth, forsakes patronage and genteel expectations to work in his brother’s northern manufacturing business, where he suffers harsh treatment and is eventually dismissed. He emigrates to Belgium, becomes a teacher, and builds an independent life through industry and integrity. He befriends and eventually marries Frances Evans Henri, an Anglo‑Swiss former lace‑mender whom he trains and who becomes his professional and domestic partner. The novel examines class conflict, the moral effects of industrial capitalism, the realities of teaching and female education, and personal perseverance in the Victorian era.",
+    "dcat:keyword": [
+        "Social class",
+        "Education",
+        "Work and industry",
+        "Love and marriage",
+        "Hypocrisy"
+    ],
+    "dcat:theme": [
+        "Social critique (class and labour)",
+        "Education and pedagogy",
+        "Domestic romance / marriage"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2800866",
+        "England (industrial town/X——shire and rural county)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1840"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1857"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "William Crimsworth",
+            "profile": "Narrator and protagonist: a thoughtful, principled man of gentle birth who chooses trade over patronage and endures harsh service before finding work as a teacher in Belgium. He is steady, conscientious, and determined to win independence by labour and honesty, becoming the moral centre of the story."
+        },
+        {
+            "name": "Frances Evans Henri (F. E. Henri)",
+            "profile": "An Anglo‑Swiss pupil, former lace‑mender who becomes a gifted teacher and William’s wife; industrious, modest and morally strong, she develops from a poor, self‑reliant young woman into an influential partner who helps build their school and domestic independence. Her reserve conceals deep feeling and intellectual capacity."
+        },
+        {
+            "name": "Edward Crimsworth",
+            "profile": "William’s elder brother and employer at the mill: a hard, domineering industrialist who embodies ruthless capitalist values and familial pride. His cruelty and class contempt precipitate William’s break with trade and set in motion the novel’s central conflicts about work, dignity, and social status."
+        },
+        {
+            "name": "Mademoiselle Zoraide Reuter (later Madame Pelet)",
+            "profile": "Directress of the Brussels pensionnat: courteous, tactful and politically astute, she is socially ambitious and manipulative in pursuing influence (and a match with the director Pelet). She represents pragmatic self‑interest and the ambivalent moral climate of the institutional world William encounters."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "dcterms:title": "Fern's Hollow : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Stretton, Hesba [pseud Sara Smith]\n                         (1832-1911).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set on the English uplands near the border with Wales, the novel follows Stephen Fern, a pious, hardworking boy who strives to protect his blind grandfather, sister Martha and little Nan after their family home is taken by the local master. A kindly young woman, Miss Anne, teaches Stephen to read and guides him in Christian duty while social pressure, enclosure and poaching bring conflict and tragedy—most painfully the accidental death of little Nan. Stephen endures temptation to revenge, falls ill, then recovers to forgive his enemies, witnesses the master’s ruin and deathbed repentance, and ultimately sees his home restored and offered a future through his benefactors. The story mixes rural social critique with moral and religious instruction and a coming-of-age arc for its protagonist.",
+    "dcat:keyword": [
+        "poverty",
+        "forgiveness",
+        "rural life",
+        "class conflict",
+        "religious morality"
+    ],
+    "dcat:theme": [
+        "Social injustice and class conflict",
+        "Christian moral instruction and forgiveness",
+        "Coming-of-age / moral formation",
+        "Family, loss and redemption"
+    ],
+    "dct:spatial": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1800"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1899"
+                }
+            }
+        }
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:startDate": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:endDate": {
+                "xsd:gYear": "1870"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Stephen Fern",
+            "profile": "A solemn, dutiful adolescent who becomes head of his household after his father's death. He is morally conscientious and religiously formed by Miss Anne's teaching; he resists revenge, endures grief over little Nan's death, recovers from illness and ultimately pardons his enemies."
+        },
+        {
+            "name": "Miss Anne",
+            "profile": "Mr. Wyley's compassionate niece who befriends and instructs Stephen in reading and Christian faith. She functions as moral guide and protector, intervenes legally and pastorally for the family, and prays and cares for both Stephen and the dying master."
+        },
+        {
+            "name": "Martha Fern",
+            "profile": "Stephen's elder sister, practical and proud, skilled in household tasks but vulnerable to vanity and peer pressure. Her momentary negligence leads to little Nan's death, provoking deep repentance and a moral transformation under Miss Anne's influence."
+        },
+        {
+            "name": "Little Nan",
+            "profile": "The infant daughter of the household whose innocence and affectionate faith (learning prayers and hymns) galvanise Stephen's devotion. Her accidental death is the novel's tragic pivot, precipitating grief, temptation to vengeance, repentance among others, and ultimately moral growth and reconciliation."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "dcterms:title": "El sombrero de tres picos :  edición ELTeC",
+    "dcterms:creator": "Alarcón, Pedro Antonio de  (1833-1891)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en una ciudad andaluza a comienzos del siglo XIX que narra las peripecias del molinero Lucas y su esposa Frasquita. El poderoso Corregidor, enamorado de Frasquita, trama apartar a Lucas y deshonrar a la pareja mediante arrestos y engaños, pero la situación se complica entre identidades falsas, disfraces y malentendidos. La intriga culmina en una humillación pública del Corregidor y en la explicación que restituye el honor de Frasquita y la reconciliación del matrimonio. La obra combina sátira social, comedia de costumbres y crítica al poder local en clave popular y festiva.",
+    "dcat:keyword": [
+        "celos",
+        "engaño",
+        "honor",
+        "costumbrismo",
+        "sátira"
+    ],
+    "dcat:theme": [
+        "Comedia social",
+        "Costumbrismo",
+        "Sátira del poder local",
+        "Romance y celos"
+    ],
+    "dct:spatial": [
+        "Andalucía, España (región rural y ciudad provincial no especificada)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1804"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1808"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1808"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1823"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Frasquita (la señá Frasquita)",
+            "profile": "Joven y hermosa mujer navarra casada con el molinero Lucas; alegre, vivaz y de fuerte carácter moral. Es objeto de admiración y deseo de las autoridades locales, pero demuestra resolución y astucia —llega a apuntar con un trabuco al Corregidor— para defender su honra. Su inocencia y dignidad son el motor que impulsa la trama hacia la reconciliación final."
+        },
+        {
+            "name": "Lucas (el tío Lucas, Lucas Fernández)",
+            "profile": "Molinero murciano, robusto y jorobado, hombre práctico, honrado y profundamente enamorado de Frasquita. Pasa de la confianza absoluta a los celos cuando sospecha una infidelidad, pero actúa con ingenio (llega a vestirse como Corregidor) para reivindicar su honor. Protagonista moral de la historia cuya evolución entre duda y perdón ensaya la temática central."
+        },
+        {
+            "name": "Don Eugenio de Zúñiga (el Corregidor)",
+            "profile": "Autoridad local de alcurnia madrileña, viejo, orgulloso y sensual; representa el abuso de poder y la hipocresía social. Intenta seducir a Frasquita y organiza intrigas para apartar a Lucas, pero es finalmente ridiculizado y desenmascarado. Su caída sirve como blanco de la sátira y la crítica social de la obra."
+        },
+        {
+            "name": "Doña Mercedes Carrillo (la Corregidora)",
+            "profile": "Esposa joven, noble y digna del Corregidor; impone autoridad moral y tacto social. Frontal y serena, comprende la inocencia de Frasquita y actúa con magnanimidad y temple para restablecer el orden y lograr una solución prudente al escándalo. Su papel equilibra la trama y ejerce como voz de juicio frente a los abusos masculinos."
+        }
+    ]
+}

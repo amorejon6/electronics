@@ -1,0 +1,70 @@
+{
+    "dcterms:title": "Las esmeraldas : Edición ELTeC",
+    "dcterms:creator": "Dicenta, Joaquín (1862 - 1917)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela gira en torno al aderezo de esmeraldas de la casa de Neblijar, joyas con una leyenda de maldición ligada a la diosa Kalí tras el combate del duque Alfonso con el pirata Ben-Alí. La acción principal presenta a Leonor Pérez de Carmona, que recibe las alhajas al casarse y, por vanidad y deseo, las luce hasta verse envuelta en un adulterio con el conde de Nuévalos y en deudas cuyo rescate implica recurrir al usurero don Agapito. La trama muestra los engaños, empeños y chantajes que conducen al descubrimiento de la infidelidad por su marido, el duque Alfonso, y a la humillación pública de Leonor. Temas de honor familiar, venganza, decadencia aristocrática y la presencia ambigua de lo sobrenatural (la maldición de Kalí) atraviesan el relato.",
+    "dcat:keyword": [
+        "esmeraldas",
+        "maldición",
+        "adulterio",
+        "honor",
+        "decadencia aristocrática"
+    ],
+    "dcat:theme": [
+        "Infidelidad y pasión",
+        "Honor y venganza",
+        "Crítica social a la aristocracia",
+        "Elemento sobrenatural / maldición"
+    ],
+    "dct:spatial": [
+        "España (Madrid; posesiones próximas a Córdoba; Andalucía)",
+        "Mares del Mediterráneo / Túnez (episodio fundacional)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1500"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1525"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1910"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Leonor Pérez de Carmona",
+            "profile": "Joven duquesa de Neblijar, hermosa y vanidosa, receptora del aderezo de esmeraldas; su deseo de lujo y de protagonismo la conduce al adulterio y a decisiones desesperadas como empeñar las joyas. Su conflicto central articula la trama: víctima de la pasión y de la presión social, su caída revela la tensión entre libido, honra y apariencia."
+        },
+        {
+            "name": "Alfonso, duque de Neblijar",
+            "profile": "Descendiente orgulloso de la estirpe de Neblijar, honorista y viril, representa el ideal familiar y la autoridad patriarcal; su ancestro hundió la galera del pirata y resguarda la tradición de la casa. Al descubrir la infidelidad y el humillamiento a las alhajas, actúa con severidad para preservar el honor familiar, ejerciendo la venganza y la ruptura definitiva."
+        },
+        {
+            "name": "Fernando, conde de Nuévalos",
+            "profile": "Galán taimado y jugador, seductor sin escrúpulos que mantiene una relación explotadora con Leonor; vive de las rentas ajenas, el juego y la manipulación. Es el motor de la crisis económica y moral que obliga a Leonor a comprometer las esmeraldas y desencadena el conflicto."
+        },
+        {
+            "name": "Don Agapito Regúlez",
+            "profile": "Rico prestamista y usurero, personaje vulgar y oportunista que aprovecha la situación de Leonor para intentar obtener favores y beneficio personal. Representa la corrupción y el comercio del honor: su intervención permite el empeño temporal de las joyas pero añade una dimensión de chantaje y degradación social."
+        }
+    ]
+}

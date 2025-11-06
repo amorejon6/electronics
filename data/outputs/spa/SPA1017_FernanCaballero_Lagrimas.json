@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Lágrimas: novela de costumbres contemporáneas : edición ELTeC",
+    "dcterms:creator": "Böhl de Faber y Ruiz de Larrea, Cecilia [Fernán Caballero] (1796-1877)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela de costumbres ambientada en Andalucía en la que se narra la historia de Lágrimas, una niña americana huérfana que pierde a su madre en un naufragio y crece frágil y piadosa bajo el cuidado de religiosas y amistades. La obra contrapone personajes y valores: la ternura y la fe de Lágrimas frente a la ambición y el cálculo social de personajes como D. Roque la Piedra, millonario interesado. Se desarrolla también un relato de amistades, amores y engaños (Reina, Genaro, Marcial, Tiburcio) y las maniobras económicas alrededor de un convento que termina hipotecado y transformado. El tono combina sentimentalismo religioso con sátira social y moral sobre la decadencia de las costumbres y la influencia del dinero.",
+    "dcat:keyword": [
+        "orfandad",
+        "costumbrismo",
+        "religiosidad",
+        "clase y dinero",
+        "amistad y sacrificio"
+    ],
+    "dcat:theme": [
+        "Novela de costumbres",
+        "Novela social",
+        "Ficción moral / religiosa"
+    ],
+    "dct:spatial": [
+        "España (Andalucía: Sevilla, Cádiz)",
+        "Villamar (pueblo ficticio, Andalucía)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1837"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1848"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres (Novel of manners)",
+    "mainCharacters": [
+        {
+            "name": "Lágrimas",
+            "profile": "Niña americana huérfana, frágil de salud y profundamente religiosa; personaje central que simboliza la piedad, la inocencia y el sacrificio. Su vida y muerte —tras ser manipulada por intereses familiares y económicos— desencadenan la carga moral de la novela."
+        },
+        {
+            "name": "Reina (marquesa de Alocaz — hija)",
+            "profile": "Joven hermosa, mimada y orgullosa, criada por la marquesa; amiga íntima de Lágrimas que despierta luego un conflicto amoroso entre su afecto, su orgullo y su futuro matrimonial. Representa la juventud de clase alta y las contradicciones entre sentimiento y conveniencia social."
+        },
+        {
+            "name": "Don Roque la Piedra",
+            "profile": "Hombre rico, toscamente ambicioso y mercantil, padre de Lágrimas; millonario nacido en América que piensa en los negocios y en el control patrimonial por encima de la ternura. Su presencia y operaciones (hipotecas, compra del convento) movilizan la trama económica y moral."
+        },
+        {
+            "name": "Genaro",
+            "profile": "Joven serio, culto y reservado, con talento y posición modesta; es el interés amoroso de Reina y contrapunto reflexivo frente a los otros pretendientes. Su conducta estratégica y contenida articula el conflicto sentimental y la tensión entre orgullo y entrega."
+        }
+    ]
+}

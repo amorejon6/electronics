@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Mark Rutherford's Deliverance : ELTec edition : ELTeC edition",
+    "dcterms:creator": "White, William Hale (1831-1913).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A first-person autobiographical novel in which a struggling London clerk recounts his work as a parliamentary reporter, his friendship with the idealistic reformer M’Kay, and their attempts to minister to the urban poor in Drury Lane. The narrator reflects on political scepticism, religious doubt and consolation, and the limits of practical charity while sketching the lives of several destitute or distressed acquaintances. He reunites and marries Ellen Butts, whose devout patience and later illness and recovery shape the narrator’s domestic life and moral outlook. The book moves between social observation, spiritual meditation, and intimate scenes of love, care, and daily hardship in late Victorian England.",
+    "dcat:keyword": [
+        "religion",
+        "urban poverty",
+        "social reform",
+        "autobiographical reflection",
+        "Victorian London"
+    ],
+    "dcat:theme": [
+        "Religion and spiritual crisis / spiritual autobiography",
+        "Social criticism and urban poverty",
+        "Victorian realism (moral and domestic life)"
+    ],
+    "dct:spatial": [
+        "London, England (Camden Town, Goodge Street, Drury Lane, House of Commons, Strand)",
+        "Cowston and surrounding villages (provincial England)",
+        "Coastal towns: Hastings, Bexhill (southern England)",
+        "Unnamed native provincial town in England"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "start": {
+                "xsd:gYear": "1830"
+            },
+            "end": {
+                "xsd:gYear": "1884"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Mark Rutherford (narrator)",
+            "profile": "A reflective, educated but precariously employed clerk and parliamentary reporter whose interior life is dominated by religious questioning, moral sensitivity, and a yearning for meaningful action. He is both observer and participant—engaged in Sunday work among the poor while struggling with office drudgery and providing for his household after marrying Ellen."
+        },
+        {
+            "name": "M’Kay",
+            "profile": "An earnest, idealistic reformer and friend of the narrator who organizes a simple Christian meeting-room in Drury Lane and seeks to revive a practical, unifying Christianity among the urban poor. Passionate about social improvement, he is practical in rescuing a few individuals but gradually faces the limits of his project."
+        },
+        {
+            "name": "Ellen Butts (Mrs. Butts)",
+            "profile": "A devout, patient widow who becomes the narrator’s wife; her faith is practical and consolatory, shaping a compassionate response to suffering. She is morally steady, reads the Bible for strength, and through illness and recovery becomes the moral and domestic center of the household."
+        },
+        {
+            "name": "C. Leroy Butts (Clem)",
+            "profile": "The narrator’s boyhood friend and a charming, socially ambitious schoolmaster whose superficial talents and selfishness lead to moral failure and scandal. Clem is outwardly congenial and successful in society, yet hollow in devotion and ultimately betrays responsibilities to those close to him."
+        }
+    ]
+}

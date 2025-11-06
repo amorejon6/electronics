@@ -1,0 +1,81 @@
+{
+    "dcterms:title": "Los caballeros del amor (Memorias del reinado de Carlos III) : edición ELTeC",
+    "dcterms:creator": "Castillo, Rafael del (1830-1908)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada principalmente en la España del reinado de Carlos III que combina intriga cortesana, secuestros, duelos y venganzas privadas. Sigue la peripecia de don Luis de Guevara, joven hidalgo favorecido por la corte y dividido entre dos amores contrapuestos: la pura María Ortiz de Quiñones y la altiva condesa doña Isabel de Zúñiga. A su alrededor se tejen complots instigados por doña Catalina de Sandoval y cómplices (entre ellos bandas de bandoleros y figuras como Zarini y Armendáriz) que provocan raptos, asesinatos, arrestos y maniobras políticas. La narración incorpora además episodios históricos y fronterizos (incluyendo tramas en la Andalucía y la Granada nazarí, así como referencias a Italia y la Nueva España), entrelazando aventura, melodrama romántico y una crítica al honor y la corrupción social.",
+    "dcat:keyword": [
+        "amor",
+        "venganza",
+        "honor",
+        "secuestro",
+        "intriga política"
+    ],
+    "dcat:theme": [
+        "Amor y pasiones",
+        "Venganza y ajuste de cuentas",
+        "Intriga política y cortesana",
+        "Honor y reputación social",
+        "Frontera cristiano‑musulmana / choque cultural"
+    ],
+    "dct:spatial": [
+        "España (Madrid; Valsain; Sierra Morena; Pardo; Real Sitio; Granada; Baza; Valladolid; Toledo; Cabra; Salamanca; Andalucía)",
+        "Italia (Venecia; Nápoles)",
+        "https://www.geonames.org/3996063"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1406"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1454"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1560"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1560"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1770"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1792"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Luis de Guevara",
+            "profile": "Hidalgo joven, valiente y apasionado, protagonista central perseguido por intrigas, heridas y falsos cargos; su destino impulsa rescates, duelos y reconciliaciones. Favorecido por el rey y con ambiciones políticas, su conflicto entre el amor y el honor lo sitúa en el centro de la acción sentimental y criminal."
+        },
+        {
+            "name": "María Ortiz de Quiñones",
+            "profile": "Hija del conde de Lazán, de fuerte rectitud moral e imagen de virtud y sacrificio; representa el primer y puro amor de don Luis. Su resistencia a compromisos forzados y su papel como mediadora familiar la convierten en motor sentimental y moral de la trama."
+        },
+        {
+            "name": "Doña Isabel de Zúñiga (condesa de Santillán)",
+            "profile": "Aristócrata altiva y compleja, profundamente apasionada por don Luis y hábil en la intriga cortesana; su posición y recursos la hacen pieza clave en los enredos amorosos y políticos. Inteligente y calculadora, mezcla deseo y ambición, alimentando celos y conspiraciones."
+        },
+        {
+            "name": "Doña Catalina de Sandoval",
+            "profile": "Dama vengativa y libertina que dirige redes de cómplices, secuestros y artimañas para humillar a sus rivales; actúa como instigadora de complots y símbolo de la fuerza destructora de la pasión y la revancha. Su rencor y maquinaciones son motor de muchas de las desgracias familiares y criminales."
+        }
+    ]
+}

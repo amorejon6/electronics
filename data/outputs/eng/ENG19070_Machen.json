@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "The Hill of Dreams: ELTeC edition",
+    "dcterms:creator": "Machen, Arthur (1863-1947)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The novel follows Lucian Taylor, a sensitive and bookish young man raised in a rural parish who becomes obsessed with a nearby Roman fort and the visionary experiences it seems to awaken. He pursues literary ambitions, endures a humiliating theft of his manuscript, and falls into an intense, often eroticized devotion to Annie Morgan while cultivating a private ritualised art. Moving to London to write, he alternates between ecstatic inspiration and crushing desolation, increasingly alienated from ordinary society. The book closes on his isolation and ambiguous death amid hallucinations and the trappings of his strange cult of art and love.",
+    "dcat:keyword": [
+        "decadence",
+        "obsession",
+        "pastoralism",
+        "love",
+        "supernatural"
+    ],
+    "dcat:theme": [
+        "Decadent/weird fiction",
+        "Artist's struggle and literary ambition",
+        "Pastoral nostalgia and rural Gothic"
+    ],
+    "dct:spatial": [
+        "Wales (Caermaen, the Roman fort / Siluria)",
+        "England (London, western suburbs)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1905"
+            }
+        }
+    },
+    "dct:type": "Gothic or horror novel",
+    "mainCharacters": [
+        {
+            "name": "Lucian Taylor",
+            "profile": "A dreamy, bookish young writer whose imaginative sensitivity isolates him from his rural community. Lucian's aesthetic and erotic obsessions—centered on a Roman fort and on Annie Morgan—drive his creative work and his descent into ritualised self-torture, hallucinatory visions, and eventual ruin."
+        },
+        {
+            "name": "Mr. Taylor (the Reverend)",
+            "profile": "Lucian's widowed father, a learned but impoverished country parson who loves and worries for his son. He provides a practical, earthbound counterpoint to Lucian's fantasies and his death removes Lucian's last steady domestic anchor."
+        },
+        {
+            "name": "Annie Morgan",
+            "profile": "A farm girl from the neighbouring White House whose beauty and sensual presence becomes the focal symbol of Lucian's desires and mystical devotion. She functions both as a real lover and as an emblem of the heroine in Lucian's ritualised, often ambiguous visionary world."
+        },
+        {
+            "name": "Miss Deacon",
+            "profile": "Lucian's cousin and housekeeper: prudish, practical, and socially conventional, she organises the household and scolds Lucian's eccentricities. She represents provincial respectability and the unromantic social expectations that clash with Lucian's artistic vocation."
+        }
+    ]
+}

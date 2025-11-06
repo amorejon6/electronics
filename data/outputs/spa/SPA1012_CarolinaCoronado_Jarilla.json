@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Jarilla : Edición ELTec",
+    "dcterms:creator": "Coronado, Carolina (1820-1911)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada en la España de fines de la Edad Media (reinados de Enrique III y Juan II) que entrelaza hechos políticos con una fábula romántica. Narra la peripecia de Román, joven caballero señalado en la guerra y pretendido por la corte, y su amor por Jarilla, una joven de la sierra de vida sencilla. El conflicto entre honor familiar, ambiciones cortesanas y el choque cultural cristiano/árabe conduce a decisiones extremas (incluida la apostasía de Román) y a una cadena de venganzas, profecías y muertes trágicas. La acción combina episodios de combate, intriga cortesana y escenas pastoriles que culminan en un desenlace fatal para los amantes.",
+    "dcat:keyword": [
+        "amor trágico",
+        "honor",
+        "choque cultural (cristiano/moro)",
+        "época medieval",
+        "venganza"
+    ],
+    "dcat:theme": [
+        "Amor romántico y tragedia",
+        "Honor, linaje y legitimidad",
+        "Conflicto político y poder cortesano",
+        "Identidad religiosa y conversión"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2593112",
+        "https://www.geonames.org/2510409",
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1406"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1454"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Román",
+            "profile": "Joven caballero valeroso y culto, protegido real y héroe militar. Protagonista cuya pasión por Jarilla le enfrenta a convenciones, al linaje y a la Iglesia: su amor y los dilemas de honor le llevan a apostasía y a decisiones extremas que terminan trágicamente."
+        },
+        {
+            "name": "Jarilla",
+            "profile": "Doncella del bosque, ingenua, pura y profundamente enamorada de Román. Representa la inocencia pastoril y el ideal romántico; su fragilidad y enfermedad, alimentadas por la pasión y el abandono, precipitan el desenlace trágico."
+        },
+        {
+            "name": "Regío (el Moro Regío)",
+            "profile": "Antiguo señor moro de los castillos, figura trágica y resentida que vive en el exilio y la ruina. Protector de Jarilla y origen de la complicada cuestión de linaje; su historia y venganza alimentan el conflicto cultural y la tensión entre cristianos y moros."
+        },
+        {
+            "name": "Doña Inés (duquesa heredera de Silves)",
+            "profile": "Dama portuguesa de alta cuna, ambiciosa y calculadora; esposa del marqués de Villena por conveniencia. Actúa como antagonista en la trama sentimental: su intervención y manipulación afectan el destino de Jarilla y precipitan episodios de engaño y desgracia."
+        }
+    ]
+}

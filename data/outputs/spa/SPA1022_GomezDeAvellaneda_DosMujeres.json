@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Dos mujeres : Edición ELTeC",
+    "dcterms:creator": "Gómez de Avellaneda, Gertrudis (1814-1873)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela sentimental y de costumbres ambientada principalmente en Sevilla y Madrid a principios del siglo XIX. Narra la historia de un triángulo amoroso entre Carlos, su joven y piadosa esposa Luisa, y la seductora condesa Catalina, cuya pasión conduce a rupturas familiares, celos, sacrificios y a una tragedia final. La obra explora la tensión entre deber, pasión y reputación social, mostrando cómo la sociedad y el orgullo moldean y castigan las debilidades humanas. El desenlace subraya la expiación, la piedad y la dureza de los juicios públicos sobre las mujeres.",
+    "dcat:keyword": [
+        "amor prohibido",
+        "celos",
+        "sacrificio",
+        "virtud y culpa",
+        "sociedad decimonónica"
+    ],
+    "dcat:theme": [
+        "Amor y pasión prohibida",
+        "Crítica social y moralidad (novela de costumbres)"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510911",
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1817"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1826"
+            }
+        }
+    },
+    "dct:type": "Novela sentimental",
+    "mainCharacters": [
+        {
+            "name": "Luisa",
+            "profile": "Joven andaluza, dulce, piadosa e inocente; esposa de Carlos. Representa la virtud doméstica y la víctima principal del adulterio de su marido; su bondad, sacrificio y resignación moralizan la tragedia y movilizan la compasión."
+        },
+        {
+            "name": "Carlos de Silva",
+            "profile": "Joven sevillano, educado en Francia, guapo y apasionado; esposo de Luisa y amante de la condesa. Personaje dividido entre deber familiar y deseo, su conflicto interior impulsa la trama: ambición, remordimiento y decisiones precipitadas lo convierten en centro del drama moral."
+        },
+        {
+            "name": "Catalina, condesa de S.***",
+            "profile": "Mujer cosmopolita, culta y fascinante, de origen francés; amante de Carlos. Personifica la compleja mezcla de talento, orgullo, sensualidad y generosidad: su pasión es a la vez sublime y destructora; su conflicto termina en una muerte trágica que reaviva la compasión pública."
+        },
+        {
+            "name": "Don Francisco de Silva",
+            "profile": "Padre de Carlos, caballero de Sevilla, conservador y orgulloso; impulsor decisivo en la carrera y los movimientos familiares. Su autoridad y sus decisiones (envío a Madrid, deseos de ascenso) influyen en las separaciones y tensiones; al final actúa entre la ira y la prudencia paterna."
+        }
+    ]
+}

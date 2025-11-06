@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Prophet's Mantle : ELTeC edition",
+    "dcterms:creator": "Nesbit, Edith (1858-1924)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A politically charged novel following Russian exile Count Michael Litvinoff and his circle in England, mixing revolutionary agitation with intimate English country life. Litvinoff's pamphlet and speeches inflame passions; his association with the Ferrier family embroils two brothers in rivalry over Clare Stanley and in a closing of Thornsett Mill that triggers labour unrest. Parallel threads follow Alice Hatfield's fall, rescue and marriage, and the fate of several men crushed by class conflict, culminating in violence, tragedy and personal sacrifice. The book examines the costs of political commitment, personal conscience, and the collision of private love with public causes.",
+    "dcat:keyword": [
+        "Revolution",
+        "Class conflict",
+        "Exile",
+        "Sacrifice",
+        "Love"
+    ],
+    "dcat:theme": [
+        "Social and political reform (revolutionary/nihilist politics)",
+        "Class conflict and industrial relations",
+        "Love, conscience and personal sacrifice",
+        "Social realism / moral drama"
+    ],
+    "dct:spatial": [
+        "England (Derbyshire, London)",
+        "https://www.geonames.org/498817",
+        "https://www.geonames.org/10128243"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1890"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Count Michael Litvinoff",
+            "profile": "A Russian noble and charismatic revolutionary exile whose pamphlets and speeches galvanise both workers and intellectuals. He is generous, adventurous and morally restless, caught between public commitment and private attachments; his interventions drive much of the plot and provoke both admiration and conflict."
+        },
+        {
+            "name": "Armand Percival (Mr Percival / private secretary)",
+            "profile": "An English–French young man who becomes Litvinoff's private secretary and confidant; energetic, loyal and romantically inclined. His close involvement in revolutionary activity, and the consequences for himself and others, illustrate the novel's tensions between personal fate and political struggle."
+        },
+        {
+            "name": "Richard Ferrier",
+            "profile": "Eldest son of a self-made millowner, practical and principled, who inherits the family mill and struggles morally when domestic rivalry and scandal erupt. His jealousy, rigid honour and attempts to do what is 'right' precipitate quarrels with his brother and have devastating social consequences for the village."
+        },
+        {
+            "name": "Clare Stanley",
+            "profile": "A socially aware, educated young heiress whose encounter with radical ideas reshapes her sense of duty and use of wealth. Gentle, morally earnest and increasingly committed to social reform, she becomes the emotional centre for several male characters and faces painful ethical choices between private feeling and public responsibility."
+        }
+    ]
+}

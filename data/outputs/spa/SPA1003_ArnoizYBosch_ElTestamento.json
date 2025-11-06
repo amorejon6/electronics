@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "El testamento de Don Juan I : edición ELTec  : ELTeC edition",
+    "dcterms:creator": "Arróriz y Bosch, Teresa (1827-1890)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en Castilla tras la muerte de Juan I (1390), la novela narra las intrigas políticas y personales que estallan entre prelados, magnates y servidores a causa de un testamento oculto. La rivalidad entre el arzobispo de Toledo y el arzobispo de Santiago, aliada con la ambición del duque de Benavente, desencadena una regencia disputada, venganzas privadas y un duelo fatal. En ese clima se cruzan historias de amor no correspondido, sacrificios y traiciones —especialmente la de Rodrigo López de Ayala, Elvira Manrique y D. Fadrique— que culminan en funerales, decisiones de Estado y la eventual restauración legal del testamento. Es una reconstrucción histórica y sentimental de la minoría de Enrique III, con episodios de torneo, cacerías y luchas por el poder.",
+    "dcat:keyword": [
+        "regencia",
+        "venganza",
+        "honor",
+        "corte medieval",
+        "testamento"
+    ],
+    "dcat:theme": [
+        "Política y lucha por el poder",
+        "Venganza y honor",
+        "Relaciones de corte y melodrama sentimental"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3127461",
+        "https://www.geonames.org/3106672",
+        "Monreal / Ocaña (España)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1390"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1399"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Rodrigo López de Ayala",
+            "profile": "Alférez mayor del rey y caballero valeroso; es leal, orgulloso y recto. Su valor en justas y en la guerra convive con una pasión profunda por Elvira, cuya aparente infidelidad y la muerte ligada a la venganza del Duque le llevan a decisiones dramáticas y a ocupar un papel central en la búsqueda de justicia."
+        },
+        {
+            "name": "D. Fadrique de Castilla, duque de Benavente",
+            "profile": "Bastardo real poderoso, ambicioso y de fuerte temperamento; actúa como uno de los principales agentes políticos y militares. Su orgullo, sus agravios y su amor no correspondido por Catalina impulsan gran parte del conflicto: monta alianzas, ordena acciones violentas y acaba provocando consecuencias trágicas."
+        },
+        {
+            "name": "D. Pedro Tenorio (arzobispo de Toledo)",
+            "profile": "Primado con gran astucia política, mezcla fe religiosa con ambición de poder; busca ordenar la regencia y frenar la desmesura de los bandos. Actúa como negociador y figura de autoridad que intenta equilibrar intereses del reino y garantizar la continuidad dinástica."
+        },
+        {
+            "name": "D. García Manrique (arzobispo de Santiago)",
+            "profile": "Prelado portugués de voluntad enérgica y ambición marcada; rival del Primado y promotor principal de decisiones que reconfiguran la regencia. Su alianza con algunos magnates y su resolución para imponer cambios determinan giros políticos y enfrentamientos decisivos."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "dcterms:title": "Tarr : ELTeC edition",
+    "dcterms:creator": "Lewis, Percy Wyndham (1882-1957)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Frederick Tarr, an English artist in bohemian Paris, navigates competing loyalties between his crude but devoted fiancée Bertha Lunken and the alluring, cosmopolitan Anastasya Vasek while theorizing about art and life. The narrative follows Tarr’s friendships and rivalries in an artist circle, including the volatile German Otto Kreisler, whose jealous, destructive behavior culminates in a fatal altercation and his own suicide. The novel satirizes artistic manners and national temperaments, showing how aesthetic postures and personal vanity warp relationships. Underneath the social comedy runs a darker interrogation of sex, possession, and the costs of artistic life.",
+    "dcat:keyword": [
+        "Bohemian Paris",
+        "Artists and aesthetics",
+        "Love triangle",
+        "Nationalism / German character",
+        "Duel and suicide"
+    ],
+    "dcat:theme": [
+        "Art and aesthetics",
+        "Bohemian society / social satire",
+        "Sexual politics and possession"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/1871859",
+        "https://www.geonames.org/6255147",
+        "https://www.geonames.org/8260905",
+        "https://www.geonames.org/4035196",
+        "https://www.geonames.org/3576022",
+        "https://www.geonames.org/3539557",
+        "https://www.geonames.org/3539557",
+        "https://www.geonames.org/4031110",
+        "https://www.geonames.org/8260905",
+        "https://www.geonames.org/6255147",
+        "https://www.geonames.org/2427123",
+        "https://www.geonames.org/3688689",
+        "https://www.geonames.org/1133616"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1908"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1915"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Frederick Tarr",
+            "profile": "An English painter and the book’s central consciousness: provocative, self-analytic and theatrical. He theorizes that art requires primitive energy outside civilization and is torn between a practical attachment to Bertha and an erotic/intellectual affair with Anastasya, performing as mediator, provocateur and ultimately husband."
+        },
+        {
+            "name": "Otto Kreisler",
+            "profile": "A German artist and explosive antagonist: nationalistic, coarse, and given to theatrical displays of violence and honor. His jealousy and fanatical pride propel key violent episodes (a duel episode, assaults) and his tragic self-destruction, making him a symbol of destructive masculinity and cultural tensions."
+        },
+        {
+            "name": "Bertha Lunken",
+            "profile": "A large, devoted German art-student of blunt good nature and sentimental loyalty who becomes entangled with Tarr and Kreisler. Warm, practical and sentimental, she is both the novel’s domestic anchor and the object of conflicting possessive impulses; her pregnancy and marriage to Tarr mark a fraught, socially charged turning point."
+        },
+        {
+            "name": "Anastasya Vasek",
+            "profile": "A cosmopolitan, strikingly independent woman of Russian–German–American background: intelligent, sensual and self-possessed. She becomes Tarr’s energetic lover and foil to Bertha, embodying modern sexual freedom and challenging Tarr’s claims, while provoking strong responses across the bohemian circle."
+        }
+    ]
+}

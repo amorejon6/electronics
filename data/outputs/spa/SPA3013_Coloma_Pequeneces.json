@@ -1,0 +1,72 @@
+{
+    "dcterms:title": "Pequeñeces : Edición ELTeC",
+    "dcterms:creator": "Coloma, Luis (1851-1915)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela satírica y crítica que pinta con ironía la vida de la alta sociedad madrileña de finales del siglo XIX. Sigue sobre todo a la condesa Currita de Albornoz —mujer vanidosa y manipuladora— y a su círculo: salones, intrigas políticas, compromisos amorosos y escándalos públicos. La obra alterna episodios de comedia de modales con episodios trágicos (duelos, muertes, ahogamientos) y con el trasfondo de la Restauración y las luchas por el poder. A lo largo de la narración se exhibe la hipocresía social, la ambición política y las consecuencias personales de esos juegos de apariencia.",
+    "dcat:keyword": [
+        "sociedad cortesana",
+        "hipocresía",
+        "ambición política",
+        "escándalo",
+        "maternidad"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Política (Restauración)",
+        "Costumbrismo"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2988507",
+        "https://www.geonames.org/3032797",
+        "https://www.geonames.org/3173425",
+        "https://www.geonames.org/3120304"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1832"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1832"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1868"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1878"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Condesa Currita (Francisca de Borja, condesa de Albornoz)",
+            "profile": "Mujer aristocrática, vanidosa y ambiciosa; lidera salones y maneja redes sociales para insertar sus intereses políticos y personales. Actúa como figura central: anfitriona, manipuladora y a la vez madre con contradicciones morales, protagonista de escándalos y redenciones públicas y privadas."
+        },
+        {
+            "name": "Jacobo Téllez‑Ponce (marqués de Sabadell)",
+            "profile": "Joven aristócrata encantador, oportunista y jugador, implicado en redes masónicas y en manejos políticos. Astuto y ambivalente: seduce, conspira y busca ventaja personal; su vida culmina en un acto violento cuyo misterio alimenta la trama."
+        },
+        {
+            "name": "Marqués de Villamelón (Fernandito)",
+            "profile": "Esposo de Currita, noble de paladar y costumbres disolutas; mezcla de arrogancia y vanidad, afectado por debilidad física e intelectual. Su papel es el de gran señor indiferente y a veces cómplice de la frivolidad que rodea a la familia; representa la decadencia del linaje aristocrático."
+        },
+        {
+            "name": "Paquito Luján",
+            "profile": "Niño inocente, hijo adoptivo del entorno aristocrático; sensible, orgulloso y presto a venganzas futuras por ofensas sufridas. Su temprana experiencia de abandono y humillación (y su vínculo con Lilí) funcionan como contrapunto moral y detonante de tragedias infantiles en la novela."
+        }
+    ]
+}

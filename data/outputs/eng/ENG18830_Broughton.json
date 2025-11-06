@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Belinda: A Novel : ELTeC edition",
+    "dcterms:creator": "Broughton, Rhoda (1840-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A proud and emotionally reserved young woman, Belinda Churchill, lives with her grandmother and flirtatious sister Sarah while their lives move between Dresden and Oxbridge. Belinda is courted by the young idealistic David Rivers but, following a series of misunderstandings and family pressures, she marries the older, pedantic Professor Forth to secure a respectable home. The novel follows the consequences of that marriage: Belinda's inner conflict between duty and desire, Rivers' return and continuing devotion, social gossip, jealousy, and moral strain among a circle of English and continental characters. Tensions culminate in crises of conscience, public exposure and tragic consequences that force each character to face the cost of their choices.",
+    "dcat:keyword": [
+        "courtship",
+        "marriage",
+        "jealousy",
+        "social manners",
+        "Dresden–Oxbridge"
+    ],
+    "dcat:theme": [
+        "Love and jealousy",
+        "Marriage and social convention",
+        "Personal sacrifice and conscience"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2935022",
+        "Saxony (Moritzburg, Grosse Garten)",
+        "Oxbridge and England (Lake District, Yorkshire)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1885"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Belinda (Churchill) Forth",
+            "profile": "A proud, reserved young woman whose cool exterior hides deep passion and insecurity. She is the novel's protagonist whose sense of duty leads her into a pragmatic marriage with Professor Forth and whose longing for David Rivers produces the central moral conflict."
+        },
+        {
+            "name": "David Rivers",
+            "profile": "A sincere, ardent young Englishman (Oxbridge background) devoted to Belinda; modest in origin and steady in feeling. He loves Belinda passionately, performs generous acts, and his return and disappointments drive much of the plot's emotional force."
+        },
+        {
+            "name": "Sarah Churchill",
+            "profile": "Belinda's younger sister: lively, coquettish, and socially adventurous, often scheming and teasing but genuinely loyal. She provokes many of the social incidents—flirtations, introductions and outings—that complicate Belinda's loves and exposes class and gender expectations."
+        },
+        {
+            "name": "Professor James Forth",
+            "profile": "An older, pedantic academic who becomes Belinda's husband; disciplined, parsimonious and socially exacting. He is at once a provider and an emotional mismatch for Belinda, embodying the practical marriage that conflicts with her passionate longings."
+        }
+    ]
+}

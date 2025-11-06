@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Amor y pedagogía : edición ELTeC",
+    "dcterms:creator": "Unamuno, Miguel de (1864-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela satírica que sigue a Avito Carrascal, un pedagogo obsesionado con formar un “genio” mediante la aplicación sistemática de su doctrina sociopedagógica, y las consecuencias familiares y morales de ese proyecto. Tras casarse con Marina y engendrar a Apolodoro, Avito intenta moldear al niño por métodos científicos, mientras surgen conflictos entre instinto y razón, pedagogía y amor. La obra narra el crecimiento de Apolodoro, su primer amor, su fracaso como escritor y la influencia perniciosa de otros personajes filosóficos y artísticos que culminan en su trágico suicidio. A la vez, es una reflexión crítica sobre la ciencia, la pedagogía, la creación artística y la búsqueda de la inmortalidad a través de la posteridad.",
+    "dcat:keyword": [
+        "pedagogía",
+        "amor",
+        "crítica social",
+        "existencialismo",
+        "satira"
+    ],
+    "dcat:theme": [
+        "Educación y pedagogía",
+        "Amor y herencia",
+        "Crítica social y cultural",
+        "Filosofía existencial / búsqueda de la inmortalidad"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1905"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Avito Carrascal",
+            "profile": "Padre y personaje central, pedagogo racionalista y obsesionado con la idea de producir un 'genio' por medios científicos. Es didáctico, orgulloso de su ciencia y, pese a su rigor, vulnerable al amor y a las contradicciones prácticas de sus teorías; su conflicto encarna la tensión entre razón y vida."
+        },
+        {
+            "name": "Marina (la Materia)",
+            "profile": "Mujer de Avito, de carácter tierno y materialmente arraigado; representa el instinto, la maternidad y la tradición frente a las construcciones racionales del marido. Su afecto y sus actos (incluidos los vínculos con el niño y la criada) ponen a prueba los proyectos pedagógicos de Avito."
+        },
+        {
+            "name": "Apolodoro / Luis (el hijo)",
+            "profile": "Hijo de Avito y Marina, criatura sobreeducada y observada, convertido en sujeto de experimentación pedagógica que desarrolla sensibilidad literaria y afectiva. Su crecimiento, enamoramiento, fracaso artístico y suicidio constituyen el eje trágico que cuestiona la eficacia y ética de la pedagogía instrumental."
+        },
+        {
+            "name": "Don Fulgencio Entrambosmares",
+            "profile": "Filósofo excéntrico y mentor polémico; mezcla aforismo, combinatoria y provocación intelectual. Inspirador de ideas subversivas (como el 'momento metadramático' o el 'erostratismo'), actúa como catalizador de dudas y excesos en Avito y Apolodoro, y simboliza la mezcla de sabiduría y peligro intelectual."
+        }
+    ]
+}

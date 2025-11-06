@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El abuelo del rey : edición ELTeC",
+    "dcterms:creator": "Miró, Gabriel (1879-1931)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue la vida y la memoria de la familia Fernández-Pons en el pueblo ficticio de Serosca, trazando generaciones desde la época napoleónica hasta el umbral del siglo XX. El relato se centra en don Arcadio, su nieto Agustín —joven ingeniero e inventor que parte a América— y en don Lorenzo, músico y mentor, y articula conflictos entre tradición local y modernidad. Hay episodios de amor y pérdida (la muerte de Carlota, el idilio de Agustín y Loreto), ambiciones técnicas y la transformación social de la villa. El cierre mezcla historia y mito: la llegada de noticias lejanas consagra a Agustín como figura legendaria, recordada en Serosca como “el abuelo del rey”.",
+    "dcat:keyword": [
+        "Serosca",
+        "tradición y modernidad",
+        "familia y linaje",
+        "invención técnica",
+        "amor y pérdida"
+    ],
+    "dcat:theme": [
+        "Regionalismo / novela de costumbres",
+        "Cambio social y modernización (industrialización)",
+        "Memoria familiar y genealogía"
+    ],
+    "dct:spatial": [
+        "Serosca (pueblo ficticio en el Levante español; referencias a la provincia de Valencia/Alicante), España"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1804"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1904"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Arcadio Fernández-Pons",
+            "profile": "Patriarca orgulloso y conservador de la familia Fernández-Pons; custodio de la memoria y de las tradiciones de Serosca. Representa la vieja estirpe local, lucha por mantener el honor del linaje frente a los cambios sociales y sufre las pérdidas familiares con mezcla de dignidad y sentimentalidad."
+        },
+        {
+            "name": "Agustín (nieto de Don Arcadio)",
+            "profile": "Joven ingeniero e inventor que encarna la aspiración modernizadora: ambicioso, curioso y dividido entre el deber familiar y la sed de mundo. Parte a América en busca de fortuna y realiza obras técnicas; su destino lejano se convierte en leyenda local, y su vida afecta profundamente a la casa y a su relación con Loreto."
+        },
+        {
+            "name": "Don Lorenzo",
+            "profile": "Músico cosmopolita, amigo íntimo de la familia y figura tutelar para Agustín; posee sensibilidad artística y cierta melancolía vital. Su presencia aporta cultura y ternura al hogar, y su enfermedad y muerte marcan un punto de inflexión emocional en la comunidad."
+        },
+        {
+            "name": "Loreto",
+            "profile": "Joven doncella cercana a la familia que cuida y ayuda en la casa; hábil en labores (encaje, costura) y amante discreta de Agustín. Representa la fidelidad, el trabajo cotidiano y el amor sacrificado; tras la partida de Agustín permanece como sostén afectivo de los ancianos."
+        }
+    ]
+}

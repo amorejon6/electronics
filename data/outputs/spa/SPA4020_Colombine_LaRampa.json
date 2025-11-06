@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La rampa : edición ELTeC",
+    "dcterms:creator": "Burgos y Seguí, Carmen de [Colombine] (1867-1932)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela que sigue la caída y la lucha cotidiana de Isabel, una joven obrera empobrecida en el Madrid de comienzos del siglo XX, desde su trabajo en un bazar hasta la maternidad, el abandono sentimental y la degradación social. A través de su amistad con Agueda y sus relaciones con Fernando y otros personajes, el relato muestra la precariedad económica, el hostigamiento masculino y la ausencia de apoyos institucionales para las mujeres. La narración aborda la miseria material y moral de la ciudad (comedores populares, pensiones, maternidades, cárceles) y critica las hipocresías sociales que empujan a muchas mujeres a la marginalidad. El tono es realista y comprometido con la denuncia de las injusticias de género y clase.",
+    "dcat:keyword": [
+        "maternidad",
+        "pobreza urbana",
+        "condición femenina",
+        "trabajo femenino",
+        "desigualdad social"
+    ],
+    "dcat:theme": [
+        "Condición y explotación de la mujer",
+        "Pobreza y precariedad urbana",
+        "Crítica social y reforma"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1900"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1917"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Isabel",
+            "profile": "Protagonista; joven empleada de bazar que, tras la caída económica de su familia, afronta la precariedad laboral, la humillación social y la maternidad solitaria. Su trayectoria muestra la degradación que provoca la falta de redes de apoyo, la explotación en el trabajo y el abandono afectivo."
+        },
+        {
+            "name": "Agueda",
+            "profile": "Amiga íntima y confidente de Isabel; joven trabajadora humilde, diligente y sacrificada, ligada a su tía Petra. Representa la solidaridad femenina y el sufrimiento cotidiano de las obreras, a la vez que ofrece apoyo moral constante a la protagonista."
+        },
+        {
+            "name": "Fernando",
+            "profile": "Amante y padre de la hija de Isabel; funcionario con modesto sueldo que actúa con ambivalencia: cortesano y galante al principio, luego distante y egoísta. Su relación con Isabel ilustra la fragilidad de los afectos masculinos y la dependencia que éstos imponen a las mujeres."
+        },
+        {
+            "name": "Doña Nieves",
+            "profile": "Anciana dueña de pensión donde vive Isabel; figura ambivalente que encarna la vejez precaria y la hipocresía social. Su hogar reúne a personajes marginales y refleja la solidaridad forzada y las tensiones domésticas en la pobreza urbana."
+        }
+    ]
+}

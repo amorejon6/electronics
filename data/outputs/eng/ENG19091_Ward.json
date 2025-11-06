@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Daphne, or Marriage a la Mode : ELTeC edition",
+    "dcterms:creator": "Ward, Humphry, Mrs. (1851-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Daphne, or \"Marriage à la Mode\" follows the marriage and rupture between Daphne Floyd, an independently wealthy American woman, and Roger Barnes, an attractive but struggling Englishman, tracing the social, moral, and legal consequences of divorce across England and the United States. The novel dramatizes jealousy, pride, and contrasting national attitudes toward marriage and divorce as Daphne reclaims her freedom and Roger is driven into illness and degradation. Friends and critics — notably Madeleine Verrier and Captain Boyson — intervene, urging repentance, reconciliation, or rescue, while legal and social maneuvers determine custody and fate. The story ends in bitter consequences, moral questioning, and an attempted personal atonement that remains ambiguous in its outcome.",
+    "dcat:keyword": [
+        "marriage and divorce",
+        "jealousy and betrayal",
+        "Anglo‑American society",
+        "female independence",
+        "custody and law"
+    ],
+    "dcat:theme": [
+        "Gender and marriage",
+        "Social critique / morality",
+        "Anglo‑American cultural encounter"
+    ],
+    "dct:spatial": [
+        "United States (Washington D.C., New York, Mount Vernon, Niagara / Ontario)",
+        "England (Heston Park, Northamptonshire; Isle of Wight)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1906"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Daphne (Daphne Floyd / Mrs. Barnes)",
+            "profile": "A wealthy, Spanish‑blooded American heiress: intelligent, imperious, and committed to modern ideas about women's rights and marriage. Her assertive will, philanthropic projects, and impatience with convention drive much of the plot; after divorcing Roger she confronts guilt, public censure, and the moral consequences of her choices."
+        },
+        {
+            "name": "Roger Barnes",
+            "profile": "An extraordinarily handsome Englishman, once privileged but financially diminished, whose vanity, indecision, and attachments complicate his marriage. Devoted to his child, vulnerable to past lovers and to drink, Roger becomes a tragic figure whose decline and yearning for reconciliation are central to the novel's moral conflict."
+        },
+        {
+            "name": "Madeleine Verrier (Mrs. Verrier)",
+            "profile": "A tragic, cultured widow and former friend/advocate of Daphne who defended Daphne's early choices and helped shape her views; emotionally wounded by her own scandalous past and increasingly frail. Her illness, conversion and death bring moral pressure on Daphne and expose tensions between private loyalty and public conviction."
+        },
+        {
+            "name": "Captain Alfred Boyson",
+            "profile": "An honourable, perceptive American officer and a friend to both sides who functions as moral interlocutor. He confronts Daphne over the effects of her actions on Roger, advocates compassion and restoration, and plays a pivotal role in attempting to mediate and prompt Daphne toward possible reconciliation."
+        }
+    ]
+}

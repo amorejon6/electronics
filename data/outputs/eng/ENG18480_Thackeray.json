@@ -1,0 +1,64 @@
+{
+    "dcterms:title": "Vanity Fair: A Novel without a Hero: ELTeC edition",
+    "dcterms:creator": "Thackeray, William Makepeace (1811-1863)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A sweeping social panorama and satire set in early 19th-century England that follows the intersecting lives of the ambitious Rebecca (Becky) Sharp and the gentle Amelia Sedley (Mrs. George Osborne). Becky uses wit, charm and calculated opportunism to climb provincial and metropolitan society, while Amelia endures love, family ruin, widowhood and devotion to her son. The narrative follows friendships, duels, debts, scandals and the Napoleonic campaigns (including Waterloo), contrasting private affections and domestic suffering with public spectacle and social hypocrisy. Major Dobbin’s steadfast honour and the fortunes of various families expose the transactional, vain and morally ambiguous nature of polite society across England and Continental Europe.",
+    "dcat:keyword": [
+        "social satire",
+        "ambition",
+        "social mobility",
+        "marriage",
+        "Napoleonic Wars"
+    ],
+    "dcat:theme": [
+        "Social satire and manners",
+        "Ambition and social mobility",
+        "Marriage, family and domestic relations",
+        "War and its social consequences"
+    ],
+    "dct:spatial": [
+        "England (London — Russell Square, Bloomsbury, Brighton, Queen's Crawley, Chatham, Fulham, Richmond, Mudbury, Hampshire)",
+        "Belgium (Brussels, Waterloo, Laeken, Ostend, Ghent, Bruges)",
+        "https://www.geonames.org/3031137",
+        "Germany (Rhine region; fictional Pumpernickel)",
+        "https://www.geonames.org/3169070",
+        "https://www.geonames.org/1264527"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1814"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1836"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Rebecca 'Becky' Sharp (Mrs. Rawdon Crawley)",
+            "profile": "A clever, resourceful and socially ambitious woman of modest origins who advances through charm, manipulation and performance. Becky’s schemes, flirtations and survivalist adaptability drive much of the plot and expose the hypocrisies, patronage and transactional relations of high and provincial society."
+        },
+        {
+            "name": "Amelia Sedley (Mrs. George Osborne)",
+            "profile": "A gentle, naive and affectionate woman whose constancy, domestic virtue and suffering provide the novel’s moral centre. After a secret marriage, widowhood at Waterloo and financial hardship, Amelia endures sacrifice for her son and embodies sentimental resilience amid social pressures."
+        },
+        {
+            "name": "William (Major) Dobbin",
+            "profile": "An honourable, self-effacing and steadfast army officer loyal to his friends and quietly devoted to Amelia. Dobbin acts as the moral ballast of the story, sacrificing personal desire and offering protection, counsel and practical support through the characters’ crises."
+        },
+        {
+            "name": "George Osborne",
+            "profile": "A handsome, vain and well-born young officer whose romantic impulse to marry Amelia leads to familial rupture and eventual military service. Generous but irresponsible, his death at Waterloo precipitates domestic tragedy and long-term consequences for the principal families."
+        }
+    ]
+}

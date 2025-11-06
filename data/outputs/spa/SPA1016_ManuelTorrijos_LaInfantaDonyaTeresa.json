@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "La infanta Doña Teresa : edición ELTeC",
+    "dcterms:creator": "Torrijos, Manuel (1835-1865)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada en la España cristiana y musulmana de comienzos del siglo XI que narra el amor entre don Gonzalo y la infanta doña Teresa enfrentado a las intrigas cortesanas y a alianzas políticas. La trama mezcla romance, rescates y traición: Gonzalo es preso, Ferrus (el ermitaño) le libera, y la familia rival de los Velas conspira con consecuencias sangrientas. Aparecen tensiones entre reinos (León, Toledo, Córdoba) y un poderoso líder moro cuyo destino entrelaza pasiones y venganza. El conflicto culmina en asesinatos, ajustes de cuentas y el castigo público de los conspiradores.",
+    "dcat:keyword": [
+        "amor",
+        "venganza",
+        "intriga cortesana",
+        "traición",
+        "Reconquista"
+    ],
+    "dcat:theme": [
+        "Historia",
+        "Romance caballeresco",
+        "Tragedia social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3118532",
+        "https://www.geonames.org/2510409",
+        "https://www.geonames.org/2519240",
+        "https://www.geonames.org/3127461",
+        "https://www.geonames.org/3116223"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1008"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1029"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Gonzalo",
+            "profile": "Joven caballero noble y apasionado, hijo ilegítimo de la casa de Castilla; protagoniza el amor imposible con la infanta Teresa. Su arrojo le lleva a intentar rescatar a la amada y le enfrenta a presos, fugas y finalmente a la conspiración que acabará trágicamente."
+        },
+        {
+            "name": "Doña Teresa (la infanta)",
+            "profile": "Hermosa infanta de León, cristiana y educada en la corte; objeto de las maniobras políticas que pretenden casarla con Abdalla, rey de Toledo. Es firme en su amor por Gonzalo, padece profundamente la coacción dinástica y su destino marca el núcleo emocional de la obra."
+        },
+        {
+            "name": "Rodrigo Vela",
+            "profile": "Menor de la familia Velas y principal antagonista: intrigante, rencoroso y dispuesto a la violencia. Encabeza la conspiración contra Gonzalo y los castellanos; su traición y cobardía desencadenan asesinatos y el ajusticiamiento final de los Velas."
+        },
+        {
+            "name": "Ferrus / El Tuerto (el ermitaño)",
+            "profile": "Viejo posadero que resulta ser Ferrus, el ermitaño del Abrojo: personaje clave que salva a Gonzalo y organiza la reacción popular. Aparenta humildad pero actúa como líder moral y estratega; su doble papel (Ferrus/Tuerto) impulsa la restitución de justicia y la conclusión trágica de la trama."
+        }
+    ]
+}

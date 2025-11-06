@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "John Sherman and Dhoya : ELTeC edition",
+    "dcterms:creator": "Yeats, William Butler (1865–1939)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Two linked narratives contrast a quiet Irish life and a mythic tale. The first follows John Sherman, an indecisive young man from the west of Ireland torn between a comfortable engagement to the fashionable Margaret Leland and his deep, long-standing friendship and love for Mary Carton; social ambition, duty, and regret drive his choices and eventual return to Ballah. The second tale, Dhoya, is a legendary myth of a giant warrior who wins and loses love with a fairy-like woman and is undone by supernatural contests. Together the pieces explore love, identity, social manners, and the pull of landscape and legend.",
+    "dcat:keyword": [
+        "rural vs urban",
+        "love and duty",
+        "social ambition",
+        "Irish provincial life",
+        "mythic legend"
+    ],
+    "dcat:theme": [
+        "Love and moral choice",
+        "Social identity and manners",
+        "Regional/Irish setting",
+        "Myth and legend"
+    ],
+    "dct:spatial": [
+        "Ballah, west of Ireland (fictional, Ireland)",
+        "https://www.geonames.org/2648997",
+        "Donegal headlands / west coast Ireland"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1880"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1891"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "John Sherman",
+            "profile": "A thoughtful, indecisive man from Ballah who loves gardening and simple rural life. Torn between practical ambition (a wealthy engagement) and his long friendship-turned-love for Mary Carton, his vacillation drives the central moral conflict and eventual return to his roots."
+        },
+        {
+            "name": "Mary Carton",
+            "profile": "A gentle, devout, and steady schoolmistress and parish helper who embodies patience, duty, and quiet moral strength. Long a true friend of John, she becomes the moral center who ultimately confronts betrayal and seals their broken friendship with a decisive act."
+        },
+        {
+            "name": "Margaret Leland",
+            "profile": "A fashionable, wealthy, and romantic young woman of the city whose beauty, manners, and flirtatious temperament draw John and later Howard. She represents urban sophistication, aesthetic affectation, and the social pressures that tempt and unsettle the provincial protagonist."
+        },
+        {
+            "name": "Dhoya",
+            "profile": "A primeval giant and warrior of immense strength whose life alternates between fury and tenderness. In the mythic second part he falls into a passionate and perilous love with a supernatural woman, faces spirit-contests including a chess-like wager, and is driven to tragic, elemental actions."
+        }
+    ]
+}

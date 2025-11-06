@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Doña Luz: edición ELTeC",
+    "dcterms:creator": "Valera y Alcalá-Galiano, Juan (1824-1905)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Doña Luz, hija legitimada de un marqués arruinado, vive en Villafría bajo la tutela de su administrador D. Acisclo y cultiva relaciones afectuosas con un círculo local donde destaca el P. Enrique, misionero retornado. Surgen tensiones morales cuando el Padre, silenciosa y profundamente, llega a amarla en secreto; paralelamente se desarrolla una intriga política local liderada por D. Acisclo y la llegada del apuesto D. Jaime Pimentel, quien conquista y luego casa con Doña Luz. Tras la boda se revelan ambiciones y cálculos: D. Jaime estuvo al corriente de una herencia que convierte a Doña Luz en millonaria, lo que la horroriza y la distancia de él. La muerte del P. Enrique y la inesperada fortuna de Doña Luz precipitan una crisis íntima que la lleva a apartarse y a criar en Villafría a su hijo Enrique mientras medita sobre el honor, la fe y el desengaño.",
+    "dcat:keyword": [
+        "amor no correspondido",
+        "misticismo religioso",
+        "costumbres rurales",
+        "política local",
+        "herencia y fortuna"
+    ],
+    "dcat:theme": [
+        "Religión y misticismo",
+        "Amor y desengaño",
+        "Novela de costumbres / social"
+    ],
+    "dct:spatial": "Andalucía, España",
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1860"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1861"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Doña Luz",
+            "profile": "Joven hija legitimada del marqués, austera en sus principios y de gran orgullo aristocrático. Protagonista cuya vida oscila entre la devoción religiosa y los afectos humanos: ama con intensidad, sufre un desengaño matrimonial y finalmente se retira a Villafría para criar a su hijo y conservar su integridad moral."
+        },
+        {
+            "name": "P. Enrique",
+            "profile": "Fraile dominico, misionero retornado de Filipinas, de gran cultura, fervor religioso y carácter contemplativo. Figura central en la formación espiritual de Doña Luz; su amor silencioso y no correspondido desemboca en un conflicto interior profundo y en una muerte que marca la conciencia de la protagonista."
+        },
+        {
+            "name": "D. Acisclo",
+            "profile": "Administrador astuto y enriquecido del antiguo marquesado, hombre práctico, ahorrador y ambicioso en lo social y político. Protector de Doña Luz y motor de la maniobra electoral local; su pragmatismo económico y político influye notablemente en el destino de los demás personajes."
+        },
+        {
+            "name": "D. Jaime Pimentel",
+            "profile": "Brigadier y diputado candidato, hombre joven, gallardo y cortesano que conquista a Doña Luz. Su relación con ella revela una mezcla de afecto y cálculo: acepta la boda cuando conoce la herencia y su ambición y conducta desencadenan el posterior desengaño de la protagonista."
+        }
+    ]
+}

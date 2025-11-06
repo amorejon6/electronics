@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Doña Blanca de Navarra : edición ELTeC",
+    "dcterms:creator": "Navarro Villoslada, Francisco (1818-1895)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela histórica ambientada en la Navarra de la segunda mitad del siglo XV que narra rivalidades dinásticas entre agramonteses y beamonteses y las pasiones personales que las alimentan. La trama sigue el rapto y las intrigas alrededor de la princesa Blanca de Viana, las acciones heroicas y vengativas de Jimeno (con múltiples identidades) y las maniobras de señores como don Luís de Beaumont y la reina doña Leonor. Incendios, envenenamientos, juicios públicos y alianzas políticas entrelazan aventura, amor trágico y venganza hasta un desenlace marcado por la muerte, la justicia y el perdón. El relato combina realismo histórico con episodios de bandolerismo, intriga palaciega y conflicto feudal.",
+    "dcat:keyword": [
+        "Navarra",
+        "Princesa de Viana",
+        "Venganza",
+        "Intriga política",
+        "Amor y celos"
+    ],
+    "dcat:theme": [
+        "Política e intriga palaciega",
+        "Venganza y justicia",
+        "Amor trágico y celos",
+        "Aventura",
+        "Historia"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3114472",
+        "Bardenas Reales (Tudela, Navarra)",
+        "Pirineos (frontera Navarra/Bearn)",
+        "https://www.geonames.org/3114472",
+        "https://www.geonames.org/3118512",
+        "https://www.geonames.org/3122762"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1450"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1480"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Doña Blanca de Navarra (Princesa de Viana)",
+            "profile": "Heredera legítima y figura virtuosa cuya sucesión provoca secuestros e intrigas palaciegas. Víctima repetida de rapto y manipulaciones, su sufrimiento y destino trágico funcionan como detonante moral y político en la novela."
+        },
+        {
+            "name": "Jimeno (antes Simón, hijo de Samuel; alias don Alfonso / infanzón / mesnadero)",
+            "profile": "Joven de origen humilde que cambia de identidad varias veces: convertido del judaísmo al cristianismo, veterano de guerra, capitán de forajidos y protector encubierto. Valiente, impulsado por el amor a Blanca y por la venganza, su arco va de la sed de revancha a optar por la misericordia y la exposición de la verdad."
+        },
+        {
+            "name": "Doña Leonor de Navarra (reina gobernadora)",
+            "profile": "Gobernante ambiciosa y atormentada, fría y astuta en sus decisiones políticas; urde alianzas y, en ocasiones, crímenes para mantener el poder. Representa la corrupción del poder y paga el coste moral de sus maniobras, acabando confrontada y juzgada por sus actos."
+        },
+        {
+            "name": "Don Luís de Beaumont (Conde de Lerín, Condestable)",
+            "profile": "Potente señor feudal y hábil estratega político-militar cuya intervención es clave en varios episodios, incluido el rapto y la custodia de personajes esenciales. Astuto y decidido, actúa como eje en las luchas de bando; su familia (ej. Catalina de Beaumont) está en el centro de las alianzas y conflictos que determinan el destino de Navarra."
+        }
+    ]
+}

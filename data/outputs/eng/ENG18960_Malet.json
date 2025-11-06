@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Carissima : ELTeC edition",
+    "dcterms:creator": "Malet, Lucas (1852-1931)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A first-person narrator recounts the courtship and tragic undoing of Constantine Leversedge and Charlotte Perry at a Lake Geneva hotel in the fin-de-siècle. Leversedge, a prosperous but haunted returned colonial, is tormented by a recurring, materialising vision of a mangy dog born of a South African atrocity; Charlotte, a beautiful and modern young woman, responds with theatrical devotion and later with manipulative stratagems. Social rivals and opportunists (notably the journalist Percy Gerrard) intrude, a dramatic confrontation exposes deception and fear, and Leversedge dies soon after under ambiguous circumstances. The story mixes social comedy and satire of manners with psychological supernatural dread culminating in a personal catastrophe.",
+    "dcat:keyword": [
+        "marriage",
+        "hallucination",
+        "social satire",
+        "fin-de-siècle",
+        "psychological horror"
+    ],
+    "dcat:theme": [
+        "Marriage, social ambition and manners",
+        "Psychological/supernatural dread and obsession",
+        "Hypocrisy, performance and manipulation"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2660647",
+        "https://www.geonames.org/2660646",
+        "https://www.geonames.org/2643743",
+        "South Africa (Veldt) — as background"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1899"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Constantine Leversedge",
+            "profile": "A long-legged, equine-looking South African expatriate and the story's tragic romantic hero. He is prosperous and good-natured but increasingly tormented by a recurring, materialising vision of a mangy dog tied to a horrifying memory from the Veldt; his obsession drives his behaviour, isolates him socially, and precipitates the novel's catastrophe."
+        },
+        {
+            "name": "Charlotte Perry (the Carissima)",
+            "profile": "An alluring, modern young woman admired in society for charm and artistic gifts; engaged to Leversedge. She is complex and strategic—capable of devoted care and theatrical displays of sacrifice yet also of manipulation and performance to secure social and personal ends, and her choices are central to the moral and tragic tensions of the plot."
+        },
+        {
+            "name": "Antony Hammond",
+            "profile": "The urbane first-person narrator and Leversedge's friend, a perceptive observer of manners and social comedy. He acts as confidant and adviser, striving to mediate between passion, fear, and social expectation, and his reflective, ironic voice structures the account and its moral ambivalences."
+        },
+        {
+            "name": "Percy Gerrard",
+            "profile": "A worldly, cynical journalist/editor who hovers socially around Charlotte's circle and provokes tension. Slick, intrusive and morally ambiguous, Gerrard catalyses confrontations (and suspicion of collusion) that exacerbate Leversedge's fears and help precipitate the story's crisis."
+        }
+    ]
+}

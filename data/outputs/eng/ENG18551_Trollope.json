@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The Warden : ELTeC edition",
+    "dcterms:creator": "Trollope, Anthony (1815-1882)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The Warden follows Rev. Septimus Harding, the gentle precentor and warden of Hiram's Hospital in the cathedral city of Barchester, who is publicly accused of profiting from an almshouse endowment. A young reformer, John Bold, investigates the charity's accounts, provoking a clash between reform, church patronage, and personal conscience; Harding, torn between duty, reputation, and probity, ultimately resigns. Eleanor Harding, caught between filial loyalty and love for Bold, intervenes to spare her father, and later marries Bold. The novel traces the social and moral consequences of the dispute for the hospital, its inmates, and the cathedral community.",
+    "dcat:keyword": [
+        "church patronage",
+        "almshouse/charity",
+        "social reform",
+        "conscience",
+        "clerical society"
+    ],
+    "dcat:theme": [
+        "Ecclesiastical patronage and institutional accountability",
+        "Social reform and charity",
+        "Conscience, honor, and personal sacrifice",
+        "Love and family relations within social constraints"
+    ],
+    "dct:spatial": [
+        "Barchester (fictional cathedral town in the West of England), England"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1850"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1860"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Rev. Septimus Harding",
+            "profile": "A mild, good-hearted precentor and warden of Hiram's Hospital whose comfortable sinecure and reputation are challenged by reformers and the press. He is conscience-driven and indecisive, ultimately choosing personal honour over ease by resigning the wardenship despite social and financial cost."
+        },
+        {
+            "name": "Eleanor Harding",
+            "profile": "Mr. Harding's devoted daughter, warm-hearted and spirited, who loves John Bold and seeks to protect her father. She embodies filial loyalty and moral courage, personally interceding with Bold and accepting painful compromises to shield her father from public disgrace."
+        },
+        {
+            "name": "John Bold",
+            "profile": "A young, energetic reforming surgeon and town councillor who investigates the hospital's accounts and champions the bedesmen's rights. Sincere and idealistic about justice, his campaign strains personal ties as he confronts clerical privilege; he later relents to spare Harding and marries Eleanor."
+        },
+        {
+            "name": "Dr. Theophilus Grantly (Archdeacon)",
+            "profile": "Eleanor's proud, authoritative son-in-law and the archdeacon of Barchester, a vigorous defender of church interests and existing patronage. Arrogant and pragmatic, he leads the institutional resistance against reform, employing legal and social influence to protect clerical revenues."
+        }
+    ]
+}

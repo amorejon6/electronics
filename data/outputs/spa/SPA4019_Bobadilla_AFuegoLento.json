@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "A fuego lento : edición ELTeC",
+    "dcterms:creator": "Bobadilla, Emilio (1862-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue la vida en Ganga, un puerto tropical de una república latinoamericana ficticia, y el destino del doctor Eustaquio Baranda tras su llegada: su involucramiento con la familia del general don Olimpio Díaz, el amor y la conflictiva convivencia con su esposa Alicia, y su relación sentimental con Rosa. La atmósfera combina realismo social y naturalismo: el calor opresivo, la miseria, la corrupción local y las tensiones étnicas y políticas influyen en los personajes y en sus pasiones. El progresivo desgaste físico y moral de Baranda, la rivalidad, los celos y las intrigas conducen a un conflicto trágico que culmina en su muerte y las consecuencias sobre los supervivientes. La novela contrasta la violencia y la degradación del trópico con la vida parisina a la que varios personajes emigran, y explora la neurosis, la hipocresía y la decadencia social.",
+    "dcat:keyword": [
+        "celos",
+        "neurosis",
+        "colonialismo tropical",
+        "corrupción social",
+        "muerte"
+    ],
+    "dcat:theme": [
+        "Novela naturalista/realista",
+        "Novela social",
+        "Novela psicológica"
+    ],
+    "dct:spatial": [
+        "Ganga (puerto tropical en una república latinoamericana indeterminada; probablemente en la costa de Sudamérica)",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1902"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1902"
+            }
+        }
+    },
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Eustaquio Baranda",
+            "profile": "Médico formado en París, idealista y neurasténico, que regresa a la república para implicarse en la política liberal y la práctica clínica. Su carácter analítico y su desgaste nervioso le hacen víctima de la hostilidad local, la persecución moral y la propia debilidad de voluntad; su relación con Alicia y Rosa marca el eje trágico de la obra."
+        },
+        {
+            "name": "Alicia",
+            "profile": "Joven india huérfana acogida por misia Tecla, esposa de Baranda en matrimonio conflictivo y personaje dominante de temperamento pasional e inestable. Representa la histeria, los celos y la violencia doméstica; su resentimiento y actos (incluida la provocación final) precipitan el colapso del doctor."
+        },
+        {
+            "name": "Don Olimpio Díaz",
+            "profile": "General local de conducta corrupta y libertina, comerciante y notable de Ganga que encarna la hipocresía, el arribismo y el poder local. Su deseo por Alicia, su rivalidad con Baranda y su posición social alimentan el clima de tensión política y moral en el puerto."
+        },
+        {
+            "name": "Rosa",
+            "profile": "Mujer francesa, antigua compañera y amante de Baranda, tierna y devota, que cuida al médico en su enfermedad y encarna el afecto sincero frente a la turbiedad social. Su fidelidad y discreción contrastan con la conducta de Alicia y sirven de consuelo trágico para el protagonista."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Gloria, dinero y mujer : Edición ELTeC",
+    "dcterms:creator": "Llofriu y Sagrera, Eleuterio (1835-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela melodramática ambientada en el Madrid del siglo XIX que narra la caída y la redención de Miguel, un joven estudiante engañado por compañeros envidiosos. Su amor por Matilde, sobrina inocente de la avara doña Ruperta, atraviesa calumnias, robo, duelo y prisión, mientras una trama de codicia intenta arrebatarle la libertad y la fortuna a la joven. Intervienen aliados inesperados —don Juan y Alberto— que desenmascaran a los culpables y rescatan a Matilde. La obra concluye con la reparación moral y social: castigo para los criminales y recompensa para los virtuosos.",
+    "dcat:keyword": [
+        "envidia",
+        "calumnia",
+        "juego/azar",
+        "amor",
+        "justicia"
+    ],
+    "dcat:theme": [
+        "Corrupción social y moral",
+        "Amor y sacrificio",
+        "Redención y venganza legal"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2521978",
+        "https://www.geonames.org/2520600",
+        "https://www.geonames.org/2528910"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1890"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Miguel",
+            "profile": "Joven estudiante de leyes, honrado y talentoso, protagonista de la obra. Su carácter íntegro y su genio literario le atraen la envidia de compañeros que lo arruinan, pero finalmente logra justicia, carrera política y felicidad."
+        },
+        {
+            "name": "Matilde",
+            "profile": "Sensible e inocente sobrina de doña Ruperta, educada en un convento y heredera maltratada por su tutela. Es el objeto del amor de Miguel y víctima de los ardidess de su tía; su reencuentro con el hermano y el apoyo de aliados la restituyen."
+        },
+        {
+            "name": "Rodolfo",
+            "profile": "Estudiante vanidoso, adulador y envidioso que urde calumnias y trampas para arruinar a Miguel. Su avaricia y juego lo llevan a escalar socialmente mediante intrigas, pero acaba humillado, arruinado y hallando un trágico final."
+        },
+        {
+            "name": "Doña Ruperta",
+            "profile": "Ama de huéspedes avara y manipuladora que explota a su sobrina Matilde y conspira para apropiarse de su fortuna. Motor de las persecuciones y del rapto de Matilde, será finalmente descubierta y juzgada junto a su cómplice."
+        }
+    ]
+}

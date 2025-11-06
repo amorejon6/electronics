@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Sybil, Or the Two Nations : ELTeC edition",
+    "dcterms:creator": "Disraeli, Benjamin (1804-1881)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A panoramic social novel about the division between rich and poor in early Victorian England. Through parallel stories — the aristocratic Charles Egremont and the working-class Gerard family, especially Sybil — it exposes industrial poverty, political agitation (Chartism), and attempts at reform. The book alternates scenes in London and a northern manufactural county (Mowbray), showing riots, strike action, parliamentary debate, and private intrigues that manipulate outcomes. It argues for remedying social ills by understanding the people and calls attention to the moral responsibility of the privileged.",
+    "dcat:keyword": [
+        "Class conflict",
+        "Industrial labour",
+        "Chartism",
+        "Social reform",
+        "Poverty"
+    ],
+    "dcat:theme": [
+        "Social injustice and class conflict",
+        "Industrialisation and labour conditions",
+        "Political reform and popular movements"
+    ],
+    "dct:spatial": [
+        "England (principal action in a northern industrial district — Mowbray — and in London)",
+        "Lancashire/Yorkshire industrial regions (referenced)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1837"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1842"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Sybil Gerard",
+            "profile": "Daughter of Walter Gerard; morally earnest and religious, raised between a convent and a cottage. Sybil is the novel’s moral center — compassionate, brave, and deeply sensitive to the suffering of the poor; her personal ordeals and choices embody the human costs of class conflict."
+        },
+        {
+            "name": "Charles Egremont",
+            "profile": "A young aristocrat recently awakened to social questions; handsome, idealistic, and torn between his order and conscience. He moves between London society and the industrial north, speaks in Parliament for reform, privately sympathizes with the people, and becomes emotionally entangled with Sybil."
+        },
+        {
+            "name": "Walter Gerard",
+            "profile": "A dignified, intelligent working‑class leader and former craft‑sman whose eloquence and integrity make him a popular champion of labour. Gerard organizes and inspires the people, suffers imprisonment and persecution, and his fate (and that of his daughter) drives much of the novel’s action and moral urgency."
+        },
+        {
+            "name": "Stephen Morley",
+            "profile": "A self‑educated, articulate journalist and activist who edits the local Phalanx; thoughtful, doctrinally complex and influential among workers. Morley is both a strategist for reform and a complicated figure morally — advocating moral force and political education while at times engaging in, or being drawn into, secret and ruthless expedients."
+        }
+    ]
+}

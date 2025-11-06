@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Red as a rose is she : ELTeC edition",
+    "dcterms:creator": "Broughton, Rhoda (1840-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young Welsh woman, Esther Craven, oscillates between duty, desire and social pressure in a rural Victorian community. Engaged reluctantly to the kindly but poor Robert Brandon, she is drawn into a passionate but troubled attachment with St. John Gerard while coping with the death of her beloved brother Jack. The novel exposes provincial morals, class pressures and the costs of romantic caprice as Esther becomes a companion in an old household and endures illness, shame and final reconciliation. It combines sharp social observation with domestic tragedy and a climax that resolves several moral tensions in marriage and loss.",
+    "dcat:keyword": [
+        "courtship",
+        "social class",
+        "mourning",
+        "rural Wales",
+        "hypocrisy"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Novel of manners",
+        "Domestic tragedy / Victorian realism"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2634895",
+        "England (shire settings: Felton, Blessington)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1869"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Esther Craven",
+            "profile": "A lively, pretty young woman from Glan-yr-Afon whose vanity and need for affection lead her into a series of compromising choices. She is at once innocent and impulsive, grieving deeply for her brother Jack and later caught between pride, poverty and the demand for self-sacrifice."
+        },
+        {
+            "name": "St. John Gerard",
+            "profile": "A tall, wealthy country gentleman, engaged to Constance Blessington but drawn to Esther by sympathy and desire. Reserved, proud and honour-conscious, he struggles between duty, jealousy and an increasingly deep affection."
+        },
+        {
+            "name": "Robert Brandon",
+            "profile": "A kind, honest young lieutenant of modest means who loves Esther faithfully and suffers quietly when she rejects or misleads him. Generous and loyal, he is a moral anchor in the story and ultimately meets a tragic fate overseas."
+        },
+        {
+            "name": "Jack Craven",
+            "profile": "Esther's devoted brother and moral centre, generous, simple and beloved by his sister. His early death from illness profoundly alters Esther's life, becoming the emotional hinge for many of her later choices."
+        }
+    ]
+}

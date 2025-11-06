@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Bleak House : ELTeC edition",
+    "dcterms:creator": "Dickens, Charles (1812-1870)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A sweeping Victorian novel centred on the long-running Chancery suit Jarndyce and Jarndyce and its corrosive effects on a wide circle of characters. Through Esther Summerson's intimate first-person narration the book moves between fog-bound London, the court, and the country house Bleak House, exposing legal inertia, social hypocrisy and human suffering. Parallel strands include a murder investigation and the hidden past of Lady Dedlock, whose secret identity and exposure have tragic consequences. Dickens blends social satire, melodrama and detective elements to probe justice, class, illegitimacy and urban poverty in mid-19th-century England.",
+    "dcat:keyword": [
+        "Chancery suit",
+        "legal bureaucracy",
+        "social criticism",
+        "secret identity/illegitimacy",
+        "urban poverty"
+    ],
+    "dcat:theme": [
+        "Social criticism",
+        "Legal system and bureaucracy",
+        "Secrets, identity and family drama",
+        "Poverty and urban life"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "Lincolnshire (Chesney Wold), England",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1852"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1853"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Esther Summerson",
+            "profile": "The novel's primary first-person narrator and moral centre: an orphan raised by John Jarndyce who becomes companion and housekeeper at Bleak House. Compassionate, practical and self-effacing, she tends the sick, manages household affairs, and gradually learns the painful truth about her birth while providing emotional steadiness amid legal and social turmoil."
+        },
+        {
+            "name": "John Jarndyce",
+            "profile": "A benevolent, pragmatic guardian and owner of Bleak House who shelters wards and criticises the Chancery system. Patient and philanthropic, he seeks to protect those in his care from the corrosive effects of litigation and anchors the novel's domestic and moral life."
+        },
+        {
+            "name": "Lady Dedlock",
+            "profile": "An elegant, proud aristocrat whose outward composure conceals a compromising secret and an illegitimate past. Her concealed identity becomes the focus of legal and social scrutiny, provoking internal torment and a tragic unraveling that highlights questions of reputation, class constraint and familial disgrace."
+        },
+        {
+            "name": "Richard Carstone",
+            "profile": "A young ward of the Jarndyce household: amiable, impulsive and indecisive, he falls in love with Ada Clare but becomes obsessed with the Jarndyce & Jarndyce suit. His vacillation and devotion to the litigation lead to financial and moral ruin, making him a tragic example of the human cost of legal entanglement."
+        }
+    ]
+}

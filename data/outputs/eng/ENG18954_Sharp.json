@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "At the Relton Arms : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Sharp, Evelyn (1869-1955)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A West End musician, Digby Raleigh, becomes entangled in a love triangle with the unconventional Lady Joan Relton and the innocent Norah Bisley while navigating family obligations at Murville Manor and the little town of Relton. Misunderstandings, a secret past, and a presumed death (and return) complicate engagements and loyalties, exposing the characters' differing attitudes to marriage, art, and duty. The novel satirises provincial society, fashionable philanthropy, and Bohemian artistic pretensions against a backdrop of late Victorian manners. Ultimately domestic attachments and practical kindness reshape relationships more than ideals or rhetoric.",
+    "dcat:keyword": [
+        "marriage",
+        "social satire",
+        "love triangle",
+        "philanthropy",
+        "music"
+    ],
+    "dcat:theme": [
+        "Marriage and courtship",
+        "Social class and philanthropy",
+        "Art, music and bohemian life"
+    ],
+    "dct:spatial": [
+        "Relton (fictional English village), England",
+        "Murville Manor (home counties), England",
+        "https://www.geonames.org/6615338"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Digby Raleigh",
+            "profile": "A passionate West End musician and widower, father to a small son (Sonny); idealistic, given to metaphysical and Socialist talk, and artistically devoted. He is sincere and generous but awkward in affairs of the heart, whose good intentions produce entanglements and comic tragedy."
+        },
+        {
+            "name": "Lady Joan Relton",
+            "profile": "A wealthy, witty, unconventional young woman who delights in shocking society and in exercising her independence. Charismatic, self-possessed and sometimes selfish, she drives much of the plot by her flirtations, pragmatic choices, and later philanthropic experiments."
+        },
+        {
+            "name": "Norah Bisley",
+            "profile": "A gentle, innocent provincial woman, emotionally sincere and morally steady; she becomes Digby’s genuine betrothed and later wife. Her patience, practical kindness, and quiet strength contrast with the worldliness of Lady Joan and help stabilise Digby’s life."
+        },
+        {
+            "name": "Jack Raleigh",
+            "profile": "The Squire's handsome, improvident younger son: a charming, impulsive drifter given to flirtation and debt. His presumed death and later return create the central crisis—testing loyalties, exposing hypocrisies, and prompting key decisions by Lady Joan and others."
+        }
+    ]
+}

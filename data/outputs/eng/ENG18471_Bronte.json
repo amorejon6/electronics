@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Wuthering Heights : ELTeC edition",
+    "dcterms:creator": "Brontë, Emily (1818-1848)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A dark, passionate tale of obsessive love and revenge on the Yorkshire moors. Heathcliff, an adopted foundling, returns wealthy and wreaks long, cruel vengeance on the Earnshaw and Linton families while remaining tormented by his lost love, Catherine. The novel traces how familial rivalries, social class, and violent temperaments destroy and reshape two generations, with the wild moorland a constant, hostile presence. Amid Gothic atmosphere and domestic brutality, a later generation (notably Hareton and young Cathy) hints at possible reconciliation and renewal.",
+    "dcat:keyword": [
+        "revenge",
+        "obsessive love",
+        "inheritance & class",
+        "Gothic atmosphere",
+        "Yorkshire moors"
+    ],
+    "dcat:theme": [
+        "Passionate/tragic love",
+        "Revenge and social retribution",
+        "Family, inheritance and class conflict",
+        "Gothic isolation and the supernatural"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2641211"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1801"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1802"
+            }
+        }
+    },
+    "dct:type": "Gothic or horror novel",
+    "mainCharacters": [
+        {
+            "name": "Heathcliff",
+            "profile": "A dark, brooding foundling adopted into the Earnshaw family who becomes implacably vengeful after real and perceived slights. He rises to wealth and power, using legal, social and psychological means to punish those he believes wronged him, yet remains consumed by an obsessive, destructive love for Catherine."
+        },
+        {
+            "name": "Catherine (Earnshaw) Linton / Catherine Heathcliff",
+            "profile": "Headstrong, passionate and capricious, Catherine is the novel's emotional centre whose love for Heathcliff and marriage to Edgar Linton set the central conflicts in motion. Her temperament and choices drive much of the tragedy, and her death and memory haunt other characters throughout the book."
+        },
+        {
+            "name": "Edgar Linton",
+            "profile": "Refined, genteel and comparatively weak, Edgar is Catherine's husband and social opposite to Heathcliff. He embodies the comforts and manners of the local gentry, loves Catherine devotedly, and becomes a tragic figure trying to protect his household and legacy from Heathcliff's vindictiveness."
+        },
+        {
+            "name": "Hareton Earnshaw",
+            "profile": "The last of the Earnshaw line, reared roughly and intentionally kept ignorant as part of Heathcliff's revenge, Hareton is brute-edged but fundamentally good. Over time he is slowly educated and humanized through Catherine's influence, becoming a symbol of possible redemption and healing between families."
+        }
+    ]
+}

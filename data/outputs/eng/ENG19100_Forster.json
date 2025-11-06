@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Howards End : ELTeC edition",
+    "dcterms:creator": "Forster, Edward Morgan (1879-1970)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A study of two families whose lives collide around a country house called Howards End: the idealistic, cultured Schlegels and the practical, property-minded Wilcoxes. The story follows sisterly bonds (Margaret and Helen Schlegel), a fraught cross-class encounter with Leonard Bast, and disputes over inheritance, social responsibility and personal connection. Tensions between private affections and public duties escalate to tragedy and legal consequences, forcing characters to confront class, money and moral responsibility. The novel contrasts city and country life and traces attempts to \"only connect\" inner values with the outer world.",
+    "dcat:keyword": [
+        "class conflict",
+        "family & inheritance",
+        "love vs. duty",
+        "modernity",
+        "English country-house"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Novel of manners"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "Hertfordshire (Howards End, Hilton)",
+        "https://www.geonames.org/2636445",
+        "Shropshire (Oniton Grange)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1908"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Margaret Schlegel",
+            "profile": "Practical, intelligent and morally engaged elder sister who acts as mediator between worlds. She is the emotional and ethical centre who tries to reconcile ideals and practical responsibilities, ultimately taking charge of Howards End and nursing fractured relations."
+        },
+        {
+            "name": "Helen Schlegel",
+            "profile": "Younger, impulsive and romantic sister whose passions and ideals lead her into personal crises. Sensitive and imaginative, Helen pursues intense emotional experiences, becomes involved across class lines, and ultimately seeks distance and a different life after tragedy."
+        },
+        {
+            "name": "Henry (Mr.) Wilcox",
+            "profile": "A pragmatic, prosperous man of business and owner of Howards End whose sturdy, conservative values clash with the Schlegels' ideals. He is steady, decisive and socially conventional; his choices about property, honour and family trigger key conflicts and moral questions."
+        },
+        {
+            "name": "Leonard Bast",
+            "profile": "A precarious lower-middle-class clerk, earnest, aspirational and drawn to culture; he aspires to self-improvement but is vulnerable to economic instability. His brief intimacy with the Schlegels and subsequent misfortunes culminate in personal tragedy that exposes class fault-lines and moral responsibility."
+        }
+    ]
+}

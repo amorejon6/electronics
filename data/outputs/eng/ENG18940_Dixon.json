@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "The Story of a Modern Woman : ELTeC edition",
+    "dcterms:creator": "Dixon, Ella Hepworth (1857-1932)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The Story of a Modern Woman follows Mary Erle, daughter of a celebrated scientist, as she is thrust into independence after her father's death and attempts to make a living as an artist and journalist in late-Victorian London. The novel traces her friendships (notably with Alison Ives), her entanglements with two very different men—Vincent Hemming and Perry Jackson—and the moral crises that confront her when intimacy, ambition, and social expectation collide. Episodes in Whitechapel hospital, the stage, and London drawing-rooms expose class contrasts, sexual double standards and professional pressures on women. Ultimately Mary refuses compromises that would injure other women, burns the relics of a failed passion, and resolves to continue alone and self-reliant in the city.",
+    "dcat:keyword": [
+        "women's independence",
+        "London society",
+        "love and betrayal",
+        "journalism and art",
+        "social realism"
+    ],
+    "dcat:theme": [
+        "Women's emancipation and social roles",
+        "Marriage, sexual morality and double standards",
+        "Urban life and class contrast"
+    ],
+    "dct:spatial": [
+        "London, England (Highgate, Harley Street, Regent's Park, Whitechapel)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1885"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Mary Erle",
+            "profile": "The protagonist: intelligent, artistic, and morally resolute, Mary is forced into independence after her father's death. She works as a journalist and aspiring artist, endures emotional disappointments, and consistently prioritises ethical solidarity with other women over selfish personal gain."
+        },
+        {
+            "name": "Vincent Hemming",
+            "profile": "A cultivated, vacillating man who courts Mary but later marries an heiress; his ambivalence and social ambition create painful moral dilemmas. He is at once tender and self-centred, catalysing Mary’s greatest temptation and final moral stand."
+        },
+        {
+            "name": "Alison Ives",
+            "profile": "Mary's close friend and a socially engaged, modern woman who works with and for poorer women; witty, capable, and outspoken, Alison is a moral compass in the story. Her illness and death are pivotal, provoking revelations about male hypocrisy and prompting Mary’s mature choices."
+        },
+        {
+            "name": "Perry Jackson",
+            "profile": "An ambitious young artist who rises from modest origins to commercial success and proposes to Mary. Warm-hearted and candid, Perry embodies an alternative domestic future, but Mary refuses him because of her principles and prior attachments."
+        }
+    ]
+}

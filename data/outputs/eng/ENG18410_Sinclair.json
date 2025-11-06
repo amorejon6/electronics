@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Modern Flirtations: or, A Month at Harrowgate : ELTeC edition",
+    "dcterms:creator": "Sinclair, Catherine (1800-1864)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A domestic novel of manners chiefly set in and around Edinburgh and parts of England, following Marion Dunbar as she navigates family distress, social flirtations, and moral trials. The plot interweaves romantic attachments (notably Richard Granville and Captain De Crespigny), a mysterious murder and attempted poisoning, and the rescue and adoption of the foundling Henry De Lancey. A madman’s revelations restore Henry’s true birthright while exposing past crimes, and Sir Arthur Dunbar’s declining health and death intensify the household’s moral reckonings. The narrative balances social satire, evangelical moral reflection, suspense, and reconciliations that restore social order and domestic consolation.",
+    "dcat:keyword": [
+        "domestic life",
+        "Christian morality",
+        "mystery",
+        "social manners",
+        "inheritance"
+    ],
+    "dcat:theme": [
+        "Novel of manners / domestic life",
+        "Religion and moral instruction (Christianity and virtue)",
+        "Crime, mystery and social justice",
+        "Identity, inheritance and social rank"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2640016",
+        "England (Harrowgate/Harrogate; Yorkshire; Beaujolie/Beaujolie Castle; various English locales)",
+        "https://www.geonames.org/2964574",
+        "https://www.geonames.org/3176959",
+        "https://www.geonames.org/3381670"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1810"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1837"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Marion Dunbar",
+            "profile": "A warm-hearted, devout and self-sacrificing young heroine (mid teens) who sustains the household through bereavement and moral trials. Generous and naturally religious, Marion is the novel's moral centre whose attachments, patient charity, and witness to central events drive the emotional plot and eventual reconciliations."
+        },
+        {
+            "name": "Richard Granville",
+            "profile": "A high-minded, pious and intellectually inclined gentleman and Marion’s suitor who embodies the novel’s ideal of Christian domestic virtue. Benevolent and steady, he guides younger characters, performs philanthropic labours, and provides a moral counterweight to fashionable selfishness and vanity."
+        },
+        {
+            "name": "Sir Arthur Dunbar (the Admiral)",
+            "profile": "An elderly, honorable retired naval officer and Marion’s affectionate guardian characterized by Christian piety and benevolence. His failing health and eventual death are pivotal, prompting moral reckonings in the family and exposing the consequences of pride, extravagance, and social ambition."
+        },
+        {
+            "name": "Henry De Lancey (later Marquis of Doncaster)",
+            "profile": "A noble, compassionate foundling whose true birthright is revealed through a madman’s confession and documentary evidence, vindicating his identity and leading to reconciliation. Generous and self-controlled, Henry’s restoration to rank intersects with themes of inheritance, justice, and social redemption."
+        }
+    ]
+}

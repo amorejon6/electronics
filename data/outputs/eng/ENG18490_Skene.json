@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The Inheritance of Evil : ELTeC edition",
+    "dcterms:creator": "Skene, Felicia (1821-1899)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A moral domestic tragedy set in Victorian England tracing the ruin that follows an unlawful marriage between a man and his deceased wife’s sister. The story follows two orphaned sisters, Elizabeth and Agnes Maynard: Elizabeth’s jealous fears about her husband Richard’s affection for Agnes culminate in her death, and Agnes later marries Richard. The clandestine marriage brings social ostracism, family disintegration and multiple deaths, while the surviving daughter Mary is left mentally ruined. The novel functions as a didactic critique of selfishness, lax moral reasoning, and the social and spiritual consequences of transgressing moral and religious law.",
+    "dcat:keyword": [
+        "marriage scandal",
+        "jealousy",
+        "social ostracism",
+        "retribution",
+        "Victorian morality"
+    ],
+    "dcat:theme": [
+        "Family and marital ethics",
+        "Social morality and reputation",
+        "Religious/didactic critique"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/11919979",
+        "https://www.geonames.org/2643743",
+        "Midlands (rural village, B—)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "@type": "xsd:gYear",
+                "value": "1830"
+            },
+            "dcterms:end": {
+                "@type": "xsd:gYear",
+                "value": "1850"
+            }
+        }
+    },
+    "dct:type": "Social novel (https://en.wikipedia.org/wiki/Social_novel)",
+    "mainCharacters": [
+        {
+            "name": "Elizabeth Maynard",
+            "profile": "Eldest Maynard daughter: reserved, passionate and intensely devoted to duty; she vows on her mother’s deathbed to protect her sister Agnes. Her consuming jealousy over her husband’s attachment leads to a fatal mental collapse and death in childbirth, which triggers the central moral crisis of the story."
+        },
+        {
+            "name": "Agnes Maynard / Agnes Clayton",
+            "profile": "Younger sister: sweet‑tempered, guileless and sentimentally educated in Paris, lacking strong moral resolve. She becomes Richard’s second wife (her sister’s former husband), suffers social condemnation, deep remorse, loss of her son and ultimately devotes her life in penitence to care for her niece Mary."
+        },
+        {
+            "name": "Richard Clayton",
+            "profile": "Vicar’s son: handsome, weak of principle and self‑indulgent; he first marries Elizabeth and after her death marries Agnes. His selfish decisions produce scandal, estrangement from his father (the vicar), deterioration of family life and contribute to his eventual physical and moral downfall."
+        },
+        {
+            "name": "Mary Clayton",
+            "profile": "Daughter of Elizabeth and Richard: gentle, devout and the moral exemplar taught by her grandfather the vicar. She becomes the chief innocent sufferer—driven to a fatal collapse by family scandal and grief, surviving as a permanently incapacitated/childlike figure whom Agnes tends in penitence."
+        }
+    ]
+}

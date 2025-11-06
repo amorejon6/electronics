@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "The good comrade : ELTeC edition",
+    "dcterms:creator": "Silberrad, Una Lucy (1872-1955).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A genteel but impecunious English family, the Polkingtons, struggle with pride, debt and social pretence. The middle daughter Julia travels to Holland to earn a living, becomes entwined with a Dutch bulb-grower family and with an English gentleman, Rawson-Clew, while confronting questions of honour, theft and loyalty. A prized blue daffodil and a stolen chemical secret (an explosive) drive a series of moral tests: theft, repayment of debts, and personal sacrifice. In the end debts are settled in unexpected ways and Julia and Rawson-Clew form a partnership that bridges social and moral divides.",
+    "dcat:keyword": [
+        "social class",
+        "honour and debt",
+        "bulb growing / horticulture",
+        "love and sacrifice",
+        "domestic decline"
+    ],
+    "dcat:theme": [
+        "Novel of manners",
+        "Social novel",
+        "Domestic realism"
+    ],
+    "dct:spatial": [
+        "England (Marbridge; Halgrave; Norfolk; London)",
+        "The Netherlands (bulb farms, Van Heigen family)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Julia Polkington (Julia Snooks)",
+            "profile": "Practical, resourceful and morally conflicted, Julia leaves England to work in Holland and returns to manage a fragile household. She is intelligent, capable with languages and domestic craft, fiercely loyal to family and friends, and repeatedly tests her own standards of honour when confronted with theft, debt and love."
+        },
+        {
+            "name": "Captain Polkington",
+            "profile": "A fallen, once-military gentleman whose gambling and drinking precipitate the family’s financial decline. Proud yet weak, he causes many of the family's troubles and finally dies after a decline that exposes tensions between honor, dependence and shame."
+        },
+        {
+            "name": "Johnny Gillat",
+            "profile": "A kindhearted, foolishly loyal bachelor and old friend of the family who provides steady, self-effacing support to Julia and the Captain. Honest and affectionate, he represents simple decency and domestic constancy throughout the novel."
+        },
+        {
+            "name": "Hubert F. Rawson-Clew",
+            "profile": "An urbane, well-born Englishman and practical man of affairs who meets Julia in Holland and becomes both her ally and lover. Steady, morally upright and ultimately generous, he is the catalyst for Julia's final moral reckoning and for the settlement of the family's debt."
+        }
+    ]
+}

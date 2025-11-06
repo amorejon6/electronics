@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Night and day: ELTeC edition",
+    "dcterms:creator": "Woolf, Virginia (1882-1941)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in London and its environs, the novel follows Katharine Hilbery — the cultured daughter of a literary family — as she navigates proposals, family duty, and her private passions. A triangle of attachments develops between Katharine, the earnest solicitor Ralph Denham, and the sensitive aspiring writer William Rodney, complicated by Katharine's pragmatic household role and by Mary Datchet’s reforming friendships. Scenes move between drawing-room society, reform meetings, and suburban and country settings, exploring choices about marriage, vocation, and personal freedom. The narrative examines how social rank, family expectations, and individual desire collide in the early twentieth-century urban milieu.",
+    "dcat:keyword": [
+        "love triangle",
+        "social class",
+        "women's independence",
+        "literary circles",
+        "London society"
+    ],
+    "dcat:theme": [
+        "Social relations and marriage",
+        "Gender and women's autonomy",
+        "Urban life and class"
+    ],
+    "dct:spatial": [
+        "England — London (Chelsea, Highgate, Strand, Kew, Embankment)",
+        "England — Lincolnshire (Disham)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Katharine Hilbery",
+            "profile": "Daughter of a distinguished literary family, reserved and practical yet secretly intellectual. She manages household and her mother’s biography project while wrestling with an unexpected love and the constraints of family and class. Central to the plot, Katharine negotiates duty, aesthetic temperament, and personal freedom."
+        },
+        {
+            "name": "Ralph Denham",
+            "profile": "A conscientious young solicitor from a modest family, restless for a fuller life and quick to idealize. He alternates between passionate devotion (especially toward Katharine) and sober reflections on vocation and responsibility. His relationship with Katharine and with Mary Datchet drives much of the emotional tension."
+        },
+        {
+            "name": "William (William) Rodney",
+            "profile": "An aspiring writer and sensitive aesthetic, socially precarious but cultured and vain in differing measure. Engaged to Katharine for a time, he is earnest, neurotic, and easily wounded; his theatrical ambitions and vanity complicate his courtship and friendship ties. Rodney embodies the literary, romantic strand of the social circle."
+        },
+        {
+            "name": "Mary Datchet",
+            "profile": "A committed, energetic suffrage organizer and Katharine’s friend, practical and morally resolute. She balances public activism with private affections — especially her complex friendship/feeling for Ralph Denham — and represents a contrasting model of female independence to Katharine’s domestic role. Her office and political work form an important social backdrop."
+        }
+    ]
+}

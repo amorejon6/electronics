@@ -1,0 +1,70 @@
+{
+    "dcterms:title": "Don Juan I de Castilla o La Venganza de un Rey : edición ELTeC",
+    "dcterms:creator": "Domínguez, P. J. (-)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela histórica ambientada en la España y Portugal de finales del siglo XIV que narra intrigas dinásticas, conspiraciones y crímenes en torno a la sucesión y al poder. Cuenta maquinaciones políticas (sobornos, asesinatos y puestos cambiantes) urdidas por nobles, religiosos y financieros —con un destacado papel de banqueros judíos— para arrebatar o mantener coronas. Paralelamente se desarrolla una línea sentimental: la secuencia del rapto, la conversión y el amor entre Abigail (hija de un tesorero judío) y el caballero Ramiro, y la figura espiritual del ermitaño Juan Sago. Batallas reales (sitios, Aljubarrota), campañas marítimas y la tensión entre fe, venganza y lealtad vertebran la acción en un marco medieval crudo y político.",
+    "dcat:keyword": [
+        "conspiración",
+        "monarquía",
+        "judíos",
+        "venganza",
+        "guerra"
+    ],
+    "dcat:theme": [
+        "Política y conspiración",
+        "Religión y conversión",
+        "Guerra y honor",
+        "Amor y venganza"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3111108",
+        "https://www.geonames.org/2264397"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1383"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1385"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1390"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1393"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Juan (rey de Castilla)",
+            "profile": "Joven monarca pie de una dinastía trastornada: piadoso y prudente, intenta restablecer el orden tras la muerte de su padre. Su reinado y decisiones (coronación, políticas, juicios sobre conspiradores) son el eje político de la novela; actúa a la vez como pacificador, juez y ocasional estratega militar."
+        },
+        {
+            "name": "Baruch",
+            "profile": "Judío influyente, astrólogo y agente de redes financieras y políticas. Representa el papel ambiguo del crédito y la diplomacia: apoya proclamas, financia facciones y participa en maquinaciones que afectan la sucesión y la seguridad de los reyes."
+        },
+        {
+            "name": "Ramiro (hijo de Men Rodríguez de Sanabria)",
+            "profile": "Caballero joven, leal y pendenciero: pasa de ser enemigo de la corona a ser uno de sus defensores más decididos. Protagonista sentimental y aventurero: rescata, defiende y se enamora de Abigail; actúa como instrumento de justicia y venganza en varios episodios militares y personales."
+        },
+        {
+            "name": "Abigail",
+            "profile": "Hija de Joseph Pico, originariamente judía, hermosa y virtuosa: víctima del secuestro y objeto de deseo de nobles. Su conversión, cautiverio y relación con Ramiro articulan la trama sentimental y ponen de relieve tensiones religiosas y sociales en la novela."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Miss Marjoribanks : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Oliphant, Margaret (1828–1897)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Miss Marjoribanks follows Lucilla Marjoribanks as she returns to her widowed father's house in the provincial town of Carlingford and sets out to reorganise its social life through carefully managed \"Evenings\" and musical salons. The novel traces her tactics as she cultivates singers and guests, navigates domestic power, and negotiates rivalries and suitors amid local gossip, imposture, and a contested parliamentary election. A sudden death and financial collapse force Lucilla to confront practical burdens and moral responsibility, even as she pursues philanthropic plans and social improvement for the town. The narrative balances observant irony and social comedy while emphasising female agency, marriage, and small‑town opinion in mid‑Victorian England.",
+    "dcat:keyword": [
+        "provincial society",
+        "female agency",
+        "social ambition",
+        "music and salons",
+        "courtship and marriage"
+    ],
+    "dcat:theme": [
+        "Novel of manners",
+        "Social satire",
+        "Domestic life and philanthropy",
+        "Marriage and female agency"
+    ],
+    "dct:spatial": [
+        "Carlingford, England"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1870"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Lucilla Marjoribanks",
+            "profile": "A lively, self-possessed and socially ambitious young woman who returns from schooling and travel to preside over her father's house in Carlingford. Intelligent, philanthropic and strategically inclined, she organises weekly \"Evenings\" and musical salons to reform and direct local society, while ultimately shouldering responsibility after her father's death and balancing personal feeling with public purpose."
+        },
+        {
+            "name": "Mr Ashburton",
+            "profile": "A respectable, steady local landowner and the pragmatic parliamentary candidate whom Lucilla supports and who ultimately wins the seat. Practical and reserved, he represents the safe, conventional choice in local politics and an eligible suitor whose quiet steadiness contrasts with the town's more romantic figures."
+        },
+        {
+            "name": "Tom Marjoribanks",
+            "profile": "Lucilla's cousin who returns unexpectedly from India, plain-spoken, affectionate and impulsive; his arrival upends earlier plans and precipitates Lucilla's decisive personal choice. Though lacking worldly polish, he embraces responsibility and, encouraged by Lucilla, intends to take up the role of a country gentleman by buying Marchbank and aiding her social improvement projects."
+        },
+        {
+            "name": "Barbara Lake",
+            "profile": "The drawing-master's daughter, a charismatic contralto of limited social polish whose conspicuous behaviour and wounded vanity provoke gossip in Carlingford. Discovered and promoted by Lucilla as a musical attraction, Barbara's ambitions and past reputation complicate courtships and affect local judgments about propriety and public life."
+        }
+    ]
+}

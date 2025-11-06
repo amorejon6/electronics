@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Último día del paganismo primero de... lo mismo : edición ELTeC",
+    "dcterms:creator": "Costa, Joaquín (1846-1911)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en el siglo IV tardío, la novela sigue a Numisio Pomponio, un terrateniente y antiguo militar romano, en sus viajes por la calzada imperial desde Hispania hasta la corte de Oriente y la Thracia. La trama mezcla campañas militares, intrigas palaciegas (la usurpación de Magno Máximo y la respuesta de Teodosio), episodios de justicia local y proyectos de reforma agraria y pedagógica. El relato explora amistades, lealtades y rupturas políticas —y la tensión entre patriotismo romano y amenazas bárbaras— mientras se despliegan episodios domésticos y sociales en las posesiones del protagonista. A la par, hay reflexiones sobre religión, identidad cultural y el futuro del Imperio, culminando en decisiones personales que marcan destino y reconciliación con la propia vida.",
+    "dcat:keyword": [
+        "Imperio romano",
+        "Guerras góticas",
+        "Política y lealtad",
+        "Reforma agraria",
+        "Romanización"
+    ],
+    "dcat:theme": [
+        "Histórica",
+        "Política y militar",
+        "Reforma social y rural"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3175395",
+        "Grecia (Tracia, Tesalónica)",
+        "Turquía (Bizancio/Constantinopla)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "0376"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "0395"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Alucio Numisio Pomponio",
+            "profile": "Terrateniente, exmilitar y hombre de acción reflexiva; protagonista central. Es justo, práctico y filantrópico, impulsor de reformas agrarias y pedagógicas; su sentido del deber político y su temperamento a veces irascible marcan la trama y su influencia en sucesos militares y sociales."
+        },
+        {
+            "name": "Teodosio (el joven)",
+            "profile": "General romano que llega a ser Emperador de Oriente; amigo íntimo de Numisio. Gobernante prudente y religioso, oscilante entre la política realista y presiones religiosas, su relación con Numisio impulsa decisiones clave en la guerra contra los godos y en la política imperial."
+        },
+        {
+            "name": "Plotina / Flavia Aelia Plotina (Therasia en pasajes)",
+            "profile": "Joven noble española de gran belleza y carácter sereno; nieta de Prisca y figura que provoca pasiones y estrategias familiares. Representa el encanto, la discreción y el posible papel diplomático/social en alianzas; su presencia influye en decisiones personales y políticas de los protagonistas."
+        },
+        {
+            "name": "Magno Clemente Máximo",
+            "profile": "Usurpador y antagonista: comandante proclamado emperador en la Galia y Hispania. Ambicioso y violento, su alzamiento, asesinatos y posterior derrota desencadenan conflictos militares y políticos que definen el destino del Imperio y las reacciones de los protagonistas."
+        }
+    ]
+}

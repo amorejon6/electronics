@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Dodo: A Detail of the Day : ELTeC edition",
+    "dcterms:creator": "Benson, Edward Frederic (1867-1940).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Dodo follows the vivacious and self-centred Dodo Vane, who marries the wealthy and devoted Lord Chesterford despite not loving him. The novel traces their uneasy married life in late‑Victorian England: Dodo's boredom with domesticity, her friendships and flirtations in London (notably with Jack Broxton), and the tragic death of their infant which intensifies moral conflicts. Jack loves Dodo but resists betraying his friend and cousin; Mrs. Vivian and others attempt to counsel and restrain the parties. The arrival of Prince Waldenech as a pursuing suitor complicates loyalties and exposes the hypocrisies and compromises of high society.",
+    "dcat:keyword": [
+        "marriage",
+        "social satire",
+        "love triangle",
+        "Edwardian/Victorian society",
+        "loss"
+    ],
+    "dcat:theme": [
+        "Marriage and social ambition",
+        "Novel of manners",
+        "Satire of upper-class society",
+        "Moral choice and loyalty"
+    ],
+    "dct:spatial": [
+        "England (London; Thames valley; country house at Winston — Staffordshire)",
+        "https://www.geonames.org/2657928"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1893"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Dodo (Dorothea) Vane",
+            "profile": "A brilliant, attractive and socially ambitious young woman whose vivacity and theatrical instincts make her the centre of her circle. She marries Lord Chesterford for security and position rather than deep love, struggles with boredom and conscience, and her choices drive the novel's crises and moral reckonings."
+        },
+        {
+            "name": "Jack Broxton",
+            "profile": "A tall, easygoing friend of Dodo and cousin of Chesterford who secretly loves Dodo with steady devotion. He is honest and self-restraining: his love is intense but tempered by loyalty, and his moral resistance frames the novel's tensions between passion and principle."
+        },
+        {
+            "name": "Lord Chesterford",
+            "profile": "A sincere, dutiful and wealthy country marquis who adores Dodo and embodies upright, unassuming virtue. His devotion, generosity and later suffering when he learns of Dodo's divided affections make him the moral centre whose fate precipitates Dodo's remorse."
+        },
+        {
+            "name": "Mrs. Vivian",
+            "profile": "A cultivated, morally serious older woman and friend (and occasional rebuker) of Dodo who takes an interest in social reform and offers clear‑eyed counsel. She functions as conscience and mentor in the narrative, revealing hard experience of love and warning Dodo about the consequences of disregarding duty."
+        }
+    ]
+}

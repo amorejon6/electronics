@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The Visits of Elizabeth : ELTeC edition",
+    "dcterms:creator": "Glyn, Elinor (1864-1943).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A sequence of epistolary journal-letters by a young Englishwoman, Elizabeth, recounting her visits to country houses and a French tour. The narrative tracks her social observations, amusements, flirtations and misunderstandings among the English and French upper classes. Frequent episodes of cricket, balls, dinners and small scandals foreground courtship rituals and rivalry among suitors. The book follows Elizabeth's social education and culminates in a romantic engagement.",
+    "dcat:keyword": [
+        "society",
+        "courtship",
+        "travel",
+        "country-house",
+        "Franco-English contrast"
+    ],
+    "dcat:theme": [
+        "Courtship and marriage",
+        "Social manners / novel of manners",
+        "Travel and cultural contrast",
+        "Young woman's coming-of-age"
+    ],
+    "dct:spatial": [
+        "England (Nazeby Hall, Heaviland Manor, Retby, Carriston Towers, Chevenix Castle, Foljambe Place and other country houses)",
+        "France (Paris and Normandy: Château de Croixmare, Dieppe, Vernon, Rouen, Caudebec, Havre, Trouville; Seine voyage)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1901"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1901"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Elizabeth",
+            "profile": "A witty, observant seventeen-year-old narrator whose letters record visits around English country houses and a French tour. She is lively, candid and learning the codes of high society while negotiating suitors, friendships and family obligations. Her perspective drives the coming-of-age strand and frames the social satire."
+        },
+        {
+            "name": "Lord Valmond (Harry)",
+            "profile": "An attractive, capricious English gentleman and recurring romantic interest who alternates between teasing, jealousy and tenderness. He becomes Elizabeth's primary suitor and his moods and attentions shape much of her social and emotional response. His English temperament contrasts with the more demonstrative French suitors."
+        },
+        {
+            "name": "Vicomte Gaston de la Trémors",
+            "profile": "A gallant young French officer who courts Elizabeth with ardent, gentlemanly devotion and dramatic gestures (including a long ride). He represents the romantic, continental alternative to English suitors and exemplifies the novel's Franco-English cultural tensions. His attentions highlight Elizabeth's conflicted feelings about love and national manners."
+        },
+        {
+            "name": "Octavia",
+            "profile": "Elizabeth's cousin and companion: a stylish, worldly and pragmatic young woman who acts as a chaperon and guide in society. She is witty, protective of Elizabeth and provides practical counsel about fashions, connections and social strategy. Octavia moderates Elizabeth's impulsiveness and helps arrange introductions and proprieties."
+        }
+    ]
+}

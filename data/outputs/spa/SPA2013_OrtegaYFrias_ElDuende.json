@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El duende de la corte : edición ELTeC",
+    "dcterms:creator": "Ortega y Frías, Ramón (1825-1883)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela situada en la corte de Felipe V (primer tercio del siglo XVIII) que combina una intensa trama sentimental con las intrigas políticas y de palacio. Sigue la desgracia de Andrea, una joven seducida y abandonada, y su lucha por preservar la honra y el futuro de su hijo frente a la oposición de la nobleza y las maniobras cortesanas. Paralelamente, fray Manuel de San José actúa como protector y estratega moral, mientras ministros, la duquesa de Miraguas y un amante enigmático (Antonio) tensan la trama con sátiras, duelos y prisiones. La novela contrapone honor personal y cálculo político y concluye con elementos de redención y reconciliación entre los amantes.",
+    "dcat:keyword": [
+        "honra",
+        "amor",
+        "intriga política",
+        "seducción",
+        "injusticia social"
+    ],
+    "dcat:theme": [
+        "Romance sentimental / tragedia",
+        "Intriga política y de corte"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2267057"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1700"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1746"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Andrea (Andrea Corbalán y Mendoza)",
+            "profile": "Joven huérfana, bella y virtuosa, víctima de una seducción que la deja en la deshonra y madre de un hijo ilegítimo. Combina dignidad y sacrificio: lucha por proteger la reputación y el porvenir del niño enfrentándose a la indiferencia y al cálculo de la nobleza."
+        },
+        {
+            "name": "Don Juan (hijo de la duquesa de Miraguas)",
+            "profile": "Joven aristócrata apasionado y voluble, seduce a Andrea pero se ve condicionado por su familia y las exigencias de la corte. Su orgullo, remordimientos y vacilaciones son motor de la tragedia sentimental y del conflicto entre deber familiar y amor."
+        },
+        {
+            "name": "Fray Manuel de San José (don Manuel Freire de Silva)",
+            "profile": "Ex‑capitán convertido en carmelita y hombre de grave influencia moral y política, ligado a intereses portugueses. Actúa como consejero, protector de Andrea y artífice de maniobras intelectuales y satíricas (incluyendo publicaciones) para desenmascarar intrigas y defender a los débiles."
+        },
+        {
+            "name": "Antonio (el verdugo / amigo protector)",
+            "profile": "Hombre de origen humilde y oficio de verdugo, orgulloso y profundamente enamorado de Andrea; ofrece matrimonio para legitimar al niño y reparar la ofensa. Representa la ambivalencia moral entre violencia y nobleza, y encarna la estigmatización social junto a la posibilidad de redención."
+        }
+    ]
+}

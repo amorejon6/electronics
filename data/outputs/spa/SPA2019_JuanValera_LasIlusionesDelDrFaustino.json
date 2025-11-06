@@ -1,0 +1,52 @@
+{
+    "dcterms:title": "Las ilusiones del doctor Faustino : edición ELTeC",
+    "dcterms:creator": "Valera y Alcalá-Galiano, Juan (1824-1905)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "La novela sigue la vida del doctor Faustino, un joven provinciano culto y ambicioso que vuelve de sus viajes decidido a labrarse un destino entre la gente de su rango. En Villabermeja se enreda en amores y desengaños: corteja a la aristocrática Costanza pero conoce también a María, su \"inmortal amiga\", cuya presencia y misterio transforman profundamente su vida. La obra muestra el choque entre ilusiones personales (poéticas, sociales y religiosas) y la dura realidad provincial y urbana, con críticas a la vanidad, al honor y a las convenciones sociales. Tras una serie de equívocos, celos y duelos, la historia termina trágicamente con la muerte de los protagonistas y deja una reflexión sobre las consecuencias de las ambiciones y los afectos mal dirigidos.",
+    "dcat:keyword": [
+        "ilusiones",
+        "amor y desengaño",
+        "sociedad andaluza",
+        "honor y orgullo",
+        "fe y escepticismo"
+    ],
+    "dcat:theme": [
+        "Novela de costumbres",
+        "Novela social",
+        "Tragedia sentimental"
+    ],
+    "dct:spatial": [
+        "España (región minera ficticia, ambientación en Cantabria / norte de España)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1816"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1875"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres (Novel of manners)",
+    "mainCharacters": [
+        {
+            "name": "Doctor Faustino (Don Faustino López de Mendoza)",
+            "profile": "Joven ilustrado, romántico y ambicioso, de origen hidalgo pero empobrecido. Intelectual inquieto, alterna aspiraciones poéticas y filosóficas con pasiones personales; su búsqueda de gloria y su inestabilidad moral le llevan al desastre personal y a finales trágicos. Es el eje de las ilusiones y desengaños que atraviesan la novela."
+        },
+        {
+            "name": "Doña Costanza (la marquesa de Guadalbarbo)",
+            "profile": "Hermosa, educada y aristocrática, prima de Faustino que encarna el ideal y el poder social. Su relación con Faustino oscila entre la ternura, el orgullo y la prudencia; casada con un rico marqués, su posición social y sus dudas morales provocan tensiones decisivas en la trama. Actúa como catalizadora del orgullo, los celos y las pruebas que afrontan los personajes."
+        },
+        {
+            "name": "María (la «inmortal amiga»)",
+            "profile": "Mujer de origen humilde y pasado trágico, dotada de una fe y sensibilidad casi místicas. Ama a Faustino con devoción absoluta y vive movida por intuitivas creencias sobre vidas pasadas y comunicación espiritual; su misterio y sacrificio moral son motores de la acción y terminan por marcar el destino fatal del héroe. Representa la pureza y el ideal espiritual frente a las vanidades mundanas."
+        },
+        {
+            "name": "D. Juan Fresco",
+            "profile": "Amigo y narrador secundario, hombre afable, viajado y de espíritu liberal; actúa como confidente sensible y observador crítico de Villabermeja. Su presencia ofrece contexto moral y social, y su temperamento comprensivo ayuda a enmarcar la historia en la vida provincial y sus contradicciones."
+        }
+    ]
+}

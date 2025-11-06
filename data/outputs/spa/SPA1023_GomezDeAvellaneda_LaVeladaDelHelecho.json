@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La velada del helecho o El donativo del diablo: novela : edición ELTeC",
+    "dcterms:creator": "Gómez de Avellaneda, Gertrudis (1814-1873)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en una villa alpina de la Suiza medieval, la novela narra la leyenda de la Velada del helecho y el amor entre Ida Keller y Arnoldo Kessman, paje del conde de Montsalvens. Arnoldo, tentado por una aparición en el camino de Eví y favorecido por un misterioso donativo, se ve acusado de robar papeles decisivos del conde. El barón de Charmey revela después que esos documentos prueban la verdadera filiación de Arnoldo y retoma la justicia contra el conde usurpador. La historia mezcla tradición popular, intriga feudal y un desenlace reconciliador con boda y restitución de honores.",
+    "dcat:keyword": [
+        "feudalismo",
+        "amor prohibido",
+        "leyenda popular",
+        "tentación diabólica",
+        "herencia"
+    ],
+    "dcat:theme": [
+        "Amor romántico",
+        "Leyenda popular y sobrenatural",
+        "Conflicto feudal y honor"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6941936",
+        "Moléson (Alpes), Suiza",
+        "Camino de Eví (sendero alpino cerca de Neirivue), Suiza"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1400"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1450"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Arnoldo Kessman",
+            "profile": "Joven paje de noble origen incierto, amante de Ida Keller. Es apasionado, nervioso y víctima de profundas dudas morales: sucumbe a la tentación relacionada con la leyenda del camino de Eví y actúa impulsado por el deseo de mejorar su suerte, lo que le lleva a un conflicto que condiciona el desarrollo de la trama."
+        },
+        {
+            "name": "Ida Keller",
+            "profile": "Hija única y hermosa del rico ganadero Juan Bautista Keller, objeto del amor de Arnoldo. Es modesta, afectuosa y leal: su angustia ante la desaparición y la acusación contra su amado impulsa parte importante de la acción y revela la dimensión social y afectiva del relato."
+        },
+        {
+            "name": "Juan Bautista Keller",
+            "profile": "Opulento ganadero y padre de Ida, hombre patriarcal que valora la posición social y la dote. Su carácter práctico y su interés por la fortuna influyen en las expectativas matrimoniales; inicialmente desconfiado, actúa con orgullo y nerviosismo ante la súbita riqueza de Arnoldo."
+        },
+        {
+            "name": "Barón de Charmey",
+            "profile": "Joven noble galante y protector que interviene decisivamente para desentrañar la intriga. Inteligente y generoso, organiza la recuperación de documentos y revela la verdad sobre la filiación de Arnoldo, restableciendo el honor y proporcionando el desenlace feliz."
+        }
+    ]
+}

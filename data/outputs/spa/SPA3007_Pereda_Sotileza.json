@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Sotileza : Edición ELTeC",
+    "dcterms:creator": "Pereda, José María de (1833-1906)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en el Santander de fines del siglo XIX, la novela traza un vivo fresco del barrio marinero: sus oficios, sus fiestas y sus rencillas. La huérfana Silda (apodada Sotileza) es recogida por un matrimonio de la bodega y protegida por el padre Apolinar; Andrés, hijo de un capitán, se enamora y su presencia desata rumores y un escándalo de honor. El conflicto social y familiar escala hasta una tempestad en la mar que sirve de prueba y redención para varios personajes, mientras se examinan obediencias, orgullo y solidaridad comunitaria. El relato combina realismo costumbrista y reflexión moral sobre la pobreza, la dignidad y las tradiciones marítimas.",
+    "dcat:keyword": [
+        "costumbrismo",
+        "marinería",
+        "honor",
+        "Santander",
+        "pobreza"
+    ],
+    "dcat:theme": [
+        "Costumbrismo",
+        "Novela social",
+        "Realismo regional"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3109718"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1830"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1885"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Andrés (Andresillo)",
+            "profile": "Hijo del capitán de la corbeta La Montañesa, es un muchacho gallardo, marinero por vocación y con fuerte sentido de la lealtad. Su relación con Sotileza, los rumores y su temperamento impulsivo le colocan en el centro del conflicto moral; su evolución pasa por la culpa, la prueba en la mar y la búsqueda de redención."
+        },
+        {
+            "name": "Sotileza (Silda)",
+            "profile": "Huérfana recogida por el matrimonio humilde de la bodega; es limpia, recia, de carácter reservadamente orgulloso y de conducta íntegra. Su presencia y su honor son el eje de la trama: rechaza la falta de respeto, marca límites y decide con energía sobre su destino y el de quienes la rodean."
+        },
+        {
+            "name": "Padre Apolinar",
+            "profile": "Exclaustrado y cura popular, compasivo y activo en la protección de los niños y los pobres del barrio. Mediador moral y figura de autoridad local, impulsa soluciones, bendice actos y sirve de vínculo entre las familias y las instituciones del pueblo."
+        },
+        {
+            "name": "Tío Mechelín",
+            "profile": "Pescador honrado y dueño de una barquía, protector de Sotileza junto a su mujer tía Sidora; representa la decencia obrera y el sentido comunitario. Su casa de la bodega es refugio y centro social; su enfermedad y reparación económica marcan importantes consecuencias en la trama."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Fortunata y Jacinta : dos historias de casadas : edición ELTeC",
+    "dcterms:creator": "Pérez Galdós, Benito (1843-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra la vida íntima y social de diversas familias madrileñas del siglo XIX, alternando escenas de la alta sociedad y de los barrios populares para mostrar romances, infidelidades y sus consecuencias sociales y morales. La novela sigue especialmente a Fortunata, mujer popular marcada por la pobreza y la pasión, a Jacinta, esposa piadosa y maternal, a Juanito Santa Cruz, eje de ambigüedades morales, y a Maximiliano Rubín, idealista y neurótico. A través de descripciones costumbristas, episodios en conventos, crisis nerviosas y conflictos domésticos, Galdós examina la hipocresía, la caridad interesada, la religiosidad práctica y las jerarquías de clase en el Madrid finisecular. El tono mezcla sátira social, observación psicológica y drama íntimo hasta las trágicas consecuencias personales y públicas de los personajes.",
+    "dcat:keyword": [
+        "Madrid",
+        "Realismo social",
+        "Maternidad",
+        "Adulterio",
+        "Clases sociales"
+    ],
+    "dcat:theme": [
+        "Realismo social",
+        "Novela de costumbres",
+        "Crítica social y moral"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2988507",
+        "https://www.geonames.org/6362418",
+        "https://www.geonames.org/2509954",
+        "https://www.geonames.org/2510911"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1873"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1886"
+            }
+        }
+    },
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Fortunata",
+            "profile": "Protagonista de origen popular: mujer pasional, vulnerable y contradictoria cuya vida atraviesa conventos, pobreza, un matrimonio con Maximiliano Rubín y relaciones clandestinas con Juanito. Su destino —madre, marginación y muerte tras el parto— ilustra la dureza social frente a la hipocresía burguesa y centra el conflicto moral de la obra."
+        },
+        {
+            "name": "Jacinta Arnaiz (Jacinta)",
+            "profile": "Joven esposa piadosa y maternal de la clase acomodada popular, representativa de la virtud doméstica y las preocupaciones por el honor y el status. Su afecto, afán de maternidad y orgullo social la convierten en centro ético de la novela y en contrapunto de la vida de Fortunata."
+        },
+        {
+            "name": "Juan Pablo \"Juanito\" Santa Cruz (el Delfín)",
+            "profile": "Heredero encantador y socialmente privilegiado: marido de Jacinta y antiguo amante de Fortunata; figura moralmente ambigua cuya conducta provoca celos, rupturas y escándalos. Su carácter coqueto y a veces frívolo impulsa gran parte del conflicto entre clases y conciencias."
+        },
+        {
+            "name": "Maximiliano (Maxi) Rubín",
+            "profile": "Joven tímido y neurótico, farmacéutico en formación y esposo de Fortunata, movido por idealismos morales y religiosos que colisionan con sus celos y crisis nerviosas. Su intento de redención, su fragilidad psíquica y su sufrimiento constituyen un motor dramático clave en la segunda parte."
+        }
+    ]
+}

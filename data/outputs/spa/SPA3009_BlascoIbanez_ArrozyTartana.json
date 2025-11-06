@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Arroz y tartana : Edición ELTeC",
+    "dcterms:creator": "Blasco Ibáñez, Vicente (1867 - 1928)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela muestra la vida y las ambiciones de una familia burguesa valenciana centrada en doña Manuela y su tienda «Las Tres Rosas». Entre las compras del mercado, los arreglos sociales y las tentaciones de la Bolsa, se despliegan intrigas de dinero, vanidad y engaño que conducen a la ruina económica y moral. La caída financiera de los protegidos del banquero Morte, las apuestas bursátiles de don Antonio Cuadros y la tragedia personal —la enfermedad y muerte de Juanito— articulan una dura crítica social. La obra retrata la hipocresía, el deterioro de los lazos familiares y la decadencia de la pequeña burguesía valenciana a finales del siglo XIX.",
+    "dcat:keyword": [
+        "burguesía",
+        "mercado",
+        "ruina financiera",
+        "hipocresía social",
+        "decadencia"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Costumbrismo",
+        "Decadencia burguesa"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2509954"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1895"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Doña Manuela (viuda de Pajares)",
+            "profile": "Matrona y dueña de la tienda «Las Tres Rosas», ambiciosa y vanidosa, central en la novela como símbolo de la pequeña burguesía que intenta mantener apariencias sociales. Su deseo de ascenso social y sus gestiones (a veces imprudentes) por sostener el prestigio familiar precipitan conflictos y crisis económicas."
+        },
+        {
+            "name": "Juanito Peña",
+            "profile": "Hijo mayor, tímido y afectuoso, empleado en la tienda; enamorado de la costurera Tónica y atrapado entre la lealtad familiar y la tentación de la Bolsa. Su evolución —de obediente dependiente a impulsivo jugador— y su trágica enfermedad/muerte constituyen el eje emotivo de la novela."
+        },
+        {
+            "name": "Don Eugenio García",
+            "profile": "Fundador veterano de «Las Tres Rosas», honrado y tradicional, representa la memoria del comercio antiguo y la honestidad profesional. Su mirada crítica hacia las nuevas prácticas bursátiles y su desazón ante la decadencia del mercado y la ruina moral contrastan con la ambición de los demás."
+        },
+        {
+            "name": "Don Antonio Cuadros",
+            "profile": "Antiguo dependiente que asciende con fortuna bursátil; demuestra la ambivalencia del nuevo rico: éxito económico, propensión al derroche y a la ostentación, y finalmente vulnerabilidad ante la inestabilidad financiera. Su relación con la familia y su caída reflejan los riesgos de la especulación."
+        }
+    ]
+}

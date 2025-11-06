@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "The Story of Bessie Costrell : ELTeC edition",
+    "dcterms:creator": "Ward, Humphry, Mrs. (1851-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "In a small English Midland village, the thrifty old labourer John Bolderfield entrusts the savings of a lifetime to his niece Bessie and her husband Isaac. Bessie, after receiving a small legacy, falls into extravagance, drink and eventually surreptitiously takes large sums from John's box; her husband's son Timothy also steals some of the hoard. Discovery and village suspicion follow, precipitating domestic ruin, public shame and Bessie's fatal suicide by the well. The novel examines the social repercussions of moral failure, the strains of poverty and pride, and the quiet compassion of neighbours like Mary Anne Waller.",
+    "dcat:keyword": [
+        "theft",
+        "alcoholism",
+        "rural life",
+        "social morality",
+        "domestic tragedy"
+    ],
+    "dcat:theme": [
+        "Domestic tragedy",
+        "Moral decline and social consequences",
+        "Rural English life and community judgment"
+    ],
+    "dct:spatial": [
+        "Clinton Magna (fictional English midland village), England"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:startDate": {
+                "xsd:gYear": "1885"
+            },
+            "dcterms:endDate": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Bessie Costrell",
+            "profile": "An attractive, impulsive village woman whose sudden small legacy and access to John Bolderfield's hoard unleash vanity, extravagance and drinking. Her fear of exposure and desperate choices (including theft and concealment) drive the central tragedy and culminate in her suicide."
+        },
+        {
+            "name": "John Bolderfield",
+            "profile": "An elderly, frugal labourer who has hoarded the savings of a lifetime and prides himself on his thrift and independence. Trusting yet stubborn, he entrusts his money to Bessie and Isaac; the loss of the hoard leaves him broken, furious and dependent on the charity of Mary Anne."
+        },
+        {
+            "name": "Isaac Costrell",
+            "profile": "Bessie's husband, a sober, melancholic chapel-goer and gardener whose religious seriousness coexists with a temper and domestic reserve. He reluctantly accepts custody of John's money and is crushed by his wife's betrayal, moving from stoic righteousness to wounded remorse and inward despair."
+        },
+        {
+            "name": "Mary Anne Waller",
+            "profile": "A humble, gentle widow and cousin who tends the dying, comforts the bereaved and provides practical care after the catastrophe. She embodies compassion and steadiness, nursing John and attempting to mediate the village's moral and social aftermath."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "El Vicario : edición ELTeC",
+    "dcterms:creator": "Ciges Aparicio, Manuel (1873-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Un vicario instruido y heterodoxo llega a un pueblo rural español y despierta recelos, fascinaciones y enconadas disputas entre curas, liberales y conservadores. Su relación ambigua con María Fernanda, joven esposa de un rico y rudo terrateniente, y la muerte de la madre de ella desencadenan un escándalo creciente. La tensión política y social del pueblo se mezcla con celos privados, rumores y violencia colectiva. La novela termina con el linchamiento público del vicario por una muchedumbre enfurecida.",
+    "dcat:keyword": [
+        "clero",
+        "adulterio",
+        "linchamiento",
+        "pueblo rural",
+        "conflicto social"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Religión y modernidad",
+        "Amor trágico y pasiones",
+        "Realismo rural"
+    ],
+    "dct:spatial": [
+        "España (villa rural, provincia no especificada)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1900"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "D. Iñigo Interián de Barnuevo (el Vicario)",
+            "profile": "Sacerdote culto, meditativo y polémico, enviado al pueblo tras una carrera en la ciudad; defiende la sinceridad intelectual y critica tanto al periodismo como a extremos políticos. Carismático y contradictorio, su alejamiento de la ortodoxia y su magnetismo hacia las mujeres le convierten en centro del conflicto moral y social que culmina en su muerte."
+        },
+        {
+            "name": "María Fernanda",
+            "profile": "Joven de gran belleza y fragilidad, casada con el avaro y tosco Don Jaime; vive una pena íntima y resignada que la lleva a buscar consuelo fuera del matrimonio. Su relación con el vicario y su desesperación ante la muerte de su madre la convierten en víctima trágica del escándalo y del delirio."
+        },
+        {
+            "name": "Don Jaime",
+            "profile": "Rico mayor del pueblo, orgulloso, avaro y brevemente protector de las propiedades locales; esposo posesivo y brutal que reacciona con violencia ante la sospecha de infidelidad. Su ira pública y privada alimenta la escalada de violencia que conduce al linchamiento del vicario."
+        },
+        {
+            "name": "Doña Elisa",
+            "profile": "Viuda desgraciada, enferma y devota, cuya ruina familiar y posterior agonía conmueven al pueblo; madre de María Fernanda, su muerte y la confesión en el lecho influyen decisivamente en la cadena de culpabilidad y emociones que desencadenan el desenlace. Representa la inocencia sacrificial y el catalizador moral del drama."
+        }
+    ]
+}

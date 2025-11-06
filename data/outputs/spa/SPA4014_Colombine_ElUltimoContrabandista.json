@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "El último contrabandista : edición ELTeC",
+    "dcterms:creator": "Burgos y Seguí, Carmen de [Colombine] (1867-1932)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "En torno al Cabo de Gata y las salinas de Almería se desarrolla la vida de un pueblo dominado por don Antonio Olivares, un carismático jefe de una red de contrabandistas. La narración sigue los amores contrariados de Aurelia y Sebastián, los conflictos de honor entre familias y la escalada de violencia y venganza que acompaña a los alijos. El contraste entre la fiesta, las tradiciones locales (bailes, hogueras, rituales) y la dureza del contrabando crea un clima trágico que desemboca en asesinatos y desastres personales. Finalmente la tensión colectiva y las traiciones internas precipitan la caída del líder y el desmoronamiento del orden local.",
+    "dcat:keyword": [
+        "contrabando",
+        "venganza",
+        "amor trágico",
+        "costumbrismo",
+        "Andalucía"
+    ],
+    "dcat:theme": [
+        "Aventura",
+        "Novela social",
+        "Tragedia romántica"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/7911182",
+        "https://www.geonames.org/2440476",
+        "https://www.geonames.org/2521886",
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1930"
+            }
+        }
+    },
+    "dct:type": "Novela de aventuras",
+    "mainCharacters": [
+        {
+            "name": "Don Antonio Olivares",
+            "profile": "Señor local y líder carismático de una extensa red de contrabandistas; combina prestigio social, recursos y una fuerza física prodigiosa. Su autoridad paternal sobre el valle mantiene una disciplina férrea pero su ambición y estilo de vida arriesgado atraen odios y conspiraciones que acaban por costarle la vida."
+        },
+        {
+            "name": "Aurelia",
+            "profile": "Joven rubia y extraordinaria belleza en medio de un entorno de mujeres morenas; objeto de deseo y centro del conflicto amoroso. Su posición social y sus amores contrariados (con Sebastián y la atención de Pedro Moro) la convierten en foco de envidias, malentendidos y tragedia."
+        },
+        {
+            "name": "Sebastián",
+            "profile": "Joven humilde, tierno y valiente, enamorado de Aurelia; participa en el entorno de contrabando por necesidad y ambición de mejorar su suerte. Su pasión y su desdicha lo llevan a capítulos de heroísmo, humillación y, finalmente, a una muerte violenta que desencadena venganzas."
+        },
+        {
+            "name": "Doña María",
+            "profile": "Esposa piadosa y sufrida de don Antonio, madre entregada y figura doméstica de fuerte dignidad moral. Su fidelidad, temple y capacidad de intervención en momentos críticos revelan una autoridad moral que pone en evidencia las debilidades del marido y sostienen la dimensión humana de la comunidad."
+        }
+    ]
+}

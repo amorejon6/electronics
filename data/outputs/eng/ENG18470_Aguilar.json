@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Home Influence: A Tale for Mothers and Daughters : ELTeC edition",
+    "dcterms:creator": "Aguilar, Grace (1816-1847)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A domestic moral tale about two orphaned siblings, Edward and Ellen Fortescue, taken into the care of their aunt and uncle at Oakwood. The narrative follows the shaping power of parental and domestic influence — contrasting indulgence and disciplined care — as Edward grows into a naval officer and Ellen struggles with timidity, illness and a self-imposed sacrifice to protect her brother. A crisis of secret debt, confession and conscience exposes family tensions and leads to tests of forgiveness, repentance and restoration. The novel emphasises maternal responsibility, moral education of girls, and the redemptive possibilities of home and faith.",
+    "dcat:keyword": [
+        "family",
+        "motherhood",
+        "education",
+        "sacrifice",
+        "repentance"
+    ],
+    "dcat:theme": [
+        "Domestic / family influence and maternal responsibility",
+        "Moral education and formation of character",
+        "Sacrifice, confession and redemption",
+        "Social / class duties and rural benevolence"
+    ],
+    "dct:spatial": [
+        "Wales (Llangwillan village)",
+        "England (Devonshire — Oakwood Hall)",
+        "India (Colonel Fortescue's station)",
+        "Faroe Islands / Samboe (North Atlantic)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1820"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1847"
+            }
+        }
+    },
+    "dct:type": "Sentimental novel",
+    "mainCharacters": [
+        {
+            "name": "Ellen Fortescue",
+            "profile": "A shy, delicate and morally earnest teenage girl whose childhood neglect and ill health produce a vivid imagination and a tendency to conceal rather than confess. Ellen becomes the novel's moral centre through a self-sacrificing promise and long suffering, and her recovery and candidness drive the story's reconciliation and lessons about home influence."
+        },
+        {
+            "name": "Edward Fortescue",
+            "profile": "Ellen's handsome, impulsive elder brother who goes to sea and is praised for bravery but later falls under bad influence and debt. His errors, confession and ultimate resolve to reform form one main arc of the novel and catalyse much of the family's trial and forgiveness."
+        },
+        {
+            "name": "Mrs. Emmeline Hamilton",
+            "profile": "The aunt and moral guardian who embodies patient piety, domestic wisdom and maternal responsibility; she and her husband take the orphans into Oakwood. Emmeline’s quiet authority, spiritual counsel and steadfast love shape the children’s characters and provide the novel’s ethical framework."
+        },
+        {
+            "name": "Percy Hamilton",
+            "profile": "A warm-hearted, high-spirited cousin who provides lively contrast to the more serious siblings; generous, impulsive and affectionate, he repeatedly demonstrates courage and loyalty. Percy functions as both comic relief and an active agent of goodwill, helping to reconcile family tensions and honour those who aided the household."
+        }
+    ]
+}

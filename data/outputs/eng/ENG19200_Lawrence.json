@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Women in love : ELTeC edition",
+    "dcterms:creator": "Lawrence, David Herbert (1885-1930)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Two Brangwen sisters, Ursula and Gudrun, negotiate desire, art and conviction in an industrial Midlands town while their lives become entangled with Rupert Birkin and Gerald Crich. Gerald, an energetic coal-industry heir, converts industry into mechanical efficiency but suffers inner emptiness; his possessiveness and rivalry with Gudrun lead to violent confrontation. Ursula’s intellectual and emotional relationship with Birkin provokes existential and moral debate as characters confront sexual awakening, class tension and the clash between nature and modern social machinery. Episodes range from domestic and workplace scenes to Continental escapes in the Alps and Dresden, culminating in tragedy, mourning and a search for personal authenticity.",
+    "dcat:keyword": [
+        "sisterhood",
+        "industrialization",
+        "sexual desire",
+        "art and aesthetics",
+        "jealousy"
+    ],
+    "dcat:theme": [
+        "Modernism and social critique",
+        "Sexuality and psychological awakening",
+        "Class, industry and nature versus civilization",
+        "Individual freedom versus social/domestic expectation and existential alienation"
+    ],
+    "dct:spatial": [
+        "England (Derbyshire; Willey Green / Beldover / Shortlands; London)",
+        "Austria (Tyrol / Innsbruck / Alps)",
+        "https://www.geonames.org/2935022",
+        "https://www.geonames.org/2988507",
+        "Continental Europe (Belgium; Switzerland)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1920"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Ursula Brangwen",
+            "profile": "A reflective, morally enquiring schoolmistress who is drawn into intense intellectual and emotional encounters. She struggles to reconcile desire, duty and a yearning for spiritual and bodily wholeness, and her relationship with Birkin propels much of her existential questioning and development. Her eventual marriage to Birkin marks a tentative move toward the new life she seeks while she negotiates independence and family obligations."
+        },
+        {
+            "name": "Gudrun Brangwen",
+            "profile": "A younger sister who is artistically inclined, sensual and willful, pursuing autonomy and powerful, sometimes violent passions. She provokes desire and resists containment, oscillating between cruelty and tenderness as she seeks aesthetic and erotic fulfilment. Her restlessness and provocative modernity drive key conflicts and entangle her with Gerald and other men."
+        },
+        {
+            "name": "Rupert Birkin",
+            "profile": "A philosophical, restless school inspector and intellectual who critiques modern consciousness and conventional love, seeking a form of union that preserves individuality. He functions as a catalytic and often provocative voice, prompting debates about knowledge, sensuality and authenticity. His temperament and ideas shape Ursula's inner crises and wider moral arguments in the narrative."
+        },
+        {
+            "name": "Gerald Crich",
+            "profile": "An ambitious, pragmatic industrial heir and mine-owner who embodies managerial will and the drive to organise production into mechanical efficiency. Magnetic yet internally hollow, his jealousy, possessiveness and fear of meaninglessness culminate in violent action and a self-destructive flight into the mountains. His behaviour precipitates episodes of violence, grief and social consequence that are central to the novel's drama."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "El humo dormido : edición ELTeC",
+    "dcterms:creator": "Miró, Gabriel (1879-1931)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato fragmentario y lírico de recuerdos de infancia y juventud en una ciudad y comarcas españolas, presentado como escenas que emergen del «humo dormido». A través de viñetas —paseos, maestros, criados fieles, tertulias y episodios religiosos— el narrador evoca tipos populares, familias, y microcostumbres provincianas. Junto a la memoria social aparecen meditaciones religiosas y pasajes bíblicos (Semana Santa, la Ascensión) que entrelazan lo cotidiano con lo mítico. Predomina un tono nostálgico que examina la inocencia perdida, la fidelidad y la búsqueda de humanidad en personajes marginales y burgueses.",
+    "dcat:keyword": [
+        "memoria",
+        "infancia",
+        "provincia española",
+        "religiosidad",
+        "personajes populares"
+    ],
+    "dcat:theme": [
+        "Memoria y nostalgia",
+        "Retrato de costumbres provincianas",
+        "Religión y liturgia"
+    ],
+    "dct:spatial": [
+        "España (varias localidades provinciales: referencias a Jijona, Valencia, Tarragona, La Mancha)",
+        "Jerusalén / Galilea (presencias bíblicas y litúrgicas)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1870"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1920"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Narrador (yo)",
+            "profile": "Voz en primera persona que reconstruye fragmentos de su pasado con tono meditativo y poético. Actúa como centro de atención y filtro memorioso: observa, valora y conecta episodios menores con sentidos más amplios sobre la inocencia, la pérdida y la identidad."
+        },
+        {
+            "name": "Nuño el Viejo",
+            "profile": "Criado fiel, protector de los niños y figura profética de la vida doméstica; encarna la virtud práctica y la fidelidad rural. Su presencia marca ritos cotidianos y promete el porvenir del narrador a la vez que transmite nostalgia y autoridad moral."
+        },
+        {
+            "name": "Don Jesús",
+            "profile": "Sacerdote laico o canónigo compasivo y excéntrico, interlocutor de la tertulia urbana; es figura de humanidad ardiente que busca lo íntimo y conmovedor en la vida de los demás. Su empeño en salvar al extranjero moribundo (el 'judío errante' / inglés) muestra su impulso pastoral y su fragilidad moral."
+        },
+        {
+            "name": "Don Marcelino",
+            "profile": "Maestro de escolaridad temprana, personaje menudamente afectuoso y algo patético, señalado por su singularidad física (uñas largas) y sus gestos delicados. Representa la infancia pedagógica del narrador: instruye, conmueve y su desgracia o muerte deja huella en la memoria."
+        }
+    ]
+}

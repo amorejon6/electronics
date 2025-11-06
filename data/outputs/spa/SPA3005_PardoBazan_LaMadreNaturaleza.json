@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "La madre naturaleza : edición ELTeC",
+    "dcterms:creator": "Pardo Bazán, Emilia (1851-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra en clave realista y naturalista la vida en el valle de Ulloa, en Galicia, siguiendo los amores y conflictos entre la joven Manuela (la sobrina de la casa), Perucho (su compañero de infancia) y don Gabriel Pardo (tío y forastero retornado). El relato muestra la fricción entre clases, la decadencia del linaje señorial de los Pazos y la omnipresencia de la naturaleza, que protege y acelera pasiones. Un episodio traumático —la marcha de Perucho y la subsecuente crisis nerviosa de Manuela— desata sospechas, rivalidades y la intervención del cura y del médico. La historia explora la culpa, el honor, la religiosidad popular y las soluciones sociales y privadas (matrimonio, huida, convento) en un mundo rural conservador y supersticioso.",
+    "dcat:keyword": [
+        "vida rural",
+        "amor y pasión",
+        "choque de clases",
+        "decadencia aristocrática",
+        "religión y superstición"
+    ],
+    "dcat:theme": [
+        "Realismo / Naturalismo",
+        "Novela social",
+        "Literatura rural"
+    ],
+    "dct:spatial": [
+        "Valle de Ulloa, Galicia, España",
+        "https://www.geonames.org/3114965"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1870"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1890"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Manuela (Manolita)",
+            "profile": "Joven montañesa, sobrina de la difunta Marcelina, criada al aire libre y de carácter franco, rudo y algo arisco. Centro de la historia: su despertar afectivo, su crisis nerviosa tras la marcha de Perucho y su conflicto entre la inclinación natural y las prescripciones sociales y religiosas. Representa la inocencia rural a la vez que la vulnerabilidad frente a la autoridad y la superstición."
+        },
+        {
+            "name": "Perucho (Perucho/Perucho, el hijo de Sabel)",
+            "profile": "Muchacho campesino, robusto y apasionado, compañero de infancia y amante de Manuela; es valiente, posesivo y de fuerte sentido del honor. Su conflicto frente a la jerarquía señorial y su arranque impulsivo (la marcha tras la riña con el marqués) precipitan la tragedia central. Defensor incansable de su amada, simboliza la fuerza y la sinceridad populares."
+        },
+        {
+            "name": "Gabriel Pardo de la Lage",
+            "profile": "Militar retirado y hermano de la fallecida madre de Manuela; vuelve al país con ideales e inquietudes intelectuales y pronto se coloca como posible protector y pretendiente de su sobrina. Es reflexivo, melancólico y moralmente complejo: combina generosidad y obligaciones familiares con dudas éticas sobre el amor y la sociedad. Actúa como mediador y agente de reparación social pero también vive sus propias tensiones internas."
+        },
+        {
+            "name": "Don Pedro Moscoso, marqués de Ulloa",
+            "profile": "Señor del caserón (los Pazos), hidalgo envejecido, autoritario y físicamente venido a menos; representa la decadencia del señorío rural. Tiene una presencia dominante en la aldea, mezcla orgullo, crueldad y cierta vulnerabilidad física (gota, fatiga). Su actuación y decisiones familiares (favoritismos, reconocimiento de herederos) son determinantes en el conflicto entre clases y destinos de los jóvenes."
+        }
+    ]
+}

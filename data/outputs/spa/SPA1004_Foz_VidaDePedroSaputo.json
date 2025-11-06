@@ -1,0 +1,51 @@
+{
+    "dcterms:title": "Vida de Pedro Saputo :  Edición ELTeC",
+    "dcterms:creator": "Foz, Braulio (1791-1865)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato picaresco y costumbrista centrado en la vida de Pedro Saputo, un muchacho nacido en Almudévar que por su ingenio y talento llega a destacarse como pintor, músico y hombre de mundo. La obra sigue sus travesías (disfraces, aprendizaje de oficios, viajes por Aragón y España), sus amores —especialmente con Morfina— y la revelación tardía de su origen noble. A la vez traza un fresco satírico de las costumbres populares y eclesiásticas del entorno rural y urbano, con episodios que mezclan humor, ternura y crueldad. La novela termina con la misteriosa desaparición de Pedro y las consecuencias humanas sobre su familia y sus afectos.",
+    "dcat:keyword": [
+        "costumbrismo",
+        "picaresca",
+        "amor",
+        "identidad",
+        "artes (música y pintura)"
+    ],
+    "dcat:theme": [
+        "Novela de costumbres",
+        "Sátira social",
+        "Novela picaresca",
+        "Novela de formación"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3130279",
+        "https://www.geonames.org/3120514",
+        "https://www.geonames.org/3104324",
+        "varios pueblos del Somontano y la Litera (Aragón, España)"
+    ],
+    "dct:temporal": "Not identified",
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Pedro Saputo (Pedro López de Lúsera)",
+            "profile": "Protagonista: niño prodigio de Almudévar que aprende oficios, música y pintura con sorprendente rapidez; su ingenio y generosidad le granjean fama y favores. Hijo ilegítimo revelado tardíamente como hijo del caballero don Alfonso López de Lúsera, atraviesa viajes, disfraces y aventuras que terminan en una misteriosa desaparición."
+        },
+        {
+            "name": "Morfina (Morfina Estada)",
+            "profile": "Amor ideal y constancia: doncella de gran belleza, discreción y profundidad sentimental, que ama a Pedro desde joven y se mantiene fiel pese a la larga ausencia. Su relación con él articula la trama sentimental y revela la tensión entre pasión personal y fuerzas sociales."
+        },
+        {
+            "name": "La Pupila (madre de Pedro)",
+            "profile": "Madre humilde de origen modesto que cría sola a Pedro con virtud y trabajo; su honradez y sufrimiento marcan el origen del héroe. Su dignidad y la revelación sobre su matrimonio pasado son motores emocionales importantes en la novela."
+        },
+        {
+            "name": "Don Alfonso López de Lúsera",
+            "profile": "Caballero de antigua casa que, años después, resulta ser el padre legítimo de Pedro y le introduce en otra posición social; hombre generoso y de mundo que intenta reparar un pasado fragmentado. Su llegada transforma la trama familiar y social, aunque no evita la tragedia final."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Maximina : edición ELTeC",
+    "dcterms:creator": "Palacio Valdés, Armando (1853-1938)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Miguel Rivera, joven periodista hijo de un brigadier, se casa con la ingenua Maximina, batelera de Pasajes; la novela sigue su vida conyugal, la llegada de un hijo, sus compromisos políticos y la degradación económica que acaba por destruir su tranquilidad. En paralelo se desarrollan intrigas amorosas y sociales: la seducción y el rapto de la hermana de Miguel por Alfonso Saavedra, la ruina financiera por deudas ligadas al periódico y la tragedia con suicidios y muertes. La obra muestra la convivencia de ternura doméstica y violencia pública, con episodios en Pasajes, Madrid, Galicia y Lisboa, y culmina con la muerte de Maximina tras una fiebre. Es un retrato realista y social de las pasiones, las ambiciones políticas y las consecuencias morales de los actos individuales.",
+    "dcat:keyword": [
+        "matrimonio",
+        "prensa y política",
+        "engaño y rapto",
+        "pobreza y ruina",
+        "maternidad y muerte"
+    ],
+    "dcat:theme": [
+        "Novela social",
+        "Novela realista",
+        "Costumbrismo"
+    ],
+    "dct:spatial": [
+        "España (Pasajes / San Sebastián, Madrid, Galicia, Sevilla)",
+        "https://www.geonames.org/2267057"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1840"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1870"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Miguel Rivera",
+            "profile": "Joven periodista, hijo del brigadier, apasionado y orgulloso; actúa como el centro moral de la obra. Su afiliación política y su aval financiero por el periódico le conducen a la ruina; es a la vez sensible, impulsivo y profundamente dedicado a su esposa e hijo."
+        },
+        {
+            "name": "Maximina",
+            "profile": "Muchacha humilde de Pasajes, esposa de Miguel, tímida, piadosa e inocente; encarna la bondad doméstica. Madre devota y corazón del hogar, su vida y su muerte (una fiebre postnatal) marcan el eje sentimental y trágico de la novela."
+        },
+        {
+            "name": "Alfonso Saavedra",
+            "profile": "Jovial y arreglado caballero andaluz, cadete y seductor, orgulloso y manipulador; actúa como antagonista principal. Usa la cortesía para encubrir pasiones y ambiciones, y su relación con Julia provoca el escándalo y la desdicha familiar."
+        },
+        {
+            "name": "Julia (Julia Rivera)",
+            "profile": "Hermana de Miguel, vivaz y voluble; víctima de la seducción de Saavedra. Su fuga con Alfonso desencadena la cadena de tragedias (Utrilla, reacciones familiares) y sitúa a la novela en el conflicto moral entre honor y pasión."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Woman Who Didn't : ELTeC edition",
+    "dcterms:creator": "Cross, Victoria (1868-1952)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A late-19th-century romantic drama about a young British officer who falls passionately in love with Eurydice Williamson, a beautiful, intellectual woman he meets on an eastern voyage. Their intense mutual attraction is checked when he discovers she is married; Eurydice, convinced that marriage is a sacred obligation despite her husband's indifference, refuses divorce or an affair. The narrative follows the man's struggle with desire, conscience, and self-restraint as he pursues a chaste friendship meant to reform him, while Eurydice upholds duty and moral principle. The plot culminates in the husband's unexpected return, underscoring themes of sacrifice, honor, and social convention.",
+    "dcat:keyword": [
+        "marriage",
+        "temptation",
+        "duty",
+        "adultery",
+        "Victorian morality"
+    ],
+    "dcat:theme": [
+        "Marriage and morality",
+        "Temptation and conscience",
+        "Social critique of late-Victorian gender roles"
+    ],
+    "dct:spatial": [
+        "Aden (present-day Yemen)",
+        "Egypt (Port Said / Egyptian night scenes)",
+        "https://www.geonames.org/2995469",
+        "London, England (Ebury Street)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1899"
+            }
+        }
+    },
+    "dct:type": "Social novel (https://en.wikipedia.org/wiki/Social_novel)",
+    "mainCharacters": [
+        {
+            "name": "Unnamed narrator (male officer)",
+            "profile": "An English army officer recently returned from India, he is the first-person narrator whose life is upended by an intense love for Eurydice. Torn between passion and a code of honour, he attempts dissipation, reform, and self-control while navigating conscience and social expectations."
+        },
+        {
+            "name": "Eurydice Williamson (Mrs. Williamson)",
+            "profile": "A striking, intelligent, and morally resolute woman who captivates the narrator with her beauty and intellect. Married to Major Williamson, she nonetheless refuses divorce or infidelity on principle, treating marriage as a sacred duty even amid emotional suffering."
+        },
+        {
+            "name": "Dickinson",
+            "profile": "The narrator's convivial friend and companionship figure, worldly and pleasure-seeking, often offering cynical or teasing commentary. He serves as a foil to the narrator's moral struggles, embodying ease with vice and social frivolity."
+        },
+        {
+            "name": "Major Williamson",
+            "profile": "Eurydice's husband, at first absent during much of the story and later returning unexpectedly; he is portrayed as emotionally distant and unfaithful in spirit rather than overtly cruel. His presence and Eurydice's loyalty to the marriage vow create the central moral obstacle for the narrator."
+        }
+    ]
+}

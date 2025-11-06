@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Juan Vulgar : edición ELTeC",
+    "dcterms:creator": "Octavio Picón, Jacinto (1852-1923)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato realista sobre Juan, un joven provinciano que llega a Madrid para estudiar y se deja llevar por la fantasía, la amistad y los afectos. En la ciudad conoce a María, vive un idilio breve y frustrado, fracasa en sus aspiraciones y acaba casándose con Pilar por vías más prácticas que románticas. La obra sigue su progresiva desilusión: el choque entre ilusión y realidad, las ambiciones profesionales, la muerte de sus padres y la decadencia de sus sueños artísticos. El marco es la sociedad madrileña de finales del siglo XIX y la tensión entre el mundo rural de origen y la vida urbana.",
+    "dcat:keyword": [
+        "amor",
+        "desengaño",
+        "clases sociales",
+        "juventud",
+        "Madrid"
+    ],
+    "dcat:theme": [
+        "Desilusión amorosa",
+        "Movilidad y conflicto de clases",
+        "Novela de formación / costumbres"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/3117735",
+        "pueblo rural de la costa levantina (Levante, España)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1885"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Juan (Juan Vulgar)",
+            "profile": "Protagonista; joven provinciano idealista y fantasioso que estudia en Madrid, ambiciona una cátedra y escribe un drama. Su carácter vacilante y su tendencia a soñar lo llevan a errores afectivos y profesionales; su trayectoria muestra el choque entre ilusiones juveniles y la dura realidad social."
+        },
+        {
+            "name": "María (María Volandas)",
+            "profile": "Señorita de clase acomodada que atrae a Juan por su belleza y refinamiento; mantiene con él un romance clandestino que se rompe por la oposición paterna y por su posterior matrimonio. Representa el ideal romántico y, a la vez, las contradicciones de las mujeres de su entorno social."
+        },
+        {
+            "name": "Pilar Balduque",
+            "profile": "Joven provinciana que termina casándose con Juan; es cariñosa, trabajadora y práctica, encarnando la vida doméstica y la estabilidad material. Su bondad y entrega contrastan con las altas aspiraciones de Juan y subrayan el distanciamiento emocional entre ambos."
+        },
+        {
+            "name": "Pepe Villena",
+            "profile": "Amigo de Juan en la universidad, poeta y animador del grupo de estudiantes; cultiva la literatura y la tertulia, y contribuye a la formación intelectual y social del protagonista. Representa la bohemia estudiantil y el ambiente literario de Madrid."
+        }
+    ]
+}

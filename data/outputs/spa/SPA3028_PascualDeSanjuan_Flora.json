@@ -1,0 +1,50 @@
+{
+    "dcterms:title": "Flora o La educación de una niña : edición ELTeC",
+    "dcterms:creator": "Pascual de Sanjuán, Pilar (1827-1899)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela moral y didáctica en la que se sigue la vida de Flora, una niña criada en un hogar burgués español del siglo XIX, desde la cuna hasta su juventud y matrimonio. A través de episodios domésticos se abordan temas de educación física y moral, higiene, religión, historia natural y civismo, con abundantes conversaciones instructivas entre abuelos, padres y maestros. El texto combina relatos familiares y lecciones pedagógicas para formar el carácter de la protagonista y difundir normas de conducta, caridad y sentido práctico. Muchas escenas ejemplifican la importancia de la modestia, la honestidad y la vida en sociedad en el marco de la España decimonónica.",
+    "dcat:keyword": [
+        "educación moral",
+        "vida doméstica",
+        "religión y piedad",
+        "higiene y salud",
+        "didáctica"
+    ],
+    "dcat:theme": [
+        "Educación moral y religiosa",
+        "Novela didáctica",
+        "Costumbres y novela social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Flora",
+            "profile": "Protagonista; niña ejemplar que crece en un hogar afectuoso y recibe educación esmerada. Su evolución —desde la cuna hasta ser esposa y madre modélica— sirve de hilo conductor para numerosas lecciones sobre moral, religión y vida práctica."
+        },
+        {
+            "name": "Prudencio",
+            "profile": "Padre de Flora, abogado y hombre de principios; figura racional y pedagógica que guía la educación del hogar. Suele impartir explicaciones científicas y morales y encarna el ideal del patriarca ilustrado y reparador."
+        },
+        {
+            "name": "Doña Ángela",
+            "profile": "Abuela de Flora; mujer veterana, severa pero cariñosa, preocupada por la formación moral y física de los nietos. Representa la experiencia y la autoridad doméstica, dando consejos prácticos sobre crianza, higiene y conducta."
+        },
+        {
+            "name": "Sofía",
+            "profile": "Madre de Flora; personaje afectuoso y prudente que combina ternura con sentido práctico. Actúa como educadora directa de Flora y como mediadora entre las distintas generaciones de la familia."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "dcterms:title": "The Clever Woman of the Family : ELTeC edition",
+    "dcterms:creator": "Yonge, Charlotte Mary (1823-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A mid-Victorian domestic and social novel following Rachel Curtis, an energetic reformer who founds a female industrial asylum to relieve lacemakers and takes practical guardianship of her cousin Fanny Temple's children. Her philanthropy is betrayed by an impostor, leading to revelations of systematic cruelty to apprentices, the death of a child, and public scandal that culminates in magistrates' inquiries and assize trials exposing forgery and deceit. The narrative traces intimate domestic responses—remorse, convalescence, investigations, and the reconstitution of families and guardianships—while debating the limits of idealism, duty, and social convention. Parallel plots focus on Ermine Williams, a morally steadfast governess whose quiet courage and self-sacrifice influence those around her, and Colonel Colin Keith, whose legal sense and familial authority help restore order. Through these events the novel examines social reform and philanthropy, gendered expectations about women's work and education, and the tensions between private domestic life and public scandal.",
+    "dcat:keyword": [
+        "philanthropy",
+        "deception",
+        "child abuse",
+        "women's work",
+        "education"
+    ],
+    "dcat:theme": [
+        "Social reform and philanthropy",
+        "Trust, deception and public scandal",
+        "Domestic life and family duties",
+        "Gender roles, education and women's social roles"
+    ],
+    "dct:spatial": [
+        "England (Avonmouth, Avoncester, Bath, Bishopsworthy, Littleworthy; rural country estate and coastal cliffs)",
+        "Scotland (Gowanbrae, Edinburgh)",
+        "https://www.geonames.org/1486209",
+        "https://www.geonames.org/2158177",
+        "https://www.geonames.org/3369157"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1846"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1860"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1855"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1865"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1837"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1901"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Rachel Curtis",
+            "profile": "A principled, energetic woman in her mid-twenties whose reforming intellect and moral earnestness drive her to found and manage an industrial asylum for girls and to oversee Fanny Temple's household. Intelligent and decisive, she is both influential in county society and vulnerable to naiveté when confronted by charismatic deception, a failing that leads to public scandal, remorse, illness, and eventual practical reconstruction of her philanthropic aims."
+        },
+        {
+            "name": "Frances (Fanny) Temple",
+            "profile": "A gentle, pretty young widow recently returned from abroad with many children who depends on relatives for guidance and support. Warm and affectionate but limited in business sense, her vulnerability and domestic needs precipitate Rachel's protective guardianship and highlight tensions over propriety, guardianship, and marriage."
+        },
+        {
+            "name": "Ermine Williams",
+            "profile": "A bright, morally grounded governess of generous spirit whose physical disfigurement or delicate health contrasts with her cheerfulness, self-sacrifice and steady influence in the household. She nurtures the children, tempers domestic conflicts, and embodies quiet heroism and humility, becoming an emotional anchor during the novel's crises."
+        },
+        {
+            "name": "Colonel (Colin) Keith",
+            "profile": "A reserved, honorable local leader and elder brother whose legal sense, firmness and humane judgment help investigate the asylum scandal, oversee prosecutions and arrange practical remedies. Considerate and conciliatory, he organizes guardianship and institutional responses, and his devotion to duty tests themes of sacrifice, rank and domestic responsibility."
+        }
+    ]
+}

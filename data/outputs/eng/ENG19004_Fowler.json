@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Farringdons : ELTeC edition",
+    "dcterms:creator": "Fowler, Ellen Thorneycroft (1860-1929).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in the industrial Midlands around the Osierfield ironworks, the novel follows Elisabeth Farringdon, an imaginative adopted heiress raised in a strict Methodist household, as she grows into a celebrated artist. Her affections and convictions are tested by several men—faithful, self-sacrificing Christopher Thornley, the skeptical reformer Alan Tremaine, and the charming artist Cecil Farquhar—while questions of duty, religion and social responsibility play out against the ‘‘Black Country’’ backdrop. Christopher undertakes a moral quest to secure the rightful heir of the Farringdons, endures illness and sacrifice, and Elisabeth must face her mistakes and rediscover the priorities of love and service. The story contrasts industrial life, religious debate and artistic ambition, and ends with reconciliations, moral reckonings and renewed commitments to one another and the community.",
+    "dcat:keyword": [
+        "industrial Black Country",
+        "Methodism",
+        "duty and sacrifice",
+        "art and ambition",
+        "romantic conflict"
+    ],
+    "dcat:theme": [
+        "Social novel",
+        "Religion and doubt",
+        "Love and sacrifice",
+        "Industrial life and community"
+    ],
+    "dct:spatial": [
+        "Sedgehill, Mershire, England",
+        "The Black Country / West Midlands, England",
+        "Moat House and surrounding Midlands (England)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1900"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel (https://en.wikipedia.org/wiki/Victorian_literature, https://en.wikipedia.org/wiki/Prose_fiction)",
+    "mainCharacters": [
+        {
+            "name": "Elisabeth Farringdon",
+            "profile": "Adopted niece of the Farringdon family, imaginative and artistically gifted. Raised in a strict Methodist household, she becomes a successful painter whose moral and emotional development—her pride, mistakes and eventual repentance—drive the novel's central arc."
+        },
+        {
+            "name": "Christopher Thornley (later Christopher Farringdon)",
+            "profile": "Nephew of Richard Smallwood and longtime playmate and friend of Elisabeth; earnest, honourable and devout. He sacrifices personal comfort to pursue duty (searching for the lost heir), endures illness, and his steadfast love and principled conduct ultimately transform both his and Elisabeth’s lives."
+        },
+        {
+            "name": "Alan Tremaine",
+            "profile": "A cultured, skeptical gentleman who takes the Moat House and exerts a modernizing, agnostic influence on Elisabeth. Charismatic and reform-minded, he champions aesthetic and social improvement but becomes a romantic rival whose doubts and temperamental distance provoke moral conflicts."
+        },
+        {
+            "name": "Cecil Farquhar",
+            "profile": "A handsome, rising artist whose painting (notably The Daughters of Philip) wins attention and who courts Elisabeth. Ambitious and socially aware, his parentage mystery and pursuit of status create complications and contrast artistic ambition with questions of integrity and sacrifice."
+        }
+    ]
+}

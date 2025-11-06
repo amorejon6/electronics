@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Folle-Farine : ELTeC edition",
+    "dcterms:creator": "Ouida, [pseud.] (1839-1908)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Folle-Farine, a poor outcast of ambiguous (partly Spanish gypsy) origin raised at a Norman mill, is abused, shunned and persecuted by villagers yet remains fiercely proud and compassionate. She worships and secretly sustains Arslàn, a brooding, uncompromising artist, sacrificing food, fuel and her last treasures to enable his art and survival. The narrative follows her endurance from a provincial river town and the Norman countryside to the poverty of Paris, exposing rural cruelty, superstition, the commodification of beauty and the artist’s tormented ambition. Through scenes of artistic creation, self‑sacrifice and social critique the novel examines social injustice, the cost of genius and the tragic consequences of unrequited devotion.",
+    "dcat:keyword": [
+        "poverty",
+        "art and genius",
+        "sacrifice",
+        "outcast/otherness",
+        "social injustice"
+    ],
+    "dcat:theme": [
+        "Social injustice and poverty",
+        "Outsider identity and female marginalization",
+        "Art and the artist (creative ambition and failed genius)",
+        "Unrequited love and self‑sacrifice"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/11071621",
+        "Provincial river town, France",
+        "https://www.geonames.org/2988507",
+        "Liébana / Picos de Europa, Spain"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1800"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1899"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Folle-Farine",
+            "profile": "A bronzed, feral young woman of ambiguous (partly gypsy) origin raised in servitude at a Norman mill; proud, resilient and often mute in the face of brutality. Deeply devoted to Arslàn, she repeatedly risks theft, sells her last treasures and endures humiliation to sustain his art and to watch over his fortunes. Her clandestine generosity and final sacrifices form the moral center of the story."
+        },
+        {
+            "name": "Arslàn",
+            "profile": "A brooding, ascetic and feverish painter of exceptional talent who is obsessed with achieving artistic immortality and completing a great canvas. Emotionally aloof and instrumental in his dealings with models, he is largely blind to Folle-Farine’s devotion; his pride, destitution and resistance to compromise drive much of the tragedy. He embodies the novel’s exploration of genius, privation and moral cost."
+        },
+        {
+            "name": "Claudis Flamma",
+            "profile": "A harsh, avaricious Norman miller who serves as Folle-Farine’s guardian and the household tyrant; brutal, superstitious and miserly. He represents local cruelty, small‑town hypocrisy and the punitive structures of rural life, and his death and estate disposition precipitate key narrative shifts. His treatment of Folle-Farine underscores the social domination central to the novel’s critique."
+        },
+        {
+            "name": "Sartorian",
+            "profile": "A wealthy, worldly patron and dilettante who tempts and manipulates Folle-Farine with offers of money and social leverage. Pragmatic and cynical about ideals, he functions as a catalyst—offering the material means that might free Arslàn while testing and exploiting Folle-Farine’s loyalty. He personifies the corrupting, calculating power of money in the society the novel condemns."
+        }
+    ]
+}

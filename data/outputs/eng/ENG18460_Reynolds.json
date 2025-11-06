@@ -1,0 +1,64 @@
+{
+    "dcterms:title": "The mysteries of London : ELTeC edition",
+    "dcterms:creator": "Reynolds, George William McArthur\n     (1814-1879)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A sprawling mid‑Victorian sensation novel set chiefly in London (with episodes in a fictional Italian duchy, Castelcicala) that intertwines social critique, crime and melodrama. It follows Richard Markham — a principled young gentleman whose life moves between benevolent rescue, wrongful accusation, military adventure and romantic devotion — and interlocks plots of forgery, blackmail, resurrectionist body‑snatching, gambling, and political intrigue. Eliza Sydney (disguised at times and variously convicted and redeemed), Ellen Monroe, and other vulnerable women suffer exploitation and social stigma while villains like George Montague/Greenwood and the Resurrection Man (Anthony Tidkins) engineer fraud, extortion, and violence. The narrative alternates sensational set‑pieces—murders, canal ambushes, daring rescues and revolutionary campaigns—with sustained social criticism of urban poverty, institutional corruption, and class hypocrisy, ending in moral reckonings, punishments for vice, and rewards for virtue.",
+    "dcat:keyword": [
+        "crime",
+        "social injustice",
+        "forgery",
+        "body‑snatching",
+        "melodrama"
+    ],
+    "dcat:theme": [
+        "Social critique",
+        "Crime and corruption / urban vice",
+        "Gothic / sensation melodrama",
+        "Political and romantic adventure"
+    ],
+    "dct:spatial": [
+        "London, England (Globe Town, Smithfield, Bethnal Green, Holy Land, Cambridge Road, Rotherhithe, Gravesend, Woolwich, Covent Garden, St. James's Street, Islington, Upper Clapton)",
+        "Ravensworth Hall (country estate), England",
+        "https://www.geonames.org/11609029",
+        "https://www.geonames.org/4947459",
+        "Essex / Wigginton, England",
+        "Castelcicala (fictional Italian duchy: Montoni, Piacere, Estella, Villabella, Ossore)",
+        "Italy (Naples / Neapolitan frontier; Montoni; Castelcicala contexts)",
+        "France (Boulogne; south of France; Dover crossing)",
+        "Beyrout / Beirut (mentioned)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1843"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Richard Markham",
+            "profile": "The novel's central, morally upright protagonist: generous, courageous and conflicted. He is repeatedly drawn into rescue and investigative efforts, wrongfully accused and imprisoned at times, pursues romantic devotion (notably to Isabella), leads military and patriotic ventures in Castelcicala, and ultimately embodies the text's rewards-for-virtue resolution."
+        },
+        {
+            "name": "Eliza Sydney (known as Walter Sydney)",
+            "profile": "A resourceful, compassionate woman who at times lives disguised as a young man and becomes entangled in impostures and convictions before eventual pardon and patronage. She acts as protector and investigator—safeguarding heirs, exposing villains and exemplifying private charity and moral steadfastness amid social scandal."
+        },
+        {
+            "name": "George Montague / George M. Greenwood",
+            "profile": "A polished, unscrupulous financier and politician who conceals venality beneath respectability: a principal antagonist. He engineers forgeries, blackmail, political manipulation and sexual exploitation, embodying the novel's critique of upper‑class corruption and public hypocrisy."
+        },
+        {
+            "name": "Anthony Tidkins (the Resurrection Man)",
+            "profile": "A brutal, pragmatic leader of grave‑robbers and violent criminal enterprises whose body‑snatching, extortion and conspiracies drive many Gothic-horror episodes. He functions as the persistent criminal antagonist whose actions catalyse chases, rescues and the eventual punitive reckonings the narrative stages."
+        }
+    ]
+}

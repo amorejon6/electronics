@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Los inadaptados : edición ELTeC",
+    "dcterms:creator": "Burgos y Seguí, Carmen de [Colombine] (1867 - 1932)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela naturalista ambientada en el valle de Rodalquilar (Almería) que inicia con el naufragio del vapor Valencia y la codicia colectiva por los objetos salvados. Sigue la vida de Dolores y su marido Víctor en un pueblo encerrado en tradiciones, donde el poder de los amos, el contrabando y la miseria configuran las relaciones sociales. Dolores sufre una humillación sexual por parte del señor local, don Manuel, y vive una sucesión de desgracias —la muerte de un hijo y la tensión creciente entre pasión y venganza— que llevan a un desenlace violento. La obra explora la injusticia social, los celos, la condición femenina y la hostilidad entre mundo rural y «civilización».",
+    "dcat:keyword": [
+        "vida rural",
+        "contrabando",
+        "violencia de género",
+        "venganza",
+        "naturalismo"
+    ],
+    "dcat:theme": [
+        "Vida rural",
+        "Novela social",
+        "Naturalismo",
+        "Violencia y conflicto moral"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2518636",
+        "https://www.geonames.org/2440476",
+        "https://www.geonames.org/7911182"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Novela realista o naturalista (victoriana)",
+    "mainCharacters": [
+        {
+            "name": "Dolores",
+            "profile": "Protagonista femenina: joven campesina morena, bella y orgullosa, madre que sufre una humillación y la pérdida de un hijo. Es afectuosa y resistente, movida por el amor a su marido y por la protección de sus hijos, y sufre la presión social y la violencia de clase."
+        },
+        {
+            "name": "Víctor",
+            "profile": "Esposo de Dolores: labrador fuerte y orgulloso, inicialmente trabajador y proveedor que se transforma por los celos y el deseo de venganza. Su carácter primitivo y apasionado lo empuja a decisiones extremas que marcan el clímax trágico de la novela."
+        },
+        {
+            "name": "Don Manuel Ansúrez",
+            "profile": "Grande propietario y antagonista: hombre despótico, aristócrata local que ejerce poder sobre el valle y manipula a los habitantes. Representa la opresión de clase y actúa con abuso y cálculo, provocando gran parte del conflicto moral y social."
+        },
+        {
+            "name": "Luis Márquez",
+            "profile": "Mendigo y exminero: figura marginal, anarquista enigmático y crítico de la civilización, posee voz profética sobre injusticia y desigualdad. Amigo ocasional de los protagonistas, encarna la denuncia social y el resentimiento hacia el orden establecido."
+        }
+    ]
+}

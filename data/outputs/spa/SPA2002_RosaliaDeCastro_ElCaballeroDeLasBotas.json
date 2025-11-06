@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El caballero de las botas azules : Edición ELTeC",
+    "dcterms:creator": "Castro, Rosalía de (1837-1885)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela satírica y de costumbres ambientada en la alta sociedad madrileña de mediados del siglo XIX. Sigue al enigmático 'duque de la Gloria', conocido por sus botas azules y su corbata simbólica, que perturba la vida pública y privada con juegos, provocaciones y una operación teatral que cuestiona la literatura y la vanidad social. A su alrededor se entrelazan episodios de amor imposible (la ingenua Mariquita y Melchor), ambiciones, críticas al mundo de los escritores y farsas de moda y poder. El tono mezcla la ironía mordaz con una denuncia social sobre la novedad, la fama y la frivolidad cultural.",
+    "dcat:keyword": [
+        "sátira",
+        "modernidad",
+        "sociedad",
+        "literatura",
+        "fama"
+    ],
+    "dcat:theme": [
+        "Sátira social",
+        "Novela de costumbres",
+        "Crítica literaria"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1870"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Duque de la Gloria (el caballero de las botas azules)",
+            "profile": "Figura enigmática, rica y provocadora que se presenta con botas luminosas y una corbata simbólica; actúa como agente del cambio, la provocación y la sátira, manipulando lo social y lo literario. Su papel es el de instigador: organiza escenas públicas y privadas para desnudar la hipocresía, al tiempo que mantiene un halo de misterio sobre su origen y propósito."
+        },
+        {
+            "name": "Señor de la Albuérniga",
+            "profile": "Rico, sibarita y filósofo apacible que ama el sosiego; su vida ordenada es trastocada por la llegada del duque. Representa al hombre burgués y complaciente que, forzado por el conflicto, descubre su vanidad y es empujado a la acción en la trama satírica."
+        },
+        {
+            "name": "Mariquita",
+            "profile": "Joven ingenua, sobrina de doña Dorotea, criada entre austeridad y el cementerio; se enamora idealmente del caballero de las botas azules. Su ternura e inocencia la convierten en víctima de pasiones y manipulaciones, simbolizando la fragilidad frente a las ambiciones y juegos de la alta sociedad."
+        },
+        {
+            "name": "La Musa / La Novedad",
+            "profile": "Figura alegórica que personifica la Novedad y la musa moderna: burlona, provocadora y ambigua, aconseja al aspirante a la fama y le impulsa hacia lo nuevo y lo escandaloso. Es guía y tentación: impulsa la trama crítica sobre la demanda de novedad y el culto a la moda."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "The Red House : ELTeC edition",
+    "dcterms:creator": "Nesbit, Edith (1858-1924)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A newly married couple, Len and Chloe, leave their cramped London ‘Bandbox’ for an inherited, rambling country manor called the Red House. Their idealism collides with practical chaos—leaky roofs, unsuitable servants, awkward tenants—and a steady stream of comic domestic disasters. Their friend Yolande acts as a resourceful agent and catalyst, reorganizing household affairs while a mysterious ‘ghost’ finishes Len's stories and interferes with authorship, provoking jealousy and comic moral questions. Through mishaps, neighbours, and affectionate everyday detail the novel treats marriage, work and the making of a home with warm humour and social observation.",
+    "dcat:keyword": [
+        "domestic life",
+        "marriage",
+        "country house",
+        "ghosts / rumours",
+        "friendship"
+    ],
+    "dcat:theme": [
+        "Domestic comedy",
+        "Marriage and partnership",
+        "Social class and household labour",
+        "Creative collaboration and authorship"
+    ],
+    "dct:spatial": [
+        "Elmhurst (fictional village near London), England",
+        "https://www.geonames.org/6947041"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1895"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1905"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Len (narrator)",
+            "profile": "A practical, self-deprecating writer and occasional illustrator who narrates the story in the first person. He is affectionate and anxious about domestic competence, proud yet vulnerable about his authorship, and central to the book's comic reflections on work, pride and husbandry."
+        },
+        {
+            "name": "Chloe",
+            "profile": "Len's lively, warm-hearted wife and collaborator, part artist and part homemaker, whose enthusiasm drives their decision to live at the Red House. She is inventive about domestic arrangements, generous, candid, and the emotional centre of the household's joys and anxieties."
+        },
+        {
+            "name": "Yolande Riseborough",
+            "profile": "A cosmopolitan, resourceful friend and occasional house-guest who acts as land-agent, organiser and stimulus for the couple. Stylish, clever and interventionist, she both aids the household (finding tenants, servants) and complicates creative authorship and romantic possibilities before marrying and settling locally."
+        },
+        {
+            "name": "The tenant (young tenant)",
+            "profile": "A cheerful, practical young man who rents a cottage on the estate and becomes closely involved in the Red House community. He is courteous, energetic, and eventually a romantic interest for Yolande; his presence catalyses several key episodes (the dyeing incident, household conviviality)."
+        }
+    ]
+}

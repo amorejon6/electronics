@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Piccadilly : ELTeC edition",
+    "dcterms:creator": "Oliphant, Laurence (1829-1888)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A witty, satirical account of mid‑Victorian London society narrated by Lord Frank Vanecourt, who records his flirtations, social schemes and moral reflections. Vanecourt becomes entangled in a love triangle around Lady Ursula Newlyte, the scheming Lady Broadhem and his friend Lord Grandon, while intervening in the Broadhem family's financial crisis. The narrative mixes comic social observation, critiques of missionary and ecclesiastical hypocrisy, and episodes of melodrama (fainting, suicide attempt, reconciliations). By the close the domestic complications are largely resolved, moral change is suggested and the narrator prepares to depart for America.",
+    "dcat:keyword": [
+        "social satire",
+        "Victorian society",
+        "love triangle",
+        "religion and hypocrisy",
+        "financial speculation"
+    ],
+    "dcat:theme": [
+        "Society and manners",
+        "Love and friendship",
+        "Religion and morality"
+    ],
+    "dct:spatial": [
+        "London, England (Piccadilly, Grosvenor Square)",
+        "Ireland (Flityville, Connemara)",
+        "https://www.geonames.org/1275339",
+        "Caribbee Islands (referenced)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1865"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1865"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Lord Frank Vanecourt",
+            "profile": "Narrator and social observer: witty, impulsive and morally inquisitive, he alternates between satire, genuine benevolence and flamboyant eccentricity. Central to the plot as the would‑be suitor, financier of the Broadhem rescue and a self-styled 'missionary' to fashionable society; his conscience and inspirations drive much of the action."
+        },
+        {
+            "name": "Lord Grandon",
+            "profile": "Frank's intimate friend and moral foil: an Irish peer of limited means, steady, magnanimous and philosophically inclined. He is the true object of Lady Ursula's affection and exemplifies honour and constancy amid the social embroilments."
+        },
+        {
+            "name": "Lady Ursula Newlyte",
+            "profile": "The novel's moral centre: young, principled and compassionate, she resists mercenary matches and exerts a calming, reforming influence on those around her. Her relationship with Grandon and her restraint amid family pressures propel much of the emotional conflict."
+        },
+        {
+            "name": "Lady Broadhem (Mary Broadhem)",
+            "profile": "A powerful, socially ambitious matriarch: extravagant, manipulative and financially imprudent, she nearly forces matrimonial and commercial expedients on her family. Over the course of events she faces exposure and ultimately a penitential change, becoming a focus for both satire and redemption."
+        }
+    ]
+}

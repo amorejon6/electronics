@@ -1,0 +1,77 @@
+{
+    "dcterms:title": "Auriol, or The elixir of life : ELTeC edition",
+    "dcterms:creator": "Ainsworth, William Harrison (1805-1882)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Auriol Darcy, having drunk an alchemical elixir distilled by his aged kinsman Doctor Lamb, attains apparent immortality but becomes bound to a terrifying compact that demands the surrender of a female victim at intervals. The narrative follows his tormented attempts to resist the diabolic demands—embodied by the sinister Cyprian Rougemont—and to protect his beloved Ebba Thorneycroft, who is abducted into a gothic chamber of ritual and terror. Interwoven with London‑set episodes of street ruffians, dog‑fanciers, and the dwarf Flapdragon/Old Parr, the novel traces occult laboratories, subterranean prisons, and Faustian bargains across centuries. The story blends supernatural horror, moral anguish, and melodramatic rescue attempts against a shadowy conspirator who traffics in occult power and human ruin.",
+    "dcat:keyword": [
+        "immortality",
+        "alchemy",
+        "Faustian pact",
+        "Gothic horror",
+        "London"
+    ],
+    "dcat:theme": [
+        "Supernatural / Gothic",
+        "Romance (tragic/obsessive)",
+        "Melodrama / Crime"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1599"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1600"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1800"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1800"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1830"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1830"
+                }
+            }
+        }
+    ],
+    "dct:type": "Gothic or horror novel (https://en.wikipedia.org/wiki/Gothic_fiction)",
+    "mainCharacters": [
+        {
+            "name": "Auriol Darcy",
+            "profile": "The protagonist who becomes effectively immortal after drinking an alchemical elixir; he is handsome, tormented, and morally conflicted. Haunted by a binding compact that forces him to deliver female victims, he struggles between desire, guilt, and the duty to protect those he loves (notably Ebba and later Edith)."
+        },
+        {
+            "name": "Cyprian Rougemont",
+            "profile": "A charismatic, sinister antagonist and Rosicrucian figure who traffics in occult knowledge and bargains (manifestly Faustian) to acquire power and victims. He engineers abductions, ritual trials, and manipulates Auriol with wealth, temptation and threats, acting as the novel’s chief diabolical agent."
+        },
+        {
+            "name": "Ebba Thorneycroft",
+            "profile": "The iron‑merchant’s daughter and Auriol’s love interest: a virtuous, beautiful young woman whose kindness draws Auriol’s affection. She becomes a central victim in Rougemont’s machinations, her abduction and ordeal providing the emotional core and moral stakes that drive the rescue attempts."
+        },
+        {
+            "name": "Doctor Lamb (Reginald Darcy)",
+            "profile": "An aged alchemist and Auriol’s great‑grandsire who discovers and prepares the elixir of life; he is depicted as learned, obsessed with hermetic lore, and haunted by past crimes. His laboratory and the elixir’s creation launch the central supernatural chain of events that shape Auriol’s fate."
+        }
+    ]
+}

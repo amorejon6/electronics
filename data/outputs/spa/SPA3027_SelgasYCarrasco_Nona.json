@@ -1,0 +1,53 @@
+{
+    "dcterms:title": "Nona : edición ELTeC",
+    "dcterms:creator": "Selgas y Carrasco, José (1822-1882)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela ambientada en un pueblo rural español de clima meridional que sigue la vida de dos familias emparentadas (Cañizares y Pacheco) y sus sucesivas generaciones. Relata escenas de costumbres, el matrimonio arreglado entre Martín y María de la Paz, el crecimiento de sus hijas Aurora y María Bernarda («Nona»), y los conflictos de honor, orgullo y afectos que surgen en la casa. Un robo sacrílego (las alhajas de la Virgen) y el envenenamiento de la perra Minerva desencadenan una investigación que salpica al vecindario y revela pasiones ocultas. Entre tensiones familiares, amores y celos, se produce un disparo y una herida grave que precipita decisiones dramáticas y sacrificios protectores entre los personajes.",
+    "dcat:keyword": [
+        "vida rural",
+        "familia y honor",
+        "costumbrismo",
+        "misterio y crimen",
+        "amores y celos"
+    ],
+    "dcat:theme": [
+        "Costumbrismo",
+        "Drama familiar",
+        "Novela social",
+        "Intriga criminal"
+    ],
+    "dct:spatial": [
+        "España (pueblo rural, región meridional)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1850"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1883"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "María de la Paz Pacheco",
+            "profile": "Mujer laboriosa, caritativa y cabeza del hogar; administra la casa, protege la memoria de la abuela y ejerce influencia moral. Su carácter conciliador y su piedad sostienen la familia ante las tragedias y las tensiones sociales."
+        },
+        {
+            "name": "D. Martín Cañizares",
+            "profile": "Último descendiente orgulloso de una familia noble venida a menos; terrateniente autoritario y obsesionado por el honor y la continuidad del apellido. Su carácter severo y sus impulsos proteccionistas originan conflictos decisivos en la trama."
+        },
+        {
+            "name": "Aurora",
+            "profile": "Primogénita hermosa, fría y altiva; centro de miradas y deseo en el pueblo, causa de la fascinación del Diputado. Su belleza y orgullo generan rivalidades, bodas arregladas y situaciones de tensión moral."
+        },
+        {
+            "name": "María Bernarda «Nona»",
+            "profile": "Segunda hija, más tímida y risueña; muestra una profunda bondad y lealtad familiar que la llevan a sacrificios. Su conducta discreta y su secreto (citas nocturnas) son claves en el conflicto central y en el desenlace dramático."
+        }
+    ]
+}

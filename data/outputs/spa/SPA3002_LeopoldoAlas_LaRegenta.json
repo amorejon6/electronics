@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "La Regenta :  Edición ELTeC",
+    "dcterms:creator": "Alas, Leopoldo [Clarín] (1852-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue la vida íntima y pública de Ana Ozores —la Regenta— en la ciudad provinciana de Vetusta, donde su insatisfacción conyugal y su exaltación religiosa la sitúan en el centro de miradas, chismes y pasiones. Dividida entre el deseo por don Álvaro Mesía y la guía espiritual del canónigo don Fermín de Pas, la trama expone la hipocresía, las intrigas y la ambición eclesiástica de la alta sociedad provincial. A través de detalladas escenas de confesión, paseos, tertulias, procesiones y fiestas, la obra critica las miserias morales y el estancamiento social de la Restauración española. El conflicto culmina en violencia, duelo y tragedia personal, reflejando la tensión entre impulso individual y normas sociales y religiosas.",
+    "dcat:keyword": [
+        "sociedad provinciana",
+        "hipocresía social",
+        "adulterio",
+        "poder eclesiástico",
+        "realismo social"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Novela de costumbres",
+        "Religión y moral"
+    ],
+    "dct:spatial": [
+        "Vetusta (ciudad ficticia inspirada en Oviedo), España"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1870"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1880"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Ana Ozores (la Regenta)",
+            "profile": "Mujer noble y bella, casada con don Víctor Quintanar; melancólica y sensible, atraviesa una crisis moral que la enfrenta al deseo y a la devoción. Su conflicto interior y su protagonismo público desencadenan chismes, pasiones y la trama social de Vetusta."
+        },
+        {
+            "name": "Don Fermín de Pas (el Magistral)",
+            "profile": "Canónigo influyente y ambicioso, confesor de Ana y figura de autoridad en la diócesis; combina erudición, celo religioso y cálculo social. Su relación con Ana mezcla guía espiritual, pasión reprimida y maniobra política que condiciona la vida pública de la ciudad."
+        },
+        {
+            "name": "Don Álvaro Mesía",
+            "profile": "Aristócrata seductor, elegante y cínico, líder de los salones y hombre de mundo; representa la tentación mundana y el oportunismo social. Su cortejo calculado hacia Ana provoca escándalo público y conflicto con la autoridad clerical."
+        },
+        {
+            "name": "Don Víctor Quintanar",
+            "profile": "Marido de Ana, magistrado retirado y hombre respetable; apacible pero orgulloso, simboliza la rutina conyugal y la respetabilidad formal. Su sufrimiento ante la traición sentimental desemboca en venganza, duelo y tragedia personal."
+        }
+    ]
+}

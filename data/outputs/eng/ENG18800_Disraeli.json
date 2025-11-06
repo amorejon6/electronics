@@ -1,0 +1,62 @@
+{
+    "dcterms:title": "Endymion : ELTeC edition",
+    "dcterms:creator": "Disraeli, Benjamin (1804-1881)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young man of promising birth, Endymion Ferrars, grows from privileged boyhood through political exile, civil service and parliamentary life while his twin sister Myra navigates society, ambition and a dramatic personal destiny. The novel follows their families and social circle—ministers, bankers, aristocrats, foreign princes and priests—against the backdrop of early 19th‑century England and continental Europe, tracing political crises, social ambition, religious conflicts and the railway boom. Personal love stories (marriage, sacrifice, rivalries) are entangled with public affairs: reform, Catholic emancipation, and international intrigues. The narrative charts moral choices, the costs of ambition and the shaping effect of friendship and patronage on careers and fates.",
+    "dcat:keyword": [
+        "politics",
+        "society",
+        "religion",
+        "ambition",
+        "romance"
+    ],
+    "dcat:theme": [
+        "Political and social novel",
+        "Religious controversy and conversion",
+        "Love and family drama"
+    ],
+    "dct:spatial": [
+        "England (London, Berkshire/Wimbledon, fictional Hurstley, Princedown)",
+        "https://www.geonames.org/2988507",
+        "https://www.geonames.org/3175395",
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1828"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1845"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Endymion Ferrars",
+            "profile": "The principal protagonist: thoughtful, honourable and politically ambitious, he moves from privileged childhood to public service and Parliament. Torn between private loyalties (notably to his twin Myra) and a desire for public power, his choices drive much of the plot and illustrate the costs of social ascent."
+        },
+        {
+            "name": "Myra Ferrars (Lady Roehampton / later Queen Myra)",
+            "profile": "Endymion’s twin sister and emotional centre of the story: intelligent, resolute and socially magnetic, she steers family fortunes and exerts decisive influence on others. Her path includes deep religious commitment and a prominent international marriage, and her loyalties and sacrifices shape several characters’ destinies."
+        },
+        {
+            "name": "Berengaria, Lady Montfort",
+            "profile": "A dominant society leader—brilliant, ambitious and charismatic—who mentors and manipulates political and social networks. She is a decisive influence on Endymion’s career and private life, combining high taste, willful energy and strategic patronage; her actions and alliances significantly affect the novel’s social dynamics."
+        },
+        {
+            "name": "Prince Florestan",
+            "profile": "An exiled prince educated in England who later reclaims his throne; gracious, reserved and politically consequential. His restoration, alliance with England and marriage (to Myra) introduce international stakes—diplomacy, legitimacy and religious-political tensions—into the personal drama."
+        }
+    ]
+}

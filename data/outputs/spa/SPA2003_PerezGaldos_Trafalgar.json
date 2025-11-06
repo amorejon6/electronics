@@ -1,0 +1,69 @@
+{
+    "dcterms:title": "Trafalgar :  edición ELTeC",
+    "dcterms:creator": "Pérez Galdós, Benito (1843-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato en primera persona de Gabriel, joven gaditano, que narra su infancia, su ingreso al servicio del capitán retirado D. Alonso y su incorporación a la escuadra combinada en 1805. La novela describe con detalle la vida en Cádiz, la preparación y el embarque en el navío Santísima Trinidad y ofrece una crónica vívida y dramática del combate de Trafalgar y sus consecuencias humanas. A través de episodios personales —amistades, amores y pérdidas— se entrelazan reflexiones sobre la patria, el honor y el horror de la guerra naval. El libro cierra con las secuelas del desastre, la muerte de compañeros y la marcha de los supervivientes.",
+    "dcat:keyword": [
+        "Trafalgar",
+        "guerra naval",
+        "Cádiz",
+        "patriotismo",
+        "formación"
+    ],
+    "dcat:theme": [
+        "Guerra y combate naval",
+        "Novela histórica",
+        "Novela de formación / memoria"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2520600",
+        "Estrecho de Gibraltar / bahía de Cádiz",
+        "Gibraltar (mencionado)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1797"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1797"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1805"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1805"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Gabriel (Gabrielillo)",
+            "profile": "Narrador y protagonista juvenil; huérfano criado en Cádiz que pasa de la infancia a la edad viril y sirve como paje. Testigo ocular de Trafalgar, combina curiosidad infantil con una toma de conciencia patriótica y moral a raíz de la experiencia bélica. Su perspectiva personal articula la memoria colectiva y las grandes escenas históricas."
+        },
+        {
+            "name": "Don Alonso Gutiérrez de Cisniega",
+            "profile": "Capitán de navío retirado y protector de Gabriel; hombre veterano, valiente y profundamente patriótico que decide embarcarse para presenciar la escuadra. Representa el ideal del marino antiguo: honor, nostalgia de la gloria y sentido del deber, y actúa como figura paterna y moral en la vida del narrador."
+        },
+        {
+            "name": "Marcial (Medio-hombre)",
+            "profile": "Contramaestre y marinero veterano mutilado, leal y encomiable por su coraje; maestro práctico de Gabriel en asuntos de mar y combate. Personaje lleno de humor, experiencia y bravura que encarna la dureza de la vida naval y que fallece durante los naufragios posteriores a Trafalgar, provocando profundo duelo en el narrador."
+        },
+        {
+            "name": "Rosita (Rosa), \"mi amita\"",
+            "profile": "Hija de los Cisniega y primer amor de Gabriel en la infancia; joven bella y delicada cuyo crecimiento y boda con Rafael Malespina marcan el tránsito de Gabriel hacia la renuncia y la madurez. Su figura simboliza el mundo doméstico y las diferencias sociales, así como la pérdida de la inocencia infantil del narrador."
+        }
+    ]
+}

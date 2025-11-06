@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Sab. Novela original : edición ELTeC",
+    "dcterms:creator": "Gómez de Avellaneda, Gertrudis (1814-1873)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en la Cuba de los ingenios donde el mulato Sab, mayoral y lector, está secretamente enamorado de Carlota de B., quien corresponde a la pasión de Enrique Otway, un joven comerciante inglés con ambiciones económicas. La obra entrelaza triángulos amorosos y conflictos sociales: la codicia paterna de los Otway, la nobleza resignada de Sab y la frialdad aparente de Teresa, amiga íntima de Carlota. Tras salvamentos y sacrificios —y la aparición de un billete de lotería que trastorna esperanzas— Sab termina ofreciendo su vida y legando una carta y un brazalete que revelan su grandeza moral. La historia culmina en una serie de muertes, renuncias y en la reflexión sobre la esclavitud, el honor y la injusticia social.",
+    "dcat:keyword": [
+        "esclavitud",
+        "amor no correspondido",
+        "sacrificio",
+        "racismo",
+        "tragedia"
+    ],
+    "dcat:theme": [
+        "Amor y sacrificio",
+        "Esclavitud y racismo",
+        "Injusticia social",
+        "Tragedia romántica"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3562981",
+        "Puerto Príncipe (provincia central, hoy Camagüey)",
+        "https://www.geonames.org/9532001",
+        "https://www.geonames.org/11288082",
+        "https://www.geonames.org/6299815"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1841"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Sab",
+            "profile": "Mulato y mayoral del ingenio Bellavista, culto y lector, con un amor profundo e imposible por Carlota. Héroe trágico: salva a Enrique, posee el billete ganador y se consagra al sacrificio y la lealtad hacia los humildes; su muerte y su carta son el núcleo moral de la novela."
+        },
+        {
+            "name": "Carlota de B...",
+            "profile": "Joven criolla bella, sensible y apasionada, hija de D. Carlos, destinada a casarse con Enrique Otway. Su inocencia y ternura contrastan con las realidades económicas que rodean su matrimonio; la pérdida, la culpabilidad y el duelo por Teresa y Sab erosionan su felicidad."
+        },
+        {
+            "name": "Enrique Otway",
+            "profile": "Hijo de un comerciante inglés, atractivo y amable en apariencia, pero influido por la ambición paterna y el cálculo económico. Su relación con Carlota oscila entre afecto y conveniencia; su conducta y dudas constituyen el conflicto central entre interés y sentimiento."
+        },
+        {
+            "name": "Teresa",
+            "profile": "Amiga íntima y casi hermana de Carlota, de carácter frío y reservado en el exterior pero con profunda vida interior. Su amor no correspondido y su elevación moral la llevan al sacrificio: se hace religiosa y su muerte inspira a Carlota una reflexión sobre virtud, sufrimiento y memoria."
+        }
+    ]
+}

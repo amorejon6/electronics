@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "A Devotee: An Episode in the Life of a Butterfly : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Cholmondeley, Mary (1859-1925).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A Devotee follows Sibyl Carruthers, a fragile young heiress whose passionate attachment to the much older Mr. Loftus leads to a controversial marriage. Misunderstanding, gossip and Sibyl's own sensitivity produce jealousy and illness that strain the household, while Mr. Loftus struggles with age, duty, and impending mortality. After a crisis in which he dies as Sibyl tends him, she spends a period of mourning and ultimately marries Doll, the steady cousin who had loved her. The novel examines affection, self-deception and the social pressures surrounding marriage and the declining country estate.",
+    "dcat:keyword": [
+        "unrequited love",
+        "marriage",
+        "jealousy",
+        "landed gentry",
+        "mortality"
+    ],
+    "dcat:theme": [
+        "Marriage and romantic devotion",
+        "Jealousy and emotional fragility",
+        "Decline of the rural gentry / social change",
+        "Illness and mortality"
+    ],
+    "dct:spatial": [
+        "England (Wilderleigh, London)",
+        "https://www.geonames.org/2648205"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1880"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1897"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Sibyl Carruthers",
+            "profile": "A delicate, impulsive young heiress whose ardent, idealizing devotion drives the plot; emotionally fragile, she mistakes pity and protection for lack of love and suffers jealousy and illness as a result. Her choices — marriage to Mr. Loftus and later union with Doll after widowhood — expose themes of self-deception and social expectation."
+        },
+        {
+            "name": "Mr. Loftus",
+            "profile": "An older, cultivated man of refined feeling and failing health who inspires deep devotion and respect; generous, conscientious and world-weary, he marries Sibyl despite the age gap and the burdens it brings. His sense of duty, tenderness, and ultimate death are central to the novel's tragedy and moral inquiry."
+        },
+        {
+            "name": "Doll (Doll Loftus)",
+            "profile": "A steady, decorous young man of the county and relation/heir-figure whose unflashy reliability contrasts with Sibyl's romanticism; he loves Sibyl quietly and is wounded by jealousy but remains honorable. In the postscript he becomes Sibyl's second husband, representing conventional domestic stability."
+        },
+        {
+            "name": "Lady Pierpoint",
+            "profile": "Sibyl's aunt and guardian, a socially-minded matron who orchestrates introductions and worries over the family's fortunes; warm, practical and sometimes wounded by Sibyl's neglect, she plays an important enabling and moderating role in Sibyl's life and social position."
+        }
+    ]
+}

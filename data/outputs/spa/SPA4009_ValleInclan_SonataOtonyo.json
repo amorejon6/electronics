@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Sonata de otoño : edición ELTeC",
+    "dcterms:creator": "Valle-Inclán, Ramón María del (1866-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Un marqués recibe la carta angustiada de Concha, una antigua amante que se halla gravemente enferma en el Palacio de Brandeso, y viaja para asistirla. Allí revive un amor pasado entre recuerdos del jardín, la vida señorial y la religiosidad doméstica, mientras las tensiones familiares y la culpa moral se hacen presentes. La relación entre ambos alterna ternura, pasión y resignación hasta la muerte de Concha, que conmociona al narrador. La novela combina la melancolía amorosa con la descripción detallada del mundo aristocrático rural.",
+    "dcat:keyword": [
+        "amor",
+        "muerte",
+        "enfermedad",
+        "nostalgia",
+        "palacio"
+    ],
+    "dcat:theme": [
+        "Amor romántico y tragedia",
+        "Decadencia y memoria aristocrática",
+        "Religión, culpa y remordimiento"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3336902",
+        "Palacio de Brandeso",
+        "Viana del Prior",
+        "Pazo de Lantañón"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1900"
+            }
+        }
+    },
+    "dct:type": "Novela sentimental",
+    "mainCharacters": [
+        {
+            "name": "Xavier, Marqués de Bradomín",
+            "profile": "Narrador y protagonista, aristócrata melancólico y apasionado que revive un antiguo amor con Concha. Su relato mezcla orgullo, ternura y remordimiento; actúa como testigo íntimo de la vida y la muerte de la amada."
+        },
+        {
+            "name": "Concha",
+            "profile": "Mujer pálida, piadosa y enferma, antigua pasión del marqués que devuelve la llamada del pasado. Es Virgen-madre en tensión entre devoción y deseo; su enfermedad y muerte articulan el tono trágico y sentimental de la novela."
+        },
+        {
+            "name": "Don Juan Manuel Montenegro",
+            "profile": "Tío hidalgo de carácter rotundo y pintoresco, señor del Pazo de Lantañón; figura arcaica y bulliciosa que aporta rasgos de carácter y tradición familiar. Actúa como protector y contrapunto en la convivencia aristocrática."
+        },
+        {
+            "name": "María Isabel",
+            "profile": "Una de las hijas de Concha, niña rubia e inocente que representa la continuidad y la ternura familiar. Su presencia infantil y doméstica ilumina las escenas de salón y acentúa el contraste entre vida cotidiana y tragedia."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Lying Prophets: ELTeC edition",
+    "dcterms:creator": "Phillpotts, Eden (1862-1960)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in a late‑Victorian Cornish fishing community, the novel follows young Joan Tregenza who becomes the model and obsession of the artist John Barron. Barron's passionate painting of Joan—framed by gorse and sea—awakens love, artistic sacrifice and social conflict: Joan's engagement, her step‑father's rigid Luke Gospeler faith, and the jealousy of Joe Noy converge in tragedy. Secrets, a thousand‑pound gift, and competing creeds culminate in drowning, madness and revenge, while the novel continually contrasts Nature, art and narrow religious moralism. The ending leaves ruined lives, a dead artist and a community struggling with loss and consequence.",
+    "dcat:keyword": [
+        "Art and artists",
+        "Cornish fishing community",
+        "Religion and moralism",
+        "Love, betrayal and revenge",
+        "Drowning / tragedy"
+    ],
+    "dcat:theme": [
+        "Love and betrayal",
+        "Art and artistic creation",
+        "Religious intolerance and moral judgment",
+        "Nature vs. society"
+    ],
+    "dct:spatial": [
+        "Cornwall, England (Newlyn, Penzance, Mousehole, Paul, Drift, Sancreed)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Joan Tregenza",
+            "profile": "A seventeen‑year‑old fisherman's daughter from Newlyn, innocent, impulsive and rooted in local folklore. She becomes the model and emotional focus for Barron, is caught between her father's harsh Luke Gospeler faith and a new vision of Nature and art, becomes pregnant and is ultimately drowned, her fate driving much of the plot's tragedy and moral questions."
+        },
+        {
+            "name": "John Barron",
+            "profile": "An intense, brilliant but self‑absorbed painter who arrives in Cornwall and makes Joan the centrepiece of his major canvas. Obsessed with truth in art, he sacrifices health and convention to his work, pursues Joan respectfully then possessively, and his actions trigger jealousies and moral crises that lead to his own tragic, early death."
+        },
+        {
+            "name": "Michael Tregenza",
+            "profile": "Joan's father, a powerful, pious Luke Gospeler fisherman whose rigid religiosity and authoritarian rule alienate his daughter. His moral absolutism produces violence and, after successive calamities, a mental collapse that becomes a visible focus of communal anxiety and judgement."
+        },
+        {
+            "name": "Joe Noy",
+            "profile": "A solid, religious sailor originally affianced to Joan whose return and discovery of her fate provoke fierce, avenging resolve. Simple, fatalistic and driven by a Luke Gospeler sense of desert and duty, he pursues the man he blames for Joan's ruin—an arc that exposes the novel's themes of justice, revenge and the limits of human agency."
+        }
+    ]
+}

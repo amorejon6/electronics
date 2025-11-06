@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "The Hosts of the Lord : ELTeC edition",
+    "dcterms:creator": "Steel, Flora Annie (1847-1929).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set in the fictitious North-Indian town of Eshwara during the British Raj, the novel follows tensions around the opening of a government canal that coincides with a great pilgrimage. Conflicting loyalties among English officers, native soldiers, missionaries and priests escalate into a violent plot to free prisoners and communal unrest. Interwoven is a personal tragedy: a love triangle between Captain Vincent Dering, the singer Laila Bonaventura, and the native officer Roshan Khân culminates in betrayal, a fatal shooting and moral reckonings. The narrative examines colonial power, religious ritual, and the human costs of passion and misunderstanding.",
+    "dcat:keyword": [
+        "British India",
+        "colonial encounter",
+        "pilgrimage and ritual",
+        "love and jealousy",
+        "communal unrest"
+    ],
+    "dcat:theme": [
+        "Colonial rule and cultural encounter",
+        "Religion and ritual versus modernity",
+        "Romantic tragedy",
+        "Social unrest and rebellion"
+    ],
+    "dct:spatial": [
+        "Eshwara (fictional town)",
+        "https://www.geonames.org/1269750"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1905"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Captain Vincent Dering",
+            "profile": "A dashing English cavalry officer, musical and worldly, whose reckless charm makes him central to the social life of Eshwara. He falls passionately for Laila Bonaventura and is driven to desperate action when the colonial order and personal loyalties collide; he occupies a pivotal role in the story's moral and violent crises."
+        },
+        {
+            "name": "Laila Bonaventura",
+            "profile": "An Italian-raised ward under Father Ninian, gifted as a singer and caught between cultures; she embodies atavistic beauty and impulsive freedom. Her intimacy with Dering and her ambiguous relation to native elites make her the catalyst for jealousy and tragedy that propel the plot."
+        },
+        {
+            "name": "Dr. George Dillon",
+            "profile": "Practical, sardonic superintendent of a local industrial gaol and an imposing organizer; he balances medical authority with hard realism. Dillon manages the canal labour, the prison crisis and emergency responses, attempting to contain social disorder while exposing the thinness of official control."
+        },
+        {
+            "name": "Roshan Khân",
+            "profile": "A proud native risaldar, related to the old Nawab's family, educated in both traditions and ambitious for social advancement. Torn between loyalty to the army and personal grievance, his jealousy and sense of dispossession make him a key instigator of violence and a tragic antagonist to Dering."
+        }
+    ]
+}

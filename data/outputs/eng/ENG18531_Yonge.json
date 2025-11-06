@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "The Heir of Redclyffe : ELTeC edition",
+    "dcterms:creator": "Yonge, Charlotte Mary (1823-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "After the death of the old baronet the young heir Sir Guy Morville comes under the care of the Edmonstone family at Hollywell, where his high spirits, proud family legacy and impulsive temper create both warmth and domestic strain. Rumours of gambling and a guardian's wounded pride provoke a rupture driven by Philip Morville's jealous suspicion, precipitating misunderstandings, a banishment, and acts of devotion including a dramatic rescue at sea. The narrative traces engagement, marriage and later calamity — Guy's later illness and death abroad — and follows Amy's patient widowhood, Philip's grave illness, confession and moral repentance. Through grief, confession and forgiveness the household seeks social restoration, inheritance resolution and moral consolation amid Victorian domestic expectations.",
+    "dcat:keyword": [
+        "guardianship and inheritance",
+        "family conflict",
+        "romance and marriage",
+        "moral redemption and repentance",
+        "grief and forgiveness"
+    ],
+    "dcat:theme": [
+        "Domestic and family relations",
+        "Moral and religious redemption",
+        "Romance and marriage",
+        "Bereavement and mourning"
+    ],
+    "dct:spatial": [
+        "England (Hollywell, Redclyffe, Moorworth, St. Mildred's, Oxford)",
+        "https://www.geonames.org/3300369",
+        "Italy (Bellagio, Como, Recoara, Vicenza, Venice, Milan, Sondrio)",
+        "Switzerland (Interlaken, Lugano, Geneva)",
+        "https://www.geonames.org/2867714",
+        "https://www.geonames.org/2463679"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1840"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Sir Guy Morville",
+            "profile": "Young heir of Redclyffe: generous, ardent and high-spirited, but impulsive and hot-tempered, he is subject to suspicion over alleged gambling and social impropriety. He performs notable acts of devotion (including a shipwreck rescue) and is engaged to Amabel (Amy) Edmonstone; his later illness and death abroad profoundly affect the household and set the scene for mourning and inheritance issues."
+        },
+        {
+            "name": "Philip Morville",
+            "profile": "A proud, reserved cousin whose sense of principle and secrecy drives much of the early conflict—his jealous suspicions and demand for explanations precipitate a family rupture. After falling grievously ill he experiences deep remorse and moral transformation, seeks repentance, and ultimately works toward reconciliation and new domestic obligations (later marrying Laura)."
+        },
+        {
+            "name": "Amabel (Amy) Morville / Lady Morville",
+            "profile": "Gentle, devout and patient, Amy is the moral centre of the household whose constancy anchors the novel's themes of redeeming love and duty. As Guy's wife and later young widow she endures profound grief with practical compassion, devotes herself to his child and to the care and reconciliation of family affairs."
+        },
+        {
+            "name": "Laura Edmonstone",
+            "profile": "A devoted, long-suffering heroine whose engagement to Philip is tested by secrecy and scandal; she endures anxiety and social censure but remains faithful and forgiving. Her steadiness and domestic care enable eventual reconciliation and partnership with Philip in the duties and responsibilities that follow."
+        }
+    ]
+}

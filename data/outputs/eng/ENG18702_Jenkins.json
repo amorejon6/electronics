@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Ginx's Baby: His Birth and Other Misfortunes : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Jenkins, John Edward (1838-1910).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A satirical social novel that follows the life of an unnamed infant—\"Ginx's Baby\"—abandoned by his overburdened parents in Victorian London and successively claimed by a convent, Protestant committees, rival parishes, clubs, and political bodies. Through episodic episodes the child becomes a contested symbol of sectarian zeal, charitable mismanagement, bureaucratic indifference, and political posturing. The narrative exposes the failures of charity, the Poor Law, religious factionalism, and superficial reformers while tracking the child's physical decline and ultimate tragic end. The book interrogates how institutions and public opinion mistreat vulnerable individuals even as they profess concern for them.",
+    "dcat:keyword": [
+        "poverty",
+        "charity",
+        "religion",
+        "social reform",
+        "satire"
+    ],
+    "dcat:theme": [
+        "Social criticism",
+        "Satire",
+        "Child welfare and poverty",
+        "Religious and institutional conflict"
+    ],
+    "dct:spatial": [
+        "London, England (City of Westminster and surrounding parishes)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1860"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1870"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "John Ginx (Ginx)",
+            "profile": "A stout navvy and father of many children, Ginx is coarse, practical, and desperate about subsistence. His threat to drown the thirteenth child and his eventual relinquishment of the infant illustrate the pressures of extreme poverty and the limited political awareness of some working-class men."
+        },
+        {
+            "name": "Mrs. Ginx",
+            "profile": "The child's mother, pious in a simple, practical Protestant way, sacrificial and devoted to her offspring. She embodies maternal love and dignity amid deprivation and resists religious coercion, becoming a figure of plaintive private faith against institutional intrusions."
+        },
+        {
+            "name": "Ginx's Baby",
+            "profile": "The nameless infant and central figure whose fate is fought over by nuns, Protestant agitators, parish guardians, clubs, and politicians. He functions as an emblem of social failure: repeatedly rescued and exploited by institutions, his physical decline and eventual death dramatize the novel's critique of public hypocrisy and inadequate social provision."
+        },
+        {
+            "name": "Sister Suspiciosa (Lady Superior)",
+            "profile": "A zealous nun who rescues the infant and attempts to shape him into a sanctified charge of the convent. She represents institutional charity mingled with doctrinal ambition; her measures and conflicts with Protestants dramatize sectarian competition for moral authority over vulnerable lives."
+        }
+    ]
+}

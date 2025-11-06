@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Lilith; A Romance : ELTec edition : ELTeC edition",
+    "dcterms:creator": "MacDonald, George (1824-1905).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An Oxford-educated heir inherits an ancient family library and discovers a mysterious mirror-door that leads into a series of uncanny otherworlds. Guided by the enigmatic librarian Mr. Raven, he travels through forests, cemeteries and dreamlike landscapes where he encounters the dangerous, beautiful Lilith and her daughter Lona, and learns of a hidden economy of sleep, death and resurrection. The narrator becomes involved with the Little Ones, a childlike community threatened by a tyrannical princess, and is tested in duty, love and self-sacrifice. The novel is a metaphysical fantasy and allegory about identity, repentance, and the possibility of spiritual rebirth.",
+    "dcat:keyword": [
+        "fantasy",
+        "allegory",
+        "supernatural",
+        "redemption",
+        "death"
+    ],
+    "dcat:theme": [
+        "Fantasy",
+        "Allegorical / spiritual fiction",
+        "Gothic supernatural"
+    ],
+    "dct:spatial": [
+        "England (unnamed country estate)",
+        "Imaginary otherworlds / mythic realms"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1900"
+            }
+        }
+    },
+    "dct:type": "Gothic or horror novel",
+    "mainCharacters": [
+        {
+            "name": "Mr. Vane (the narrator)",
+            "profile": "A recently graduated Oxford man who inherits his family estate and its ancient library. Curious, introspective and fallible, he is drawn through the mirror into the otherworld where his moral growth, fears and loyalties are tested. He becomes protector of the Little Ones and is central to the novel's journey from fear to repentance."
+        },
+        {
+            "name": "Mr. Raven / Adam (the librarian)",
+            "profile": "A thin, enigmatic former librarian who appears as both raven and human; a liminal guide figure. Wise, melancholic and moral, he functions as a spiritual mentor (identified with an Adamic, redemptive presence) who explains the metaphysical laws of the worlds and counsels the narrator toward humility and duty."
+        },
+        {
+            "name": "Lilith (the princess)",
+            "profile": "A beautiful, dangerous and morally ambiguous figure who rules the city of Bulika and is hostile to children. She embodies pride, selfishness and an eerie immortality until she undergoes torment, repentance and a process of being healed and laid in the House of the Dead. Her arc is central to the book's themes of sin, self-awareness and redemption."
+        },
+        {
+            "name": "Lona",
+            "profile": "Lilith's daughter-figure and the chief of the Little Ones: youthful, compassionate and maternal toward the child-community. Pure-hearted and courageous, Lona inspires devotion in the narrator and in the children; she represents innocence, regenerative love and the possibility of new community."
+        }
+    ]
+}

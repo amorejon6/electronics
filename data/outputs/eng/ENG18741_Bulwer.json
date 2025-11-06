@@ -1,0 +1,64 @@
+{
+    "dcterms:title": "The Parisians : ELTeC edition",
+    "dcterms:creator": "Lytton, Edward Bulwer (1803-1873)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set mainly in mid‑19th‑century Europe, the novel follows intersecting lives in Parisian salons, the press, and revolutionary clubs as personal dramas collide with national politics. A young, impoverished noble, Alain de Rochebriant, struggles to preserve his ancestral estate amid finance, speculation and the rise of a capitalist elite, while the Englishman Graham Vane undertakes a discreet investigation into the vanished Louise Duval and a contested inheritance. At the center is Isaura Cicogna, a gifted Italian singer and authoress torn between artistic ambition, private devotion and competing suitors; Victor de Mauleon operates behind the scenes in journalism and secret politics. Financial manoeuvres, conspiracies and the outbreak of the Franco‑Prussian War and the Siege of Paris expose class tensions, questions of identity and the moral costs of public life.",
+    "dcat:keyword": [
+        "Parisian society",
+        "finance and speculation",
+        "political intrigue",
+        "identity and inheritance",
+        "Franco‑Prussian War"
+    ],
+    "dcat:theme": [
+        "Social critique and class conflict",
+        "Politics and conspiracy",
+        "Romance, honor and personal sacrifice",
+        "War and political upheaval"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2988507",
+        "Brittany / Fontainebleau / Enghien, France",
+        "https://www.geonames.org/2643743",
+        "Germany (Aachen / Aix‑la‑Chapelle, Munich, Berlin, Augsburg, Strasbourg, Rheims, Rüdesheim region)",
+        "https://www.geonames.org/2761369",
+        "Italy (Genoa, Pisa, Verona, Milan, Naples, Venice, Florence, Sorrento)",
+        "https://www.geonames.org/2507480",
+        "https://www.geonames.org/5383465"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1849"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1872"
+            }
+        }
+    },
+    "dct:type": "Historic novel",
+    "mainCharacters": [
+        {
+            "name": "Graham Vane",
+            "profile": "An upright English gentleman entrusted with tracing the vanished Louise Duval and determining a complex inheritance; his investigation carries him across Europe and into wartime exigencies. Reserved and conscientious, he is deeply attached to Isaura Cicogna and repeatedly balances public duty, legal responsibility and private affection."
+        },
+        {
+            "name": "Isaura Cicogna",
+            "profile": "A talented, sensitive Italian singer and novelist whose artistic success brings fame, danger and difficult moral choices; frail in health but strong in principle, she is torn between a public career and a private domestic life. Her voice, conscience and friendships make her the center of competing loyalties and romantic rivalries."
+        },
+        {
+            "name": "Victor de Mauleon (also Jean Lebeau)",
+            "profile": "A charismatic, high‑born figure who reinvents himself under aliases to operate at the intersection of salons, journalism and secret politics; he clandestinely finances and directs a powerful journal while pursuing political ends. Complex and patriotic, he exerts moral influence on others and plays a decisive role in revolutionary events."
+        },
+        {
+            "name": "Alain de Rochebriant",
+            "profile": "A proud young marquis reduced to near penury by family debts who comes to Paris to save his ancestral estate and social standing. Honourable and socially awkward, his negotiations with creditors and interactions with financiers reveal the decline of the aristocracy and the pressures of modern capitalist society."
+        }
+    ]
+}

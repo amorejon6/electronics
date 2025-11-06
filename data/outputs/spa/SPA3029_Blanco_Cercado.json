@@ -1,0 +1,53 @@
+{
+    "dcterms:title": "El cercado ajeno : edición ELTeC",
+    "dcterms:creator": "Blanco, Ramiro (1857-1913)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela de costumbres y aventuras ambientada en la España de la segunda mitad del siglo XIX. La trama gira en torno a la confusión de identidades entre dos jóvenes casi idénticos, que provoca enredos amorosos, usurpaciones, venganzas y un duelo fatal. A lo largo de la peripecia aparecen intrigas familiares, secretos de origen y episodios de sociedad madrileña —incluida una ascensión en globo— hasta la revelación del linaje de los gemelos y la restitución parcial de la honra. La obra mezcla rasgos melodramáticos, costumbristas y de entretenimiento.",
+    "dcat:keyword": [
+        "identidad",
+        "suplantación",
+        "honor",
+        "familia",
+        "costumbrismo"
+    ],
+    "dcat:theme": [
+        "Confusión de identidad",
+        "Amor y deshonra familiar",
+        "Costumbrismo social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/6359253",
+        "https://www.geonames.org/3104342",
+        "https://www.geonames.org/3129857"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1882"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Juan Fernández",
+            "profile": "Joven huérfano, serio y de buen corazón que busca conocer su origen. Protagonista moral de la historia, se enamora de Elisa y persevera en esclarecer la verdad familiar. Su parecido con otro personaje desencadena gran parte de los equívocos y la trama."
+        },
+        {
+            "name": "Jorge Juan Fernández (apodado León)",
+            "profile": "Contrapunto de Juan: calavera, jugador y seductor que adopta el nombre de León para su vida disoluta. Sus imposturas y aventuras provocan engaños amorosos, un escándalo y un duelo que conducen a un desenlace trágico. Es pieza clave en la confusión de identidades y en el conflicto moral de la novela."
+        },
+        {
+            "name": "Adelfa",
+            "profile": "Joven inocente, prima y prometida en teoría de Juan, víctima de la confusión identidad que la somete a sufrimiento y deshonra moral. Representa la pureza y el costumbrismo femenino de la obra; su salud y ánimo se ven gravemente afectados hasta que se aclaran los hechos. Su situación moviliza a la familia tutora."
+        },
+        {
+            "name": "Barón de Luzola",
+            "profile": "Patriarca anciano y aristócrata que guarda el secreto del origen de los gemelos (la deshonra de su hija). Su posición social y su remordimiento determinan la resolución: él conoce la verdad y, finalmente, toma la decisión de revelar y reparar en lo posible la historia familiar. Actúa como figura rectora y catalizadora del cierre dramático."
+        }
+    ]
+}

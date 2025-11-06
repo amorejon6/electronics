@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Los siete infantes de Lara : edición ELTeC",
+    "dcterms:creator": "Fernández y Gonzalez, Manuel (1821-1888)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Leyenda novelada situada en la España medieval que narra la caída y la vindicación de la casa de Lara. La historia entrelaza amores imposibles (Doña Lambra, Gonzalo, Blanca), intrigas de corte (Ruy Velazquez), crímenes y venganzas que conducen al juicio por fuego, duelos y grandes batallas fronterizas (Almanzor, Córdoba). Aparecen también elementos sobrenaturales y de folklore (apariciones, acusaciones de brujería) y narrativas de honor, traición y restauración dinástica. El relato culmina en venganzas que reconstituyen el linaje y fundan nuevas generaciones (Mudarra, Estrella).",
+    "dcat:keyword": [
+        "venganza",
+        "honor",
+        "amor imposible",
+        "traición",
+        "leyenda medieval"
+    ],
+    "dcat:theme": [
+        "Leyenda histórica",
+        "Épica caballeresca",
+        "Romance trágico"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/2519240",
+        "https://www.geonames.org/3111092"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "@type": "xsd:gYear",
+                "value": "0980"
+            },
+            "dcterms:end": {
+                "@type": "xsd:gYear",
+                "value": "1002"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Doña Lambra Sánchez",
+            "profile": "Mujer noble, bellísima y ambivalente: seductora y vengativa. Su pasión por Gonzalo y sus celos desencadenan conspiraciones, asesinatos y acusaciones de brujería; es motor moral y trágico de gran parte de la acción."
+        },
+        {
+            "name": "Gonzalo González (el infante)",
+            "profile": "Joven caballero valeroso y honesto, objeto de amor de Blanca y de la pasión destructiva de Doña Lambra. Su generosidad y lealtad le llevan a intentar proteger a Blanca y a su familia, lo que lo enfrenta a conspiraciones fatales."
+        },
+        {
+            "name": "Blanca Núñez",
+            "profile": "Joven huérfana, pura y víctima de los juegos de poder y de las pasiones de los mayores. Amante sincera de Gonzalo, su desgracia (seducción, embarazo oculto, secuestro) impulsa la trama de rescates, falsas acusaciones y venganzas."
+        },
+        {
+            "name": "Mudarra González",
+            "profile": "Hijo/nieto vengador que surge de las complejas uniones y desdichas; nace de la unión entre linajes y protagoniza la restitución del honor familiar. Firme, decidido y hábil en armas, representa la revancha final y la continuidad del linaje."
+        }
+    ]
+}

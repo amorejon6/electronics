@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "El diablo las carga : edición ELTeC",
+    "dcterms:creator": "Ros de Olano, Antonio (1808-1886)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela que retrata un triángulo sentimental en la alta sociedad madrileña: Fernando, joven enamorado, Teresa, esposa joven de un conde mayor por ambición social, y Gustavo, amigo manipulador que instrumentaliza las pasiones. La historia sigue las intrigas, confesiones y encuentros secretos que desembocan en un enfrentamiento violento: el conde sorprende a los amantes, dispara y Teresa muere. Paralelamente la obra ofrece una crítica de las costumbres, la hipocresía social y la corrupción política del tiempo, con referencias al clima revolucionario y a conspiraciones aristocráticas. El desenlace deja consecuencias trágicas para los protagonistas y subraya la crítica moral del narrador.",
+    "dcat:keyword": [
+        "amor",
+        "celos",
+        "adulterio",
+        "sociedad",
+        "tragedia"
+    ],
+    "dcat:theme": [
+        "Novela de costumbres",
+        "Crítica social",
+        "Tragedia sentimental"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/3128026"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1839"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Fernando",
+            "profile": "Joven romántico y diputado apasionado, protagonista sentimental cuya devoción por Teresa lo consume. Su amor no correspondido y los celos lo conducen a la desesperación y a la locura tras la muerte de Teresa."
+        },
+        {
+            "name": "Teresa (la condesa)",
+            "profile": "Joven bella y vanidosa que accede a un matrimonio ventajoso con el conde; está dividida entre la ambición social y un afecto sincero hacia Fernando. Su fragilidad moral y emotiva la convierten en víctima trágica del escándalo y la hipocresía social."
+        },
+        {
+            "name": "Gustavo",
+            "profile": "Hombre de treinta y tres años, cínico y experimentado, amigo y mentor de Fernando que manipula situaciones con habilidad. Figura ambivalente que fomenta encuentros y aconseja estrategias para convertir el amor en amistad conveniente; desaparece tras el escándalo."
+        },
+        {
+            "name": "Conde de X",
+            "profile": "Marido mayor de Teresa, noble influyente y antiguo favorito en la corte, implicado en tramas políticas y financieras. Sus celos y su conducta culminan en la violencia que provoca la tragedia; posteriormente huye a los montes vinculado a la causa carlista."
+        }
+    ]
+}

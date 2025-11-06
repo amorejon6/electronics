@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Don Juan Solo : edición ELTeC",
+    "dcterms:creator": "Ortega Munilla, José (1856-1922)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato realista que sigue la vida de D. Juan Solo, un padre sacrificiado que lucha por la prosperidad y la dote de su hija Elena en el Madrid del siglo XIX. La novela expone la progresiva degradación moral de los personajes: avaricia, especulación bursátil, hipocresía social y la decadencia afectiva en el matrimonio de Elena con Leandro Henares. La acción intercala episodios de miseria popular, revueltas urbanas y vidas bohemias (Pepín, Alonso) que contrastan con el ascenso social de personajes como Juan Cláudio. El desenlace trágico muestra la quiebra material y moral de D. Juan y una crítica feroz a las injusticias y ambiciones de la sociedad burguesa.",
+    "dcat:keyword": [
+        "paternidad",
+        "avaricia",
+        "amor y desilusión",
+        "corrupción bursátil",
+        "revolución urbana"
+    ],
+    "dcat:theme": [
+        "Paternidad y sacrificio",
+        "Crítica social y corrupción burguesa",
+        "Amor, desengaño y moral privada",
+        "Violencia urbana y revueltas"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/3129857",
+        "https://www.geonames.org/3121819"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "xsd:gYear": {
+                "dcterms:start": "1820",
+                "dcterms:end": "1860"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "D. Juan Solo",
+            "profile": "Padre humilde y laborioso, protagonista trágico que sacrifica su vida y bienes por la dote y el porvenir de su hija. Su carácter tímido y melancólico evoluciona hacia la avaricia y la desesperación ante la humillación, terminando en la ruina material y moral."
+        },
+        {
+            "name": "Elena (la hija de D. Juan)",
+            "profile": "Joven hermosa que encarna la ambivalencia entre cariño filial y exigencias sociales; se casa con Leandro buscando seguridad social y estética. Su afecto hacia el padre es real pero limitado por sus deberes de esposa y su posición social, lo que contribuye al conflicto central."
+        },
+        {
+            "name": "Leandro Henares",
+            "profile": "Esposo de Elena, elegante y ambicioso, atractivo en lo físico pero fríamente interesado; su afición al juego y la especulación financiera precipitan la ruina familiar. Representa la fragilidad moral del nuevo hombre de negocios y la degradación del ideal romántico."
+        },
+        {
+            "name": "D. Juan Cláudio Malaña",
+            "profile": "Banquero y hombre de negocios rapaces, socio de Leandro y personaje encumbrado que prospera socialmente. Astuto, cínico y manipulador, simboliza la corrupción, la hipocresía y la impunidad de la burguesía especuladora."
+        }
+    ]
+}

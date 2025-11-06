@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Ships that Pass in the Night : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Harraden, Beatrice (1864-1936).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young, ambitious woman, Bernardine Holme, goes to the Alpine spa Petershof to recover from a breakdown and encounters a community of invalids and their caretakers. There she forms an uneasy but transforming friendship with the taciturn Robert Allitsen, the so-called \"Disagreeable Man,\" and through daily life, small acts of kindness and moments of remorse the characters confront suffering, duty and tenderness. The novel traces moral awakening, quiet heroism and misplaced priorities among guests such as the frivolous Mrs. Reffold and her dying husband, culminating in Bernardine's tragic accident and death and Allitsen's resolution to live differently. Overall it is a study of illness, compassion, sacrifice and the slow work of human understanding.",
+    "dcat:keyword": [
+        "illness",
+        "sanatorium",
+        "love",
+        "sacrifice",
+        "compassion"
+    ],
+    "dcat:theme": [
+        "Illness and convalescence",
+        "Love and moral sacrifice",
+        "Social observation / social novel"
+    ],
+    "dct:spatial": [
+        "Petershof (Alpine sanatorium, Switzerland)",
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1894"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel (https://en.wikipedia.org/wiki/Victorian_literature, https://en.wikipedia.org/wiki/Prose_fiction)",
+    "mainCharacters": [
+        {
+            "name": "Bernardine Holme",
+            "profile": "A hardworking, intellectually ambitious woman whose nervous collapse sends her to Petershof to recuperate. She evolves from proud, career-focused independence to a gentler, more compassionate outlook through her encounters with fellow patients and small acts of service; her developing affection for Allitsen and her final fate drive the novel's emotional core."
+        },
+        {
+            "name": "Robert Allitsen (the Disagreeable Man)",
+            "profile": "A taciturn, scientifically minded long-term resident of Petershof reputed as surly and disagreeable who secretly cares deeply for others. He alternates between bitterness and unexpected tenderness, mentors Bernardine in photography, falls in love with her, and ultimately faces the consequences of duty, freedom and the possibility of moral renewal."
+        },
+        {
+            "name": "Mrs. Winifred Reffold",
+            "profile": "A beautiful, socially vivacious guest at Petershof whose neglect of her invalid husband exposes a selfish, pleasure-seeking side. Her character arc includes a moment of remorse at her husband's death that reveals the novel's interest in conscience, social duty and the complexities of human self-deception."
+        },
+        {
+            "name": "Mr. Reffold (Wilfrid Reffold)",
+            "profile": "An ailing, querulous invalid who finds unexpected comfort and gentle counsel in Bernardine's visits. His simple faith in kindness, shy gratitude and eventual death act as catalysts for other characters' moral reflection, particularly Mrs. Reffold's remorse and Bernardine's pastoral care."
+        }
+    ]
+}

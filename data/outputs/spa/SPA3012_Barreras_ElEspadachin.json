@@ -1,0 +1,62 @@
+{
+    "dcterms:title": "El espadachín. Narración histórica del motín de Madrid en 1766 : Edición ELTeC",
+    "dcterms:creator": "Barreras, Antonio (-)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela, narrada en primera persona con tono folletinesco, recrea los episodios del motín de Madrid de marzo de 1766 en la corte de Carlos III. Sigue a Felicísimo Lozano, un joven hidalgo y espadachín, en sus duelos, rescates y en la peligrosa misión de sacar a la marquesa de Esquilache del Palacio mientras la ciudad se agita. La trama entrelaza combate, persecuciones, conspiraciones políticas y religiosas —especialmente la actuación de la Compañía de Jesús— con un hilo romántico entre Lozano y la condesa de Bari. El relato combina aventura, honor caballeresco y una reflexión sobre lealtades sociales en una España del siglo XVIII convulsa.",
+    "dcat:keyword": [
+        "motín de Madrid",
+        "esgrima y duelos",
+        "conspiración política",
+        "honor caballeresco",
+        "romance"
+    ],
+    "dcat:theme": [
+        "Política e intriga",
+        "Aventura y honor caballeresco",
+        "Intriga religiosa y conspiración",
+        "Romance"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/8285534",
+        "https://www.geonames.org/3129857",
+        "https://www.geonames.org/2520058",
+        "https://www.geonames.org/2513416",
+        "https://www.geonames.org/3172394"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1766"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1766"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Felicísimo Lozano",
+            "profile": "Joven hidalgo y protagonista, valeroso espadachín de carácter impetuoso pero noble. Lidera rescates y evasiones, participa en duelos y acciones arriesgadas durante el motín y actúa como centro de la acción militar y sentimental."
+        },
+        {
+            "name": "Elina (condesa de Bari)",
+            "profile": "Dama de la corte astuta, decidida y seductora, interés romántico de Lozano. Participa activamente en la organización y protección de la operación para salvar a los Esquilache y sus efectos, y su vínculo con Lozano añade tensión romántica a la trama."
+        },
+        {
+            "name": "Pastora, marquesa de Esquilache",
+            "profile": "Aristócrata orgullosa y víctima de la agitación popular, cuyo peligro y salvación movilizan gran parte de la acción. Su situación personal y social se utiliza como palanca política y constituye el motivo central del rescate y las negociaciones."
+        },
+        {
+            "name": "Don Juan Antonio Salazar",
+            "profile": "Líder amotinado, enérgico y vengativo, representante de la violencia y la sed de venganza popular. Actúa como antagonista que impulsa atentados y persecuciones, tensionando la confrontación entre turba y autoridad."
+        }
+    ]
+}

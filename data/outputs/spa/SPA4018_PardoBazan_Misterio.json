@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Misterio : edición ELTeC",
+    "dcterms:creator": "Pardo Bazán, Emilia (1851-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "En una Europa posterior a la Revolución y en plena Restauración, un enredo de pasados, identidades y ambiciones reúne a un joven marqués, Renato, a la misteriosa Amelia y al mecánico Dorff —hombre marcado por un antiguo proceso y por recuerdos de prisión— alrededor de un cofrecillo con documentos capaces de sacudir dinastías. Intrigas policiales (Volpetti y Lecazes), sociedades secretas (carbonarios y «caballeros de la libertad»), y la intervención de la familia real complican cada intento de verdad y punta a venganzas violentas. La búsqueda del cofrecillo, persecuciones en Londres y un dramático episodio en la costa desembocan en pérdida, muertes y decisiones morales. Al final, la resolución pasa por la confrontación entre honor, perdón y la calculada prudencia política en el seno de la corona restaurada.",
+    "dcat:keyword": [
+        "Amor y honor",
+        "Identidad e impostura",
+        "Policía secreta",
+        "Conspiración política",
+        "Persecución y venganza"
+    ],
+    "dcat:theme": [
+        "Novela histórica",
+        "Intriga política",
+        "Romance trágico"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "Francia (París; Bretaña —Picmort—)",
+        "Prusia (Spandau y Silesia)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1814"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1830"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Renato de Giac, marqués de Brezé",
+            "profile": "Joven aristócrata franco-bretón, valiente y apasionado; su amor por Amelia le lleva a asumir riesgos y a intervenir directamente en la persecución del cofrecillo. Representa el honor caballeresco enfrentado con la fragilidad humana: es protector, impulsivo y dispuesto a todo por defender a los suyos."
+        },
+        {
+            "name": "Amelia (hija de Dorff)",
+            "profile": "Joven de gran belleza y voluntad acerada, víctima y motor emocional de la trama: amante de Renato y filial con Dorff. Su carácter combina dignidad, sacrificio y fervor moral; soporta la coacción social, protege a un niño salvado del naufragio y actúa como conciencia ética en los momentos extremos."
+        },
+        {
+            "name": "Carlos Luis Dorff (el mecánico)",
+            "profile": "Hombre perseguido por un pasado oscuro, que reivindica su identidad y honra con tenacidad; figura trágica que encarna el tema de la injusticia y la restitución. Su historia (presidio, fuga, documentos secretos) es el eje que provoca el conflicto político y personal en la novela."
+        },
+        {
+            "name": "Jácome Volpetti (esbirro) ",
+            "profile": "Astuto agente policial/esbirro, experto en disfraces y provocaciones; actúa como brazo de la autoridad y catalizador del conflicto al apoderarse del cofrecillo. Es el antagonista principal: frío, profesional y dispuesto a cualquier artimaña para proteger intereses del poder."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Incesto : edición ELTeC",
+    "dcterms:creator": "Zamacois, Eduardo (1873-1971)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra la historia de una familia burguesa en Madrid alrededor de 1900: un novelista célebre, Don Pedro Gómez-Urquijo, descubre que su hija Mercedes lee novelas y teme que su obra la corrompa. Entre la censura paterna, la vigilancia maternal y la vida artística del entorno, Mercedes se enamora de Roberto Alcalá, un actor, y vive citas clandestinas que la conducen a una crisis. El conflicto entre la aspiración a la libertad juvenil y el orgullo moral del padre se intensifica hasta la fuga de Mercedes, que deja una carta donde anuncia su partida. El relato explora la influencia de la literatura en la conducta, el choque generacional y las tensiones morales de la sociedad burguesa.",
+    "dcat:keyword": [
+        "seducción",
+        "conflicto generacional",
+        "influencia de la lectura",
+        "moral burguesa",
+        "escándalo"
+    ],
+    "dcat:theme": [
+        "conflicto generacional",
+        "seducción y caída moral",
+        "hipocresía social",
+        "influencia del arte y la literatura en la vida"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1900"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Mercedes",
+            "profile": "Hija adolescente del novelista, de carácter soñador y apasionado; su curiosidad por la música y la literatura la lleva a cuestionar la moral familiar y a buscar experiencias amorosas fuera del hogar. Su relación con el actor Roberto y su deseo de «ser feliz» la sitúan en el centro del conflicto generacional y moral."
+        },
+        {
+            "name": "Don Pedro Gómez-Urquijo",
+            "profile": "Novelista famoso, autor de obras sensuales que le dieron prestigio; padre autoritario y orgulloso, enfrenta la contradicción entre su vida artística y su deber como guardián moral. Su miedo a que la obra propia haya contaminado a su hija precipita la vigilancia, la censura y, finalmente, la tragedia familiar."
+        },
+        {
+            "name": "Balbina Nobos",
+            "profile": "Esposa sumisa y maternal, mujer humilde y obediente que vive subordinada a su marido; intenta proteger a Mercedes pero se encuentra dividida entre la fidelidad a Don Pedro y la compasión por la hija. Su fragilidad y buen corazón la convierten en cómplice involuntaria de la joven y en víctima del conflicto."
+        },
+        {
+            "name": "Roberto Alcalá",
+            "profile": "Actor joven, atractivo y seductor, primo de las amigas de Mercedes; representa el mundo artístico y libertino que fascina a la muchacha. Su relación con Mercedes se desarrolla en encuentros clandestinos y culmina en la seducción decisiva que provoca la huida de la joven."
+        }
+    ]
+}

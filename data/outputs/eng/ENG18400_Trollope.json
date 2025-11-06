@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Life and Adventures of Michael Armstrong : ELTeC edition",
+    "dcterms:creator": "Trollope, Frances Milton (1780-1863)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The novel follows Michael Armstrong, a poor factory boy whose brave act brings him to the attention of wealthy patrons and exposes the brutality of the apprentice and factory system. Wealthy families stage charitable spectacles while genuine suffering among operatives and their families is revealed, prompting investigations and practical relief efforts led by the heiress Mary Brotherton. Michael endures harsh apprenticeship, escapes, and undertakes a perilous journey before eventual recovery and reunion with his brother, aided by philanthropic intervention. The narrative is a sustained social critique of industrialisation, performative charity, class inequality, and the need for legal and moral reform.",
+    "dcat:keyword": [
+        "child labour",
+        "factory system",
+        "apprenticeship",
+        "philanthropy",
+        "industrialization"
+    ],
+    "dcat:theme": [
+        "Social critique",
+        "Industrial/working-class conditions",
+        "Child welfare and reform",
+        "Charity and moral hypocrisy"
+    ],
+    "dct:spatial": [
+        "England (Lancashire: Ashleigh; Deep Valley; Westmorland; Derbyshire)",
+        "https://www.geonames.org/2990440",
+        "Germany (Rhenish Rhine region)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1850"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Michael Armstrong",
+            "profile": "A brave, affectionate boy apprenticed to brutal mills who becomes both a public object of charity and a sufferer of industrial cruelty. He survives fever and harsh treatment, escapes, endures a perilous journey to learn of his brother Edward, and ultimately benefits from education and patronage that enable his moral and social improvement."
+        },
+        {
+            "name": "Mary Brotherton",
+            "profile": "A wealthy, morally earnest heiress who awakens to the abuses of factory labour and devotes herself to inquiry and relief. Practical and compassionate, she investigates manufacturers and clergy, works with reformers, rescues the factory girl Fanny Fletcher, and arranges education and patronage for Michael and his brother."
+        },
+        {
+            "name": "Sir Matthew Dowling",
+            "profile": "A powerful mill-owner and local squire who poses as benevolent while exercising harsh authority over apprentices and labourers. Urbane and proud, his conspicuous philanthropy masks hypocrisy; his commercial failures and faults precipitate family disgrace, bankruptcy and a moral reckoning that affect Michael's fate."
+        },
+        {
+            "name": "Martha Dowling",
+            "profile": "A plain, dutiful and compassionate member of the Dowling family who sympathises with Michael and assists in negotiating his future. Generous and self-sacrificing, she cares for her father through humiliation and decline and becomes a catalyst for Michael's advancement and later domestic reconciliation."
+        }
+    ]
+}

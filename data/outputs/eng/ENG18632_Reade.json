@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Hard Cash. A matter of fact romance : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Reade, Charles (1814-1884).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A domestic and social novel that follows the Dodd family of Barkington and the Hardie family as love, honour and money collide in Victorian England. Julia Dodd's attachment to Alfred Hardie is tested by class, parental caution and a banking fraud that destroys livelihoods and triggers public scandal. Parallel maritime episodes follow Captain David Dodd through piracy, storm, wreck and the perilous fate of the family's savings, while Alfred is wrongfully confined in private asylums and must struggle for his liberty and reputation. The narrative culminates in public legal redress, recovered identities and reconciliations, offering sustained critique of financial crime, lunacy law and institutional abuse alongside romantic and familial drama.",
+    "dcat:keyword": [
+        "social critique",
+        "financial fraud",
+        "wrongful confinement",
+        "maritime adventure",
+        "love and fidelity"
+    ],
+    "dcat:theme": [
+        "Social critique",
+        "Institutional abuse and mental health",
+        "Romance",
+        "Adventure",
+        "Justice and legal reform"
+    ],
+    "dct:spatial": [
+        "England (Barkington; Henley; Oxford; London)",
+        "https://www.geonames.org/1807301",
+        "Indian Ocean region (Cape of Good Hope; Mauritius; Straits of Gaspar)",
+        "France (Boulogne; French coast)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1845"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1865"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Julia Dodd",
+            "profile": "A sensitive, virtuous young woman raised with refined manners and strong moral instincts; affectionate, musical and deeply compassionate. Central to the plot as Alfred Hardie's betrothed, she endures her family's misfortunes, tends the dying, engages in charity work as a district visitor, and provides crucial testimony and moral support that helps expose injustice."
+        },
+        {
+            "name": "Alfred Hardie",
+            "profile": "An Oxbridge-educated, principled and impetuous young man who uncovers his father’s embezzlement and is driven into conflict by honour and conscience. He is wrongfully certified insane and confined in private asylums, where he fights to prove his sanity, escapes, resumes his studies and ultimately pursues legal redress in a public trial."
+        },
+        {
+            "name": "Lucy (Mrs.) Dodd",
+            "profile": "A resourceful, proud widow and devoted mother who runs a millinery business and manages the family's social relations with tact and prudence. Fiercely protective of her children, she navigates poverty, scandal and charity work, uses practical means to secure her family's future, and plays a decisive role in recovery and reconciliation."
+        },
+        {
+            "name": "Captain David Dodd",
+            "profile": "A seasoned, honourable seafaring captain entrusted with the family's savings whose voyages provide the novel's maritime strand. Courageous and practical, he endures piracy, violent storms, wreck and perilous efforts to secure the cash; his apparent derangement and later recovery and testimony are pivotal in unmasking fraud and restoring justice."
+        }
+    ]
+}

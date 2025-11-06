@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "La conquista del reino de Maya por el último conquistador español Pío Cid : edición ELTeC",
+    "dcterms:creator": "Ganivet, Ángel (1865-1898)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Memorias noveladas de Pío García del Cid, un jurista andaluz que deja el comercio para explorar el África oriental: Zanzíbar, Tabora y la región de los grandes lagos. Tras integrarse en caravanas y en sociedades indígenas, participa en la vida política y religiosa del ficticio reino de Maya, donde fingiendo ser sacerdote logra reformas sociales, económicas y tecnológicas. La obra combina viajes de exploración, conflictos armados con tribus vecinas, y una sátira sobre la implantación de instituciones (moneda, burocracia, monopolios). El relato culmina con la fundación de colonias de emancipados y el retorno del narrador a Europa tras experiencias ambivalentes entre civilización y violencia.",
+    "dcat:keyword": [
+        "exploración",
+        "África oriental",
+        "colonialismo",
+        "costumbres",
+        "viajes"
+    ],
+    "dcat:theme": [
+        "Exploración y aventura",
+        "Colonialismo y contactos interculturales",
+        "Reforma social y política"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/149590",
+        "Región de los grandes lagos (Tanzania / Uganda / Rwanda)",
+        "https://www.geonames.org/7729889"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1870"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1890"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela de aventuras",
+    "mainCharacters": [
+        {
+            "name": "Pío García del Cid",
+            "profile": "Narrador y protagonista: doctor en leyes andaluz que abandona la carrera política y comercial para explorar África oriental. Es observador, ambivalente y hábil para adaptar ideas europeas a sociedades locales; actúa como promotor de reformas (moneda, alfabetización, infraestructuras) y como mediador entre culturas, aunque sus proyectos tienen consecuencias éticas complejas."
+        },
+        {
+            "name": "Sungo",
+            "profile": "Hijo de Arimi y personaje clave en Maya: es un uaganga «listísimo», astuto organizador político y cultural. Dirige ceremonias, maniobra políticamente y actúa como artífice de muchas instituciones; representa la energía local que canaliza las reformas del protagonista."
+        },
+        {
+            "name": "Ucucu",
+            "profile": "Reyezuelo de Ancu-Myera y aliado del narrador en los inicios: es un líder carismático, protector y práctico, que muestra la complejidad social de las ciudades ribereñas. Su hospitalidad y voluntad de alianza facilitan la integración del protagonista en la política local."
+        },
+        {
+            "name": "Asato",
+            "profile": "Miembro de la dinastía local y personaje beligerante: llega a ser Igana Iguru y promueve medidas drásticas (entre ellas la polémica castración colectiva de siervos) para contener lo que percibe como desorden moral. Representa la faceta autoritaria y reaccionaria del poder indígena frente a los cambios."
+        }
+    ]
+}

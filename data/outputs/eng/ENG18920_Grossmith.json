@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The diary of a nobody : ELTeC edition",
+    "dcterms:creator": "Grossmith, George (1847-1912)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A comic diary of Charles Pooter, a self-important but affectionate middle-class clerk who records the trivial trials and small triumphs of domestic life in suburban London. Episodes recount his efforts to maintain respectability — dealing with tradesmen, neighbours, clubable friends, and his social ambitions — while family tensions arise around his son Lupin's romantic and financial escapades. The narrative satirises Victorian suburban manners and petty pretensions through gentle, observational humour. It culminates in Pooter's promotion at work and an unexpectedly generous reward from his employer, alongside continuing domestic anxieties about Lupin's conduct.",
+    "dcat:keyword": [
+        "suburban life",
+        "social satire",
+        "domestic comedy",
+        "middle-class manners",
+        "family dynamics"
+    ],
+    "dcat:theme": [
+        "Domestic life",
+        "Social satire",
+        "Ambition and social pretension"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/8315400",
+        "https://www.geonames.org/2646003",
+        "https://www.geonames.org/2654635",
+        "https://www.geonames.org/2643044",
+        "https://www.geonames.org/12263691",
+        "https://www.geonames.org/6545243"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1892"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1892"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Charles Pooter",
+            "profile": "The diarist and protagonist, a modest City clerk proud of his home and reputation. He is self-important, conscientious, easily mortified by social slights, yet affectionate and tolerant toward his wife and son; his observations provide the novel's comic voice and satirical lens."
+        },
+        {
+            "name": "Caroline 'Carrie' Pooter",
+            "profile": "Charles's patient and sensible wife, who shares domestic duties and moderates family tensions. Practical and socially aware, she balances pride in her husband's aspirations with a tolerant realism about their finances and Lupin's behaviour."
+        },
+        {
+            "name": "William 'Lupin' Pooter",
+            "profile": "The Pooters' son, a young, impulsive, and sometimes irresponsible man who pursues amorous and speculative schemes. Charismatic and modern in tastes, his engagements, job changes and financial tips cause much of the household's anxiety and comic upheaval."
+        },
+        {
+            "name": "Mr. Perkupp",
+            "profile": "Charles's employer and principal at the office, urbane and authoritative but essentially fair. He represents respectable professional society and ultimately rewards Charles's long service with promotion and a substantial rise, playing a pivotal role in the family's fortunes."
+        }
+    ]
+}

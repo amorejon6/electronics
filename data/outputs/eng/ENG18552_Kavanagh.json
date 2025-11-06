@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Rachel Gray : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Kavanagh, Julia (1824-1877).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Rachel Gray is a pious, thoughtful dress-maker living in a poor London suburb whose inner life of prayer and study contrasts with the harshness and smallness of her surroundings. Neglected by her cold father and lightly regarded by neighbours, she devotes herself to humble duties, to a sickly apprentice Mary, and to acts of charity (notably toward the French Madame Rose). The plot follows domestic trials: Richard Jones's struggle to open a grocer's shop, rivalry with a better‑resourced competitor, Mary's illness and death, and Rachel's sacrifices caring for both Jones and her paralyzed father. Through loss, forgiveness (including toward the domineering Mrs. Brown) and quiet endurance Rachel attains a moral consolation and a modest restoration of family ties by the close.",
+    "dcat:keyword": [
+        "religious piety",
+        "domestic sacrifice",
+        "poverty",
+        "family estrangement",
+        "forgiveness"
+    ],
+    "dcat:theme": [
+        "Domestic realism",
+        "Social conditions and poverty",
+        "Religion and moral conduct",
+        "Grief and familial duty"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1856"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Rachel Gray",
+            "profile": "A timid, devout and contemplative dress-maker in her mid-twenties whose slow intellect conceals a deep capacity for thought and prayer. She is patient, self-sacrificing and forgiving, tending apprentices, comforting others, and ultimately caring for her paralyzed father and the bereaved Richard Jones."
+        },
+        {
+            "name": "Thomas Gray",
+            "profile": "Rachel's father, a practical, emotionally distant carpenter who abandoned his family for years and greets Rachel with cold indifference. Later struck by paralysis and mental impairment, he becomes wholly dependent on Rachel, and in a faint, partial recovery utters her name before the close."
+        },
+        {
+            "name": "Richard Jones",
+            "profile": "A good‑natured, hardworking tradesman who adores his daughter Mary and risks his modest capital to open the Teapot grocer's shop. His earnest ambition is undone by competition and misfortune; after Mary's death he is humbled, briefly ill, and eventually offered employment by his former rival."
+        },
+        {
+            "name": "Mary Jones",
+            "profile": "Richard Jones's spoiled, sickly, but affectionate daughter and Rachel's apprentice, whose petulant temper masks a child's need for care. Her progressive illness and early death are pivotal, precipitating Richard's ruin and deepening the novel's themes of loss, love, and resignation."
+        }
+    ]
+}

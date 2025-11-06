@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Vice Versa: or, A Lesson to Fathers : ELTeC edition",
+    "dcterms:creator": "Anstey, F. [pseud.] (1856-1934)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A comic-fantastic satire in which a self-satisfied London merchant, Paul Bultitude, is transformed into his schoolboy son after handling a mysterious Indian talisman. Mistaken for the boy, the middle-aged Paul is packed off to the harsh routines of Crichton House and endures humiliation, bullying and the strict discipline of Dr. Grimstone. Meanwhile his son Dick enjoys the comforts of adult life — until rivalries, lost magic, and family conflicts force a crisis. The story resolves when the talisman is recovered and identities restored, leaving family ties and social pretences amended but not without consequence.",
+    "dcat:keyword": [
+        "body-swap",
+        "boarding school",
+        "fatherhood",
+        "satire",
+        "talisman"
+    ],
+    "dcat:theme": [
+        "Family relations and fatherhood",
+        "Boarding-school life and education",
+        "Social satire and manners",
+        "Identity and supernatural transformation"
+    ],
+    "dct:spatial": [
+        "England (London — Westbourne Terrace, Mincing Lane)",
+        "Market Rodwell (fictional English boarding-school town)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1881"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1881"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Paul Bultitude",
+            "profile": "A prosperous, pompous London colonial produce merchant in his fifties whose impatience with children and rigid domestic habits define him. After unintentionally wishing to be a boy while holding an Indian 'Garudâ Stone' he is literally transformed into his son and undergoes the comic and humiliating ordeals of boarding-school life, which force him to reassess his character and family relations."
+        },
+        {
+            "name": "Dick Bultitude",
+            "profile": "Paul's red-haired schoolboy son: mischievous, opportunistic and pleasure-loving, he seizes the advantage when the body-swap occurs and enjoys adult comforts. His youthful selfishness and impulsiveness drive much of the plot (including the misuse and loss of the talisman), yet he is capable of remorse and ultimately helps to restore the family balance."
+        },
+        {
+            "name": "Dr. Grimstone",
+            "profile": "The stern, moralistic headmaster of Crichton House, representative of Victorian disciplinary pedagogy. He enforces order with a mixture of paternalism and severity and becomes the principal antagonist to the transformed Paul until circumstances (and revelations) produce reconciliation."
+        },
+        {
+            "name": "Marmaduke Paradine",
+            "profile": "A disreputable brother-in-law who has worked in India and brought the Garudâ Stone to England; urbane, opportunistic and morally ambiguous. He is both catalyst (by introducing the talisman) and a self-interested actor in the ensuing domestic and social intrigue, using wit and cajolery to further his own ends."
+        }
+    ]
+}

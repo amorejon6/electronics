@@ -1,0 +1,62 @@
+{
+    "dcterms:title": "The Time Machine: An Invention : ELTeC edition",
+    "dcterms:creator": "Wells, Herbert George (1866-1946)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A Victorian scientist invents a machine that travels through Time and uses it to journey far into the future, where he encounters two divergent human-descended species: the frail, childlike Eloi and the subterranean, predatory Morlocks. Stranded when his machine is taken, he lives among the Eloi, forms an attachment to a young Eloi named Weena, and discovers the grim interdependence of the two species. After terrifying excursions into the Morlock underworld and further visions of Earth's deep future, he recovers his machine and returns to his own time to tell his tale. The narrative functions as both an adventure in speculative futurity and a sustained social and evolutionary critique of capitalist division and human decadence.",
+    "dcat:keyword": [
+        "time travel",
+        "evolution",
+        "class conflict",
+        "dystopia",
+        "future society"
+    ],
+    "dcat:theme": [
+        "Time travel",
+        "Social critique / class conflict",
+        "Dystopian speculative future",
+        "Evolutionary speculation"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/11919979",
+        "London (Richmond, Thames Valley, Wimbledon)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1895"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1895"
+                }
+            }
+        },
+        "Fictional future period explicitly stated in the text: year 802701 A.D.",
+        "Fictional deep future periods up to tens of millions of years hence (e.g., ~30,000,000 AD) described in the narrative"
+    ],
+    "dct:type": "Science fiction",
+    "mainCharacters": [
+        {
+            "name": "The Time Traveller",
+            "profile": "An inquisitive, scientifically minded Victorian inventor and narrator's friend who constructs the Time Machine and undertakes the central voyages. He is resourceful, analytical, and emotionally affected by what he witnesses, oscillating between rational theorizing and visceral horror at future human degeneration. His experiences drive the book's exploration of social, evolutionary, and moral themes."
+        },
+        {
+            "name": "Weena",
+            "profile": "A young Eloi woman who befriends the Time Traveller and embodies the Eloi's innocence and fragility. Her childlike devotion humanizes the future world and motivates the Traveller's protective impulses, while her eventual fate underscores the novel's tragic critique of decadence. She functions as both emotional anchor and poignant symbol of lost humanity."
+        },
+        {
+            "name": "The Narrator",
+            "profile": "An unnamed friend of the Time Traveller who frames and records the story in first person, serving as the reader's intermediary. Skeptical yet curious, he situates the tale in a contemporary social circle and later relates the disappearance of the Time Traveller. His perspective lends a questioning and empirical tone to the testimony."
+        },
+        {
+            "name": "The Morlocks",
+            "profile": "A subterranean, pale, nocturnal species descended from humanity who maintain machinery and prey upon the surface-dwelling Eloi. They are depicted as industrial, inhuman, and adaptive to darkness, representing a reversal of social power and a biological consequence of long-term class division. As collective antagonists they embody the novel's anxieties about exploitation, technological dependence, and evolutionary divergence."
+        }
+    ]
+}

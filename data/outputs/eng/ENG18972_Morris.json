@@ -1,0 +1,49 @@
+{
+    "dcterms:title": "The water of the wondrous isles: ELTeC edition",
+    "dcterms:creator": "Morris, William (1834-1896)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Birdalone, stolen as a child and raised by a witch, is rescued from captivity and sails away on a magical Sending Boat. She grows to womanhood, meets the wood-woman Habundia who teaches her lore, and escapes a series of supernatural and human threats while travelling among enchanted isles. She aids three knights (the Quest) to recover their loves and is herself reunited with a true love, Arthur the Black Squire. The tale follows her coming-of-age, a quest-like series of island adventures, confrontations with witchcraft, and finally a return to settle in a community at Utterhay.",
+    "dcat:keyword": [
+        "fairy/folk",
+        "quest",
+        "woodland",
+        "abduction",
+        "island voyages"
+    ],
+    "dcat:theme": [
+        "Fantasy",
+        "Quest / Adventure",
+        "Romance",
+        "Coming-of-age"
+    ],
+    "dct:spatial": [
+        "Utterhay (fictional), England",
+        "Evilshaw (fictional forest, England)",
+        "The Lake and its Wondrous Isles (fictional)"
+    ],
+    "dct:temporal": "Fictional medieval-legendary period (timeless, pseudo-medieval setting rather than a specific historical years).",
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Birdalone",
+            "profile": "The protagonist: stolen in infancy, reared by a witch, later enslaved and then escaped by magical means. Resourceful, skilled with bow and needlework, she matures into a brave, compassionate heroine whose choices drive the plot and who mediates between mortal and faery realms."
+        },
+        {
+            "name": "Habundia (the wood-woman)",
+            "profile": "A powerful, kindly supernatural guardian of the wood who appears in various guises and teaches Birdalone lore and survival. She provides magical assistance, counsel, and pivotal aid in rescuing friends and guiding decisions; she embodies the story's faery-wisdom and maternal protection."
+        },
+        {
+            "name": "The Witch-Wife",
+            "profile": "Antagonist who originally kidnaps and exploits Birdalone and practices dangerous sorcery tied to the Sending Boat. Cruel, shape-changing, and cunning, she catalyzes Birdalone's suffering and eventual flight; her deeds set many of the novel's conflicts in motion."
+        },
+        {
+            "name": "Arthur, the Black Squire",
+            "profile": "Birdalone's chief love interest: a taciturn, valiant knight who suffers long from longing and hardship before being reunited with Birdalone. He is brave and steady in battle, central to the rescue and quest episodes, and his relationship with Birdalone anchors the novel's romantic strand."
+        }
+    ]
+}

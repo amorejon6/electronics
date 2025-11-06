@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Harry Heathcote of Gangoil : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Trollope, Anthony (1815-1882)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young Queensland squatter, Harry Heathcote, struggles to protect his vast sheep run and homestead at Gangoil from deliberate bushfires and hostile neighbors in the build-up to Christmas. Tensions between squatters and free-selectors, personal pride, and the dangers of the Australian bush drive conflicts that culminate in night-time raids, a pitched bush fight, and an act of bravery. Giles Medlicot, a neighbouring sugar-planter and erstwhile rival, ultimately aids Heathcote and is wounded, leading to reconciliation and a romantic resolution between Medlicot and Kate Daly. The narrative mixes bush-life realism with social conflict and a domestic romantic subplot against the late 19th-century colonial setting.",
+    "dcat:keyword": [
+        "Australian bush-life",
+        "bushfire and arson",
+        "squatter vs free-selector",
+        "masculine authority",
+        "romance"
+    ],
+    "dcat:theme": [
+        "Colonial rural life",
+        "Conflict and social justice",
+        "Pastoral realism",
+        "Courtship and domestic relations"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/11523972",
+        "https://www.geonames.org/4366037",
+        "Gangoil (station, fictional)",
+        "Boolabong (Boolabong run)",
+        "Medlicot’s Mill / Maryborough (regional reference)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "start": {
+                "xsd:gYear": "1871"
+            },
+            "end": {
+                "xsd:gYear": "1871"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Harry Heathcote",
+            "profile": "A twenty-four-year-old squatter and magistrate at Gangoil, owner and overseer of a large sheep run. Imperious, industrious, and proud, he is driven by duty to protect his property and family from fires and hostile neighbors, becoming the story's moral and active center."
+        },
+        {
+            "name": "Mary Heathcote",
+            "profile": "Harry’s devoted wife and the practical mistress of Gangoil, calm and nurturing in the face of danger. She mediates household needs, comforts Harry, and supports social rapprochement while safeguarding the home and children."
+        },
+        {
+            "name": "Kate Daly",
+            "profile": "Mary’s younger sister, gentle, pretty, and affectionate; she becomes the object of Giles Medlicot’s courtship. Her innocence and domestic usefulness anchor the romantic subplot and influence the rapprochement between neighbors."
+        },
+        {
+            "name": "Giles Medlicot",
+            "profile": "A newly arrived free-selector and sugar-planter who buys land near Gangoil; educated, methodical, and at first at odds with Harry. He ultimately proves loyal and brave—helping to fight the fires and suffering injury—and becomes reconciled with Heathcote while courting Kate."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Las cerezas del cementerio : edición ELTeC",
+    "dcterms:creator": "Miró, Gabriel (1879-1930)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue a Félix, un joven sensible y soñador que regresa al ambiente provincial y revive una antigua amistad con doña Beatriz y su hija Julia. Entre paseos por el huerto, confidencias y celos, surge una pasión prohibida entre Félix y Beatriz que altera las relaciones en la comarca y despierta viejos recuerdos ligados al enigmático tío Guillermo. Aparecen figuras siniestras —como el muerto Koeveld— y tensiones sociales y familiares que culminan en el declive físico y la muerte súbita de Félix. El relato cierra con las consecuencias de ese amor: el retiro de Beatriz, el matrimonio de Julia y la imagen simbólica de las cerezas del cementerio.",
+    "dcat:keyword": [
+        "amor",
+        "muerte",
+        "provincia",
+        "recuerdo",
+        "celos"
+    ],
+    "dcat:theme": [
+        "Amor romántico y desdicha",
+        "Memoria y espectralidad",
+        "Costumbrismo provincial"
+    ],
+    "dct:spatial": [
+        "España (zona levantina ficticia: localidades mencionadas como Almina, Posuna, La Olmeda, Almudeles)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Félix Valdivia",
+            "profile": "Joven estudiante, soñador y melancólico, protagonista narrativo cuya sensibilidad lo hace propenso a exaltaciones románticas. Su atracción por doña Beatriz, su tendencia a la quimera y una dolencia cardíaca (angor pectoris) conducen su destino hacia la tragedia."
+        },
+        {
+            "name": "Doña Beatriz (madrina)",
+            "profile": "Mujer rubia, hermosa y de posición, casada con el naviero inglés Lambeth; mezcla de ternura maternal y seducción serena. Su pasado (amistad intensa con el enigmático Guillermo) y su relación con Félix desencadenan conflictos morales y sociales en la comarca."
+        },
+        {
+            "name": "Julia",
+            "profile": "Hija de Beatriz, joven inocente y luminosa, figura de frescura y pureza que genera ternura y celos en Félix. Su presencia sirve de contrapunto: símbolo de juventud y posible unión social, y víctima de las tensiones domésticas que provoca el triángulo afectivo."
+        },
+        {
+            "name": "Guillermo (tío padrino)",
+            "profile": "Personaje del pasado, aventurero y mítico en la memoria colectiva; su figura —trágica, carismática y vinculada a episodios oscuros— actúa como agente espectral que modela el imaginario de Félix y condiciona la lectura moral de los hechos. Aunque ausente físicamente, su huella motiva temores, leyendas y comparaciones que influyen en los personajes."
+        }
+    ]
+}

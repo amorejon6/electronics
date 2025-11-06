@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Why Paul Ferroll Killed His Wife : ELTeC edition",
+    "dcterms:creator": "Clive, Caroline Wigley (1801-1873)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A convent‐bred young woman, Elinor Ladylift, is introduced to English country life where she attracts the attention of the charismatic Leslie. A jealous hostess, Laura Chanson, engineers deceptions — including a forged billet — that drive a wedge between Leslie and Elinor; Leslie, stricken by fever and despair, marries Laura under fatal misunderstandings. Elinor returns to the convent and Leslie, recovering, broods on betrayal and loss until a destructive resolution is reached. The narrative traces passion, jealousy, social maneuvering and the moral collapse that explains why Leslie ultimately kills his wife.",
+    "dcat:keyword": [
+        "jealousy",
+        "betrayal",
+        "forgery",
+        "love and revenge",
+        "convent/innocence"
+    ],
+    "dcat:theme": [
+        "Romance and domestic tragedy",
+        "Crime and moral culpability",
+        "Social manners and manipulation"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3030300",
+        "England (rural county, Chanson Wood and surrounding countryside)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1850"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Elinor Ladylift",
+            "profile": "A gentle, convent‑reared seventeen‑year‑old with a remarkable singing voice and guileless innocence. Her naïveté and moral simplicity make her vulnerable to social manipulation; she is the emotional centre whose misfortunes and virtues trigger the novel’s tragic sequence."
+        },
+        {
+            "name": "Mr. Leslie",
+            "profile": "A brilliant, ambitious young country gentleman whose affectionate attention to Elinor turns into obsessive possession and later despair. Driven by pride, wounded by deceit, and weakened by illness, his psychological unraveling and thirst for reparation explain the violent act that gives the story its title."
+        },
+        {
+            "name": "Laura Chanson (Miss Chanson / Mrs. Leslie)",
+            "profile": "A beautiful, socially adept, and vain hostess who becomes violently jealous of Elinor and resolves to secure Leslie for herself. She engineers forgeries and manipulations to break the lovers apart; her ambition and vindictiveness are the principal catalyst of the tragedy."
+        },
+        {
+            "name": "Mr. Chanson (Squire Lawrence Chanson)",
+            "profile": "The hospitable, somewhat simple squire and Laura’s brother who provides the social setting of Chanson Wood. He is well‑meaning and paternal but politically and socially inattentive to the darker intrigues around him, enabling Laura’s schemes to proceed with little early scrutiny."
+        }
+    ]
+}

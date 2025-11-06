@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Under Two Flags: A Story of the Household and the Desert : ELTeC edition",
+    "dcterms:creator": "Ouida, [pseud.] (1839-1908)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A portrait of the Hon. Bertie Cecil, a dashing Household Guardsman whose sporting fame and easy charm mask desperate debts and a reckless life; his celebrated steeple-chaser Forest King is mysteriously doctored at Baden and a forged bill ruins his reputation, forcing him to flee. Assuming the name Louis Victor and serving as a Chasseur d'Afrique in French Algeria, he endures exile and frontier warfare while protecting family secrets and sustaining quiet heroism. The vivandière Cigarette, a fiery camp heroine, falls for him and ultimately sacrifices her life to save him amid raids, desert diplomacy and pitched skirmishes under officers such as Colonel Châteauroy. Set across England, continental Europe and colonial Algeria, the narrative examines honour, military brotherhood, social manners, romantic jealousy and the costs of fashionable life and exile.",
+    "dcat:keyword": [
+        "military life",
+        "colonial Algeria",
+        "honour and scandal",
+        "horse racing",
+        "exile and identity"
+    ],
+    "dcat:theme": [
+        "Military and colonial life",
+        "Society and honour",
+        "Romance and identity"
+    ],
+    "dct:spatial": [
+        "England (London, Royallieu and the Shires)",
+        "https://www.geonames.org/2825297",
+        "Algeria (Algiers, Kabaila, the Sahel)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1850"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1870"
+                }
+            }
+        }
+    ],
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Hon. Bertie Cecil / Louis Victor / Lord Royallieu",
+            "profile": "A handsome, high-spirited officer whose insouciant manners hide deep gambling debts and social vulnerability; celebrated for riding the grey steeple-chaser Forest King, he is ruined by a doctored race and a forged bill and ultimately flees. Taking the alias Louis Victor, he becomes a Chasseur d'Afrique in Algeria, enduring exile and danger while sacrificing his reputation to protect family and comrades; his loyalty, courage and self-denial drive the novel's moral core."
+        },
+        {
+            "name": "Cigarette (the Friend of the Flag)",
+            "profile": "A vivandière and charismatic camp heroine: small, audacious and mercurial, raised in regimental life and adored by the troops. She combines fierce courage and practical tenderness with a jealous, impulsive temperament and republican sympathy, and she bravely sacrifices herself to save Cecil."
+        },
+        {
+            "name": "Venetia Corona / Princesse Corona d'Amägué (Miladi)",
+            "profile": "A high-born, beautiful and aloof aristocrat who moves through colonial society with imperial grace and guarded generosity. She recognises Cecil's true identity and struggles between duty, honour and personal feeling, offering discreet compassion and prompting questions of restoration and class."
+        },
+        {
+            "name": "Berkeley (Berke) Cecil",
+            "profile": "Bertie's younger brother, a spoiled, wayward youth given to gambling and impulsive debts whose misadventures precipitate some of Bertie's early sacrifices. Emotionally dependent and remorseful when the truth emerges, his weakness and need for atonement underline the familial tensions and the elder's capacity for self-sacrifice."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "The New Republic : ELTeC edition",
+    "dcterms:creator": "Mallock, William Hurrell (1849-1923)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A gathering of educated friends assemble at Otho Laurence’s classical seaside villa for a series of planned conversations about the Aim of Life, Town and Country, Art, Religion and the Future. The chapters dramatise extended debates among characters who represent competing positions — devotion, sceptical science, cultivated æstheticism, social reform and cynical progress — while social manners, love, and personal histories provide intimate counterpoints. The novel satirises and examines late-Victorian intellectual life and social pretensions through dialogue, toying with the costs of unbelief, the consolations of faith, and the value of culture. Interwoven are small personal dramas (deaths, loves, confessions) that underline wider ideological conflicts.",
+    "dcat:keyword": [
+        "culture",
+        "religion and modernity",
+        "social satire",
+        "conversation",
+        "Victorian society"
+    ],
+    "dcat:theme": [
+        "Social satire",
+        "Intellectual and moral debate",
+        "Religion vs. science / modernity"
+    ],
+    "dct:spatial": [
+        "England (seaside country house / villa)",
+        "https://www.geonames.org/2643743"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1879"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Otho Laurence",
+            "profile": "The owner and host of the seaside villa, an urbane epicure and dilettante who organises the staged conversational ‘menus’. He is intellectually restless and melancholic, heir to a sceptical uncle, and serves as the social pivot around which debates and personal dramas circulate."
+        },
+        {
+            "name": "Robert Leslie",
+            "profile": "Laurence’s close friend: a cultivated, ironic and half-melancholic figure, writer/musician with a sharp wit. He oscillates between cynicism and genuine sensibility, often voicing sceptical but humane reflections and revealing private feeling through song and asides."
+        },
+        {
+            "name": "Miss Merton",
+            "profile": "A thoughtful young Roman Catholic woman who acts as the moral and religious counterweight in the discussions. Empathetic and sincere, she provides a steadying presence and influences Laurence and others through quiet conviction and compassion."
+        },
+        {
+            "name": "Dr. Jenkinson",
+            "profile": "A Broad-church clergyman and public intellectual who preaches a conciliatory, historically informed Christianity reconciled with modern criticism. He mediates debates, mixes theological learning with social tact, and embodies liberal religious responses to the age’s scientific challenges."
+        }
+    ]
+}

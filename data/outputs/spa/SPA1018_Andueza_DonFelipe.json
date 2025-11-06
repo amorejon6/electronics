@@ -1,0 +1,55 @@
+{
+    "dcterms:title": "Don Felipe el prudente. Novela histórica original : edición ELTEC",
+    "dcterms:creator": "Andueza, José María (1809-1865)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela histórica ambientada en la España de la segunda mitad del siglo XVI que narra intrigas palaciegas, amores ilícitos y maquinaciones políticas en la corte de Carlos V y Felipe II. A lo largo de episodios de espionaje, procesos, torturas y autos de fe se exponen traiciones, venganzas y caídas de personajes como Antonio Pérez y la princesa de Éboli. Paralelamente se describen las guerras y la diplomacia (Flandes, Francia, alianzas europeas) que influyen en las decisiones reales y en las dinámicas de poder. Un epílogo relata una búsqueda de venganza y la confesión de un asesino cuya retribución culmina en un Auto de Fe a principios del siglo XVII.",
+    "dcat:keyword": [
+        "intriga cortesana",
+        "honor y venganza",
+        "Inquisición",
+        "espionaje",
+        "guerra de Flandes"
+    ],
+    "dcat:theme": [
+        "Política y poder",
+        "Intriga de corte",
+        "Religión y justicia (Inquisición)",
+        "Venganza y culpabilidad"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "Flandes (Bruselas, Gante, Amberes; hoy Bélgica/Países Bajos)",
+        "https://www.geonames.org/3017382",
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2264397"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1545"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1598"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Felipe II (Don Felipe)",
+            "profile": "Príncipe y luego rey prudente y autoritario cuya política centralizadora y religiosa marca la acción política. Su autoridad impulsa juicios, nombramientos y venganzas, y su gestión del poder entra en tensión con sentimientos personales y complots cortesanos."
+        },
+        {
+            "name": "Doña Ana de Mendoza, princesa de Éboli",
+            "profile": "Aristócrata bella, orgullosa y apasionada, atrapada en un matrimonio concertado y objeto de sospechas y escándalos cortesanos. Su conducta, supuestos amoríos y encarcelamiento alimentan intrigas, celos y venganzas que impulsan gran parte de la trama."
+        },
+        {
+            "name": "Antonio Pérez",
+            "profile": "Secretario íntimo y ambicioso, hábil en el manejo de información y favores, cuya cercanía al monarca le otorga influencia decisiva. Cruza la frontera entre servidor y acusado: su caída, procesos, torturas, exilio y papel en las conspiraciones ilustran la corrupción y las luchas de poder."
+        },
+        {
+            "name": "Mateo Rodrigo Vázquez",
+            "profile": "Hijo del secretario Juan Vázquez que finge ser caballero para perseguir la verdad y vengar el asesinato de su padre. Decidido y resuelto, su confrontación revela la culpabilidad del legionario asesino y culmina en la retribución pública en un Auto de Fe."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Niebla : Edición ELTeC",
+    "dcterms:creator": "Unamuno, Miguel de (1864-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La obra narra la peripecia sentimental y existencial de Augusto Pérez, un joven melancólico que se enamora de Eugenia Domingo del Arco y se ve enredado en celos, rivalidades y malentendidos con otros personajes como Mauricio y Rosario. A lo largo de la historia se mezclan episodios de costumbres urbanas, partidas de ajedrez, monólogos interiores y un humor lúgubre que culmina en la muerte de Augusto. El relato integra elementos metaficcionales: el autor (Unamuno) aparece como interlocutor del personaje y se debate la frontera entre ficción y realidad. La nivola explora temas de identidad, libre albedrío y la condición humana con tono a veces trágico y a veces burlón.",
+    "dcat:keyword": [
+        "nivola",
+        "metaficción",
+        "amor",
+        "celos",
+        "existencialismo"
+    ],
+    "dcat:theme": [
+        "Metaficción",
+        "Existencialismo",
+        "Relaciones amorosas y celos",
+        "Humor trágico"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3111108",
+        "España (escenas urbanas: la Alameda / ciudad española indeterminada)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1914"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres (Novel of manners)",
+    "mainCharacters": [
+        {
+            "name": "Augusto Pérez",
+            "profile": "Protagonista melancólico y reflexivo; rico y solitario, vive angustiado por el tedio y la búsqueda de sentido. Su enamoramiento de Eugenia desencadena celos, experimentos íntimos y un debate sobre su propia existencia; acaba muerto tras una crisis emocional y física."
+        },
+        {
+            "name": "Eugenia Domingo del Arco",
+            "profile": "Joven profesora de piano, reservada y de fuerte carácter; objeto del deseo de Augusto. Actúa con independencia ambivalente: acepta la dádiva de Augusto, provoca conflictos amorosos y su decisión final (irse con Mauricio) desencadena la crisis del protagonista."
+        },
+        {
+            "name": "Rosario (Rosarito)",
+            "profile": "Muchacha de clase trabajadora que plancha en casa de Augusto; sencilla, leal y emotiva. Representa un afecto más directo y físico frente a la idealización de Eugenia; su relación con Augusto sirve como contraste y como elemento que acentúa los celos y la confusión del protagonista."
+        },
+        {
+            "name": "Víctor (Goti)",
+            "profile": "Amigo y confidente de Augusto, jugador de ajedrez y padre; introduce reflexiones prácticas, humorísticas y filosóficas. Acompaña, aconseja (le recomienda casarse) y contrapone una visión más cotidiana frente a las tormentas interiores de Augusto."
+        }
+    ]
+}

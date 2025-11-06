@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "The Observations of Henry : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Jerome, Jerome K. (1859-1927)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A series of linked comic anecdotes told by Henry, a worldly waiter, recording episodes from his life among customers in London and abroad. The stories recount encounters with colourful figures — a red-haired music-hall star who marries into the aristocracy, a would-be burglar turned missionary, a frantic father who mistakes a dog for his baby, and couples humbled and reshaped by fortune. Jerome uses Henry’s observant, ironic voice to examine class mobility, romance, vanity and the small hypocrisies of polite society. The tone is humorous and satirical, mixing warm sympathy for working people with wry social commentary.",
+    "dcat:keyword": [
+        "humour",
+        "social satire",
+        "class",
+        "hospitality",
+        "travel"
+    ],
+    "dcat:theme": [
+        "Social satire",
+        "Comic sketches / anecdotal fiction",
+        "Urban working-class life and mobility"
+    ],
+    "dct:spatial": [
+        "England (London — Mile End, Oxford Street, Savoy, Brighton, Birmingham, Warwick, Banbury, Dover, Portsmouth)",
+        "https://www.geonames.org/6696453",
+        "Italy (Venice, Italian lakes)",
+        "https://www.geonames.org/3369157",
+        "Germany (Dresden, Köln)",
+        "United States (Portsmouth, New Hampshire; New York)",
+        "https://www.geonames.org/6325494",
+        "Unspecified interior regions of Africa (mission stations)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1901"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Henry (the waiter)",
+            "profile": "Narrator and central observer, Henry is a talkative, sympathetic waiter whose memories and anecdotes frame the collection. He is pragmatic, witty and candid, offering ironic and humane sketches of the people he serves and the social scenes he inhabits."
+        },
+        {
+            "name": "Captain Kit (\"Kipper\")",
+            "profile": "A resourceful, self-promoting former street-boy who becomes a journalist and later a hotel proprietor; he is loyal, streetwise and ambitious. Kit acts as promoter and protector to Caroline, engineering her rise while sacrificing his own prospects and projecting a rough kind of affection."
+        },
+        {
+            "name": "Caroline Trevelyan (\"Carrots\") / Mrs. Captain Kit",
+            "profile": "A red‑haired former music-hall dancer turned celebrated actress and, briefly, a titled lady, Caroline is beautiful, charismatic and somewhat naïve about high society. Her trajectory from Mile End to the Savoy and abroad highlights themes of class mobility, public image and the uneasy fit between talent and aristocratic expectation."
+        },
+        {
+            "name": "Joseph (Tidelman)",
+            "profile": "A literate, restless young working-class man who craves adventure and at one point turns to burglary before undergoing a dramatic moral change. His arc—from milk‑can scouring to celebrated burglar suspect to missionary—illustrates the novel’s interest in temperament, temptation and redemption."
+        }
+    ]
+}

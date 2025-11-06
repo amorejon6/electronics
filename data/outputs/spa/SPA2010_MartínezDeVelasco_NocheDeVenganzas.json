@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "Noche de venganzas. Episodio histórico de la guerra de las comunidades de Castilla : Edición ELTeC",
+    "dcterms:creator": "Martínez de Velasco, Eusebio (1836-1893)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en Burgos durante la revuelta de las Comunidades de Castilla (principios del siglo XVI) que narra el conflicto entre los comuneros y las fuerzas del condestable. Relata la prisión del conde de Fuensierra, el chantaje y la violencia del favorito don Diego de Omaña, y el sacrificio y peligro de su hija Elena. El leal criado Beltrán Díaz lidera al pueblo en la defensa y venganza, culminando en un asalto al palacio, la muerte de Omaña y el restablecimiento posterior del conde. La obra combina episodios históricos con drama familiar, honor y venganza personal.",
+    "dcat:keyword": [
+        "Comunidades de Castilla",
+        "Burgos",
+        "venganza",
+        "honor",
+        "rebelión popular"
+    ],
+    "dcat:theme": [
+        "Rebeldía y conflicto social",
+        "Venganza y justicia",
+        "Honor familiar y virtud",
+        "Política y poder"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3127461",
+        "https://www.geonames.org/3111108"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:begin": {
+                "xsd:gYear": "1520"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1525"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Don Rodrigo de Ossorio, conde de Fuensierra",
+            "profile": "Anciano noble y patriota que encabeza a los comuneros en Burgos; veterano de guerras en Granada y Túnez, es un padre devoto cuya honra y libertad se ven amenazadas por la represión. Su detención desencadena el movimiento popular y el drama familiar que vertebra la trama."
+        },
+        {
+            "name": "Elena de Ossorio",
+            "profile": "Joven de diecisiete años, pura y virtuosa, profundamente unida a su padre y enamorada del comunero don Juan de Mendoza. Es objeto de la lujuria y el chantaje del favorito Omaña y su sufrimiento y coraje movilizan a la comunidad y a Beltrán Díaz."
+        },
+        {
+            "name": "Beltrán Díaz",
+            "profile": "Fiel criado y antiguo soldado del conde, leal hasta el sacrificio; se convierte en líder popular decidido a salvar al conde y vengar la ofensa contra Elena. Su liderazgo despierta y organiza al pueblo, y culmina en la venganza contra el villano Omaña."
+        },
+        {
+            "name": "Don Diego de Omaña",
+            "profile": "Favorito del condestable y personaje ambicioso, astuto y servil a los poderosos; actúa como instigador de prisiones y represalias y llega a intentar forzar a Elena, cometiendo finalmente un crimen que provoca su muerte a manos de Beltrán. Representa la corrupción y la crueldad del poder en la obra."
+        }
+    ]
+}

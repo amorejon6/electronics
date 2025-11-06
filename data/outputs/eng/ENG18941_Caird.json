@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Daughters of Danaus : ELTeC edition",
+    "dcterms:creator": "Caird, Mona (1854-1932)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "The Daughters of Danaus follows Hadria Fullerton and her family in a remote Scottish keep and later in England and Paris as they debate fate, female destiny and the cost of artistic ambition. Hadria, a gifted musician, clashes with family duty and social expectations: she briefly pursues music in Paris, marries Hubert Temperley, and becomes entangled with two older male intellectuals whose rivalries expose personal and ethical tensions. The novel examines the pressures that silence or swamp women's talent — family obligation, convention, and economic constraint — and the moral dilemmas that attend personal freedom, love and responsibility. Tragedy and compromise follow: a contested child, the death of a kindly mentor, and Hadria's return to tending her parents while wrestling with loss and conscience.",
+    "dcat:keyword": [
+        "women's emancipation",
+        "art and sacrifice",
+        "family duty",
+        "fate vs. will",
+        "rural/urban settings"
+    ],
+    "dcat:theme": [
+        "Feminism and gender roles",
+        "Social novel",
+        "Artistic ambition and sacrifice"
+    ],
+    "dct:spatial": [
+        "Scotland (Dunaghee / Tower of the Winds)",
+        "England (Craddock Dene / rural village)",
+        "https://www.geonames.org/2988507",
+        "Italy (travel/mentions)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Hadria Fullerton",
+            "profile": "The protagonist: an intellectually and musically gifted young woman who questions Emersonian self‑making and struggles against the constraining roles for women in her class. Proud, passionate and restless, she pursues composition and brief independence in Paris, marries Hubert Temperley, and later sacrifices artistic ambition to care for her ailing mother while wrestling with guilt, desire and conscience."
+        },
+        {
+            "name": "Algitha Fullerton",
+            "profile": "Hadria's sister: pragmatic, courageous and action‑oriented; she is the most practically independent of the family, accepts a social‑work post in London and later marries Wilfrid Burton. Algitha represents an alternative female response — reform through work and moral firmness — and she supports yet criticizes Hadria's choices."
+        },
+        {
+            "name": "Professor Fortescue",
+            "profile": "An older, genial scientist and moral conscience-figure who befriends the Fullertons and becomes Hadria's spiritual mentor. Generous, humane and philosophically optimistic, he champions pity, the protection of the weak (human and animal) and encourages Hadria's talents; his later illness and death deeply affect several characters."
+        },
+        {
+            "name": "Hubert Temperley",
+            "profile": "Hadria's husband: a cultivated, conventional man and accomplished musician whose fastidiousness and social anxieties clash with Hadria's temperament. He genuinely cares for her but is bound by class expectations and proprieties; their marriage dramatizes the novel's tensions between personal freedom and domestic obligation."
+        }
+    ]
+}

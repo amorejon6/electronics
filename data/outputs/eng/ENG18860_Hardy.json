@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "The Mayor of Casterbridge: The Life and Death of a Man of Character : ELTeC\n     edition",
+    "dcterms:creator": "Hardy, Thomas (1840-1928).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Michael Henchard, a hay-trusser, in a drunken fit once sells his wife at Weydon Fair and spends years repenting the consequences. He rises to prominence in the market town of Casterbridge but his past returns when his former wife and her daughter reappear, triggering jealousy, moral conflict, and social humiliation. Elizabeth-Jane, raised ignorant of her true parentage, becomes the center of competing loyalties between Henchard and the young manager Donald Farfrae. The novel follows ruined pride, chance and the harsh social judgments of rural Wessex as personal errors produce tragic outcomes.",
+    "dcat:keyword": [
+        "parenthood",
+        "guilt and redemption",
+        "alcohol and impulse",
+        "social reputation",
+        "rural Wessex"
+    ],
+    "dcat:theme": [
+        "Fate and tragedy",
+        "Social consequences of personal actions",
+        "Identity and parenthood"
+    ],
+    "dct:spatial": [
+        "Casterbridge (fictional town in Thomas Hardy's Wessex, England)",
+        "Weydon-Priors and surrounding Upper Wessex countryside, England"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1833"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1850"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Michael Henchard",
+            "profile": "A once-impulsive hay-trusser whose drunken sale of his wife defines his life; he later becomes a successful corn-factor and Mayor of Casterbridge. Proud, volatile and self-reproachful, Henchard is driven by guilt, rigid principles (including a long oath of abstinence), and jealous possessiveness that produce his moral and social downfall."
+        },
+        {
+            "name": "Elizabeth-Jane (Newson / Henchard / Farfrae)",
+            "profile": "The daughter raised by Susan Newson, innocent of the truth of her birth for many years; industrious, morally earnest, and quietly intelligent. She is the emotional center of the novel whose allegiances and choices influence the fates of Henchard and Farfrae and who personifies practical goodness and restraint."
+        },
+        {
+            "name": "Donald Farfrae",
+            "profile": "A young, resourceful Scottish corn-factor and engineer-like innovator who becomes Henchard's manager and later his commercial rival. Generous, energetic and tactful, Farfrae represents modernity, commercial skill, and moral steadiness; his relationship with Elizabeth-Jane and with Henchard drives much of the interpersonal conflict."
+        },
+        {
+            "name": "Lucetta Templeman (formerly Le Sueur)",
+            "profile": "A beautiful, impulsive woman with a checkered past whose intimacy with Henchard years earlier returns to complicate all lives; she later marries Farfrae. Charismatic and changeable, Lucetta's secrets and social ambitions catalyze scandal, sympathy and tragedy in the Casterbridge community."
+        }
+    ]
+}

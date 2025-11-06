@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The Two Destinies: A Romance : ELTeC edition",
+    "dcterms:creator": "Collins, Wilkie (1824-1889)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An American couple visiting England learn at a dinner-party the strange story of George Germaine. Germaine relates his first love as a boy (Mary Dermody), their forced separation and his later encounters with a mysterious married woman who attempts suicide and later becomes Mrs. Van Brandt. The narrative follows supernatural apparitions, dreams that summon Germaine across Britain and to the Continent, moral dilemmas about honor and social stigma, and a final recognition scene resolving long‑standing destinies. The novel mixes romance, sensation, and the uncanny within a Victorian social frame.",
+    "dcat:keyword": [
+        "romance",
+        "supernatural",
+        "destiny",
+        "social scandal",
+        "class"
+    ],
+    "dcat:theme": [
+        "Romance",
+        "Sensation fiction",
+        "Supernatural / visions",
+        "Social stigma and morality"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/13275144",
+        "Scotland (Perthshire, Shetland)",
+        "Netherlands (Amsterdam, Enkhuizen)",
+        "https://www.geonames.org/1269750"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1830"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1876"
+            }
+        }
+    },
+    "dct:type": "Sentimental novel",
+    "mainCharacters": [
+        {
+            "name": "George Germaine",
+            "profile": "The novel’s principal male protagonist and narrator of the central autobiographical sections. Formerly George (son of a ruined squire), he inherits the Germaine fortune, becomes a surgeon, is haunted by a youthful love and by supernatural visions, and faces moral crises about love, duty and despair."
+        },
+        {
+            "name": "Mary Dermody / Mrs. Van Brandt",
+            "profile": "Germaine’s first love in childhood (Mary Dermody) who reappears as an adult under the name Mrs. Van Brandt after a fraught marriage. She is portrayed as devoted, vulnerable to betrayal and social ruin, and at the center of the story’s emotional reunions and revelations."
+        },
+        {
+            "name": "Miss Dunross",
+            "profile": "A recluse and invalid who nurses Germaine in Shetland; cultivated, intellectual and singularly candid. She exerts a deep moral and emotional influence on Germaine, entertains eccentric sympathies (including prophetic belief in the green flag), and embodies themes of sacrifice and solitary virtue."
+        },
+        {
+            "name": "Ernest Van Brandt",
+            "profile": "The deceitful foreign husband of Mary in her adult life and the principal antagonist. His bigamous or fraudulent marriage and subsequent desertion and debts create the social and moral obstacles that drive much of Mary’s suffering and the plot’s crises."
+        }
+    ]
+}

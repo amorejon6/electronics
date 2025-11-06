@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El Capitan Veneno : Edición ELTeC",
+    "dcterms:creator": "Alarcón, Pedro Antonio de (1833-1891)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "En Madrid de mediados del siglo XIX un capitán irascible herido en un motín es recogido y cuidado por doña Teresa, su hija Angustias y la criada Rosa. La convalecencia convierte en protagonistas las tensiones de carácter, las normas sociales y los deberes de honor: el Capitán se muestra hosco y misógino pero poco a poco cambia gracias al afecto y la firmeza de Angustias. La viuda, arruinada por la denegación de su pensión, muere tras confiar el futuro de su hija al Capitán, lo que provoca la crisis moral y la eventual transformación del héroe. La novela culmina con una resolución romántica y social que subraya temas de honra, tutela y redención personal.",
+    "dcat:keyword": [
+        "Amor",
+        "Honor",
+        "Costumbres sociales",
+        "Género y roles",
+        "Madrid (siglo XIX)"
+    ],
+    "dcat:theme": [
+        "Romance y cortejo",
+        "Costumbrismo social",
+        "Redención personal"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1848"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1852"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres (Novel of manners)",
+    "mainCharacters": [
+        {
+            "name": "Capitán Veneno (D. Jorge de Córdoba)",
+            "profile": "Oficial de carácter irascible y orgulloso, conocido por su acritud y por evitar las ataduras afectivas. Herido en la refriega de 1848, su convalecencia lo pone en situación de dependencia y lo lleva a una transformación ética y afectiva: pasa de ser hosco y misógino a protector fiel y eventual cabeza de familia."
+        },
+        {
+            "name": "Angustias Barbastro",
+            "profile": "Joven sensata, modesta y valiente; hija de la viuda que acoge al Capitán. Mantiene firmeza moral frente a las armas de seducción y la generosidad imprudente, defiende su dignidad y ejerce una influencia decisiva en la redención y el cambio del protagonista."
+        },
+        {
+            "name": "Doña Teresa Carrillo de Albornoz (Generala/Condesa de Santurce)",
+            "profile": "Viuda patriótica, orgullosa y piadosa, que acoge al Capitán por caridad y decoro. Su ruina económica y posterior muerte constituyen el núcleo trágico que obliga a los personajes a confrontar obligaciones de honor, tutelas y sacrificios."
+        },
+        {
+            "name": "Marqués de los Tomillares (D. Álvaro de Córdoba)",
+            "profile": "Pariente adinerado y hombre de mundo, senador y figura de equilibrio social. Actúa como mediador, benefactor y representante del orden social, facilitando recursos y soluciones prácticas a los conflictos familiares y económicos."
+        }
+    ]
+}

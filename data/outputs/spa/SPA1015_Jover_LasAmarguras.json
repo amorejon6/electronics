@@ -1,0 +1,53 @@
+{
+    "dcterms:title": "Las amarguras de un rey: novela histórica : edición ELTEC",
+    "dcterms:creator": "Jover, Nicasio Camilo (1821-1881)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela histórica ambientada en la Castilla del siglo XIII que sigue las intrigas dinásticas tras la muerte del infante Fernando de la Cerda. El rey Alfonso («el décimo») es un monarca sabio, alquimista y fatigado por traiciones que debe afrontar la fuga de la reina, la protección de los infantes y la insurrección de su hijo Sancho. Entremezclan la acción militar (asedios y batallas en Sevilla, Burgos, Córdoba, Algeciras) con tramas de corte: conspiraciones, rapto de niños, venenos y venganzas personales (la figura trágica de Séfora). La obra combina política, tragedia familiar y elementos de alquimia y misticismo hasta la muerte del rey y el estallido de la guerra civil.",
+    "dcat:keyword": [
+        "sucesión dinástica",
+        "intriga cortesana",
+        "alquimia",
+        "venganza",
+        "guerra civil"
+    ],
+    "dcat:theme": [
+        "Ficción histórica",
+        "Intriga política",
+        "Tragedia familiar"
+    ],
+    "dct:spatial": [
+        "España (Castilla: Toledo, Sevilla, Burgos, Córdoba, Zamora)",
+        "https://www.geonames.org/3129550",
+        "https://www.geonames.org/2988507",
+        "https://www.geonames.org/2542007"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1275"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1284"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "D. Alonso (Alonso el décimo)",
+            "profile": "Rey ilustrado y erudito, mezcla de sabio y monarca: inventor de tablas astronómicas y practicante de la alquimia. Padre dolorido y prudente, su autoridad y proyectos políticos son continuamente quebrados por rebeliones y traiciones; su muerte marca un punto de inflexión en la historia."
+        },
+        {
+            "name": "D. Sancho",
+            "profile": "Hijo fogoso y ambicioso del rey, personaje impetuoso que llega a rebelarse contra su padre por la sucesión. Su carácter violento alterna arrepentimiento y audacia; es figura central de la lucha dinástica y militar."
+        },
+        {
+            "name": "Ahmed Ebn Yuzef",
+            "profile": "Alquimista y maestro moro, amigo y consejero intelectual del rey Alfonso; descubridor del manuscrito secreto y guía científico del monarca. Representa la dimensión esotérica y filantrópica de la obra y ejerce un papel decisivo en los momentos finales."
+        },
+        {
+            "name": "Séfora",
+            "profile": "Hija rica y bella de Zag de Malea, mujer de fuerte temperamento: coqueta, vengativa y manipuladora. Su pasión y odio la conducen a hechos trágicos (el asesinato de su propia hija en busca de venganza), papel clave como antagonista moral y detonante de conflictos personales."
+        }
+    ]
+}

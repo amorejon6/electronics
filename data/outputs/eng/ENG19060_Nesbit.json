@@ -1,0 +1,84 @@
+{
+    "dcterms:title": "The Story of the Amulet : ELTeC edition",
+    "dcterms:creator": "Nesbit, Edith (1858-1924)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Four London children on holiday reencounter a grumpy sand‑fairy, the Psammead, and obtain half of a red amulet that can transport them through time. They travel to many historical and legendary places — prehistoric Britain, ancient Egypt, Babylon, Atlantis, Tyre and Roman camps — seeking the missing half while learning, squabbling, and having adventures. The amulet finally reunites and grants the children their heart’s desire (the return of their parents), while a priest and a scholarly neighbour are mysteriously united through the charm. The Psammead departs for the past, and the children are reunited as their parents return home.",
+    "dcat:keyword": [
+        "children's fantasy",
+        "time travel",
+        "magic amulet",
+        "family & home",
+        "adventure"
+    ],
+    "dcat:theme": [
+        "Fantasy",
+        "Children's literature",
+        "Time‑travel adventure",
+        "Family / Domestic reunion"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/360986",
+        "Babylon (Mesopotamia, present‑day Iraq)",
+        "Tyre (ancient Phoenicia, present‑day Lebanon)",
+        "Atlantis (mythic, Atlantic)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1905"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1906"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "-6000"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "-6000"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "-0055"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "-0055"
+                }
+            }
+        },
+        "Atlantis: mythical / fictional time (legendary, not a historical period)"
+    ],
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Anthea",
+            "profile": "The eldest girl and de facto leader of the siblings: practical, responsible and kindly. She organises plans, calms disputes, and often moderates risks while showing deep concern for family and friends."
+        },
+        {
+            "name": "Psammead (the sand‑fairy)",
+            "profile": "A cranky, ancient sand‑fairy rescued by the children; it gives wishes and knows magical locations but is crotchety and self‑regarding. It provides knowledge about the amulet, aids time‑travelling adventures, and ultimately chooses to return to the past."
+        },
+        {
+            "name": "Jane (Pussy)",
+            "profile": "The youngest child, sensitive and sometimes fearful but affectionate and decisive in key moments. She becomes the keeper of the amulet for much of the story and her feelings often drive the group’s emotional choices."
+        },
+        {
+            "name": "Robert",
+            "profile": "Practical, inventive and humorous middle brother who often proposes concrete solutions during adventures. He is resourceful (e.g., using small modern devices or bartering) and acts as a protector and strategist for the group."
+        }
+    ]
+}

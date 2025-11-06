@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "El sochantre de mi pueblo : Edición ELTeC",
+    "dcterms:creator": "Alberola, Ginés (1855-1935)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en un villorrio del Levante español, la novela narra el amor entre Isabel, hija del maestro de escuela, y Andrés, joven pasante e hijo de un carnicero, cuyo enlace se ve obstaculizado por prejuicios sociales y la lotería del sorteo militar. La trama expone la miseria y las supersticiones de la vida rural, la arbitrariedad de las autoridades locales y la presión de la conscripción sobre las familias. Paralelamente, se desarrolla la ambición y la lujuria de un sochantre, el padre Francisco, que manipula a su favor los sucesos del pueblo, intenta coaccionar y agredir a Isabel y contribuye a una cadena de acusaciones y crímenes. El conflicto culmina en violencia: falsas imputaciones, intentos de venganza y un enfrentamiento armado que termina con la muerte del sacerdote y el sufrimiento de las familias implicadas.",
+    "dcat:keyword": [
+        "amor prohibido",
+        "hipocresía clerical",
+        "vida rural",
+        "conscripción",
+        "violencia"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Hipocresía clerical y abuso de poder",
+        "Amor romántico y tragedia"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2515065"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1868"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1880"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Isabel",
+            "profile": "Hija del maestro de escuela; joven virtuosa, trabajadora y piadosa, objeto del amor de Andrés y del deseo del sochantre. Representa la inocencia rural y la víctima de los prejuicios sociales y de la violencia clerical; su decisión y vulnerabilidad mueven gran parte del conflicto."
+        },
+        {
+            "name": "Andrés",
+            "profile": "Pasante de la escuela y enamorado de Isabel; hijo de un carnicero, apasionado, honrado y resuelto a vencer los obstáculos sociales y legales que impiden su matrimonio. Su lealtad y arrojo le llevan a enfrentamientos dramáticos, incluido el disparo fatal contra el padre Francisco."
+        },
+        {
+            "name": "D. Vicente",
+            "profile": "Maestro de escuela y padre de Isabel; hombre respetado en lo público pero rígido, supersticioso y protector, que rechaza la unión por el origen familiar de Andrés. Su autoridad paternal y sus decisiones desencadenan gran parte de las tensiones y malentendidos que agravan la tragedia."
+        },
+        {
+            "name": "Padre Francisco (el Sochantre)",
+            "profile": "Sochantre y confesor del pueblo; personaje corrupto, hipócrita y lascivo que abusa de su autoridad religiosa para manipular y encubrir sus pasiones. Instiga intrigas, intenta coaccionar sexualmente a Isabel, provoca acusaciones y busca refugio en la violencia política, desempeñando el papel de antagonista hasta su muerte."
+        }
+    ]
+}

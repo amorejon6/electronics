@@ -1,0 +1,53 @@
+{
+    "dcterms:title": "Don Gonzalo González de la Gonzalera : edición ELTeC",
+    "dcterms:creator": "Pereda, José María de (1833-1906)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Ambientada en un valle montañoso del norte de España, la novela sigue la vida de Coteruco y la figura del liberal y benefactor don Román Pérez de la Llosía, cuya obra social y paternal choca con la ambición de nuevos poderes locales y agitadores. La llegada de un indiano vanidoso (don Gonzalo) y de un «estudiante» agitador (Lucas) dinamita la paz rural: las intrigas políticas, los partidos de taberna y las luchas por el poder terminan en corrupción, violencia y asesinatos. En medio de la conmoción están Magdalena —hija virtuosa y “organista”— y su amor por don Álvaro, así como las lealtades que se ponen a prueba entre vecinos y familias. La narración combina panoramas costumbristas y paisajísticos con una crítica social y política de la España de 1868 y la decadencia moral del pueblo.",
+    "dcat:keyword": [
+        "costumbrismo",
+        "montaña",
+        "corrupción política",
+        "reforma social",
+        "amor y honra"
+    ],
+    "dcat:theme": [
+        "Costumbrismo rural",
+        "Conflicto social y político",
+        "Novela regionalista",
+        "Realismo social"
+    ],
+    "dct:spatial": [
+        "España (la Montaña — valle montañoso ficticio en el norte de España)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1868"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1868"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Don Román Pérez de la Llosía",
+            "profile": "Hidalgo local y terrateniente generoso, amante del progreso rural y protector de sus vecinos; su autoridad moral y sus reformas agrícolas marcan la vida del pueblo, pero su firmeza se ve quebrada por la intriga política y la traición. Es el centro ético de la novela: su secuestro y su reacción ante la degradación social articulan la crítica del autor."
+        },
+        {
+            "name": "Magdalena",
+            "profile": "Hija de don Román, apodada la Organista por su talento musical; joven piadosa y recta que se ve atrapada entre el cariño hacia su padre y un amor romántico por don Álvaro. Representa la inocencia y la virtud frente a las agitaciones políticas y sirve como motor emocional de la trama (secuestro, boda, éxodo)."
+        },
+        {
+            "name": "Don Gonzalo González de la Gonzalera",
+            "profile": "Indiano nouveau riche, vanidoso y ambicioso, que busca prestigio social en el pueblo mediante ostentación y alianzas con agitadores. Su carácter mezquino y su frustración amorosa (rechazo de Magdalena) lo empujan a colaborar con los conspiradores; simboliza la corrupción del dinero y la falsa autoridad."
+        },
+        {
+            "name": "Lucas (el Estudiante)",
+            "profile": "Joven intelectual y agitador, cojo y elocuente, promotor de la «libertad» y de la revolución en el valle; organiza propaganda, partidos en la taberna y la Junta popular que desestabiliza Coteruco. Personifica la ideología subversiva capaz de manipular a las masas rurales y desencadenar la violencia social."
+        }
+    ]
+}

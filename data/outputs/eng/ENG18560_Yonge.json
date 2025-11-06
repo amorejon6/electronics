@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "The Daisy Chain : ELTeC edition",
+    "dcterms:creator": "Yonge, Charlotte Mary (1823-1901)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A mid-19th-century domestic novel about the May family of Market Stoneborough and their moral labours in a provincial English parish. After the death of Mrs May and a carriage accident that injures Dr. May and weakens Margaret, the children—notably Etheldred (Ethel), Margaret, Norman and others—navigate grief, duty, schooling and courtship. Much of the action follows Ethel's energetic efforts to found and sustain the Cocksmoor school and the family's long campaign to build and consecrate a parish church, while Norman wrestles with academic honour, spiritual doubt and a missionary vocation. The narrative emphasises Christian piety, practical charity, education and the patient endurance of domestic trials as means of moral growth.",
+    "dcat:keyword": [
+        "family",
+        "charity",
+        "education",
+        "religion",
+        "grief"
+    ],
+    "dcat:theme": [
+        "Family and domestic life",
+        "Moral education and Christian piety",
+        "Social reform / philanthropy"
+    ],
+    "dct:spatial": [
+        "Market Stoneborough, England",
+        "Cocksmoor (hamlet near Stoneborough), England",
+        "Abbotstoke (Abbotstoke Grange), England",
+        "https://www.geonames.org/4845707",
+        "https://www.geonames.org/2640729",
+        "https://www.geonames.org/2633939"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1840"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Etheldred (Ethel) May",
+            "profile": "A spirited and earnest daughter whose charitable zeal and practical energy drive the founding and maintenance of the Cocksmoor school and local parish work. Warm-hearted and sometimes impulsive, she balances literary ambitions with domestic duty and gradually learns steadier self-discipline and practical service."
+        },
+        {
+            "name": "Margaret May",
+            "profile": "The calm, morally grounded sister who becomes the domestic centre after their mother's death and whose long illness, devoted labours for Cocksmoor, and eventual decline provide the novel's emotional heart. Patient and spiritually serious, she influences family choices and exemplifies resigned devotion and hope."
+        },
+        {
+            "name": "Dr. Richard May",
+            "profile": "The kindly country physician and patriarch whose professional competence, domestic affection and grief over his wife shape household life; he is injured in a carriage accident and serves as the family's moral and emotional anchor. Reflective and conscience-driven, he mediates disputes and steers difficult decisions for his children and parish."
+        },
+        {
+            "name": "Norman May",
+            "profile": "An academically gifted, sensitive son whose pride, nervous strain and spiritual doubts form a central psychological strand; he endures tests of honour, recovers his reputation, and ultimately accepts a missionary or clerical vocation. Conscientious and modest, his arc moves from intellectual ambition and inner torment to resolution and readiness for service."
+        }
+    ]
+}

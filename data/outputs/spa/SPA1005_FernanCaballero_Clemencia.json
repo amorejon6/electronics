@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "Clemencia. Novela de costumbres : Edición ELTeC",
+    "dcterms:creator": "Böhl de Faber y Ruiz de Larrea, Cecilia [Fernán Caballero] (1796-1877)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela de costumbres que sigue la vida de Clemencia, una joven educada en un convento, desde su breve y desgraciado primer matrimonio hasta su repuesta en la casa de los Guevara y su posterior unión con Pablo. La obra pinta con detalle la sociedad sevillana y andaluza —tertulias, rivalidades, donaires y tresillos— y contrasta caracteres: la ingenuidad y virtud de Clemencia frente al escepticismo cosmopolita (sir George) y la rectitud campesina (Pablo). Hay episodios de suspense moral (celos, calumnias, duelos de orgullo) y escenas rurales que muestran la solidaridad y la caridad de los propietarios. La novela combina observación social, retratos de tipos y reflexiones religiosas y morales propias de la narrativa realista de mediados del siglo XIX.",
+    "dcat:keyword": [
+        "amor",
+        "novela de costumbres",
+        "sociedad andaluza",
+        "moral y religión",
+        "matrimonio"
+    ],
+    "dcat:theme": [
+        "Costumbres y sociedad",
+        "Amor y matrimonio",
+        "Religión y moral"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769",
+        "https://www.geonames.org/2510911",
+        "Villa-María (hacienda, ficticio)",
+        "https://www.geonames.org/2520600",
+        "https://www.geonames.org/3117735"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1844"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1852"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Clemencia Ponce",
+            "profile": "Joven criada en un convento, ingenua y profundamente bondadosa; protagonista que encarna la modestia, la fe y la paciencia. Su biografía central —viudez prematura, convalecencia, vida en Villa‑María y matrimonio con Pablo— articula la exploración moral y social de la novela."
+        },
+        {
+            "name": "Pablo Ladrón de Guevara",
+            "profile": "Pariente rural amable, de carácter humilde y valeroso; tipo de caballero andaluz: práctico, generoso y con sentido del deber. Héroe de conducta ejemplar que rescata y finalmente se casa con Clemencia, simbolizando la virtud doméstica y la estabilidad."
+        },
+        {
+            "name": "Sir George Percy",
+            "profile": "Aristócrata inglés culto, elegante y cosmopolita, a la vez cínico y orgulloso; cortejado por Clemencia, su carácter escéptico y su orgullo conducen a un desencuentro. Representa la modernidad europea (ironía, escepticismo y cosmopolitismo) frente a la sensibilidad española."
+        },
+        {
+            "name": "Don Galo Pando",
+            "profile": "Madrileño sociable, entrañable y algo satírico; conductor de tertulias y de la lotería en la casa de la Marquesa. Personaje cómico y de conexión social, confidente de Clemencia y observador de la vida urbana y de las intrigas sociales."
+        }
+    ]
+}

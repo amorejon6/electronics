@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The True History of Joshua Davidson : ELTeC edition",
+    "dcterms:creator": "Linton, Elizabeth Lynn (1822-1898)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A first-person account of Joshua Davidson, a Cornish carpenter whose sincere Christian faith evolves into a program of social reform and Christian Communism. Leaving Cornwall for London, he ministers to the poor, rescues and protects outcasts, and organises labour while struggling with religious doubt and institutional hostility. He joins international labour movements and participates in the Paris Commune, witnessing the Commune's hopes and brutal suppression. The book traces his moral courage, practical charity, political activism, and eventual martyrdom at a public meeting.",
+    "dcat:keyword": [
+        "Christian socialism",
+        "working class",
+        "poverty",
+        "Paris Commune",
+        "religious doubt"
+    ],
+    "dcat:theme": [
+        "Social reform and class struggle",
+        "Religion, doubt, and moral example",
+        "Philanthropy and urban poverty"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6296578",
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1835"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1872"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Joshua Davidson",
+            "profile": "A devout, idealistic Cornish carpenter whose spiritual earnestness evolves into a programme of Christian Communism and political activism. He devotes himself to the poor and outcast, organises night schools and charity, joins the International and the Paris Commune, and ultimately becomes a martyr for his beliefs."
+        },
+        {
+            "name": "John",
+            "profile": "The anonymous first-person narrator and Joshua's closest friend, a fellow workman who accompanies and supports Joshua throughout his experiments in faith and social action. He provides the account of Joshua's life, balancing admiration with reflective doubt and serving as witness to events from Cornwall to Paris."
+        },
+        {
+            "name": "Mary Prinsep",
+            "profile": "A young, redeemed street woman whom Joshua shelters, trains, and seeks to place in honest work; she embodies the human cost of poverty and the novel's theme of personal salvation through compassion. Her devotion and tragic fate in Paris highlight both Joshua's success and the brutal consequences of social upheaval."
+        },
+        {
+            "name": "Mr. Grand",
+            "profile": "The local vicar and a recurring antagonist who represents institutional clericalism and social conservatism. Proud and officious, he opposes Joshua's independent inquiries and charitable methods, symbolising the book's critique of established religion and class privilege."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "El paño pardo : edición ELTeC",
+    "dcterms:creator": "Ortega Munilla, José (1856-1922)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Crónica ambientada en un villorrio castellano (Zaratán de la Priora) en torno al asesinato de un rico prestamista, Don Simeón Gálvez. El labrador Hernando Palomera es acusado y procesado mientras emergen tensiones sociales entre labradores y propietarios, el caciquismo local y los manejos de un hidalgo arruinado, Don Quirino Madrigal. La narración sigue el proceso judicial, las intrigas, y las relaciones amorosas y de dependencia (especialmente entre Blas Herró y Delina), que terminan en desgracia y violencia. La novela combina crítica social, costumbrismo rural y tragedia individual en la España finisecular.",
+    "dcat:keyword": [
+        "injusticia",
+        "cacicazgo",
+        "crimen y juicio",
+        "pueblo castellano",
+        "tragedia"
+    ],
+    "dcat:theme": [
+        "Realismo social",
+        "Crítica social",
+        "Costumbrismo rural",
+        "Tragedia judicial"
+    ],
+    "dct:spatial": [
+        "Zaratán de la Priora (comarca de Las Lomas), Castilla, España",
+        "Noblurve (capital provincial ficticia), España"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1890"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1890"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Hernando Palomera (Hernán el de las Palomas)",
+            "profile": "Labrador arraigado en su terruño, honrado y resignado, destinado por la miseria a enfrentamientos con los prestamistas. Es acusado del asesinato del usurero y vive la prisión, el proceso y la degradación moral como víctima de una justicia y de unas circunstancias que le sobrepasan. Su destino trágico actúa como eje moral y social de la novela."
+        },
+        {
+            "name": "Don Quirino Madrigal de las Torres (El Señorito)",
+            "profile": "Hidalgo arruinado, carismático y manipulador: heredero del prestigio nobiliario que emplea la voluntad y la violencia social para imponer su interés. Actúa como figura ambigua y antagonista: protector de jóvenes como Blas Herró, motor de intrigas políticas y personales, y centro de sospechas públicas por su conducta y poder local."
+        },
+        {
+            "name": "Blas Herró",
+            "profile": "Joven atractivo, dependiente y ambicioso, protegido por Madrigal; su sensualidad y debilidad moral le llevan a relaciones interesadas con mujeres ricas (María de la Oliva, luego Delina). Manipulado por el Señorito, oscila entre cobardía y arrebatos de valor; su destino termina en un desenlace trágico que refleja la corrupción íntima del entorno."
+        },
+        {
+            "name": "Delina (hija de Don Simeón Gálvez)",
+            "profile": "Joven huérfana y rica, afectada por la muerte violenta de su padre; figura de ternura e inocencia que alimenta la trama sentimental (prometida de Blas). Su fragilidad física y emocional (síncopes, colapsos nerviosos) y su posición social la convierten en víctima colateral de las luchas, la venganza y las ambiciones ajenas."
+        }
+    ]
+}

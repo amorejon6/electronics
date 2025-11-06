@@ -1,0 +1,69 @@
+{
+    "dcterms:title": "The Autobiography of a Slander : ELTeC edition",
+    "dcterms:creator": "Lyall, Edna [pseud.] (1857-1903).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A personified Slander narrates how a small piece of gossip in a provincial English town grows into a destructive falsehood. The story follows Sigismund Zaluski, a Polish merchant loved by Gertrude Morley, who is wrongly accused of being a Nihilist and implicated in the assassination of the Czar. The rumour spreads through drawing-rooms, letters and a novelist’s notes to St. Petersburg, where Zaluski is arrested, imprisoned and dies. The novel is a moral and social critique of thoughtless gossip, responsibility and the consequences of social prejudice.",
+    "dcat:keyword": [
+        "slander",
+        "gossip",
+        "false accusation",
+        "social injustice",
+        "provincial society"
+    ],
+    "dcat:theme": [
+        "Gossip and social consequences",
+        "Miscarriage of justice and injustice",
+        "Moral critique / responsibility"
+    ],
+    "dct:spatial": [
+        "Muddleton, England (fictional provincial town)",
+        "https://www.geonames.org/498817"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1886"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1887"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1881"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1881"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Slander (narrator)",
+            "profile": "A personified slander who tells the story in the first person, tracing its birth in a drawing-room and its rapid growth through society. Ironical and reflective, this narrator is the organising device of the novel and embodies the mechanisms by which idle talk becomes destructive."
+        },
+        {
+            "name": "Sigismund Zaluski",
+            "profile": "A young Polish merchant: musical, amiable and in love with Gertrude Morley. Falsely accused of being a Nihilist and implicated in the 1881 assassination, he is arrested in St. Petersburg, endures imprisonment and dies—portrayed as an innocent victim of provincial slander."
+        },
+        {
+            "name": "Gertrude Morley",
+            "profile": "A gentle, pretty country girl and Zaluski’s beloved, whose hopeful engagement is destroyed by the spreading rumour. Her grief at Zaluski’s fate represents the personal and emotional cost inflicted by collective gossip and social cowardice."
+        },
+        {
+            "name": "Mrs. Milton-Cleave",
+            "profile": "An energetic, influence-seeking local woman who amplifies and transmits the rumour in letters and conversation. Her restless desire to influence society helps convert casual suspicion into authoritative-seeming 'best authority' statements that fuel the tragedy."
+        }
+    ]
+}

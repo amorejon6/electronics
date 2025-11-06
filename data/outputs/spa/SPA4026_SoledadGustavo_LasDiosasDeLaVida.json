@@ -1,0 +1,54 @@
+{
+    "dcterms:title": "Las diosas de la vida : edición ELTeC",
+    "dcterms:creator": "Mañé Miravet, Teresa [Soledad Gustavo] (1865-1939)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Una historia romántica y de honor que sigue al pintor Cristián y a la duquesa Isabel desde un viaje transatlántico hasta los veraneos en Biarritz. El matrimonio afronta la hostilidad social, los celos y la murmuración cuando un espadachín, Mariano, los provoca a duelo. Elisa, amiga íntima y leal, interviene con coraje y astucia para preservar la reputación de Isabel y evitar la violencia. La obra explora el sacrificio, la fidelidad y la ruptura de los códigos sociales de honor en favor de una ética del cariño y la dignidad.",
+    "dcat:keyword": [
+        "amor",
+        "honor",
+        "murmuración social",
+        "duelo",
+        "sacrificio"
+    ],
+    "dcat:theme": [
+        "Amor romántico",
+        "Honor y códigos sociales",
+        "Crítica social / clases y rumores"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3128760",
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/3451190",
+        "https://www.geonames.org/3435910",
+        "https://www.geonames.org/3032797"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1908"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1908"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Cristián Bellmunt",
+            "profile": "Pintor atormentado y protagonista masculino; alto, reservado y de fuerte sensibilidad artística. Su integridad, orgullo y amor por Isabel lo colocan en el centro del conflicto entre el código del honor y la nueva ética del cariño; protagoniza la decisión moral sobre aceptar o rechazar el duelo."
+        },
+        {
+            "name": "Isabel, duquesa de Montblanch",
+            "profile": "Joven, bella y de alta posición social; esposa de Cristián cuyo afecto y grandeza moral marcan el ritmo de la acción. Es decidida y capaz de sacrificios para proteger a su marido, promoviendo una concepción del valor basada en la dignidad y el amor más que en la violencia."
+        },
+        {
+            "name": "Elisa Durán",
+            "profile": "Amiga vivaz, leal y enérgica; joven de fuertes convicciones que actúa como salvadora práctica de la pareja. Con coraje e ingenio (incluido el uso de la coacción) obtiene pruebas que desactivan la provocación de Mariano y defiende la honra de Isabel y Cristián."
+        },
+        {
+            "name": "Mariano Pacheco",
+            "profile": "Espadachín y antagonista principal; orgulloso, provocador y representante del código tradicional del honor. Sus insinuaciones y su reto a duelo generan la crisis central que obliga a los demás personajes a tomar decisiones morales y sociales."
+        }
+    ]
+}

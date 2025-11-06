@@ -1,0 +1,72 @@
+{
+    "dcterms:title": "The London venture : ELTeC edition",
+    "dcterms:creator": "Arlen, Michael [pseud.] (1895-1956)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A first-person narrator, an Armenian émigré and aspiring writer, recounts episodes of London life, love affairs, friendships, and literary soirées in a series of reflective vignettes. Central is his relationship with the beguiling Shelmerdene, whose restless pursuit of experience leads her away from England to the East and alters the narrator's view of his adopted country. The narrative also follows other intimacies — a dissipated liaison with Phyllis, a failed passion for Maurice, and the deep friendship and tragic death of Louis — exposing the costs of passion, restraint, and social performance. Through elegiac reminiscence the book examines identity, social manners, and the tension between appearance and inner life in early twentieth-century society.",
+    "dcat:keyword": [
+        "London society",
+        "love and seduction",
+        "exile/identity",
+        "friendship and loss",
+        "restraint vs. passion"
+    ],
+    "dcat:theme": [
+        "Novel of manners",
+        "Social novel",
+        "Character study"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2988507",
+        "https://www.geonames.org/3030300",
+        "https://www.geonames.org/2634895",
+        "Armenia / Hayastan (references to Van) and the Middle East (Persia)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1908"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1914"
+                }
+            }
+        },
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1918"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1920"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "Dikran (narrator)",
+            "profile": "An Armenian émigré and aspiring writer who narrates the book in a reflective, urbane voice. He is observant, self‑aware and often satirical about London society, torn between ambition, melancholy, and attachment to friends and lovers."
+        },
+        {
+            "name": "Shelmerdene",
+            "profile": "A cosmopolitan, seductive woman of ambiguous origins who captivates the narrator and many others with her elegance and restless curiosity. She embodies the novel's themes of charm, danger, and the quest for experience, ultimately leaving for the East and prompting reflection on identity and restraint."
+        },
+        {
+            "name": "Louis",
+            "profile": "A schoolfriend turned close companion and exemplar of steady English soldierly honour. His sincere friendship with the narrator, established in youth, provides moral ballast to the book; his death is a pivotal, grief‑striking event that shapes the narrator's perspective."
+        },
+        {
+            "name": "Phyllis",
+            "profile": "A pretty, modern young woman of liberal manners whose flirtations and eventual practical marriage illustrate shifting post‑Victorian sexual and social mores. Her brief affair with the narrator and subsequent choices reveal the novel's concern with performance, independence, and the limits of romantic idealism."
+        }
+    ]
+}

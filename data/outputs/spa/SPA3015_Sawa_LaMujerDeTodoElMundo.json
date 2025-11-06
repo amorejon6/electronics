@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "La mujer de todo el mundo : edición ELTeC",
+    "dcterms:creator": "Sawa, Alejandro (1862-1909)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue el mundo opulento y decadente de la condesa del Zarzal, figura hipnótica y manipuladora cuya lujosa vida contrasta con la miseria social circundante. Su intervención en el matrimonio de su hijo Enrique con Luisa Galindo desencadena un escándalo cuando Luisa solicita la anulación por impotencia y reclama su dote. Un joven pintor, Eudoro Gamoda, enamorado de la condesa, cae en la desesperación, agrede a la mujer y acaba muerto; Luisa, humillada y perseguida, entra en la locura y provoca un incendio fatal. La obra combina crítica social, pasión, venganza y ruina moral en el ambiente de finales del siglo XIX.",
+    "dcat:keyword": [
+        "desigualdad social",
+        "decadencia aristocrática",
+        "amor y traición",
+        "suicidio y violencia",
+        "naturalismo"
+    ],
+    "dcat:theme": [
+        "Crítica social",
+        "Decadencia y vicio",
+        "Pasión y tragedia"
+    ],
+    "dct:spatial": [
+        "Z (ciudad ficticia, probable capital en la península — posible España)",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1885"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1885"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela realista victoriana o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Condesa del Zarzal",
+            "profile": "Mujer de belleza imponente y voluntad dominante; encarna la opulencia, el cinismo y la manipulación social. Es el motor de muchos conflictos: administra fortunas, manipula matrimonios y provoca la caída moral y material de quienes la rodean."
+        },
+        {
+            "name": "Luisa Galindo (señorita de Galindo, marquesa de Puerto-Arcas)",
+            "profile": "Joven noble destinada por la familia a un matrimonio de conveniencia; víctima de un engaño y de la apropiación de su dote. Tras la humillación pública y la lucha judicial por la anulación, su desesperación la conduce a la locura y a un acto final de autodestrucción en el incendio."
+        },
+        {
+            "name": "Eudoro Gamoda",
+            "profile": "Pintor idealista y apasionado, inicialmente prometedor en el Salón y en busca de reconocimiento. Enamorado obsesivo de la condesa, su amor le arrastra a la degradación y a la violencia, desembocando en su trágica muerte como consecuencia de la pasión."
+        },
+        {
+            "name": "Enrique",
+            "profile": "Hijo de la condesa, joven frágil y enfermizo cuya impotencia es objeto del proceso de anulación matrimonial. Su carácter sumiso y su situación médica sirven de detonante para el escándalo que arruina a Luisa y precipita las intrigas familiares."
+        }
+    ]
+}

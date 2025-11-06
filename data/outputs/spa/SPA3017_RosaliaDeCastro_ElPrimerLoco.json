@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "El primer loco : edición ELTeC",
+    "dcterms:creator": "Castro, Rosalía de (1837-1885)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Relato centrado en Luis, un joven melancólico y visionario que, tras heredar simbólicamente un monasterio en Galicia, cae en una pasión obsesiva por Berenice. Su amor no correspondido, el matrimonio de ella con un extranjero y la aparición de la campesina Esmeralda —a quien involuntariamente hiere y cuya muerte presagia su culpa— desencadenan celos, prácticas esotéricas y visiones sobrenaturales. La presencia de fantasmas, exorcismos y apariciones agravan su deterioro psíquico hasta la locura. Finalmente Luis sucumbe a la demencia y a una muerte precoz, dejando sin realizar sus proyectos de redención social.",
+    "dcat:keyword": [
+        "obsesión",
+        "locura",
+        "sobrenatural",
+        "amor imposible",
+        "claustro/monasterio"
+    ],
+    "dcat:theme": [
+        "Romanticismo",
+        "Gótico y lo sobrenatural",
+        "Tragedia psicológica"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3109642",
+        "Monasterio/claustro de Conjo (Galicia, España)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:begin": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1881"
+            }
+        }
+    },
+    "dct:type": "Novela gótica o de horror",
+    "mainCharacters": [
+        {
+            "name": "Luis",
+            "profile": "Joven elegante, melancólico y visionario, protagonista y narrador de gran parte de la experiencia. Su intensa imaginación y pasión por Berenice lo llevan a prácticas esotéricas, celos y al deterioro mental que termina en locura y muerte."
+        },
+        {
+            "name": "Berenice",
+            "profile": "Objeto del amor absoluto de Luis: una mujer de sociedad descrita como bella, fría y coqueta. Su matrimonio con un extranjero desencadena la tragedia íntima de Luis; aparece como ideal inmune a la comprensión de quienes la rodean."
+        },
+        {
+            "name": "Esmeralda",
+            "profile": "Joven pastora humilde, tierna y marginada socialmente, adoptada como consuelo y compañera por Luis en distintos momentos. Su dedicación y muerte prematura funcionan como culpa moral y como aparición sobrenatural que persigue al protagonista."
+        },
+        {
+            "name": "Pedro",
+            "profile": "Amigo y confidente de Luis, de criterio más sobrio y realista; actúa como oyente y testigo de la narración. Representa la mirada externa que interpreta, duda y finalmente organiza los cuidados hacia Luis cuando este enloquece."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "La barraca : Edición ELTeC",
+    "dcterms:creator": "Blasco Ibáñez, Vicente (1867 - 1928)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra la vida en la huerta de Valencia, mostrando la lucha por la tierra, la miseria y las tensiones entre colonos y propietarios. Tras la ruina y el crimen del tío Barret, unas tierras malditas son ocupadas por la familia de Batiste, que logra prosperar pero choca con la hostilidad de los vecinos y el violento Pimentó. Crecen los conflictos: amoríos discretos, la muerte del niño Pascualet y una escalada de venganzas que termina en sangre y en el incendio de la barraca. Es un fresco social y trágico del campo valenciano, donde la solidaridad y la violencia se entrelazan en la supervivencia cotidiana.",
+    "dcat:keyword": [
+        "huerta valenciana",
+        "pobreza rural",
+        "venganza",
+        "conflicto social",
+        "violencia comunitaria"
+    ],
+    "dcat:theme": [
+        "Realismo rural",
+        "Conflicto social",
+        "Tragedia campesina"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2516533"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1898"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1898"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Batiste",
+            "profile": "Labrador esforzado y varonil que llega con su familia a cultivar las tierras abandonadas del tío Barret. Protector de los suyos, pasa de la paciencia a la violencia cuando la hostilidad vecinal y las injusticias le empujan a defender su hogar."
+        },
+        {
+            "name": "Roseta",
+            "profile": "Hija de Batiste, joven trabajadora que va a la fábrica y vive un primer amor tímido con Tonet. Representa la inocencia y la vulnerabilidad femenina en la huerta; su humillación pública y los miedos del camino fortalecen su carácter familiar."
+        },
+        {
+            "name": "Pimentó",
+            "profile": "Valentón local, bravucón y matón de la partida, antagonista principal de la familia de Batiste. Su papel alimenta la violencia colectiva: humilla, provoca y termina convertido en víctima de la revancha, lo que desata consecuencias trágicas para toda la comunidad."
+        },
+        {
+            "name": "Tío Barret",
+            "profile": "Antiguo colono orgulloso que trabajó las mismas tierras durante generaciones y fue desahuciado por el arrendador; su desesperación culmina en un homicidio que lo lleva a la cárcel y provoca la maldición social sobre la parcela. Su tragedia sirve de antecedente y símbolo del conflicto entre trabajadores y dueños."
+        }
+    ]
+}

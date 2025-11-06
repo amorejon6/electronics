@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Tono-bungay: ELTeC edition",
+    "dcterms:creator": "Wells, Herbert George (1866-1946)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "First-person memoir-novel tracing George Ponderevo's rise from a chemist's apprentice to partner in his uncle Edward Ponderevo's patent-medicine empire (Tono-Bungay), and the subsequent moral, social and financial collapse that follows spectacular success. The book follows George's education, apprenticeships, loves (Marion, Effie, Beatrice), his involvement in advertising, flotations and risky ventures (including the quap expedition), and his experiments in flight. It is at once a social satire on English class, snobbery and finance and a personal account of ambition, desire and disillusion. The narrative ends with the ruin of the Ponderevo fortunes and the narrator's reflections on technology, society and the costs of modern commerce.",
+    "dcat:keyword": [
+        "patent medicine",
+        "social satire",
+        "finance (boom and bust)",
+        "love and marriage",
+        "early aviation"
+    ],
+    "dcat:theme": [
+        "social criticism",
+        "economic speculation and collapse",
+        "autobiographical coming-of-age",
+        "science and technology (aviation)"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/6296602",
+        "https://www.geonames.org/3030300",
+        "https://www.geonames.org/7729885"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1905"
+            }
+        }
+    },
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "George Ponderevo",
+            "profile": "Narrator and protagonist; an engineer-turned-chemist whose apprenticeship with his uncle propels him into business, science and social mobility. He narrates his experiences, experiments in flight, romantic entanglements and moral ambivalence as he moves between aspiration, love and disillusion."
+        },
+        {
+            "name": "Edward Ponderevo (Uncle Ponderevo)",
+            "profile": "Charismatic, opportunistic promoter and inventor of the Tono-Bungay enterprise; ruthless in publicity and finance, lavish in taste and grand projects (Crest Hill). His meteoric rise and reckless expansions drive the novel's boom-and-bust arc and culminate in scandal, illness and death."
+        },
+        {
+            "name": "Marion Ramboat",
+            "profile": "George's first major love and later wife; a modest, conventional working-class/aspiring-middle-class woman whose cautious, domestic values clash with George's ambitions. Their marriage becomes a prolonged source of tension and mutual disappointment, shaping much of George's moral reflection."
+        },
+        {
+            "name": "Beatrice Normandy",
+            "profile": "Childhood love renewed in adolescence and adulthood; spirited, ambiguous and socially restless, she becomes the intense romantic and disruptive passion for George. Her refusal to convert their affair into a conventional marriage and her ties to other men make her a complex catalyst in George's choices."
+        }
+    ]
+}

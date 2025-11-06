@@ -1,0 +1,63 @@
+{
+    "dcterms:title": "Barcelona y sus misterios : edición ELTeC",
+    "dcterms:creator": "Altadill, Antonio (1828-1880)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela sigue a Diego Rocafort (también conocido como Augusto Mendoza), un joven tejedor republicano injustamente deportado que sobrevive a un naufragio y pasa por Filipinas, África y América antes de regresar a la Barcelona decimonónica tras recibir una herencia. De regreso, intenta rehacer su vida, buscar a su amada Clara y ajustar cuentas con quienes lo traicionaron, enfrentándose a redes de falsificación, secuestro, extorsión y corrupción que hieren a familias humildes. La trama alterna episodios de aventura y supervivencia con melodrama urbano: intrigas financieras, chantajes, venganzas privadas y rescates. El relato funciona como denuncia social del siglo XIX barcelonés, mostrando la hipocresía de la burguesía, la miseria popular y los dilemas morales de honor, amor y justicia.",
+    "dcat:keyword": [
+        "Barcelona",
+        "venganza",
+        "corrupción",
+        "delincuencia",
+        "amor"
+    ],
+    "dcat:theme": [
+        "Novela social",
+        "Delincuencia urbana y redes criminales",
+        "Venganza y justicia privada",
+        "Romance y tragedia",
+        "Costumbrismo urbano y crítica social"
+    ],
+    "dct:spatial": [
+        "España (Barcelona: Gracia, Tarragona)",
+        "África occidental (Loango / Mallemba, reino de Cacongo)",
+        "Cuba (Nuevitas, La Habana)",
+        "https://www.geonames.org/1694008"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1840"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1870"
+                }
+            }
+        }
+    ],
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Diego Rocafort (Augusto Mendoza)",
+            "profile": "Protagonista complejo: joven tejedor republicano, deportado por error y superviviente de un naufragio que recorre Filipinas, África y América antes de reaparecer en Barcelona con una herencia. Actúa como investigador y vengador moral frente a redes de falsificación, secuestro y extorsión; combina generosidad filantrópica con deseos de vindicación y protección de los inocentes. Su carácter decisivo y su pasado trágico condicionan el curso de la intriga y, en versiones del relato, su destino final es trágico."
+        },
+        {
+            "name": "Clara, baronesa de Turella",
+            "profile": "Mujer de origen popular convertida en dama de la alta sociedad, antigua amante de Diego y madre preocupada por su familia; encarna la tensión entre afecto personal y conveniencia social. Su dilema —entre el recuerdo de su primer amor y los compromisos con su marido— y el secuestro/las intrigas que afectan a sus seres queridos la sitúan en el centro moral y emocional del relato, sufriendo transformaciones profundas a lo largo de la novela."
+        },
+        {
+            "name": "Nicolás Turella, barón",
+            "profile": "Ambicioso artesano que asciende socialmente hasta convertirse en banquero y barón; rival de Diego por el afecto de Clara. Representa la prosperidad y vanidad de la burguesía emergente: su ambición, cobardía y exposición a chantajes ilustran la fragilidad de la reputación social y las contradicciones del dinero frente a las demandas morales del protagonista."
+        },
+        {
+            "name": "Roberto",
+            "profile": "Antagonista persistente: exconvicto y rufián hábil en disfraces y engaños, jefe o colaborador de redes delictivas dedicadas a la falsificación, secuestro y extorsión. Moralmente ambivalente y violento, actúa como motor de robos, delaciones y chantajes; en ocasiones colabora con la policía secreta para sobrevivir, pero su caída o captura cataliza la persecución y la resolución judicial de la trama."
+        }
+    ]
+}

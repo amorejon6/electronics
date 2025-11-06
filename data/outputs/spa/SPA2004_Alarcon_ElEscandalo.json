@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "El Escándalo : Edición ELTeC",
+    "dcterms:creator": "Alarcón, Pedro Antonio de (1833-1891)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "En Madrid de 1861, el joven aristócrata Fabián Conde regresa empañado por rumores y es públicamente humillado por una calumnia que lo vincula con la desaparición de Gabriela. Su crisis moral lo lleva a buscar consejo en el padre Manrique y a confrontar la traición, la amistad y la fe junto a sus dos amigos más íntimos, Diego y Lázaro. La novela narra el lento proceso de conversión, sacrificios y renuncias —incluida la entrega de bienes y títulos— para restablecer la verdad y purificar las conciencias. Entre intrigas sociales, juicios de opinión y hondas reflexiones religiosas, hay un desenlace trágico y reconciliador que culmina en una unión solemne y en la expiación de los personajes.",
+    "dcat:keyword": [
+        "honor",
+        "calumnia",
+        "fe",
+        "amistad",
+        "redención"
+    ],
+    "dcat:theme": [
+        "Novela social",
+        "Religión y redención",
+        "Novela de costumbres / honor público"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2509954",
+        "https://www.geonames.org/3104324",
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/3895114"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1861"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1861"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Fabián (Antonio Luis Fabián Fernández de Lara y Álvarez Conde)",
+            "profile": "Joven aristócrata, galán y de vida disipada que vuelve a España envuelto en escándalo; protagonista torturado por la calumnia, la culpa y el orgullo. Su arco narrativo recorre la caída pública, la búsqueda de absolución moral y religiosa, y el sacrificio final por la verdad y la redención."
+        },
+        {
+            "name": "Gabriela",
+            "profile": "Joven aragonesa de vida piadosa, ingenua y de belleza casi angélica que se convierte en el ideal moral del protagonista. Representa la conciencia y la pureza: su fe y sus exigencias éticas impulsan la transformación de Fabián y constituyen el núcleo sentimental y espiritual de la trama."
+        },
+        {
+            "name": "Lázaro",
+            "profile": "Figura enigmática y ascética, amigo crítico y exigente de Fabián; fue calumniado y desheredado, y elige el sacrificio y la austeridad antes que la reivindicación. Actúa como conciencia activa: predica la renuncia, vive la penitencia y termina siendo motor de la verdad y la reconciliación."
+        },
+        {
+            "name": "Diego",
+            "profile": "Amigo íntimo de Fabián, médico y hombre de pasiones violentas; su amistad oscila entre la devoción y la sospecha. La sospecha sobre Fabián precipita el conflicto central: su dolor, celos y posterior arrepentimiento son decisivos para el desenlace trágico y la eventual expiación."
+        }
+    ]
+}

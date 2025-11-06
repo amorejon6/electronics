@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "Marianela : edición ELTeC",
+    "dcterms:creator": "Pérez Galdós, Benito (1843-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Marianela cuenta la historia de una muchacha huérfana y deforme que hace de lazarillo de Pablo, un joven ciego y noble, en una comarca minera ficticia. Cuando llega el doctor Teodoro Golfín para operar a Pablo y devolverle la vista se desencadena un conflicto: al recobrar la visión Pablo se enamora de su prima Florentina, hermosa y acomodada, dejando a Marianela desolada. La novela sigue la degradación social y afectiva de Marianela hasta su muerte, mientras ofrece una mirada crítica sobre la miseria, la ignorancia y la codicia en las aldeas mineras. La trama combina sentimentalismo trágico con realismo social y una exploración de la mirada, la identidad y la dignidad humana.",
+    "dcat:keyword": [
+        "amor no correspondido",
+        "ceguera y visión",
+        "minería rural",
+        "pobreza y abandono",
+        "sacrificio"
+    ],
+    "dcat:theme": [
+        "Amor trágico",
+        "Novela social",
+        "Realismo"
+    ],
+    "dct:spatial": [
+        "España (región minera ficticia, ambientación en Cantabria / norte de España)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1860"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1878"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Marianela (Nela, María Canela)",
+            "profile": "Joven huérfana y físicamente desvalida que actúa como lazarillo de Pablo; posee gran sensibilidad, imaginación y un amor profundo y sacrificado por su amo. Criada en la miseria y la ignorancia, encarna la inocencia trágica y la víctima de la indiferencia social; su orgullo herido y su vergüenza ante la belleza ajena la llevan a un destino fatal."
+        },
+        {
+            "name": "Pablo Penáguilas",
+            "profile": "Hijo único de la familia Penáguilas, ciego desde el nacimiento, inteligente y idealista; depende de Marianela como guía y compañera afectiva. Tras ser operado por Golfín y recobrar la vista, su percepción del mundo y de la belleza cambia radicalmente, lo que provoca el desencadenamiento dramático del conflicto amoroso."
+        },
+        {
+            "name": "Teodoro Golfín",
+            "profile": "Médico oftalmólogo viajero, hermano de Carlos Golfín, decidido, enérgico y paternal; representa la ciencia, la intervención y el ideal de progreso técnico-étnico. Su operación sobre Pablo abre la trama moral: pese a su habilidad profesional, se enfrenta a los límites del saber ante las pasiones y consecuencias humanas."
+        },
+        {
+            "name": "Florentina Penáguilas",
+            "profile": "Prima de Pablo, joven acomodada, bondadosa y de gran belleza natural; actúa con generosidad al recoger y prometer proteger a Marianela. Su presencia y condición social ofrecen el contraste trágico con Marianela y cristalizan las tensiones de clase, belleza y deseo en la trama."
+        }
+    ]
+}

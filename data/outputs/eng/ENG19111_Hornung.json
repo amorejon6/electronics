@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Camera Fiend : ELTeC edition",
+    "dcterms:creator": "Hornung, Ernest William (1866-1921)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A public-school boy, Pocket (Tony) Upton, runs away to London and becomes involved with Dr. Otto Baumgartner, an eccentric photographer who pursues psychic spirit-photography. After a night in Hyde Park Pocket awakens to find a man shot and, believing he fired in his sleep, is hidden and counseled by Baumgartner. An inquiry by the resourceful Eugene Thrush and the discovery of a camera rigged to fire a pistol reveal a pattern of deaths connected to Baumgartner's experiments. Pocket and Baumgartner's niece Phillida confront the moral consequences and ultimately take drastic steps to conceal the lethal photographic device, while themes of guilt, scientific hubris and detection drive the narrative.",
+    "dcat:keyword": [
+        "crime",
+        "psychic photography",
+        "guilt",
+        "detection",
+        "London"
+    ],
+    "dcat:theme": [
+        "Crime and detection",
+        "Occult / scientific hubris",
+        "Guilt and moral responsibility"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/11609039"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1910"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1911"
+                }
+            }
+        }
+    ],
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Pocket (Tony) Upton",
+            "profile": "A sensitive, asthmatic sixteen‑seventeen‑year‑old public‑school boy whose curiosity for photography and criminology leads him into danger. He is the story's moral centre—naïve, conscientious, and tormented by guilt when he believes he has caused a death; his decisions drive much of the plot."
+        },
+        {
+            "name": "Dr. Otto Baumgartner",
+            "profile": "An eccentric, charismatic German doctor and experimental photographer obsessed with photographing the soul at the moment of death. Brilliant and unscrupulous, he manipulates events and people to further his psychic experiments, generating suspicion, moral conflict and eventual catastrophe."
+        },
+        {
+            "name": "Phillida Platts",
+            "profile": "Baumgartner's niece: thoughtful, loyal and morally resolute, she cares for her uncle but becomes increasingly alarmed by his obsessions. She forms a close, protective bond with Pocket and ultimately helps secure and dispose of the incriminating camera while wrestling with the implications for those she loves."
+        },
+        {
+            "name": "Eugene Thrush",
+            "profile": "A shrewd, worldly inquiry agent who investigates Pocket's disappearance and the related murders with practical methods and deductive gamesmanship. He balances sceptical professionalism with a liking for theatrical tactics and helps uncover leads that reshape the case."
+        }
+    ]
+}

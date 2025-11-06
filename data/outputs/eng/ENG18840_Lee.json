@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Miss Brown : ELTeC edition",
+    "dcterms:creator": "Lee, Vernon (1856-1935)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young English‐born nursemaid raised in Italy, Anne Brown, is educated and supported by the poet‑painter Walter Hamlin; their unequal patronage and the collision between æsthetic circles and real social need propel the plot. The novel traces Anne’s moral development as she confronts class prejudice, sexual scandal, philanthropic schemes, and a painful decision about marriage and independence. Against Italian and English backdrops (Villa Arnolfini, Lucca, Florence; London and Wotton Hall), tensions between art, desire, and social responsibility intensify around Hamlin, Anne, Melton Perry, Madame Elaguine and Richard Brown. The book is a psychological social novel exploring aestheticism, class mobility, and the costs of moral compromise.",
+    "dcat:keyword": [
+        "aestheticism",
+        "social mobility",
+        "education",
+        "marriage and duty",
+        "moral crisis"
+    ],
+    "dcat:theme": [
+        "Social criticism",
+        "Psychological study of characters",
+        "Conflict between art/aestheticism and social responsibility"
+    ],
+    "dct:spatial": [
+        "Italy (Tuscany: Lucca, Villa Arnolfini, Florence)",
+        "England (London: Hammersmith; Wotton Hall)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1880"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1890"
+                }
+            }
+        }
+    ],
+    "dct:type": "Social novel",
+    "mainCharacters": [
+        {
+            "name": "Anne Brown",
+            "profile": "A stately, enigmatic former nursemaid of mixed Italian‑Scots parentage who is educated and groomed by Walter Hamlin. Practical, morally rigorous and intellectually striving, she becomes the moral centre of the novel, wrestling with gratitude, independence, and the painful choice between duty and self‑respect."
+        },
+        {
+            "name": "Walter Hamlin",
+            "profile": "An English poet‑painter, charming, aesthetic and self‑absorbed, who sponsors Anne’s education and later becomes emotionally entangled with Madame Elaguine. He is brilliant and generous yet vacillating and morally fragile, embodying the novel’s critique of æstheticism and artistic self‑indulgence."
+        },
+        {
+            "name": "Melton Perry",
+            "profile": "A genial, warm‑hearted old friend of Hamlin and proprietor of the Villa Arnolfini, husband and father of the Perrys’ children. He functions as a loyal, plain‑spoken foil to the æsthetes, sympathetically protective of Anne and representative of decency and practical affection."
+        },
+        {
+            "name": "Madame Sacha Elaguine (Sacha)",
+            "profile": "A restless, theatrical Russian woman whose charisma and ambiguous past unsettle the circle; she becomes the focal point of scandal and psychological suspense. Volatile, seductive and often self‑contradictory, she complicates loyalties and accelerates the moral dilemmas surrounding Hamlin and Anne."
+        }
+    ]
+}

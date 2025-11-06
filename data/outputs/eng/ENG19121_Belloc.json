@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "The Chink in the Armour : ELTec edition : ELTeC edition",
+    "dcterms:creator": "Belloc-Lowndes, Marie (1868-1947)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An English widow, Sylvia Bailey, visits Paris and is drawn to Lacville, a nearby gambling resort, where her friendship with the Polish gambler Anna Wolsky and the lure of the Casino lead to danger. A fortune-teller's warning, a broken string of pearls and Anna's mysterious disappearance escalate into a criminal investigation. Sylvia is threatened at the Wachners' villa but is rescued thanks to the intervention of Count Paul de Virieu and William Chester, revealing a violent plot and a buried victim. The novel entwines gambling, social danger, romantic tension and a detective-like pursuit of justice.",
+    "dcat:keyword": [
+        "gambling",
+        "murder",
+        "pearls",
+        "friendship",
+        "casino"
+    ],
+    "dcat:theme": [
+        "Crime",
+        "Mystery",
+        "Romance",
+        "Social drama"
+    ],
+    "dct:spatial": [
+        "Lacville, France (fictional lakeside resort near Paris)",
+        "Paris, France (Montmartre, Avenue de l'Opéra)",
+        "Monte Carlo, Monaco (referenced)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1912"
+            }
+        }
+    },
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Sylvia Bailey",
+            "profile": "A pretty, young English widow and the novel's protagonist who is innocent, sociable and somewhat naive. Her string of pearls symbolizes independence and becomes the pivot of danger; she is drawn into Lacville's gambling world and faces threats while showing loyalty to friends."
+        },
+        {
+            "name": "Anna Wolsky",
+            "profile": "A Polish widow and professional gambler who befriends Sylvia and introduces her to Lacville and its risks. Charismatic, secretive and self-destructive, her sudden disappearance and fate catalyse the novel's criminal investigation and moral warnings about play."
+        },
+        {
+            "name": "Comte Paul de Virieu",
+            "profile": "A cultured French nobleman and confirmed gambler struggling with shame and vice; he becomes Sylvia's protector and romantic interest. Torn between love and his gambling habit, he acts decisively to save Sylvia and pursue justice after Anna's disappearance."
+        },
+        {
+            "name": "William (Bill) Chester",
+            "profile": "Sylvia's trustee, longtime friend and pragmatic English solicitor who disapproves of Lacville's milieu. Steady, moral and protective, he returns from England to intervene on Sylvia's behalf and aids in confronting the criminal threat."
+        }
+    ]
+}

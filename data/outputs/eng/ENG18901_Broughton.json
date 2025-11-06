@@ -1,0 +1,59 @@
+{
+    "dcterms:title": "Alas! A Novel : ELTeC edition",
+    "dcterms:creator": "Broughton, Rhoda (1840-1920)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A late‑Victorian social novel following James (Jim) Burgoyne, who on return visits to England and later travels to Italy and Algeria becomes entangled with two women: the steady, long‑suffering Amelia Wilson (his fiancée) and the enigmatic Elizabeth Le Marchant. The story traces engagements, misunderstandings, family pressures, a hidden scandal in Elizabeth's past, illness and death (Amelia falls ill and dies), and the emotional consequences for all involved. Much of the action is set in Oxford, Devonshire and Florence, then shifts to Algiers where secrets are confronted and Byng’s impulsive devotion leads to collapse and recovery. Ultimately Burgoyne faces a moral choice and remains to care for Elizabeth after learning the truth of her earlier elopement and its social cost.",
+    "dcat:keyword": [
+        "social reputation",
+        "secret past",
+        "romance",
+        "illness and death",
+        "travel/exile"
+    ],
+    "dcat:theme": [
+        "Social reputation and scandal",
+        "Love, engagement and sacrifice",
+        "Illness, grief and mourning",
+        "Travel and expatriation"
+    ],
+    "dct:spatial": [
+        "England (Oxford; Devonshire; London)",
+        "Italy (Florence; Genoa; Fiesole; Vallombrosa)",
+        "https://www.geonames.org/2507480"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1880"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1895"
+            }
+        }
+    },
+    "dct:type": "Novel of manners",
+    "mainCharacters": [
+        {
+            "name": "James (Jim) Burgoyne",
+            "profile": "A worldly, somewhat reserved traveler and former undergraduate who becomes the novel's central consciousness. He is engaged to Amelia, struggles with pride and remorse after family reverses and illness/death, and ultimately faces moral choices about love, duty and consolation."
+        },
+        {
+            "name": "Elizabeth Le Marchant",
+            "profile": "A small, impulsive, emotionally mutable woman with a hidden past whose charm and fragility drive much of the plot. She elopes young, bears the social consequences, and later becomes the object of sympathy and eventual devotion, her secret shaping several characters' fates."
+        },
+        {
+            "name": "Amelia Wilson",
+            "profile": "Practical, patient and devoted fiancée to Burgoyne, she endures long engagement, family trials and the loss of expected fortune. She is the moral and emotional center of Part I: loving, uncomplaining, she falls ill in Italy and dies, a death that profoundly affects Burgoyne and others."
+        },
+        {
+            "name": "Willy (Byng)",
+            "profile": "A young, ardent, impulsive friend (undergraduate type) whose passionate love for Elizabeth leads to extremes of devotion and despair. His intensity produces crises (fainting, hysteria, recovery) that catalyze key events and reveal tensions in social and moral expectations."
+        }
+    ]
+}

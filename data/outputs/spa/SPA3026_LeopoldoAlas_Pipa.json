@@ -1,0 +1,51 @@
+{
+    "dcterms:title": "Pipá : edición ELTeC",
+    "dcterms:creator": "Alas, Leopoldo [Clarín] (1852-1901)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Relato centrado en Pipá, un niño pillo de doce años que vive en la miseria y se gana la vida entre bromas, hurtos y travesuras carnavalescas. Tras disfrazarse de difunto y burlar la policía y la moral religiosa, entra en la casa de una marquesa donde recibe afecto y comida, pero renuncia a esa protección para volver a su barrio y a su grupo de amigos. Las fiestas de la tralla terminan en un incendio y en la tragedia: Pipá muere carbonizado y su funeral evidencia la indiferencia y la crueldad social. La obra combina humor grotesco y sátira social para mostrar la explotación, la infancia desamparada y la hipocresía de la sociedad española del siglo XIX.",
+    "dcat:keyword": [
+        "pobreza",
+        "marginalidad",
+        "carnaval",
+        "infancia",
+        "crítica social"
+    ],
+    "dcat:theme": [
+        "Pobreza y marginación",
+        "Crítica social",
+        "Infancia y abandono",
+        "Carnaval y transgresión"
+    ],
+    "dct:spatial": [
+        "España (ciudad provincial — probable Oviedo)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1890"
+            }
+        }
+    },
+    "dct:type": "Novela realista o naturalista",
+    "mainCharacters": [
+        {
+            "name": "Pipá",
+            "profile": "Niño de doce años, pícara y callejero, protagonista del relato. Ingenioso, provocador y a la vez vulnerable, encarna la infancia desamparada y la resistencia irónica frente a la autoridad y la hipocresía social; su disfraz de difunto impulsa la trama y culmina en su trágica muerte."
+        },
+        {
+            "name": "Irene (la \"mona del Palacio\")",
+            "profile": "Niña de aproximadamente cuatro años, hija de la marquesa de Híjar, de gran fantasía e imaginación. Su fascinación por Pipá y su inocente afecto representan la ternura y la posibilidad de protección que el protagonista experimenta brevemente."
+        },
+        {
+            "name": "Julia, marquesa viuda de Híjar",
+            "profile": "Madre de Irene y mujer solitaria y compasiva que acoge a Pipá durante la noche del carnaval. Su bondad y relatos infantiles ofrecen a Pipá un oasis de calor y afecto que contrasta con su vida habitual en la calle."
+        },
+        {
+            "name": "Celedonio",
+            "profile": "Monaguillo y antagonista local, representante de la autoridad clerical y del orden social pequeño-burgués. Soplón y perseguidor de Pipá, simboliza la colaboración entre instituciones (Iglesia/Estado) y la represión moral hacia los marginales."
+        }
+    ]
+}

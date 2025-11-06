@@ -1,0 +1,61 @@
+{
+    "dcterms:title": "Mistress and Maid : ELTeC edition",
+    "dcterms:creator": "Craik, Dinah Maria (1826-1887)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A domestic realist novel set in mid‑19th‑century England following the lives of the three Misses Leaf — gentle, long‑suffering Johanna, fretful Selina, and intellectually gifted Hilary — after they take into their household a rough but honest servant, Elizabeth Hand. The book traces household struggles: poverty, the moral failures and flight of their nephew Ascott, Selina's ill‑fated marriage and death, Hilary's self‑sacrifice and eventual marriage to Robert Lyon, and Elizabeth's development from a coarse country girl into a faithful, maternal servant. Themes of duty, social class, female labor, sacrifice, and the redemptive effects of kindness recur as characters confront temptation, debt, and loss. The plot interweaves courtship and moral tests (Hilary and Robert, Elizabeth and Tom Cliffe) against a realistic portrait of provincial and London life.",
+    "dcat:keyword": [
+        "domestic life",
+        "servitude",
+        "poverty",
+        "love and sacrifice",
+        "Victorian England"
+    ],
+    "dcat:theme": [
+        "Domestic realism",
+        "Social novel",
+        "Female labour and household",
+        "Moral redemption"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/11919979",
+        "Stowbury (fictional English provincial town)",
+        "London (Russell Square, Richmond)"
+    ],
+    "dct:temporal": [
+        {
+            "dcterms:PeriodOfTime": {
+                "dcterms:start": {
+                    "xsd:gYear": "1835"
+                },
+                "dcterms:end": {
+                    "xsd:gYear": "1845"
+                }
+            }
+        }
+    ],
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Hilary Leaf",
+            "profile": "The youngest Miss Leaf (about twenty) is clever, energetic and morally resolute; she becomes the emotional centre of the household. A gifted teacher and the story's heroine, she balances duty to her infirm elder sister with her own quietly passionate love for Robert Lyon and ultimately sacrifices personal comfort for family obligations before marrying him."
+        },
+        {
+            "name": "Elizabeth Hand",
+            "profile": "A rough, plain country girl taken on as servant who develops into a loyal, capable, and morally upright woman. Elizabeth's arc traces education, self‑improvement, maternal devotion (to baby Henry), and painful personal loss (Tom Cliffe), making her both a site of social sympathy and domestic dignity."
+        },
+        {
+            "name": "Johanna Leaf",
+            "profile": "The eldest sister, gentle, devout and long‑suffering, she has cared for Hilary since childhood and embodies patient constancy. Her frail health and dependency shape many of Hilary's choices; she offers the household's moral anchor and quiet counsel."
+        },
+        {
+            "name": "Robert Lyon",
+            "profile": "A reserved, industrious Scotsman and teacher who becomes Hilary's suitor and later husband; principled, duty‑minded and dependable. He serves as the novel's moral and social foil — ambitious enough to work abroad for advancement yet steadfast in honour — and his return alters the family's fortunes."
+        }
+    ]
+}

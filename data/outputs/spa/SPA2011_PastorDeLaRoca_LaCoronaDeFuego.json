@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "La corona de fuego o Los subterraneos de las torres de Altamira : Edición ELTeC",
+    "dcterms:creator": "Pastor de la Roca, José (1824-1875)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Novela ambientada en la España del siglo XI que entrelaza intriga política, pasiones y venganza durante la Reconquista. La trama sigue la usurpación del condado de Altamira, la captura y el encarcelamiento de Veremundo Moscoso y los esfuerzos de su hijo Gonzalo (alias «Lucifer») por rescatar a su familia. Aparecen conspiraciones religiosas y raciales (Betsabé), amor ilícito (Constanza) y un plan siniestro que desemboca en inundaciones, incendios y destrucción. La acción culmina en un juicio real y en duras reparaciones públicas, mientras el protagonismo moral se reparte entre justicia, remordimiento y sacrificio.",
+    "dcat:keyword": [
+        "Reconquista",
+        "Conspiración",
+        "Venganza",
+        "Prisión",
+        "Amor prohibido"
+    ],
+    "dcat:theme": [
+        "Ficción histórica",
+        "Intriga política y religiosa",
+        "Amor y pasiones trágicas"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2510769"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1053"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1088"
+            }
+        }
+    },
+    "dct:type": "Novela histórica",
+    "mainCharacters": [
+        {
+            "name": "Veremundo Moscoso",
+            "profile": "Noble hidalgo y legítimo conde de Altamira, víctima de una usurpación familiar y de una intriga que lo conduce al encarcelamiento. Su destino impulsa la acción: es el ausente legitimador del linaje y el motor moral de la venganza que emprende su hijo."
+        },
+        {
+            "name": "Gonzalo Rodrigo (alias \"Lucifer\")",
+            "profile": "Hijo de Veremundo y Hormesinda, criado como proscrito y adoptado a la fuerza por extraños designios; asume el alias \"Lucifer\" y lidera una cuadrilla de aventureros. Valiente, ambivalente y movido por el honor filial, ejecuta la investigación, la acción militar y la venganza que terminan por confrontar a los poderosos."
+        },
+        {
+            "name": "Constanza (de Monforte)",
+            "profile": "Heredera altiva y caprichosa que se casa con el usurpador por razones políticas; es hermosa, contradictoria y fuente de escándalos amorosos. Su relación con el rey y sus actos íntimos alimentan intrigas públicas y privadas, convirtiéndola en figura central del conflicto moral y social."
+        },
+        {
+            "name": "Payo Ataulfo de Moscoso (conde de Altamira)",
+            "profile": "Hermano bastardo de Veremundo y antagonistagente de la usurpación: ambicioso, duro y sin escrúpulos, organiza procedimientos criminales para consolidar su poder. Su conducta marca el núcleo del conflicto: usurpación de bienes, complicidades y decisiones extremas que desembocan en castigos y destrucción."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "dcterms:title": "The Twins: A Domestic Novel : ELTeC edition",
+    "dcterms:creator": "Tupper, Martin Farquhar (1810-1889).",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary\n     History\" (CA16204)",
+    "dcterms:license": "",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Set chiefly in the small English watering-place of Burleigh-Singleton, The Twins recounts the moral and domestic conflicts of two very unlike twin brothers, Charles and Julian Tracy, who both fall in love with their father's ward, Emily Warren. Jealousy, vice, and secrecy drive Julian to attempt fratricide and later suicide, while Charles survives, voyages to India to clear up Emily's obscure origins, and returns with proof that she is Amy Stuart. The narrative exposes themes of parental neglect, colonial entanglements, and the redemptive power of love and religion, culminating in reconciliation and a lawful marriage. The story mixes melodrama, social critique, and sentimental domesticity to teach moral lessons about duty, secresy, and the consequences of sin.",
+    "dcat:keyword": [
+        "domestic life",
+        "romance",
+        "fratricide",
+        "colonial India",
+        "identity"
+    ],
+    "dcat:theme": [
+        "Domestic fiction",
+        "Romance",
+        "Moral didacticism",
+        "Colonial/imperial encounters"
+    ],
+    "dct:spatial": [
+        "England (southern coast, fictional Burleigh-Singleton)",
+        "India (Madras and Puttymuddyfudgepoor)",
+        "https://www.geonames.org/2648453"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1842"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1843"
+            }
+        }
+    },
+    "dct:type": "Sentimental novel (https://en.wikipedia.org/wiki/Sentimental_novel, https://en.wikipedia.org/wiki/Romance_novel)",
+    "mainCharacters": [
+        {
+            "name": "Charles Tracy",
+            "profile": "The gentle, studious twin; pious, self-sacrificing and morally upright. He survives Julian's attack, undertakes a dangerous journey to India to vindicate Emily's origin, and embodies the novel's moral and redemptive center."
+        },
+        {
+            "name": "Julian Tracy",
+            "profile": "The violent, impulsive elder twin given to jealousy, vice, and selfishness. His jealous rivalry over Emily escalates to attempted murder and later suicide, making him the novel's tragic antagonist whose actions drive much of the plot's catastrophe."
+        },
+        {
+            "name": "Emily Warren (Amy Stuart)",
+            "profile": "A beautiful, kind-hearted young woman raised in India and taken into General Tracy's household; humble, charitable and morally steadfast. Her mysterious birth and identity form the central plot question, and her revealed lineage ultimately enables a moral and social resolution."
+        },
+        {
+            "name": "General J. G. J. Tracy",
+            "profile": "An East India Company officer and Emily's guardian, taciturn and morally flawed by past secrecy. His return from India and later penitence, disclosure, and paternal love shape the family's reconciliation and the novel's moral teaching."
+        }
+    ]
+}

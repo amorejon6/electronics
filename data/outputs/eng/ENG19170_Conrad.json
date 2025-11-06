@@ -1,0 +1,58 @@
+{
+    "dcterms:title": "The shadow-line: ELTec edition : ELTeC edition",
+    "dcterms:creator": "Conrad, Joseph (1857-1924)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young seaman rashly leaves his berth and, by a chain of chance and the intervention of port authorities, is unexpectedly appointed captain of a sailing ship in the East. He must take command in the Gulf of Siam and confronts delays, an ailing crew struck by tropical fever, and the unsettling legacy of his predecessor’s mysterious death. Isolated at sea amid calms and capricious winds, he faces moral tests, practical crises and moments of psychological terror that force him to grow into his responsibility. The narrative blends maritime realism with a brooding, sometimes uncanny atmosphere as the narrator crosses the figurative \"shadow-line\" into maturity.",
+    "dcat:keyword": [
+        "coming of age",
+        "maritime",
+        "leadership",
+        "tropical disease",
+        "isolation"
+    ],
+    "dcat:theme": [
+        "Coming of age / initiation",
+        "Man versus nature",
+        "Isolation and moral responsibility"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/9962073",
+        "https://www.geonames.org/1609350",
+        "https://www.geonames.org/1636682"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1890"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1915"
+            }
+        }
+    },
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Narrator (the young captain)",
+            "profile": "A recently appointed, unnamed young seaman who impulsively left his previous berth and is thrust into his first command. He is introspective and inexperienced but gradually discovers his professional and moral resources while bearing responsibility for ship and crew."
+        },
+        {
+            "name": "Mr. Burns",
+            "profile": "The chief mate: a pugnacious, taciturn seaman with a conspicuous red moustache who becomes gravely ill early in the voyage. He knows the ship’s recent history intimately, harbors bitter memories of the late captain, and oscillates between delirium and moments of gritty, decisive seamanship."
+        },
+        {
+            "name": "Ransome",
+            "profile": "The ship’s cook and the most steadfast, competent crewman: quietly competent, self-sacrificing and emotionally restrained. He maintains practical steadiness through crisis, tending the sick and supporting the narrator with calm competence despite his own concealed health anxieties."
+        },
+        {
+            "name": "Captain Giles",
+            "profile": "An older, benevolent, somewhat complacent local veteran who discerns the narrator’s potential and nudges events that lead to his appointment. He functions as a kindly mentor figure whose worldly sagacity and small interventions have profound consequences for the narrator’s fate."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "The man who was Thursday : ELTeC edition",
+    "dcterms:creator": "Chesterton, Gilbert Keith (1874-1936)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "A young poet‑detective, Gabriel Syme, infiltrates a secret anarchist council and is elected to the post of Thursday, triggering a series of surreal chases and revealing encounters. The narrative alternates comic episodes of disguise and exposure with a darker, allegorical pursuit of the enigmatic President \"Sunday,\" who seems to embody both charm and menace. Through battles, duels, and masquerades the novel probes questions of identity, duty, and the paradoxical relationship between order and rebellion. The plot culminates in a philosophical confrontation about fear, sacrifice and the nature of good and evil.",
+    "dcat:keyword": [
+        "anarchism",
+        "identity",
+        "detective",
+        "satire",
+        "allegory"
+    ],
+    "dcat:theme": [
+        "Political satire",
+        "Philosophical allegory",
+        "Detective fiction"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "France (Calais and surrounding)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1900"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1910"
+            }
+        }
+    },
+    "dct:type": "Mystery novel",
+    "mainCharacters": [
+        {
+            "name": "Gabriel Syme",
+            "profile": "A cultivated, fastidious poet who is secretly a detective; he joins the anarchist council to expose and frustrate plots. Syme is principled and paradoxical — witty and urbane yet driven by a moral urgency to confront fear and disorder. His dual role as artist and agent propels the novel's action and its ethical reflections."
+        },
+        {
+            "name": "Sunday (the President)",
+            "profile": "A vast, charismatic and ambiguous leader of the anarchists who alternately attracts and terrifies others. He functions as the novel's central enigma — both genial host and inscrutable antagonist — embodying the book's tension between creation and destruction. His presence catalyses the philosophical crises and the climactic confrontations."
+        },
+        {
+            "name": "Lucian Gregory",
+            "profile": "A red‑haired aesthete and theatrical anarchist who first recruits Syme into the movement; he is impulsive, melodramatic and ideologically extravagant. Gregory personifies the romantic, destructive impulse that the plot both satirises and humanises. His quarrels with Syme and his public breakdowns dramatise the novel’s themes of sincerity and hypocrisy."
+        },
+        {
+            "name": "Professor de Worms (Wilks)",
+            "profile": "An actor posing as the paralytic nihilist Professor de Worms who turns out to be an undercover policeman named Wilks. Resourceful, witty and pragmatic, he helps Syme navigate the conspirators and supplies crucial intelligence and companionship. His comic impersonation and his alliance with Syme highlight the novel’s play with masks and roles."
+        }
+    ]
+}

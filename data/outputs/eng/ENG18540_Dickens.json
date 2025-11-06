@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Hard Times: For These Times : ELTeC edition",
+    "dcterms:creator": "Dickens, Charles (1812-1870)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/en.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Hard Times follows the lives of inhabitants of the industrial town of Coketown, where Thomas Gradgrind’s doctrine of facts and utility shapes family life and education. The novel charts the harm produced by rigid utilitarian schooling (notably on Louisa and Tom Gradgrind) and contrasts it with the humane, imaginative world represented by Sissy Jupe and the circus. Social injustice and class tensions appear in Stephen Blackpool’s struggles as an exploited worker, complicated by a bank robbery and mistaken suspicions. Interpersonal failures, a secret love affair and moral reckonings lead characters to remorse, practical reconciliations and a critique of industrial Victorian values.",
+    "dcat:keyword": [
+        "Utilitarianism",
+        "Industrialization",
+        "Education",
+        "Class conflict",
+        "Morality"
+    ],
+    "dcat:theme": [
+        "Social criticism",
+        "Victorian realism",
+        "Industrial society and labour",
+        "Education and moral philosophy"
+    ],
+    "dct:spatial": [
+        "Coketown (fictional industrial town, England)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1840"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1860"
+            }
+        }
+    },
+    "dct:type": "Victorian realist or naturalist novel",
+    "mainCharacters": [
+        {
+            "name": "Thomas Gradgrind",
+            "profile": "A stern, fact-obsessed industrialist and school reformer who believes reason and statistics should govern life. As father and MP he imposes a utilitarian pedagogy on his children and pupils, and later faces remorse when its human costs become evident."
+        },
+        {
+            "name": "Louisa Bounderby (née Gradgrind)",
+            "profile": "Gradgrind’s eldest daughter, brought up on strict rational principles and married to the boastful Josiah Bounderby. Quiet, reserved and inwardly conflicted, she struggles with emotional starvation and a crisis of conscience after an affair and its consequences."
+        },
+        {
+            "name": "Cecilia 'Sissy' Jupe",
+            "profile": "A compassionate, imaginative young woman from a circus background taken into the Gradgrind household. Gentle and loyal, Sissy embodies sympathy and emotional intelligence, acting as a moral and practical anchor for Louisa and others."
+        },
+        {
+            "name": "Stephen Blackpool",
+            "profile": "A hardworking, honest factory operative in Coketown who endures poverty, a ruined marriage and social ostracism. Wrongly implicated in a bank robbery, his plight exposes the cruelty of industrial society and elicits the novel’s strongest expressions of pity and ethical reflection."
+        }
+    ]
+}

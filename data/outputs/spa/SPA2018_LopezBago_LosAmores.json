@@ -1,0 +1,51 @@
+{
+    "dcterms:title": "Los amores : edición ELTEC",
+    "dcterms:creator": "López Bago, Eduardo (1853-1931)",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "dct:description": "Novela centrada en Julio Suárez, un joven provinciano que llega a la alta sociedad madrileña y vive su primer gran amor con Purificación (Pura). La obra narra los rumores de salón, los celos y las intrigas que rodean a la Marquesa viuda del Río, a Cárlos Caballero y a la Condesa de Fuente-Hermosa, cuyo adulterio y venganzas desencadenan tragedias. Pura muere joven y la desesperación de Julio lo lleva a una espiral de pasión, manipulación y violencia que termina con muertes y confesiones. Al final el dolor y el sacrificio reordenan las relaciones: la Marquesa y Julio encuentran consuelo mutuo y cierran la historia entre amor y redención.",
+    "dcat:keyword": [
+        "amor",
+        "celos",
+        "honor",
+        "sociedad madrileña",
+        "muerte"
+    ],
+    "dcat:theme": [
+        "Amor y pasión",
+        "Honor y escándalo social",
+        "Novela de costumbres / social"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2510911"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1870"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1879"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Julio Suárez",
+            "profile": "Joven provinciano, huérfano y sentimental, protagonista que vive su primer gran amor con Purificación. Su ingenuidad y pasión lo hacen víctima de los rumores y de las intrigas sociales; la muerte de Pura provoca en él una desesperada sucesión de actos que marcan el desarrollo de la trama."
+        },
+        {
+            "name": "Purificación (Pura)",
+            "profile": "Adolescente pura y adorada por Julio, sobrina de la Marquesa; representa la inocencia y el primer amor. Su enfermedad y muerte (tisis) son el motor trágico que desencadena el duelo, las intrigas y las consiguientes transformaciones en los demás personajes."
+        },
+        {
+            "name": "Doña María de Silva y Bermúdez (Marquesa viuda del Río)",
+            "profile": "Viuda aristócrata, protectora de Pura y figura central de la alta sociedad; amiga y confidente. Su relación ambigua con Julio y su disposición al sacrificio y al retiro marcan la dimensión moral de la novela y conducen al desenlace redentor."
+        },
+        {
+            "name": "Cárlos Caballero",
+            "profile": "Hombre de mundo, amigo complejo de Julio: elegante, ambivalente y estratega social que interviene activamente en la trama. Alterna lealtad, orgullo y celos; sus acciones —tanto protectoras como manipuladoras— precipitan revelaciones y tragedias que determinan el destino de varios personajes."
+        }
+    ]
+}

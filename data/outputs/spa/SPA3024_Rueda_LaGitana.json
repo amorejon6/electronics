@@ -1,0 +1,56 @@
+{
+    "dcterms:title": "La gitana : edición ELTeC",
+    "dcterms:creator": "Rueda, Salvador (1857-1933)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "Ambientada en un cortijo de la sierra andaluza, la novela narra la llegada de un narrador madrileño a casa de Don Leopoldo y la presencia de Mercedes, una joven trianera de gran belleza y firme virtud, objeto de múltiples pretendientes. Mercedes resiste las galanteadas y, tras ser objeto de burlas y proposiciones, urde una inteligente venganza: citas concertadas que acaban en emboscadas cómicas para enseñar a los pretendientes su lugar. Paralelamente se desarrolla el amor honesto entre Mercedes y Francisco «Jaraga», cazador y novio fiel, cuya fidelidad y dignidad se ponen a prueba. La obra mezcla costumbrismo andaluz, humor picaresco y una celebración final del matrimonio y de las tradiciones rurales.",
+    "dcat:keyword": [
+        "cortejo",
+        "costumbrismo andaluz",
+        "virtud y honor",
+        "broma social",
+        "novela regional"
+    ],
+    "dcat:theme": [
+        "Amor y cortejo",
+        "Costumbrismo rural / Andalucía",
+        "Honor, reputación y virtud"
+    ],
+    "dct:spatial": [
+        "Andalucía (Sierra y alrededores de Sevilla/Triana), España"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1891"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1892"
+            }
+        }
+    },
+    "dct:type": "Novela de costumbres",
+    "mainCharacters": [
+        {
+            "name": "Mercedes (la gitana, la trianera)",
+            "profile": "Mujer hermosa, altiva y de gran carácter, criada en Triana y descendiente de gitanos; representa la virtud orgullosa y el ingenio popular. Es el centro de atención de los cazadores y la artífice de la trama que desenmascara a los pretendientes, demostrando orgullo, dignidad y generosidad al final."
+        },
+        {
+            "name": "Francisco 'Jaraga'",
+            "profile": "Joven cazador del cortijo, rudo en apariencia pero romántico y profundamente leal; guarda en secreto una sensibilidad idealista que sólo Mercedes llega a comprender. Su celos y su valentía se ponen a prueba cuando esconde la verdad para proteger su honor y al final se casa con Mercedes."
+        },
+        {
+            "name": "Don Leopoldo",
+            "profile": "Dueño del cortijo, bonachón y generoso, anfitrión de la partida de cazadores; organiza y facilita la vida social de la finca. Actúa como protector y mediador, imponiéndose para reparar las ofensas y apoyando el matrimonio de Mercedes y Francisco."
+        },
+        {
+            "name": "Narrador (amigo & observador)",
+            "profile": "Narrador en primera persona, visitante venido de Madrid y amigo de Don Leopoldo; sirve de testigo de las escenas y aporta observaciones literarias y costumbristas. Su perspectiva combina el asombro urbano con la sensibilidad hacia la naturaleza y las costumbres andaluzas."
+        }
+    ]
+}

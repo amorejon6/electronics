@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "Ricardo : Edición ELTeC",
+    "dcterms:creator": "Castelar y Ripoll, Emilio (1832-1899)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "dcterms:language": "https://id.loc.gov/vocabulary/iso639-1/es.html",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "La novela narra la vida de Ricardo, un joven caritativo y médico que actúa en el Madrid convulsionado de 1866 entre revoluciones y epidemias; su entrega social convive con un amor apasionado por Elena, joven hermosa y adopta de una familia acaudalada. El afecto entre Ricardo y Elena choca con un secreto familiar: la madre de Ricardo, Carolina, porta una culpa antigua y una hija arrebatada que resulta ser Elena, lo que hace imposible la unión. La tensión entre deber filial, honor y pasión conduce a decisiones extremas, fugas frustradas y sacrificios personales. El desenlace es trágico: la revelación y la renuncia provocan muertes, locura y la dispersión de las familias, dejando una reflexión sobre culpa, caridad y los costes humanos de las pasiones.",
+    "dcat:keyword": [
+        "amor trágico",
+        "revolución",
+        "caridad",
+        "culpa",
+        "Madrid (siglo XIX)"
+    ],
+    "dcat:theme": [
+        "Amor trágico",
+        "Novela social (conflicto político y revolución)",
+        "Culpa, honor y redención"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/3117735",
+        "https://www.geonames.org/2988507"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1866"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1866"
+            }
+        }
+    },
+    "dct:type": "Novela social",
+    "mainCharacters": [
+        {
+            "name": "Ricardo",
+            "profile": "Joven médico de fuerte temperamento y entrega caritativa, actúa como enfermero y socorrista durante la revolución de Madrid (22 de junio de 1866). Es idealista y generoso, pero también apasionado: se enamora de Elena y su conflicto entre amor y deber filial acaba por conducirle al sacrificio y a una muerte trágica."
+        },
+        {
+            "name": "Elena",
+            "profile": "Joven hermosa, adoptada por los condes de la Floresta, de origen americano/mexicano, inocente y culta; objeto del amor de Ricardo y de Jaime. Su unión con Ricardo se vuelve imposible por un secreto familiar; finalmente acepta casarse con Jaime y su vida queda marcada por la pérdida y la resignación."
+        },
+        {
+            "name": "Carolina",
+            "profile": "Madre de Ricardo, viuda de pasado trágico y cargada de remordimientos: su culpa antigua (un amor ilícito y la pérdida/rapto de una hija) condiciona todas las acciones posteriores. Sensible y devota, su descubrimiento y su negativa a bendecir el matrimonio desencadenan la cadena de tragedias, terminando en locura."
+        },
+        {
+            "name": "Jaime García",
+            "profile": "Amigo y camarada de Ricardo, joven político y entregado a la causa, valiente y exaltado por sus convicciones. Se enamora de Elena; aunque amante generoso y dispuesto, su lealtad a Ricardo y la complejidad del conflicto impiden una declaración inmediata; acabará vinculado a la familia en el desenlace posterior."
+        }
+    ]
+}

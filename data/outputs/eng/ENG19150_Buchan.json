@@ -1,0 +1,57 @@
+{
+    "dcterms:title": "The Thirty-nine Steps: ELTeC edition",
+    "dcterms:creator": "Buchan, John (1875-1940)",
+    "dcterms:publisher": "COST Action \"Distant Reading for European Literary History\" (CA16204)",
+    "dcterms:identifier": "https://doi.org/10.5281/zenodo.3462435",
+    "prov:qualifiedAttribution": {
+        "prov:agent": "https://zenodo.org/communities/eltec/",
+        "dcat:hadRole": "distributor"
+    },
+    "dct:description": "An ordinary Englishman, Richard Hannay, becomes embroiled in an international spy conspiracy after a frightened American, Franklin P. Scudder, reveals knowledge of a plot and is murdered in Hannay's flat. Hannay flees across the British countryside, adopting disguises and improvising alliances while decoding Scudder's notes to locate a secret escape point used by enemy agents. With the aid of Sir Walter Bullivant and British authorities he uncovers a clandestine network (the 'Black Stone') intent on stealing naval dispositions just before a European war. The novel follows Hannay's resourceful flight, detection of the conspirators, and the prelude to the larger conflict that erupts weeks later.",
+    "dcat:keyword": [
+        "espionage",
+        "man-on-the-run",
+        "pre-war conspiracy",
+        "disguise",
+        "coastal escape"
+    ],
+    "dcat:theme": [
+        "Espionage",
+        "Adventure",
+        "Thriller"
+    ],
+    "dct:spatial": [
+        "https://www.geonames.org/2643743",
+        "https://www.geonames.org/2650797",
+        "East Coast of England — Kent coast / The Ruff (United Kingdom)"
+    ],
+    "dct:temporal": {
+        "dcterms:PeriodOfTime": {
+            "dcterms:start": {
+                "xsd:gYear": "1912"
+            },
+            "dcterms:end": {
+                "xsd:gYear": "1914"
+            }
+        }
+    },
+    "dct:type": "Adventure novel",
+    "mainCharacters": [
+        {
+            "name": "Richard Hannay",
+            "profile": "Narrator and protagonist — a resourceful former colonial mining engineer who is drawn into espionage after Scudder's death. Brave, practical and adaptable, he adopts disguises and uses rural craft and quick wits to track conspirators and avert a national disaster."
+        },
+        {
+            "name": "Franklin P. Scudder",
+            "profile": "An American investigator and war correspondent who uncovers a dangerous international plot and confides his discoveries to Hannay. Nervous, brave and sacrificial, his murder triggers the chase and provides the cryptic clues Hannay must decipher."
+        },
+        {
+            "name": "Sir Walter Bullivant",
+            "profile": "A high-ranking British government official (Permanent Secretary figure) who believes Hannay and marshals official resources. Pragmatic, trustworthy and connected, he coordinates the intelligence response and legitimizes Hannay's claims to the Admiralty and War Office."
+        },
+        {
+            "name": "Mr. Appleton (the bald archaeologist / 'old man')",
+            "profile": "A seemingly respectable, bald, scholarly-looking gentleman who is revealed as the cold, calculating head of the enemy spy ring (the Black Stone) in Britain. Calm, intelligent and ruthless, he masterminds clandestine operations and embodies the novel's principal antagonist."
+        }
+    ]
+}
