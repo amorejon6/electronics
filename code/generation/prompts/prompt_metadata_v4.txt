@@ -1,0 +1,33 @@
+### Instruction:
+Act as a literary metadata extraction expert following the Dublin Core (dct:) and DCAT (dcat:) ontologies.
+
+You will receive the content of the novel structured in TEI format as input.
+
+You must analyze the text and produce a set of metadata in JSON format.
+
+### Output schema (strictly follow this):
+{{
+  "dct:description": "Summary of the novel content (max. 4-5 sentences).",
+  "dcat:keyword": "A list of relevant keywords that describe central aspects of the text (max. 5 keywords).",
+  "dcat:theme": "The main theme or literary categories that fit the novel content. If there is more than one main theme, write them in list form. Remember that dcat:theme is not the same as dct:type.",
+  "dct:spatial": "Geographic location where the action takes place (if inferable). If there is more than one geographic location, write them in list form.",
+  "dct:temporal": "Historical time or period in which the action takes place (if inferable). Follow the standard dcterms:temporal format, the value or values for this field must be a dcterms:PeriodOfTime structure, indicating the start and end year with the xsd:gYear property. If there is more than one historical time, provide them as a list of dcterms:PeriodOfTime structures. If you detect that any time period is fictitious, describe it in plain text.",
+  "dct:type": "Type of novel, selecting from the following list (also add the relevant English Wikipedia link): ['Sentimental novel' (https://en.wikipedia.org/wiki/Sentimental_novel, https://en.wikipedia.org/wiki/Romance_novel), 'Gothic or horror novel' (https://en.wikipedia.org/wiki/Gothic_fiction), 'Mystery novel' (https://en.wikipedia.org/wiki/Mystery_fiction), 'Historic novel' (https://en.wikipedia.org/wiki/Historical_fiction), 'Victorian realist or naturalist novel' (https://en.wikipedia.org/wiki/Victorian_literature, https://en.wikipedia.org/wiki/Prose_fiction), 'Novel of manners' (https://en.wikipedia.org/wiki/Novel_of_manners), 'Adventure novel' (https://en.wikipedia.org/wiki/Adventure_fiction), 'Science fiction' (https://en.wikipedia.org/wiki/Science_fiction), 'Social novel' (https://en.wikipedia.org/wiki/Social_novel), 'Erotic novel' (https://en.wikipedia.org/wiki/Erotic_fiction)]. Do not add this link to the metadata; it is only for your additional information.",
+  "mainCharacters": [
+    {{
+      "name": "Character name. ",
+      "profile": "Brief profile (2-3 sentences) describing traits, role, and relevance."
+    }}
+    // Include 3-4 main characters if possible.
+    ]
+}}
+
+### Additional Instructions:
+- Metadata must be generated in the same language as the text of the input novel. Remember to translate "dct:type" if necessary.
+- If a metadata element cannot be inferred, write "Not identified".
+- The result must be only a JSON block, with no additional explanations.
+- Use quotation marks for strings and JSON list format for fields that require it.
+
+### Input text novel: {xml_novel}
+
+### Output (JSON-RDF):
